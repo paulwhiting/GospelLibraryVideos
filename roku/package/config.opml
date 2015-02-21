@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+<categories
+	backgroundColor="#444444"
+	leftBreadcrumbColor="#00EE00"
+	rightBreadcrumbColor="#0000EE"
+	posterScreenTitleColor="#EEEE00"
+	posterScreenSubtitleColor="#00EE00"
+	posterScreenSynopsisColor="#EEEEEE"
+	springboardScreenTitleColor="#00EE00"
+	springboardScreenSynopsisColor="#EEEEEE"
+	springboardScreenActorColor="#EEEE00"
+	springboardScreenDirectorColor="#EEEE00"
+	springboardScreenDateColor="#EEEE00">
+	<category title="LDS Media Library (downloaded)" subtitle="" url="ext1:/medialibrary_downloaded.xml" showAsList="0" showAsPortrait="0" />
+	<category title="LDS Media Library (online)" subtitle="" url="pkg:/xml/medialibrary.xml" showAsList="1" showAsPortrait="0" />
+	<category title="LDS Gospel Library (online - low quality test)" subtitle="" url="" showAsList="1" showAsPortrait="1" >
+        <category title="English" subtitle="" url="pkg:/xml/lang_1.xml" />
+        <category title="Spanish" subtitle="" url="pkg:/xml/lang_2.xml" />
+        <category title="French" subtitle="" url="pkg:/xml/lang_7.xml" />
+        <category title="Other Languages" subtitle="" url="pkg:/xml/lang_0.xml" />
+    </category>
+	<!--<category title="Glancy USBVideoManager (online)" subtitle="" url="http://glancyfamily.net/ldsml/lds-media-library-source.xml" showAsList="1" showAsPortrait="0" />-->
+</categories>
+</opml>

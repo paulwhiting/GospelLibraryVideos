@@ -816,7 +816,6 @@ def download_subtitles( url )
 end
 
 
-
 class MediaLibraryEntry
     attr_accessor :name
     attr_accessor :id
@@ -827,13 +826,12 @@ class MediaLibraryEntry
 
     # Media gallery stuff
     MEDIA_LIBRARY_URL  = "https://www.lds.org/media-library/video/categories"
-    MEDIA_LIBRARY_FILE = CONTENT_DIR_PREFIX + "media_library.html"
 
     def initialize( params )
         @title = params[:title]
         @url = params[:url]
         @img = params[:img]
-        @img = "" if not @img
+        @img = "" if @img == nil
         @img.gsub!("https","http")
         @video_count = 0
         @entries = []
@@ -974,7 +972,7 @@ class MediaLibraryEntry
         return "" if @video_count == 0
         return "" if @smallest_size == 0
 
-        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}' img='#{@thumbnail}'>"
+        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}' img='#{@img}'>"
         @entries.each do |item|
             str += item.to_xml
         end
@@ -1207,6 +1205,6 @@ elsif ARGV[0] == 'glancy_update'
     PARSE_MODE = :UPDATE
     do_glancy_update
 else
-    print_usage
+    printUsage
 end
 
