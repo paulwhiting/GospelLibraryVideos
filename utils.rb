@@ -1,6 +1,8 @@
 # encoding: utf-8
 require 'open-uri'
-#require 'net/https'
+
+# for https stuff
+require 'net/https'
 require 'openssl'
 
 $failed_URLs = Hash.new(0)
@@ -38,6 +40,7 @@ def OpenURL(url,filename,bRetry=true)
     if not File.exists?(filename)
         #puts "Downloading #{filename} from #{url}"
         begin
+            #data = open(url,"rb").read
             data = open(url,"rb", ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE).read
             WriteToFile(filename,data)
         rescue => e

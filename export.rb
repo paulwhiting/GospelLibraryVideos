@@ -19,7 +19,7 @@ def do_roku_export
     # phase 1 - remove all dead videos and update URL to Roku
     contents = xml.css("content")
 
-    print "Detecting #{contents.count} video links... "
+    print "Detecting #{contents.count} video links..."
     count = 0
     contents.each do |content|
         count += 1
@@ -70,7 +70,7 @@ def do_roku_export
 
     # phase 3 - remove all empty categories and update Video counts
     filename = "medialibrary_downloaded.xml"
-    puts "Updating #{filename}"
+    puts "\n\nUpdating #{filename}"
     categories = xml.css("category")
     categories.each do |category|
         count =  category.css("item").count

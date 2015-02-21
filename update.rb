@@ -607,6 +607,8 @@ def FixURL( params )
     elsif params[:url] == "/pages/mormon-messages/images/voice-of-the-spirit-mormon-message-138x81.jpg"
         PrettyPrintNewline "Fixing Voice of the Spirit URL..."
         return "http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"
+    elsif params[:url].start_with?("https:")
+        return params[:url].gsub("https:","http:")
     end
     return params[:url]
 end
@@ -637,7 +639,7 @@ def NormalizeParams( params )
     params[:summary] = HTMLEntities.new.encode(params[:summary]) if params[:summary] != nil
     params[:desc] = HTMLEntities.new.encode(params[:desc]) if params[:desc] != nil
     params[:quality] = FixQuality( params[:title], params[:quality] ) if params[:quality] != nil
-    params[:url] = FixURL( title: params[:title], url: params[:url], quality: params[:quality] )
+    params[:url] = FixURL( title: params[:title], url: params[:url], quality: params[:quality] ) if params[:url] != nil
     return params
 end
 
