@@ -42,8 +42,12 @@ sub ShowEpisodeScreen(show, leftBread, rightBread)
 				screen.SetFocusedListItem(selectedEpisode)
 				'screen.Show()
 			else if msg.isRemoteKeyPressed()
-        if msg.GetIndex() = 13
-					ShowVideoScreen(content[selectedEpisode])
+                if msg.GetIndex() = 13
+                    if content[selectedEpisode].streamFormat = "mp3"
+                        ShowAudioScreen(content, selectedEpisode, leftBread, "")
+                    else
+                        ShowVideoScreen(content[selectedEpisode])
+                    end if
 				end if
 			end if
 		end if

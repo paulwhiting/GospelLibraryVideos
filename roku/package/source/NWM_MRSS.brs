@@ -128,9 +128,10 @@ function NWM_MRSS_GetEpisodes(limit = 0)
 			
 			if contentItems.Count() > 0
 				for each content in contentItems
-					if ValidStr(content@url) <> ""
+                    url = ValidStr(content@url)
+					if url <> ""
 						newStream = {
-							url:			ValidStr(content@url)
+							url:		url
 							bitrate:	StrToI(ValidStr(content@bitrate))
 						}
 						
@@ -146,6 +147,11 @@ function NWM_MRSS_GetEpisodes(limit = 0)
 							newItem.isHD = true
 						end if
 
+                        ' if we detect an mp3 then set the whole item to be mp3
+                        if LCase (Right (url, 4)) = ".mp3"
+                            newItem.streamFormat = "mp3"
+                            newItem.url = url
+                        end if
 						newItem.streams.push(newStream)
 					end if
 				next

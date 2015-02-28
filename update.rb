@@ -8,7 +8,10 @@ require 'time'          # for Time
 
 OUTPUT_DIR_PREFIX = "medialibrary_output/"
 CONTENT_DIR_PREFIX = "medialibrary_output/content/"
-HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos"
+GLANCY_DIR_PREFIX = "medialibrary_output/rss/"
+ROKU_CHANNEL_DIR_PREFIX = "medialibrary_output/roku/"
+ROKU_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/roku_channel"
+GLANCY_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/rss"
 
 require 'sqlite3'
 # the subdirectory we want to store our content in
@@ -32,31 +35,6 @@ def TreeifyBookEntries(entries,param_id)
     return results
 end
 
-class Video_GospelLibrary
-    attr_accessor :url
-    attr_accessor :title
-    attr_accessor :size
-    attr_accessor :duration
-
-	def initialize( params )
-        title = params[:parent_title]
-
-        if params[:title]
-            title = params[:title]
-            # clean up the title name
-            #title.gsub!(/[“”",.)]*$/,'')
-            #title.gsub!(/^[“”",.)]*/,'')
-            #title = title.chomp('.').chomp(',')
-        end
-
-        @url = params[:url]
-        @title = HTMLEntities.new.encode(title)
-        @size = params[:size]
-        @duration = params[:duration]
-    end
-end
-
-
 def getVideos(url,filename)
     zbook = OpenURL(url,filename)
     filename_sql = filename + '.sql'
@@ -69,10 +47,7 @@ def getVideos(url,filename)
     entries = {}
     dbname = filename_sql
     db = SQLite3::Database.new( dbname )
-    count = 0
-    totalsize = 0
-    videos = {}
-    results = db.execute( "select id,parent_id,title,subtitle,short_title,content from node" )
+    results = db.execute( "select id,parent_id,title,subtitle,short_title,content,uri from node" )
     results.each do |row|
         next if not row
         params = {  id: row[0],
@@ -80,12 +55,69 @@ def getVideos(url,filename)
                     title: row[2],
                     subtitle: row[3],
                     short_title: row[4],
-                    content: row[5] }
+                    content: row[5],
+                    uri: row[6] }
 
         entry = BookEntry.new(params)
 
-        #puts "Processing :: #{params[:id]} - #{params[:parent_id]} - #{params[:title]}"
+        #process the related media table
+        [:mp3, :mp4].each do |format|
+            skipped_video = Hash.new(nil)
+            medias = db.execute( "select size, width, height, name, link from media where uri = :uri and type= :type", uri: params[:uri], type: format.to_s )
+            if medias.count > 0
+                video_title = params[:title]
+                video = Video.new(title: video_title)
+                medias.each do |row|
+                    p2 = {   size: row[0],
+                            width: row[1],
+                            height: row[2],
+                            name: row[3],
+                            link: row[4] }
 
+                    url = p2[:link]
+                    bytes = p2[:size].to_i
+                    duration = ''
+                    quality = p2[:height].to_i
+                    if not [1080,720,480,360].include?( quality )
+                        skipped_video[quality] = bytes if skipped_video[quality] == nil or skipped_video[quality] < bytes
+                        next
+                    end
+                    quality = FixQuality(video_title,quality)
+                    video.add(url: url, quality: quality, size: bytes, duration: duration)
+                    $unique_videos[url] = {quality: quality, size: bytes}
+                end
+                if video.streams.count == 0 and skipped_video.count > 0
+                    # raise "No videos found for #{params[:title]} but we skipped some (#{skipped_video})!"
+                    # instead of throwing an error find the best video to use
+                    best = skipped_video.sort[-1]
+                    best_q = best[0]
+                    best_bytes = best[1]
+                    medias.each {|row|
+                        p2 = {   size: row[0],
+                                width: row[1],
+                                height: row[2],
+                                name: row[3],
+                                link: row[4] }
+
+                        url = p2[:link]
+                        bytes = p2[:size].to_i
+                        duration = ''
+                        quality = p2[:height].to_i
+                        next if quality != best_q and bytes != best_bytes
+                        quality = FixQuality(video_title,quality)
+                        video.add(url: url, quality: quality, size: bytes, duration: duration)
+                        $unique_videos[url] = {quality: quality, size: bytes}
+                    }
+                end
+                if format == :mp3
+                    entry.add_audio(video) # treating audio like video for now
+                else
+                    entry.add_video(video)
+                end
+            end
+        end
+
+        # process the content table
         if params[:content]
             xml = Nokogiri::HTML(params[:content])
             #v = xml.css("div[class=video]")
@@ -98,30 +130,45 @@ def getVideos(url,filename)
                 rescue
                     puts "exception getting parent title!"
                 end
-                if video_title == nil
-                    #puts "title missing!" #  setting to default..."
-                    #video_title = params[:title] 
+                if video_title
+                    params[:title] = video_title
                 end
+                video = Video.new(title: params[:title])
                 src = item.children.css("source[data-container=mp4]")
-                bytes = 0
-                url = ''
-                duration = 0
+                skipped_video = Hash.new(0)
                 src.each {|s|
-                    if s['data-sizeinbytes'].to_i < bytes or bytes == 0
+                    bytes = s['data-sizeinbytes'].to_i
+                    url = s['src']
+                    duration = s['data-durationms'].to_i / 1000
+                    quality = s['data-height'].to_i
+                    if not [1080,720,480,360].include?( quality )
+                        skipped_video[quality] = bytes if skipped_video[quality] < bytes
+                        next
+                    end
+                    quality = FixQuality(params[:title],quality)
+                    video.add(url: url, quality: quality, size: bytes, duration: duration)
+                    $unique_videos[url] = {quality: quality, size: bytes}
+                }
+
+                if video.streams.count == 0 and skipped_video.count > 0
+                    # raise "No videos found for #{params[:title]} but we skipped some (#{skipped_video})!"
+                    # instead of throwing an error find the best video to use
+                    best = skipped_video.sort[-1]
+                    best_q = best[0]
+                    best_bytes = best[1]
+                    src.each {|s|
                         bytes = s['data-sizeinbytes'].to_i
                         url = s['src']
                         duration = s['data-durationms'].to_i / 1000
-                    end
-                }
+                        quality = s['data-height'].to_i
+                        next if quality != best_q and bytes != best_bytes
+                        quality = FixQuality(params[:title],quality)
+                        video.add(url: url, quality: quality, size: bytes, duration: duration)
+                        $unique_videos[url] = {quality: quality, size: bytes}
+                    }
+                end
 
-                #puts "#{video_title} - #{bytes}"
-
-                count += 1
-                totalsize += bytes
-                v = Video_GospelLibrary.new(url: url, parent_title: params[:title], title: video_title, size: bytes, duration: duration)
-                videos[url] = v
-
-                entry.add_video(v)
+                entry.add_video(video)
             }
         end
 
@@ -144,6 +191,7 @@ class CatalogEntry
     attr_accessor :children
     attr_accessor :books
     attr_accessor :video_count
+    attr_accessor :audio_count
 
     def initialize( catalog_id, id, name, cover_art )
         @catalog_id = catalog_id
@@ -157,6 +205,7 @@ class CatalogEntry
         end
         
         @video_count = 0
+        @audio_count = 0
         @url = ""
         @filename = ""
         @books = {}
@@ -175,7 +224,13 @@ class CatalogEntry
     def getBookEntries
         #if @url != "" and @id == 23637 #... for quick testing hungarian
         #if @url != "" and @id == 24825 #... for quick testing english
+        #if @url != "" and @url.include?("Friend") #id == 42769 #... for quick testing english
+        #if @url != "" and @url.include?("scriptures.bofm") #id == 42769 #... for quick testing english
+        #if @url != "" and @url.include?("youth.learn.yw") #id == 42769 #... for quick testing english
         if @url != ""
+            if not @url.include?(".zbook")
+                puts "BAD URL!!!!!  id=#{@id}  name = #{@name}   url=#{@url}"
+            end
             if $book_cache[@url]
                 puts "Cached URL is #{@url}"
                 @books = $book_cache[@url]
@@ -207,6 +262,17 @@ class CatalogEntry
         return @video_count
     end
 
+    def calculateAudioCount
+        @audio_count = 0
+        @children.each do |id,item|   #item is CatalogEntry
+            @audio_count += item.calculateAudioCount
+        end
+        @books.each do |id,item|   #item is BookEntry
+            @audio_count += item.calculateAudioCount
+        end
+        return @audio_count
+    end
+
     def printEntries(indent)
         puts "    "*indent + @name + "(#{url})"
         if @children
@@ -217,7 +283,7 @@ class CatalogEntry
     end
 
     def updateDatabaseXML( db )
-        return if @video_count == 0    # don't do anything if no vids
+        return if @video_count == 0 and @audio_count == 0   # don't do anything if no vids
 
         @children.each do |id,item|    #item is CatalogEntry
             item.updateDatabaseXML( db )
@@ -237,26 +303,42 @@ class CatalogEntry
     end
 
     def to_xml
-        return "" if @video_count == 0
+        return "" if @video_count == 0 and @audio_count == 0
         cover_art = getClosestCoverArt
-        str = "<category title='#{HTMLEntities.new.encode(@name)}' subtitle='Videos: #{@video_count}' url='#{@url != '' ? "#{HOSTING_URL}/langs/#{@catalog_id}/books/#{@id}.xml" : ''}'"
+        str = "<category title='#{HTMLEntities.new.encode(@name)}' subtitle='Videos: #{@video_count}, Audio: #{@audio_count}' url='#{@url != '' ? "#{ROKU_HOSTING_URL}/langs/#{@catalog_id}/books/#{@id}.xml" : ''}'"
         str +=  " img='#{COVER_ART_URL}/#{cover_art}'" if cover_art != ''
         #str += " showAsList='1'"
-        str += ">"
+        str += ">\n"
 
         @children.each do |id,child|
             str += child.to_xml
         end
 
-        return str + "</category>"
+        return str + "</category>\n"
+    end
+
+    def to_glancy( quality )
+        return "" if @video_count == 0 and @audio_count == 0
+        cover_art = getClosestCoverArt
+        xml = "<category name='#{HTMLEntities.new.encode(@name)}'"
+        xml += " thumbnail='#{COVER_ART_URL}/#{cover_art}'" if cover_art != ''
+        xml += ">\n"
+        @children.each do |id,child|
+            xml += child.to_glancy( quality )
+        end
+        @books.each do |id,book|
+            xml += book.to_glancy( quality )
+        end
+
+        return xml + "</category>"
     end
 
     def getClosestCoverArt
-        return @cover_art if @cover_art != '' and (COVERS_SHOW_EMPTY or @video_count > 0)
+        return @cover_art if @cover_art != '' and (COVERS_SHOW_EMPTY or @video_count > 0 or @audio_count > 0)
 
         @children.each do |id,item|    #item is CatalogEntry
             cover = item.getClosestCoverArt
-            return cover if cover != '' and (COVERS_SHOW_EMPTY or item.video_count > 0)
+            return cover if cover != '' and (COVERS_SHOW_EMPTY or item.video_count > 0 or @audio_count > 0)
         end
 
         return ''
@@ -268,6 +350,7 @@ class Language
     attr_accessor :id
     attr_accessor :catalog
     attr_accessor :video_count
+    attr_accessor :audio_count
 
     LANGUAGE_URL  = "http://tech.lds.org/glweb?action=languages.query&format=xml"
     LANGUAGE_FILE = CONTENT_DIR_PREFIX + "languages.xml"
@@ -295,6 +378,7 @@ class Language
         @id = id
         @name = name
         @video_count = 0
+        @audio_count = 0
     end
 
     def parseEntryJson(elements)
@@ -366,11 +450,17 @@ class Language
         end
     end
 
+    def calculateAudioCount
+        @audio_count = 0
+        @catalog.each do |id,item|   #item is CatalogEntry
+            @audio_count += item.calculateAudioCount
+        end
+    end
 
     def updateDatabaseXML( db )
         puts "Updating Language #{@id}"
-        if @video_count == 0
-            puts "No videos!  Skipping #{@name} language :("
+        if @video_count == 0 and @audio_count == 0
+            puts "No videos! No audio!  Skipping #{@name} language :("
             return
         end
         str = "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
@@ -386,17 +476,17 @@ class Language
     end
 
     def to_titlepage_xml
-        return "" if @video_count == 0
+        return "" if @video_count == 0 and @audio_count == 0
         cover = getClosestCoverArt
         cover = " img='#{COVER_ART_URL}/#{cover}'" if cover != ''
         
-        return "<category title='#{HTMLEntities.new.encode(@name)}' url='#{HOSTING_URL}/langs/#{@id}.xml' subtitle='Videos: #{@video_count}'#{cover}/>"
+        return "<category title='#{HTMLEntities.new.encode(@name)}' url='#{ROKU_HOSTING_URL}/langs/#{@id}.xml' subtitle='Videos: #{@video_count}, Audio: #{@audio_count}'#{cover}/>"
     end
 
     def getClosestCoverArt
         @catalog.each do |id,item|  #item is CatalogEntry
             cover = item.getClosestCoverArt
-            return cover if cover != '' and (COVERS_SHOW_EMPTY or item.video_count > 0)
+            return cover if cover != '' and (COVERS_SHOW_EMPTY or item.video_count > 0 or item.audio_count > 0)
         end
 
         return ''
@@ -408,6 +498,28 @@ class Language
             item.printEntries(1)
         end
     end
+
+    def to_glancy_library_xml( quality )
+        if @video_count == 0 and @audio_count == 0
+            puts "No videos!  No audio!  Skipping #{@name} language :("
+            return ''
+        end
+
+        xml = "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>"
+        xml += "<library name=\"LDS Media\"><categories>"
+        $glancy_videos = {}
+        @catalog.each do |id,item|
+            xml += item.to_glancy( quality )
+        end
+
+        xml += "</categories><videos>"
+        $glancy_videos.each do |id,videoarr|
+            xml += Video.to_glancy_video( videoarr[0], videoarr[1] )
+        end
+        
+        return xml + "</videos></library>"
+    end
+
 end
 
 class BookEntry
@@ -417,6 +529,7 @@ class BookEntry
     attr_accessor :videos
     attr_accessor :children
     attr_accessor :video_count
+    attr_accessor :audio_count
 
 	def initialize( params )
         @id = params[:id]
@@ -424,17 +537,17 @@ class BookEntry
 		@title = params[:title]
 		@subtitle = params[:subtitle]
 		@short_title = params[:short_title]
-        @videos = {}
+        @videos = []
+        @audio = []
         @children = []
 	end
 
     def add_video( video )
-        #puts "video.url #{video.url} is added!"
-        if @videos[video.url] != nil
-            #puts "Duplicate video found!"
-        else
-            @videos[video.url] = video
-        end
+        @videos << video
+    end
+
+    def add_audio( audio )
+        @audio << audio
     end
 
     def calculateVideoCount
@@ -444,34 +557,57 @@ class BookEntry
         end
         @video_count += @videos.count
 
-        #puts "#{@video_count} videos!"
         return @video_count
     end
 
+    def calculateAudioCount
+        @audio_count = 0
+        @children.each do |id,item|  # item is BookEntry
+            @audio_count += item.calculateAudioCount
+        end
+        @audio_count += @audio.count
+
+        return @audio_count
+    end
+
     def to_xml
-        return "" if @video_count == 0
-        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}'>"  # showAsList='1'>"
+        return "" if @video_count == 0 and @audio_count == 0
+        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}; Audio: #{@audio_count}'>"  # showAsList='1'>"
         @children.each do |id,item|
             str += item.to_xml
         end
-        if @videos.count > 0
+        if @videos.count > 0 or @audio.count > 0
             str += "<rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description>"
-            @videos.each do |id,video|
-                str += "<item>
-                    <title>#{video.title}</title>
-                    <description>Description: #{video.title}</description>
-                    <content url='#{video.url}'/>
-                    <duration>#{video.duration}</duration>
-                    </item>"
+            @videos.each do |video|
+                str += video.to_xml
+            end
+            @audio.each do |audio|
+                str += audio.to_xml
             end
             str += " </channel> </rss>"
         end
-        return str + "</category>"
+        return str + "</category>\n"
+    end
+
+    def to_glancy( quality )
+        return "" if @video_count == 0
+        xml = "<category name='#{HTMLEntities.new.encode(@title)}' thumbnail='#{@img}'>"
+        @children.each do |id,item|
+            xml += item.to_glancy( quality )
+        end
+        @videos.each do |video|
+            xml += video.to_glancy_videoref( quality )
+        end
+
+        return xml + "</category>\n"
     end
 end
 
 
 def DoUpdateXML( dbname, requested_id )
+    FileUtils::mkdir_p OUTPUT_DIR_PREFIX
+    FileUtils::mkdir_p GLANCY_DIR_PREFIX
+
     langs = Language.getList
     puts "Requested ID = #{requested_id}"
 
@@ -489,12 +625,16 @@ def DoUpdateXML( dbname, requested_id )
     langs.each do |id,language|
         next if requested_id != 0 and requested_id != id
         puts "Processing language id #{id}..."
+        $unique_videos = {}
+        $unique_filenames = Hash.new(0)
         catalog = language.getCatalogEntries
         language.getBookEntries
         language.calculateVideoCount
+        language.calculateAudioCount
 
         language.updateDatabaseXML(db)
         langstr += language.to_titlepage_xml
+        #common_glancy_output( "GL-#{language.name}", language )
     end
     langstr += "</categories>"
 
@@ -525,8 +665,8 @@ def DoExport(dbname, dirname)
 
     rows.each do |row|
         id = row[0]
-        xml = row[1].gsub(/http:\/\/192.168.0.19:3000\/langs\/(\d*?)\.xml/,'pkg:/xml/lang_\1.xml')
-        xml = xml.gsub(/http:\/\/192.168.0.19:3000\/langs\/(\d*)\/books\/(\d*).xml/,'pkg:/xml/lang_\1_book_\2.xml')
+        xml = row[1].gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*?)\.xml/,'pkg:/xml/lang_\1.xml')
+        xml = xml.gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*)\/books\/(\d*).xml/,'pkg:/xml/lang_\1_book_\2.xml')
         f = File.open("#{dirname}/lang_#{id}.xml","wb")
         f.write xml
         f.close
@@ -559,28 +699,34 @@ ROKU_USB_VIDEO_PREFIX = "ext1:/LDS Media"
 ROKU_USB_THUMBNAIL_PREFIX = "ext1:/LDS Media/thumbnails"
 ROKU_USB_SUBTITLES_PREFIX = "ext1:/LDS Media/subtitles"
 
-$unique_videos = {}
-
 def get_filename_from_url( url )
     return '' if url == nil or url == ''
-    return url[(url.rindex('/')+1)..-1]
+    index = url.rindex('/')
+    if index == nil
+        return url
+    end
+    return url[(index+1)..-1]
 end
 
 def durationStrToInt( duration )
     t1 = Time.parse( "2015-01-01 00:00:00" )
 
-    count = duration.count ':'
-    if count == 0 # only seconds? (right format)
-        return duration.to_i
-    elsif count == 1 # mins and seconds
-        t2 = Time.parse( "2015-01-01 00:#{duration}" )
-    elsif count == 2 # hours mins and seconds
-        t2 = Time.parse( "2015-01-01 #{duration}" )
-    else
-        t2 = t1
+    begin
+        count = duration.count ':'
+        if count == 0 # only seconds? (right format)
+            return duration.to_i
+        elsif count == 1 # mins and seconds
+            t2 = Time.parse( "2015-01-01 00:#{duration}" )
+        elsif count == 2 # hours mins and seconds
+            t2 = Time.parse( "2015-01-01 #{duration}" )
+        else
+            t2 = t1
+        end
+        return (t2 - t1).to_i
+    rescue
+        PrettyPrintNewline("ERROR calculating duration from #{duration}")
+        return 0
     end
-
-    return (t2 - t1).to_i
 end
     
 class VideoStream
@@ -596,17 +742,32 @@ class VideoStream
     end
 
     def to_xml
-        "<content url='#{@url}' height='#{@quality}'/>"
+        "<content url='#{@url}' height='#{@quality}'/>\n"
     end
 end
 
 def FixURL( params )
+    params[:title] = '' if params[:title] == nil
     if params[:title] == "Step Two: Hope" and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-001-step-one-honesty-1080p-eng.mp4"
         PrettyPrintNewline "Fixing Addiction Step Two URL..."
         return "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-002-step-two-hope-1080p-eng.mp4"
+
     elsif params[:url] == "/pages/mormon-messages/images/voice-of-the-spirit-mormon-message-138x81.jpg"
         PrettyPrintNewline "Fixing Voice of the Spirit URL..."
         return "http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"
+
+    elsif params[:title].include?('Linda S. Reeves') and params[:url].include?('2014-04-0010-president-thomas-s-monson-1080p')
+        PrettyPrintNewline "Fixing Linda S. Reeves URL..."
+        return "media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0050-linda-s-reeves-1080p-spa.mp4"
+
+    elsif params[:title].include?('Henry B. Eyring') and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0080-elder-russell-m-nelson-360p-spa.mp4"
+        PrettyPrintNewline "Fixing Henry B. Eyring URL..."
+        return "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0070-president-henry-b-eyring-1080p-spa.mp4"
+
+    elsif params[:title].include?('Henry B. Eyring') and params[:quality].to_i == 360 and params[:url] == "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0080-elder-russell-m-nelson-1080p-spa.mp4"
+        PrettyPrintNewline "Fixing Henry B. Eyring URL..."
+        return "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0070-president-henry-b-eyring-360p-spa.mp4"
+
     elsif params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
     end
@@ -614,17 +775,31 @@ def FixURL( params )
 end
 
 def FixQuality( title, quality )
+    q = quality.to_i
+    if q != nil
+        case q
+        when 1080
+            return "1080p"
+        when 720
+            return "720p"
+        when 480
+            return "480p"
+        when 360
+            return "360p"
+        end
+    end
+
     case quality
     when "1080p", "720p", "360p", "480p"
-        # this is the default good case
+        # this is the default good enough case
         return quality
-    when "1080", "1080P", "Large", "Large video"
+    when "1080", "1080P", "1080 p", "Large", "Large video"
         PrettyPrintNewline "Fixing quality '#{quality}' to 1080p for #{title}"
         return "1080p"
-    when "720", "720P", "Medium", "Medium video"
+    when "720", "720P", "720 p", "Medium", "Medium video"
         PrettyPrintNewline "Fixing quality '#{quality}' to 720p for #{title}"
         return "720p"
-    when "360P", "Small", "Small video"
+    when "360P", "360 p", "Small", "Small video"
         PrettyPrintNewline "Fixing quality '#{quality}' to 360p for #{title}"
         return "360p"
     else
@@ -635,7 +810,7 @@ end
 
 def NormalizeParams( params )
     params[:title] = HTMLEntities.new.encode(params[:title]) if params[:title] != nil
-    params[:duration] = durationStrToInt(params[:duration]) if params[:duration] != nil
+    params[:duration] = durationStrToInt(params[:durationstr]) if params[:durationstr] != nil
     params[:summary] = HTMLEntities.new.encode(params[:summary]) if params[:summary] != nil
     params[:desc] = HTMLEntities.new.encode(params[:desc]) if params[:desc] != nil
     params[:quality] = FixQuality( params[:title], params[:quality] ) if params[:quality] != nil
@@ -670,7 +845,7 @@ class Video
         @largest_size = 0
     end
 
-    # expected url and quality
+    # expected url, quality, size
     def add( params )
         params[:title] = @title #we need the title to fix other params
         params = NormalizeParams(params)
@@ -680,6 +855,9 @@ class Video
         end
         if stream.size > @largest_size
             @largest_size = stream.size
+        end
+        if params[:duration] and @duration == nil
+            @duration = params[:duration]
         end
         @streams << stream
     end
@@ -738,7 +916,7 @@ class Video
                 end
             end
             $glancy_videos[found_url] = [self,stream]
-            return "<videoref ref=\"#{found_url}\"/>" 
+            return "<videoref ref=\"#{found_url}\"/>\n" 
         end
         return ""
     end
@@ -746,7 +924,7 @@ class Video
     def self.to_glancy_video( video, stream )
         return "" if video.smallest_size == 0
         if stream != nil
-            return "<video id=\"#{stream.url}\" name=\"#{video.title}\" thumbnail=\"#{video.thumbnail}\" url=\"#{stream.url}\"/>"
+            return "<video id=\"#{stream.url}\" name=\"#{video.title}\" thumbnail=\"#{video.thumbnail}\" url=\"#{stream.url}\"/>\n"
         end
         return ""
     end
@@ -825,7 +1003,6 @@ class MediaLibraryEntry
     attr_accessor :largest_size
 
     # Media gallery stuff
-    MEDIA_LIBRARY_URL  = "https://www.lds.org/media-library/video/categories"
 
     def initialize( params )
         @title = params[:title]
@@ -838,10 +1015,6 @@ class MediaLibraryEntry
         @videos = []
         @smallest_size = 0
         @largest_size = 0
-    end
-
-    def self.getList  # returns MediaLibraryEntry
-        return MediaLibraryEntry.new(title: "Media Library", url: MEDIA_LIBRARY_URL)
     end
 
     def parseURL
@@ -907,7 +1080,7 @@ class MediaLibraryEntry
             thumb = FixURL(url: thumb)
             cc = nil
            
-            video = Video.new(id: v_id, title: title, desc: desc, summary: summary, duration: len, thumb: thumb, cc: cc)
+            video = Video.new(id: v_id, title: title, desc: desc, summary: summary, durationstr: len, thumb: thumb, cc: cc)
             data['downloads'].each do |item|
                 quality = item['quality']
                 link = item['link']
@@ -986,7 +1159,6 @@ class MediaLibraryEntry
         return str + "</category>\n"
     end
 
-    #instance method
     def to_glancy( quality )
         return "" if @largest_size == 0
         xml = "<category name='#{HTMLEntities.new.encode(@title)}' thumbnail='#{@img}'>"
@@ -1000,12 +1172,10 @@ class MediaLibraryEntry
         return xml + "</category>"
     end
 
-    #class method
-    def self.to_glancy_library_xml( entries, quality ) #array of entries
-        ####return nil if entries.class != :array
+    def to_glancy_library_xml( quality ) #array of entries
         xml = "<library name=\"LDS Media\"><categories>"
         $glancy_videos = {}
-        entries.each do |entry|
+        @entries.each do |entry|
             xml += entry.to_glancy( quality )
         end
 
@@ -1020,11 +1190,25 @@ class MediaLibraryEntry
 end
 
 
-def do_glancy_update
-    FileUtils::mkdir_p CONTENT_DIR_PREFIX
+# input should be something like:
+# {language: "English", url: "https://.../..."}
 
-    print "Reading input files"
-    a = MediaLibraryEntry::getList
+def do_glancy_update( params = {} )
+    if params[:title] == nil or params[:url] == nil
+        puts "Error:  please specify an input title and url"
+        return
+    end
+
+    title = params[:title]
+    url = params[:url]
+    $unique_videos = {}
+    $unique_filenames = Hash.new(0)
+
+    FileUtils::mkdir_p OUTPUT_DIR_PREFIX
+    FileUtils::mkdir_p GLANCY_DIR_PREFIX
+
+    print "Reading input files for #{title}"
+    a = MediaLibraryEntry.new(title: title, url: url)
     begin
         a.parseURL
 #    rescue
@@ -1033,10 +1217,21 @@ def do_glancy_update
 
     puts "\nDone reading input files"
 
-    puts "There are #{a.video_count} videos spanning #{$unique_videos.count} URLs"
-    xml = "<categories>" + a.to_xml + "</categories>"
-    WriteToFile(OUTPUT_DIR_PREFIX + "medialibrary.xml",xml)
 
+    # shed the outer wrapper and create the xml for the roku
+    innerentry = a # a.entries[0]
+    xml = "<categories>"
+    a.entries.each do |e|
+        xml += e.to_xml
+    end
+    xml += "</categories>"
+    WriteToFile(ROKU_CHANNEL_DIR_PREFIX + "medialibrary_#{title}.xml",xml)
+
+    common_glancy_output( title, a )
+end
+
+def common_glancy_output( title, a )
+    puts "There are #{a.video_count} videos spanning #{$unique_videos.count} URLs"
     sizes_per_quality = Hash.new(0)
 
     # prepopulate the order
@@ -1051,14 +1246,18 @@ def do_glancy_update
     # are only in a specific size.  (e.g., the 480p quality is smaller than
     # the 360p because there are only a few 480p vids.  Since we want all available
     # videos preferring our chosen size then it should be 360 < 480 < 720 < 1080
-    $unique_filenames = Hash.new(0)
     $unique_videos.each do |url,video|
         sizes_per_quality[video[:quality]] += video[:size].to_i
         counts[video[:quality]] += 1
         #sometimes the download URL can be nil / '' if the video isn't downloadable... like ASL Primary Songs
         next if url == nil or url == ''
         # get download filename
-        filename = url[(url.rindex('/')+1)..-1]
+        index = url.rindex('/')
+        if index == nil
+            filename = url
+        else
+            filename = url[(index+1)..-1]
+        end
         $unique_filenames[filename] += 1
     end
 
@@ -1072,20 +1271,14 @@ def do_glancy_update
         end
     end
 
-    glancy_rss = "<?xml version=\"1.0\" encoding=\"utf-8\"?>
-    <rss version=\"2.0\">
-      <channel>
-        <title>LDS Media Library as of #{Date.today.to_s}</title>
-        <link>http://www.lds.org/media-library</link>
-        <description>Media Library for The Church of Jesus Christ of Latter-day Saints</description>
-        <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>\n"
+    glancy_rss = ""
 
     sizes_per_quality.each do |quality,size|
         # print size of just videos of this quality
         puts "#{quality}: #{size} MB in #{counts[quality]} videos"
-        xml = MediaLibraryEntry.to_glancy_library_xml(a.entries,quality.to_i)
-        xmlname = "medialibrary_rss_#{quality}.xml"
-        WriteToFile(OUTPUT_DIR_PREFIX + xmlname,xml)
+        xml = a.to_glancy_library_xml(quality.to_i)
+        xmlname = "medialibrary_rss_#{title}_#{quality}.xml"
+        WriteToFile(GLANCY_DIR_PREFIX + xmlname,xml)
 
         size = 0  # okay now print size of library including other vids we need to have to make a full library
         $glancy_videos.each do |id,videoarr|
@@ -1093,41 +1286,16 @@ def do_glancy_update
         end
 
         glancy_rss += "<item>
-          <title>Media Library #{quality}</title>
-          <link>#{HOSTING_URL}/#{xmlname}</link>
+          <title>#{title} Media Library #{quality}</title>
+          <link>#{GLANCY_HOSTING_URL}/#{xmlname}</link>
           <description>#{(size/1000.0).round(1)} GB</description>
           </item>\n"
     end
 
-    glancy_rss += "</channel></rss>"
-    WriteToFile(OUTPUT_DIR_PREFIX + "medialibrary_rss.xml",glancy_rss)
+    WriteToFile(GLANCY_DIR_PREFIX + "medialibrary_rss_#{title}.xml",glancy_rss)
     print_and_save_download_stats
 
 end # do_glancy_update
-
-def do_glancy_export
-    FileUtils::mkdir_p CONTENT_DIR_PREFIX
-    FileUtils::mkdir_p DOWNLOADED_SUBTITLES_DIR
-
-    print "Reading input files"
-    # parse the video list
-    a = MediaLibraryEntry::getList
-    a.parseURL # skip vids we don't have
-
-    puts "\nDone reading input files"
-    puts "There are #{a.video_count} videos spanning #{$unique_videos.count} URLs"
-    xml = "<categories>"
-    # break out a's entries like this to get rid of the extra screen click
-    a.entries.each do |entry|
-        xml += entry.to_xml
-    end
-    xml += "</categories>"
-    WriteToFile(OUTPUT_DIR_PREFIX + "medialibrary_downloaded.xml",xml)
-
-    print_and_save_download_stats
-
-
-end # do_glancy_export
 
 def print_and_save_download_stats
     if $downloaded_thumbnail_count > 0
@@ -1202,8 +1370,38 @@ elsif ARGV[0] == 'glancy_update'
     DOWNLOADED_VIDEO_DIR = nil  # nil because we want to create XML for all vids
     DOWNLOADED_THUMBNAIL_DIR = "#{ARGV[1]}/thumbnails"
     DOWNLOADED_SUBTITLES_DIR = "#{ARGV[1]}/subtitles"
-    PARSE_MODE = :UPDATE
-    do_glancy_update
+
+    ENGLISH_URL  = "https://www.lds.org/media-library/video/categories"
+    ASL_URL      = "https://www.lds.org/media-library/video/categories?lang=eng&clang=ase"
+    SPANISH_URL  = "https://www.lds.org/media-library/video/categories?lang=spa"
+    PORTUGUESE_URL  = "https://www.lds.org/media-library/video/categories?lang=por"
+
+    do_glancy_update(title: "English", url: ENGLISH_URL)
+    do_glancy_update(title: "ASL", url: ASL_URL)
+    do_glancy_update(title: "Spanish", url: SPANISH_URL)
+    #do_glancy_update(title: "Portuguese", url: PORTUGUESE_URL)
+
+    glancy_rss = "<?xml version=\"1.0\" encoding=\"utf-8\"?>
+    <rss version=\"2.0\">
+      <channel>
+        <title>LDS Media Library as of #{Date.today.to_s}</title>
+        <link>http://www.lds.org/media-library</link>
+        <description>Media Library for The Church of Jesus Christ of Latter-day Saints</description>
+        <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>\n"
+
+    #["English","ASL","Spanish","Portuguese"].each do |title|
+    ["English","ASL","Spanish"].each do |title|
+        begin
+            data = File.open(GLANCY_DIR_PREFIX + "medialibrary_rss_#{title}.xml").read
+            glancy_rss += data
+        #rescue
+            #puts "Error processing #{title} rss file!"
+        end
+    end
+
+    glancy_rss += "</channel></rss>"
+    WriteToFile(GLANCY_DIR_PREFIX + "medialibrary_rss.xml",glancy_rss)
+
 else
     printUsage
 end

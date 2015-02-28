@@ -1,4 +1,7 @@
 function ShowSpringboardScreen(episodes, selectedEpisode, leftBread, rightBread)
+    if episodes [selectedEpisode].streamFormat = "mp3"
+        return ShowAudioScreen(episodes, selectedEpisode, leftBread, rightBread)
+    endif
     screen = CreateObject("roSpringboardScreen")
     screen.SetMessagePort(CreateObject("roMessagePort"))
     screen.SetBreadcrumbText(leftBread, rightBread)
