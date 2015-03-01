@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<categories><category title='Тэр бол бэлэг' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Тэр бол бэлэг</title>
+        <description></description>
+        <duration>150</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1954238.mp4' height='720'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1701338.mp4' height='720'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1377724.mp4' height='720'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/640/360/789715.mp4' height='360'/>
+</item>
+ </channel> </rss></category>
+</categories>
