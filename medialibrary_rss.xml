@@ -1,28 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
     <rss version="2.0">
       <channel>
-        <title>LDS Media Library as of 2015-02-21</title>
+        <title>LDS Media Library as of 2015-03-22</title>
         <link>http://www.lds.org/media-library</link>
         <description>Media Library for The Church of Jesus Christ of Latter-day Saints</description>
         <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>
 <item>
-          <title>Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/medialibrary_rss_1080p.xml</link>
-          <description>468.4 GB</description>
+          <title>English Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_1080p.xml</link>
+          <description>479.5 GB</description>
           </item>
 <item>
-          <title>Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/medialibrary_rss_720p.xml</link>
-          <description>246.4 GB</description>
+          <title>English Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_720p.xml</link>
+          <description>254.8 GB</description>
           </item>
 <item>
-          <title>Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/medialibrary_rss_480p.xml</link>
-          <description>147.5 GB</description>
+          <title>English Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_480p.xml</link>
+          <description>152.6 GB</description>
           </item>
 <item>
-          <title>Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/medialibrary_rss_360p.xml</link>
-          <description>137.5 GB</description>
+          <title>English Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_360p.xml</link>
+          <description>142.5 GB</description>
+          </item>
+<item>
+          <title>ASL Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_ASL_1080p.xml</link>
+          <description>82.9 GB</description>
+          </item>
+<item>
+          <title>ASL Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_ASL_720p.xml</link>
+          <description>47.2 GB</description>
+          </item>
+<item>
+          <title>ASL Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_ASL_480p.xml</link>
+          <description>34.3 GB</description>
+          </item>
+<item>
+          <title>ASL Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_ASL_360p.xml</link>
+          <description>32.7 GB</description>
+          </item>
+<item>
+          <title>Spanish Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_1080p.xml</link>
+          <description>146.0 GB</description>
+          </item>
+<item>
+          <title>Spanish Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_720p.xml</link>
+          <description>83.3 GB</description>
+          </item>
+<item>
+          <title>Spanish Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_480p.xml</link>
+          <description>56.1 GB</description>
+          </item>
+<item>
+          <title>Spanish Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_360p.xml</link>
+          <description>56.8 GB</description>
           </item>
 </channel></rss>
