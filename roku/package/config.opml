@@ -16,14 +16,13 @@
 	<category title="LDS Media Library (online)" subtitle="" url="" showAsList="1" showAsPortrait="0">
         <category title="English Media Library" subtitle="" url="pkg:/xml/medialibrary_English.xml" showAsList="0" showAsPortrait="0" />
         <category title="Spanish Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Spanish.xml" showAsList="0" showAsPortrait="0" />
-        <category title="ASL Media Library" subtitle="" url="pkg:/xml/medialibrary_ASL.xml" showAsList="0" showAsPortrait="0" />
+        <category title="ASL Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_ASL.xml" showAsList="0" showAsPortrait="0" />
     </category>
 	<category title="LDS Gospel Library (online)" subtitle="" url="" showAsList="1" showAsPortrait="1" >
-        <category title="English" subtitle="" url="pkg:/xml/lang_1.xml" />
-        <category title="Spanish" subtitle="" url="pkg:/xml/lang_2.xml" />
-        <category title="French" subtitle="" url="pkg:/xml/lang_7.xml" />
-        <category title="Other Languages" subtitle="" url="pkg:/xml/lang_0.xml" />
+        <category title="English" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/1.xml" />
+        <category title="Spanish" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/2.xml" />
+        <category title="French" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/7.xml" />
+        <category title="Other Languages" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/0.xml" />
     </category>
-	<!--<category title="Glancy USBVideoManager (online)" subtitle="" url="http://glancyfamily.net/ldsml/lds-media-library-source.xml" showAsList="1" showAsPortrait="0" />-->
 </categories>
 </opml>

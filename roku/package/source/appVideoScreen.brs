@@ -35,9 +35,12 @@ Function showVideoScreen(episode As Object)
 
     if type(msg) = "roVideoScreenEvent" then
       print "showHomeScreen | msg = "; msg.getMessage() " | index = "; msg.GetIndex()
-      if msg.isScreenClosed()
+      if msg.isFullResult()
+        ' video completed on its own
+        return -2
+      elseif msg.isScreenClosed()
         print "Screen closed"
-        exit while
+        return -1
       elseif msg.isRequestFailed()
         print "Video request failure: "; msg.GetIndex(); " " msg.GetData() 
       elseif msg.isStatusMessage()

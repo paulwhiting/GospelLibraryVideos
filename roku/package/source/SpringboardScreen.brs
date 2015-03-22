@@ -7,6 +7,7 @@ function ShowSpringboardScreen(episodes, selectedEpisode, leftBread, rightBread)
     screen.SetBreadcrumbText(leftBread, rightBread)
     screen.SetStaticRatingEnabled(false)
     screen.AddButton(1, "Play")
+    screen.AddButton(3, "Play All")
     screen.Show()
     
     screen.SetContent(episodes[selectedEpisode])
@@ -19,7 +20,17 @@ function ShowSpringboardScreen(episodes, selectedEpisode, leftBread, rightBread)
             if msg.isScreenClosed()
                 exit while
             else if msg.isButtonPressed()
-                ShowVideoScreen(episodes[selectedEpisode])
+                if msg.GetIndex() = 3 ' Play all
+                  max = episodes.Count()
+                  for i = selectedEpisode to max
+                    retval = ShowVideoScreen(episodes[i])
+                    if retval = -1 then
+                      exit for
+                    end if
+                  next
+                else
+                  ShowVideoScreen(episodes[selectedEpisode])
+                end if
             else if msg.isRemoteKeyPressed()
                 if msg.GetIndex() = 4 ' LEFT
                     if selectedEpisode = 0

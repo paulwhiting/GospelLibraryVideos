@@ -4,8 +4,9 @@ sub ShowEpisodeScreen(show, leftBread, rightBread)
 
 	screen = CreateObject("roPosterScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
-    screen.SetListStyle("flat-episodic")
-    screen.SetBreadcrumbText(leftBread, rightBread)
+  screen.SetListStyle("flat-episodic-16x9")
+  'screen.SetListStyle("flat-category")
+  screen.SetBreadcrumbText(leftBread, rightBread)
 	screen.Show()
 
     Dbg("episode url: ", show.url)

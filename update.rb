@@ -6,10 +6,16 @@ require 'json'          # for JSON
 require 'htmlentities'  # for HtmlEntities
 require 'time'          # for Time
 
-OUTPUT_DIR_PREFIX = "medialibrary_output/"
-CONTENT_DIR_PREFIX = "medialibrary_output/content/"
-GLANCY_DIR_PREFIX = "medialibrary_output/rss/"
-ROKU_CHANNEL_DIR_PREFIX = "medialibrary_output/roku/"
+time = Time.now
+OUTPUT_DIR_PREFIX = "medialibrary_#{time.year}_#{time.month}_#{time.day}/"
+CONTENT_DIR_PREFIX = OUTPUT_DIR_PREFIX + "content/"
+GLANCY_DIR_PREFIX = OUTPUT_DIR_PREFIX + "rss/"
+ROKU_CHANNEL_DIR_PREFIX = OUTPUT_DIR_PREFIX + "roku/"
+
+FileUtils::mkdir_p CONTENT_DIR_PREFIX
+FileUtils::mkdir_p GLANCY_DIR_PREFIX
+FileUtils::mkdir_p ROKU_CHANNEL_DIR_PREFIX
+
 ROKU_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/roku_channel"
 GLANCY_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/rss"
 
@@ -605,8 +611,6 @@ end
 
 
 def DoUpdateXML( dbname, requested_id )
-    FileUtils::mkdir_p OUTPUT_DIR_PREFIX
-    FileUtils::mkdir_p GLANCY_DIR_PREFIX
 
     langs = Language.getList
     puts "Requested ID = #{requested_id}"
@@ -665,9 +669,13 @@ def DoExport(dbname, dirname)
 
     rows.each do |row|
         id = row[0]
-        xml = row[1].gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*?)\.xml/,'pkg:/xml/lang_\1.xml')
-        xml = xml.gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*)\/books\/(\d*).xml/,'pkg:/xml/lang_\1_book_\2.xml')
-        f = File.open("#{dirname}/lang_#{id}.xml","wb")
+        xml = row[1]
+        #xml = row[1].gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*?)\.xml/,'pkg:/xml/lang_\1.xml')
+        #xml = xml.gsub(/#{Regexp.quote(ROKU_HOSTING_URL)}\/langs\/(\d*)\/books\/(\d*).xml/,'pkg:/xml/lang_\1_book_\2.xml')
+        filename = "#{dirname}/langs/#{id}.xml"
+        outdir = File.dirname( filename )
+        FileUtils::mkdir_p outdir if not Dir.exists?( outdir )
+        f = File.open(filename,"wb")
         f.write xml
         f.close
     end
@@ -681,7 +689,10 @@ def DoExport(dbname, dirname)
         lang_id = row[0]
         book_id = row[1]
         xml = row[2]
-        f = File.open("#{dirname}/lang_#{lang_id}_book_#{book_id}.xml","wb")
+        filename = "#{dirname}/langs/#{lang_id}/books/#{book_id}.xml"
+        outdir = File.dirname( filename )
+        FileUtils::mkdir_p outdir if not Dir.exists?( outdir )
+        f = File.open(filename,"wb")
         f.write xml
         f.close
     end
@@ -1204,8 +1215,6 @@ def do_glancy_update( params = {} )
     $unique_videos = {}
     $unique_filenames = Hash.new(0)
 
-    FileUtils::mkdir_p OUTPUT_DIR_PREFIX
-    FileUtils::mkdir_p GLANCY_DIR_PREFIX
 
     print "Reading input files for #{title}"
     a = MediaLibraryEntry.new(title: title, url: url)
