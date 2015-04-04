@@ -6,6 +6,7 @@ require 'json'          # for JSON
 require 'htmlentities'  # for HtmlEntities
 require 'time'          # for Time
 
+# the subdirectory we want to store our results in
 time = Time.now
 OUTPUT_DIR_PREFIX = "medialibrary_#{time.year}_#{time.month}_#{time.day}/"
 CONTENT_DIR_PREFIX = OUTPUT_DIR_PREFIX + "content/"
@@ -20,7 +21,6 @@ ROKU_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/roku_chann
 GLANCY_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/rss"
 
 require 'sqlite3'
-# the subdirectory we want to store our content in
 COVER_ART_URL = "http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1"
 COVERS_SHOW_EMPTY = true
 IGNORE_OBSOLETE = true
@@ -704,7 +704,7 @@ end
 #############################################
 #############################################
 
-#  Where the Media Library / Glancy parser code begins
+#  Where the Media Library / RSS parser code begins
 
 ROKU_USB_VIDEO_PREFIX = "ext1:/LDS Media"
 ROKU_USB_THUMBNAIL_PREFIX = "ext1:/LDS Media/thumbnails"
@@ -747,6 +747,7 @@ class VideoStream
 
 	def initialize( params )
         @url = params[:url]
+        @url = @url.gsub("?download=true","") if @url
         @quality = params[:quality].to_i
         @size = params[:size].to_i
         @size = 0 if @size == nil
@@ -781,6 +782,9 @@ def FixURL( params )
 
     elsif params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
+    elsif params[:url].start_with?('/bc/content')
+        PrettyPrintNewline "Fixing URL to be absolute..."
+        return "http://www.lds.org" + params[:url]
     end
     return params[:url]
 end
@@ -923,7 +927,7 @@ class Video
             if $glancy_videos[found_url] != nil
                 v2 = $glancy_videos[found_url][0].title
                 if v2 != @title
-                    puts "WARNING:  URL title mismatch:  #{v2}  !=  #{@title}"
+                    puts "WARNING:  URL title mismatch:  #{v2}  !=  #{@title}\nfor video #{found_url}"
                 end
             end
             $glancy_videos[found_url] = [self,stream]
@@ -1021,6 +1025,7 @@ class MediaLibraryEntry
         @img = params[:img]
         @img = "" if @img == nil
         @img.gsub!("https","http")
+        @img.gsub!(" ","%20")
         @video_count = 0
         @entries = []
         @videos = []
@@ -1040,6 +1045,10 @@ class MediaLibraryEntry
             name = item.children.css("h3").text.strip
             url = item.children.css("h3 a")[0]['href'].strip
             img = item.children.css("a img")[0]['src'].strip
+            if img.start_with?('/bc/content')
+                PrettyPrintNewline "Fixing URL to be absolute..."
+                img = "http://www.lds.org" + img
+            end
             mle = MediaLibraryEntry.new(title: name,url: url, img: img)
             mle.parseURL if url
             @smallest_size += mle.smallest_size
@@ -1057,6 +1066,62 @@ class MediaLibraryEntry
             start = 11
             last = item.text.rindex('}')
             text = item.text.slice(11..last)
+            elements = JSON.parse(text)
+            vids = parseEntryJson(elements)
+            @video_count += vids.count
+            @smallest_size += vids.map(&:smallest_size).inject(0, :+)
+            @largest_size += vids.map(&:largest_size).inject(0, :+)
+            @videos += vids
+        }
+
+        #puts "Counted #{@videos.count} items!"
+
+        nexturl = html.css("a[class='next']")
+        if nexturl != nil and nexturl[0] != nil
+            #puts "next url is #{nexturl[0]['href']}"
+            @url = nexturl[0]['href']
+            parseURL
+        end
+        return
+    end
+
+    def parseMusicURL
+        filename = CONTENT_DIR_PREFIX + @url.gsub(/[:\/?&=]/,'_')
+        data = OpenURL(@url, filename)
+        html = Nokogiri::HTML(data) 
+
+        # The good stuff is stored in <div id="primary">
+        categories = html.css("div#primary ul[class='grid clearfix'] li")
+        categories.each {|item|
+            p name = item.children.css("a span").text.strip
+            url = item.children.css("a")[0]['href'].strip
+            mle = MediaLibraryEntry.new(title: name,url: url, img: nil)
+            mle.parseMusicURL if url
+            @smallest_size += mle.smallest_size
+            @largest_size += mle.largest_size
+            @video_count += mle.video_count
+            @entries << mle
+        }
+        categories = html.css("div#primary ul[class='grid'] li")
+        categories.each {|item|
+            p name = item.children.css("a span").text.strip
+            url = item.children.css("a")[0]['href'].strip
+            mle = MediaLibraryEntry.new(title: name,url: url, img: nil)
+            mle.parseMusicURL if url
+            @smallest_size += mle.smallest_size
+            @largest_size += mle.largest_size
+            @video_count += mle.video_count
+            @entries << mle
+        }
+
+        # find the one that has the audio data... that's the one we want
+        scripts = html.css("script")
+        scripts.each {|item|
+            text = item.text.strip
+            next if not text.start_with? "var jsonPlaylist ="
+            start = 19
+            last = text.index('};')
+            text = text.slice(start..last)
             elements = JSON.parse(text)
             vids = parseEntryJson(elements)
             @video_count += vids.count
@@ -1114,6 +1179,10 @@ class MediaLibraryEntry
                 # videos we've already downloaded.  So, skip any video not already downloaded
                 next if DOWNLOADED_VIDEO_DIR != nil and not video_already_downloaded?( link )
                 size = item['size']
+                if size.to_i == 0
+                  PrettyPrintNewline "Video download size is zero: #{link}"
+                  File.open("zero_sized_url.txt","a").write("Video download size is zero: #{link}")
+                end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)
                 $unique_videos[link] = {quality: quality, size: size}
@@ -1141,6 +1210,41 @@ class MediaLibraryEntry
         return results
     end
 
+    def parseMusicJson(elements)
+        return [] if elements.count == 0
+        results = []
+        elements.each do |data|
+            #p data
+            v_id = data['name']
+            title = data['name']
+            desc  = data['book']
+            summary = data['book']
+           
+            video = Video.new(id: v_id, title: title, desc: desc)
+            quality = nil
+            # mp3 is music and words.  same as url
+            # alturl is music only
+            # video1 is mp4, video2 is wmv
+            ['url','alturl','video1'].each do |type|
+              link = data[type]
+              next if not link
+              quality = 'mp3' if type == 'url' or type == 'alturl'
+              quality = '360p' if type == 'video1'
+
+              video.add(url: link)
+              $unique_videos[link] = {quality: quality, size: 0}
+            end
+        
+            # skip videos with no streams
+            next if video.streams.count == 0
+
+            # add the video to the list
+            results << video
+        end
+
+        return results
+    end
+
     def parseEntryJson(elements)
         return [] if elements.count == 0
         results = []
@@ -1148,13 +1252,21 @@ class MediaLibraryEntry
             if id == 'videos'
                 results = parseVideosJson(data)
             end
+            if id == 'playlist'
+              data.each do |id2,data2|
+                if id2 == 'list'
+                  results = parseMusicJson(data2)
+                end
+              end
+            end
         end
         return results
     end
 
     def to_xml
+        puts "video count is #{@video_count}"
         return "" if @video_count == 0
-        return "" if @smallest_size == 0
+        #we may have valid vids with no size info #return "" if @smallest_size == 0
 
         str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}' img='#{@img}'>"
         @entries.each do |item|
@@ -1218,10 +1330,10 @@ def do_glancy_update( params = {} )
 
     print "Reading input files for #{title}"
     a = MediaLibraryEntry.new(title: title, url: url)
-    begin
-        a.parseURL
-#    rescue
-#        puts "ABORTING EARLY DUE TO ERRORS!"
+    if title == "Music"
+      a.parseMusicURL
+    else
+      a.parseURL
     end
 
     puts "\nDone reading input files"
@@ -1381,14 +1493,18 @@ elsif ARGV[0] == 'glancy_update'
     DOWNLOADED_SUBTITLES_DIR = "#{ARGV[1]}/subtitles"
 
     ENGLISH_URL  = "https://www.lds.org/media-library/video/categories"
+    ENGLISH_MUSIC_URL  = "https://www.lds.org/music/library"
     ASL_URL      = "https://www.lds.org/media-library/video/categories?lang=eng&clang=ase"
     SPANISH_URL  = "https://www.lds.org/media-library/video/categories?lang=spa"
     PORTUGUESE_URL  = "https://www.lds.org/media-library/video/categories?lang=por"
 
-    do_glancy_update(title: "English", url: ENGLISH_URL)
-    do_glancy_update(title: "ASL", url: ASL_URL)
-    do_glancy_update(title: "Spanish", url: SPANISH_URL)
+    #do_glancy_update(title: "English", url: ENGLISH_URL)
+    #do_glancy_update(title: "ASL", url: ASL_URL)
+    #do_glancy_update(title: "Spanish", url: SPANISH_URL)
     #do_glancy_update(title: "Portuguese", url: PORTUGUESE_URL)
+    do_glancy_update(title: "Music", url: ENGLISH_MUSIC_URL)
+
+    exit
 
     glancy_rss = "<?xml version=\"1.0\" encoding=\"utf-8\"?>
     <rss version=\"2.0\">

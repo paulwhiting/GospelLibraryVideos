@@ -13,18 +13,30 @@
 '** error conditions so it's important to monitor these to
 '** understand what's going on, especially in the case of errors
 '***********************************************************  
-Function showVideoScreen(episode As Object)
+Function showVideoScreen(episode As Object, stream_url = "")
   if type(episode) <> "roAssociativeArray" then
     print "invalid data passed to showVideoScreen"
     return -1
-  endif
+  end if
 
   port = CreateObject("roMessagePort")
   screen = CreateObject("roVideoScreen")
   screen.SetMessagePort(port)
   screen.Show()
 
-  screen.SetContent(episode)
+  vid_to_play = episode
+
+  if stream_url <> "" then
+    print "Choosing to play url"; stream_url
+    vid_to_play = {
+      Stream: { url: stream_url }
+      StreamFormat: episode.StreamFormat
+      Title: episode.title
+      SubtitleConfig: episode.SubtitleConfig
+    }
+  end if
+
+  screen.SetContent(vid_to_play)
   screen.Show()
 
   'Uncomment his line to dump the contents of the episode to be played

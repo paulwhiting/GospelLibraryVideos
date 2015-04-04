@@ -4,10 +4,18 @@ sub ShowPosterScreen(contentList, breadLeft, breadRight, bAsListScreen, bAsPortr
     if bAsListScreen = 1
         ' for roListScreen
         screen = CreateObject("roListScreen")
+        ' use certs to allow for https thumbnails
+        screen.SetCertificatesFile("common:/certs/ca-bundle.crt")
+        'screen.SetCertificatesDepth(10)
+        screen.InitClientCertificates()
         screen.SetMessagePort(CreateObject("roMessagePort"))
         screen.SetContent(contentList)
     else
         screen = CreateObject("roPosterScreen")
+        ' use certs to allow for https thumbnails
+        screen.SetCertificatesFile("common:/certs/ca-bundle.crt")
+        'screen.SetCertificatesDepth(10)
+        screen.InitClientCertificates()
         if bAsPortrait = 1
             screen.SetListStyle("arced-portrait")
         else

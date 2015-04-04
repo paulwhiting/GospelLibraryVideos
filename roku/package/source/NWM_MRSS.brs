@@ -128,30 +128,31 @@ function NWM_MRSS_GetEpisodes(limit = 0)
 			
 			if contentItems.Count() > 0
 				for each content in contentItems
-                    url = ValidStr(content@url)
+          url = ValidStr(content@url)
 					if url <> ""
 						newStream = {
 							url:		url
 							bitrate:	StrToI(ValidStr(content@bitrate))
+              quality:  StrToI(ValidStr(content@height))
 						}
 						
 						' use the content's height attribute to determine HD-ness
-						if StrToI(ValidStr(content@height)) > 720
-							newStream.quality = true
+						if newStream.quality > 720
+							newItem.quality = true
 							newItem.HDBranded = true
 							newItem.isHD = true
 							newItem.fullHD = true
-						else if StrToI(ValidStr(content@height)) > 480
-							newStream.quality = true
+						else if newStream.quality > 480
+							newItem.quality = true
 							newItem.HDBranded = true
 							newItem.isHD = true
 						end if
 
-                        ' if we detect an mp3 then set the whole item to be mp3
-                        if LCase (Right (url, 4)) = ".mp3"
-                            newItem.streamFormat = "mp3"
-                            newItem.url = url
-                        end if
+            ' if we detect an mp3 then set the whole item to be mp3
+            if LCase (Right (url, 4)) = ".mp3"
+                newItem.streamFormat = "mp3"
+                newItem.url = url
+            end if
 						newItem.streams.push(newStream)
 					end if
 				next
