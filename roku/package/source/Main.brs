@@ -1,6 +1,6 @@
 sub Main()
 	categories = LoadConfig()
-    ShowPosterScreen(categories, "Gospel Library", "Videos", 1, 0)
+  ShowPosterScreen(categories, "Gospel Library", "Videos", 1, 0)
 end sub
 
 function LoadConfig()

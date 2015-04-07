@@ -13,7 +13,10 @@
 	springboardScreenDirectorColor="#EEEE00"
 	springboardScreenDateColor="#EEEE00">
 	<category title="LDS Media Library on USB" subtitle="" url="ext1:/medialibrary_downloaded.xml" showAsList="0" showAsPortrait="0" />
-	<category title="LDS Media Library - Recent (3/29/15)" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150329.xml" showAsList="0" showAsPortrait="0" />
+	<category title="LDS Media Library - Recent" subtitle="" url="" showAsList="1" showAsPortrait="0">
+    <category title="English - 4/5/15" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150405.xml" showAsList="0" showAsPortrait="0" />
+    <category title="English - 3/29/15" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150329.xml" showAsList="0" showAsPortrait="0" />
+  </category>
 	<category title="LDS Media Library - Full" subtitle="" url="" showAsList="1" showAsPortrait="0">
         <category title="English Media Library" subtitle="" url="pkg:/xml/medialibrary_English.xml" showAsList="0" showAsPortrait="0" />
         <category title="Spanish Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Spanish.xml" showAsList="0" showAsPortrait="0" />

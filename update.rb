@@ -782,7 +782,7 @@ def FixURL( params )
 
     elsif params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
-    elsif params[:url].start_with?('/bc/content')
+    elsif params[:url].start_with?('/') # if it doesn't start with http then assume it's a relative URL instead of absolute
         PrettyPrintNewline "Fixing URL to be absolute..."
         return "http://www.lds.org" + params[:url]
     end
@@ -1498,13 +1498,11 @@ elsif ARGV[0] == 'glancy_update'
     SPANISH_URL  = "https://www.lds.org/media-library/video/categories?lang=spa"
     PORTUGUESE_URL  = "https://www.lds.org/media-library/video/categories?lang=por"
 
-    #do_glancy_update(title: "English", url: ENGLISH_URL)
-    #do_glancy_update(title: "ASL", url: ASL_URL)
-    #do_glancy_update(title: "Spanish", url: SPANISH_URL)
-    #do_glancy_update(title: "Portuguese", url: PORTUGUESE_URL)
+    do_glancy_update(title: "English", url: ENGLISH_URL)
+    do_glancy_update(title: "ASL", url: ASL_URL)
+    do_glancy_update(title: "Spanish", url: SPANISH_URL)
+    do_glancy_update(title: "Portuguese", url: PORTUGUESE_URL)
     do_glancy_update(title: "Music", url: ENGLISH_MUSIC_URL)
-
-    exit
 
     glancy_rss = "<?xml version=\"1.0\" encoding=\"utf-8\"?>
     <rss version=\"2.0\">
@@ -1515,7 +1513,7 @@ elsif ARGV[0] == 'glancy_update'
         <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>\n"
 
     #["English","ASL","Spanish","Portuguese"].each do |title|
-    ["English","ASL","Spanish"].each do |title|
+    ["English","ASL","Spanish","Music"].each do |title|
         begin
             data = File.open(GLANCY_DIR_PREFIX + "medialibrary_rss_#{title}.xml").read
             glancy_rss += data
