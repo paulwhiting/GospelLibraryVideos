@@ -14,7 +14,7 @@ function LoadConfig()
 	theme.OverhanglogoSD = "pkg:/images/overhang_logo_sd.png"
 
 	theme.OverhangPrimaryLogoOffsetHD_X = "100"
-	theme.OverhangPrimaryLogoOffsetHD_Y = "60"
+	theme.OverhangPrimaryLogoOffsetHD_Y = "35"
 
 	theme.OverhangPrimaryLogoOffsetSD_X = "60"
 	theme.OverhangPrimaryLogoOffsetSD_Y = "40"

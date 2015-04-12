@@ -37,7 +37,7 @@ def do_roku_diff
           #puts "Duplicate!"
           content.remove
         else
-          puts "Unique!"
+          #puts "Unique!"
         end
     end
 
@@ -56,7 +56,7 @@ def do_roku_diff
 
 
     # phase 3 - remove all empty categories and update Video counts
-    filename = "medialibrary_downloaded_xxxx.xml"
+    filename = "medialibrary_diff.xml"
     puts "\n\nUpdating #{filename}"
     categories = xml.css("category")
     categories.each do |category|

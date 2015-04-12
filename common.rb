@@ -10,7 +10,9 @@ $missing_subtitles_count = 0
 
 def get_filename_from_url( url )
     return '' if url == nil or url == ''
-    return url[(url.rindex('/')+1)..-1]
+    ri = url.rindex('/')
+    return url if ri == nil
+    return url[(ri+1)..-1]
 end
 
 ###############################

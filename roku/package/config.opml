@@ -14,6 +14,7 @@
 	springboardScreenDateColor="#EEEE00">
 	<category title="LDS Media Library on USB" subtitle="" url="ext1:/medialibrary_downloaded.xml" showAsList="0" showAsPortrait="0" />
 	<category title="LDS Media Library - Recent" subtitle="" url="" showAsList="1" showAsPortrait="0">
+    <category title="English - 4/12/15" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150412.xml" showAsList="0" showAsPortrait="0" />
     <category title="English - 4/5/15" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150405.xml" showAsList="0" showAsPortrait="0" />
     <category title="English - 3/29/15" subtitle="" url="pkg:/xml/medialibrary_recent_English_20150329.xml" showAsList="0" showAsPortrait="0" />
   </category>

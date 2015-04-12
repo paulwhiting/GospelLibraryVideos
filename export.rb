@@ -1,17 +1,67 @@
 # encoding: utf-8
 require_relative 'common'
+require 'net/http'
 
 ROKU_USB_VIDEO_PREFIX = "ext1:/LDS Media"
 ROKU_USB_THUMBNAIL_PREFIX = "ext1:/LDS Media/thumbnails"
 ROKU_USB_SUBTITLES_PREFIX = "ext1:/LDS Media/subtitles"
+ROKU_XML_HOST  = "paulwhiting.github.io"
+ROKU_XML_SUBDIR = "/GospelLibraryVideos/roku_channel"
 
 def printUsage
-    puts "Please specify your LDS Media video directory"
+    puts "Usage:  #{$0} video_directory"
+    puts "video_directory - the location of your downloaded videos"
     exit
 end
 
-def do_roku_export
-    data = File.open("medialibrary.xml").read
+def download_latest_XML( language )
+    puts "Checking for updated #{language} file..."
+    download = false
+    localfile = "medialibrary_#{language}.xml"
+    mod_time_remote = nil
+    mod_time_local = nil
+    url = 'http://' + ROKU_XML_HOST + ROKU_XML_SUBDIR + "/#{localfile}"
+    begin
+        mod_time_local = File.mtime(localfile)
+    rescue Errno::ENOENT
+        puts "Local file missing."
+        download = true
+    end
+
+    if mod_time_local
+        begin
+            puts "local file time: #{mod_time_local}"
+            Net::HTTP.start(ROKU_XML_HOST) do |http|
+                response = http.request_head(ROKU_XML_SUBDIR + "/#{localfile}")
+                mod_date = response['Last-Modified'] # => Sat, 04 Jun 2011 08:51:44 GMT
+                mod_time_remote = Time.parse(mod_date)
+                puts "#{language} updated at:  #{mod_time_remote}"
+            end
+            if mod_time_local == mod_time_remote
+                puts "File is up to date"
+            else
+                download = true
+            end
+        rescue Exception => msg
+            puts "Error downloading file metadata:  #{msg}"
+        end
+    end
+
+    if download
+        puts "Downloading #{url}"
+        begin
+            data = open(url,"rb").read
+        rescue Exception => msg
+            puts "Error downloading file:  #{msg}"
+        end
+          
+        WriteToFile(localfile,data)
+        File.utime( mod_time_remote, mod_time_remote, localfile )
+    end
+end
+
+def do_roku_export( language )
+    data = File.open("medialibrary_#{language}.xml").read
     xml = Nokogiri::XML(data) 
 
     FileUtils::mkdir_p DOWNLOADED_SUBTITLES_DIR
@@ -69,7 +119,7 @@ def do_roku_export
     #puts "#{items.count} items remaining."
 
     # phase 3 - remove all empty categories and update Video counts
-    filename = "medialibrary_downloaded.xml"
+    filename = "medialibrary_downloaded_#{language}.xml"
     puts "\n\nUpdating #{filename}"
     categories = xml.css("category")
     categories.each do |category|
@@ -93,5 +143,10 @@ DOWNLOADED_VIDEO_DIR = ARGV[0]
 DOWNLOADED_THUMBNAIL_DIR = "#{ARGV[0]}/thumbnails"
 DOWNLOADED_SUBTITLES_DIR = "#{ARGV[0]}/subtitles"
 
-do_roku_export
+["English","Spanish","ASL","Music"].each do |language|
+    download_latest_XML( language )
+    do_roku_export( language )
+end
+
+puts "Program finished!  Currently the Gospel Library Videos Roku channel only supports one downloaded language at a time.  Pick the language file you wish to use (i.e., medialibrary_downloaded_English.xml) and rename it to medialibrary_downloaded.xml and save it to the USB drive's root directory.  Don't forget to copy over your videos as well!" 
 
