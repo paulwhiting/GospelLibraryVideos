@@ -25,6 +25,21 @@ COVER_ART_URL = "http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/produc
 COVERS_SHOW_EMPTY = true
 IGNORE_OBSOLETE = true
 
+def get_file_download_size( url )
+  uri = URI(url)
+
+  Net::HTTP.start(uri.host) do |http|
+    response = http.request_head(uri.path)
+    size = response.header["Content-Length"].to_i
+    PrettyPrintNewline "Detected Size = #{size}"
+    return size
+  end
+
+  return 0
+end
+
+
+
 $book_cache = {}
 
 def UpdateBookEntryDatabase(db,catalog_id,book_id,xml)
@@ -783,7 +798,7 @@ def FixURL( params )
     elsif params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
     elsif params[:url].start_with?('/') # if it doesn't start with http then assume it's a relative URL instead of absolute
-        PrettyPrintNewline "Fixing URL to be absolute..."
+        #PrettyPrintNewline "Fixing URL to be absolute..."
         return "http://www.lds.org" + params[:url]
     end
     return params[:url]
@@ -1045,8 +1060,8 @@ class MediaLibraryEntry
             name = item.children.css("h3").text.strip
             url = item.children.css("h3 a")[0]['href'].strip
             img = item.children.css("a img")[0]['src'].strip
-            if img.start_with?('/bc/content')
-                PrettyPrintNewline "Fixing URL to be absolute..."
+            if img.start_with?('/')
+                #PrettyPrintNewline "Fixing URL to be absolute..."
                 img = "http://www.lds.org" + img
             end
             mle = MediaLibraryEntry.new(title: name,url: url, img: img)
@@ -1181,7 +1196,11 @@ class MediaLibraryEntry
                 size = item['size']
                 if size.to_i == 0
                   PrettyPrintNewline "Video download size is zero: #{link}"
-                  File.open("zero_sized_url.txt","a").write("Video download size is zero: #{link}")
+                  if link == nil or link == ""
+                    PrettyPrintNewline "Link is empty for #{title}"
+                  else
+                    size = get_file_download_size( link )
+                  end
                 end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)
@@ -1264,7 +1283,7 @@ class MediaLibraryEntry
     end
 
     def to_xml
-        puts "video count is #{@video_count}"
+        #puts "video count is #{@video_count}"
         return "" if @video_count == 0
         #we may have valid vids with no size info #return "" if @smallest_size == 0
 

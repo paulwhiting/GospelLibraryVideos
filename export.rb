@@ -32,10 +32,11 @@ def download_latest_XML( language )
         begin
             puts "local file time: #{mod_time_local}"
             Net::HTTP.start(ROKU_XML_HOST) do |http|
-                response = http.request_head(ROKU_XML_SUBDIR + "/#{localfile}")
+                p response = http.request_head(ROKU_XML_SUBDIR + "/#{localfile}")
                 mod_date = response['Last-Modified'] # => Sat, 04 Jun 2011 08:51:44 GMT
                 mod_time_remote = Time.parse(mod_date)
                 puts "#{language} updated at:  #{mod_time_remote}"
+                puts "Size = #{response.header["Content-Length"].to_i}"
             end
             if mod_time_local == mod_time_remote
                 puts "File is up to date"
