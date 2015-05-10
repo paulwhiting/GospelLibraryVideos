@@ -118,7 +118,7 @@
                 //author: $this.find("author").text(),
                 url: $xml.attr("url"),
                 description: $xml.attr("subtitle"),
-                pubDate: "",
+                pubDate: "1/1/2015",
                 //author: "LDS Church",
                 //imgURL: $this.find("image").text(),
                 //thumbURL: $this.find("image").text(),
