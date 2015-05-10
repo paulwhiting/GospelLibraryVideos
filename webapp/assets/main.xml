@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+<categories>
+	<category title="LDS Media Library - Recent" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_recent.xml" showAsList="1" showAsPortrait="0" />
+	<category title="LDS Media Library - Full" subtitle="" url="" showAsList="1" showAsPortrait="0">
+		<category title="English Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_English.xml" showAsList="0" showAsPortrait="0" />
+		<category title="Spanish Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Spanish.xml" showAsList="0" showAsPortrait="0" />
+		<category title="ASL Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_ASL.xml" showAsList="0" showAsPortrait="0" />
+		<category title="Music Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Music.xml" showAsList="1" showAsPortrait="0" />
+	</category>
+	<category title="LDS Gospel Library" subtitle="" url="" showAsList="1" showAsPortrait="1" >
+        <category title="English" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/1.xml" />
+        <category title="Spanish" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/2.xml" />
+        <category title="French" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/7.xml" />
+        <category title="Other Languages" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/0.xml" />
+    </category>
+</categories>
+</opml>
