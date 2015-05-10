@@ -85,7 +85,7 @@
         * Callback from XHR to load the data model, this really starts the app UX
         */
         this.dataLoaded = function() {
-            var logo;
+            /*var logo;
 
             //check for entitlement services
             if(settingsParams.entitlement) {
@@ -104,6 +104,7 @@
                 img_logo:logo
             });
             this.$appContainer.append(html);
+	    */
             
             this.initializeLeftNavView();
 
