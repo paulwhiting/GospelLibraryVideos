@@ -171,7 +171,7 @@
             // create the video element
             this.videoElement = document.createElement('video');
             this.videoElement.className = 'player-content-video';
-            this.videoElement.crossOrigin = 'Anonymous';
+            //this.videoElement.crossOrigin = 'Anonymous';
             var source = document.createElement('source');
             source.src = data.videoURL;
             source.type = 'video/mp4';
@@ -295,11 +295,10 @@
         this.handleClosedCaptioning = function(tracks) {
             // TODO: we likely will move this out and make the options part of the controls, however for now we
             //  default to the first track if available
-            console.log("checking for subtitles");
             if (tracks && tracks.length > 0) {
                 var trackElement = document.createElement('track');
                 var track = tracks[0]; // temporarily default to the first track
-                console.log("found one at " + track.src);
+                //console.log("found subtitle at " + track.src);
                 trackElement.src = track.src;
                 trackElement.label = track.label || "";
                 trackElement.kind = track.kind || "subtitles";

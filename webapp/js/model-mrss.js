@@ -94,7 +94,6 @@
 
         this.getFullContentsForFolder = function(folder) {
             if (folder.url != undefined && folder.url != "" && folder.bPopulatedContents == 0) {
-                //console.log("Going to load more data from");
                 console.log(folder.url);
                 folder.contents = this.getMoreContent(folder.url);
                 //if (folder.contents != []) {
@@ -161,8 +160,10 @@
                     video.imgURL = "assets/amazon-folder.png";
                 }
                 var subtitles = $xml.find("subtitles").eq(0).attr("url");
-                video.tracks = [{src: subtitles}];
-                console.log(video.videoURL);
+		if ( subtitles != undefined ) {
+			video.tracks = [{src: subtitles}];
+		}
+                //console.log(video.videoURL);
                 item.contents.push(video);
                 });
                 });
