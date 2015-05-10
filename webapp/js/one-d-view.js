@@ -318,7 +318,7 @@
             this.$el.find(".one-D-summary-title").html(this.rowElements[index].title);
             this.$el.find(".one-D-summary-description").html(this.rowElements[index].description);
             this.$el.find("#summary-buttons-container").css("visibility", "visible" );
-            /* if (this.rowElements[index].type === "video-live") {
+             if (this.rowElements[index].type === "video-live") {
                 if (this.rowElements[index].isLiveNow)
                 {
                     this.$el.find(".one-D-summary-pubdate").html('<span class = "time-now-live">LIVE NOW</span>');
@@ -331,7 +331,7 @@
                 if (this.rowElements[index].pubDate) {
                     this.$el.find(".one-D-summary-pubdate").html(this.rowElements[index].pubDate.toLocaleString());
                 }
-            }*/
+            }
         };
 
         /**
