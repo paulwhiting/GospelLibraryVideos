@@ -93,7 +93,7 @@
         };
 
         this.getFullContentsForFolder = function(folder) {
-            if (!folder.bPopulatedContents == 0) {
+            if (folder.bPopulatedContents == 0) {
                 if (folder.url != undefined && folder.url != "") {
                     console.log(folder.url);
                     folder.contents = this.getMoreContent(folder.url);
