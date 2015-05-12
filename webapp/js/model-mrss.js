@@ -78,27 +78,37 @@
             var cats = [];
             var more = this.getURL(url);
             var $xml = $(more); // magically convert from string to XML object
+
             //console.log("Got the following data:");
             //console.log($xml);
-            //$xml.find("categories > category").each(function() {
+
             // look for subcategories
             $xml.children("category").each(function() {
-                //console.log("Got the following data:");
                 var $this = $(this);
                 var item = $orig_this.buildContents($this);
                 cats.push(item);
+            });
 
-           });
             return cats;
         };
 
         this.getFullContentsForFolder = function(folder) {
-            if (folder.url != undefined && folder.url != "" && folder.bPopulatedContents == 0) {
-                console.log(folder.url);
-                folder.contents = this.getMoreContent(folder.url);
-                //if (folder.contents != []) {
+            if (!folder.bPopulatedContents == 0) {
+                if (folder.url != undefined && folder.url != "") {
+                    console.log(folder.url);
+                    folder.contents = this.getMoreContent(folder.url);
+                    //if (folder.contents != []) {
+                        folder.bPopulatedContents = 1;
+                    //}
+                } else {
+                    // look for subcategories
+                    $xml.children("category").each(function() {
+                        var $this = $(this);
+                        var item = $orig_this.buildContents($this);
+                        cats.push(item);
+                    });
                     folder.bPopulatedContents = 1;
-                //}
+                }
             }
             return folder.contents;
          };
@@ -113,59 +123,55 @@
             var item = {
                 title: $xml.attr("title"),
                 //link: $this.find("link").text(),
-                //description: $this.find("description").eq(0).text(),
                 //pubDate: exports.utils.formatDate($this.find("pubdate").text()),
-                //author: $this.find("author").text(),
                 url: $xml.attr("url"),
                 description: $xml.attr("subtitle"),
                 pubDate: "1/1/2015",
                 //author: "LDS Church",
-                //imgURL: $this.find("image").text(),
-                //thumbURL: $this.find("image").text(),
-                imgURL: $xml.attr("img"),//"assets/amazon-folder.png",
-                thumbURL: $xml.attr("img"),//"assets/amazon-folder.png",
-                //videoURL: $xml.attr("url"),
+                imgURL: $xml.attr("img"),
+                thumbURL: $xml.attr("img"),
                 contents: [],
                 type: "subcategory",
-                bPopulatedContents: 0
+                bPopulatedContents: 0,
+                xmlObject: $xml
             };
 
             if (item.imgURL == undefined) {
                 item.imgURL = "assets/amazon-folder.png";
             }
-            if (item.thumbURL == undefined) {
-                item.thumbURL = "assets/amazon-folder.png";
-            }
 
-            $xml.children("category").each(function() {
-                var $this = $(this);
-                var subcat = $orig_this.buildContents($this);
-                item.contents.push(subcat);
-            });                // look for videos
+            item.thumbURL = item.imgURL;
+
+            //if (!bRecurse) {
+                //$xml.children("category").each(function() {
+                    //var $this = $(this);
+                    //var subcat = $orig_this.buildContents($this);
+                    //item.contents.push(subcat);
+                //});                // look for videos
+            //}
 
             $xml.children("rss").each(function() {
                 //console.log("found rss");
                 $(this).children("channel").each(function() {
-                //console.log("found channel");
-                $(this).children("item").each(function() {
-                //console.log("found item");
-                var $xml = $(this);
-                var video = {
-                    title: $xml.find("title").eq(0).text(),
-                    description: $xml.find("description").eq(0).text(),
-                    imgURL: $xml.find("thumbnail").attr("url"),//"assets/amazon-folder.png",
-                    videoURL: $xml.find("content").eq(0).attr("url")
-                };
-                if (video.imgURL == undefined || video.imgURL == "") {
-                    video.imgURL = "assets/amazon-folder.png";
-                }
-                var subtitles = $xml.find("subtitles").eq(0).attr("url");
-		if ( subtitles != undefined ) {
-			video.tracks = [{src: subtitles}];
-		}
-                //console.log(video.videoURL);
-                item.contents.push(video);
-                });
+                    //console.log("found channel");
+                    $(this).children("item").each(function() {
+                        //console.log("found item");
+                        var $xml = $(this);
+                        var video = {
+                            title: $xml.find("title").eq(0).text(),
+                            description: $xml.find("description").eq(0).text(),
+                            imgURL: $xml.find("thumbnail").attr("url"),
+                            videoURL: $xml.find("content").eq(0).attr("url")
+                        };
+                        if (video.imgURL == undefined || video.imgURL == "") {
+                            video.imgURL = "assets/amazon-folder.png";
+                        }
+                        var subtitles = $xml.find("subtitles").eq(0).attr("url");
+                        if ( subtitles != undefined ) {
+                            video.tracks = [{src: subtitles}];
+                        }
+                        item.contents.push(video);
+                    });
                 });
             });
 
