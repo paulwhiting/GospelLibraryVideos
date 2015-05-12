@@ -93,6 +93,7 @@
         };
 
         this.getFullContentsForFolder = function(folder) {
+	    var $orig_this = this;
             if (folder.bPopulatedContents == 0) {
                 if (folder.url != undefined && folder.url != "") {
                     console.log(folder.url);
@@ -102,10 +103,10 @@
                     //}
                 } else {
                     // look for subcategories
-                    $xml.children("category").each(function() {
+                    folder.xmlObject.children("category").each(function() {
                         var $this = $(this);
                         var item = $orig_this.buildContents($this);
-                        cats.push(item);
+                        folder.contents.push(item);
                     });
                     folder.bPopulatedContents = 1;
                 }
