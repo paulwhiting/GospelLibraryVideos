@@ -1,4 +1,4 @@
-<category title="Teaching" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/teaching-category-138x91.jpg">
+<categories><category title="Teaching" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/teaching-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -3556,3 +3556,4 @@
 </channel>
   </rss>
 </category>
+</categories>

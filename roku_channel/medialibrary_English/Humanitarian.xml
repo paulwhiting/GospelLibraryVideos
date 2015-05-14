@@ -1,4 +1,4 @@
-<category title="Visitor Center Films" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/visitor-center-films-category-138x91.jpg">
+<categories><category title="Visitor Center Films" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/visitor-center-films-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -567,3 +567,4 @@
 </channel>
   </rss>
 </category>
+</categories>

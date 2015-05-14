@@ -1,4 +1,4 @@
-<category title="Welcome" subtitle="Videos: 40" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><category title="About the Library" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><rss><channel><title/><description/>
+<categories><category title="Welcome" subtitle="Videos: 40" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><category title="About the Library" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2011-07-069-leading-in-the-saviors-way</id>
         <title>Leading in the Savior&#x2019;s Way</title>
@@ -2379,3 +2379,4 @@
 </item>
 </channel></rss></category>
 </category>
+</categories>
