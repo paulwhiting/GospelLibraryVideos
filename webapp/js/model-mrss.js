@@ -73,6 +73,31 @@
             return contentData;
          };
 
+        this.processChannel = function(channel) {
+            var contents = [];
+            //console.log("found channel");
+            channel.children("item").each(function() {
+                //console.log("found item");
+                var $xml = $(this);
+                var video = {
+                    title: $xml.find("title").eq(0).text(),
+                    description: $xml.find("description").eq(0).text(),
+                    imgURL: $xml.find("thumbnail").attr("url"),
+                    videoURL: $xml.find("content").eq(0).attr("url")
+                };
+                if (video.imgURL == undefined || video.imgURL == "") {
+                    video.imgURL = "assets/amazon-folder.png";
+                }
+                var subtitles = $xml.find("subtitles").eq(0).attr("url");
+                if ( subtitles != undefined ) {
+                    video.tracks = [{src: subtitles}];
+                }
+                contents.push(video);
+            });
+
+            return contents;
+        };
+
         this.getMoreContent = function(url) {
             var $orig_this = this;
             var cats = [];
@@ -87,6 +112,21 @@
                 var $this = $(this);
                 var item = $orig_this.buildContents($this);
                 cats.push(item);
+            });
+
+            // TODO: this really ought to be cleaner.  this is for categories containing rss
+            $xml.children("rss").each(function() {
+                //console.log("found rss");
+                $(this).children("channel").each(function() {
+                  $.merge(cats,$orig_this.processChannel($(this)));
+                });
+            });
+
+            // TODO: this really ought to be cleaner.  this is for AJAXed data
+            // that has a root element "rss"
+            $xml.children("channel").each(function() {
+              //console.log("found rss");
+              $.merge(cats,$orig_this.processChannel($(this)));
             });
 
             return cats;
@@ -142,39 +182,6 @@
             }
 
             item.thumbURL = item.imgURL;
-
-            //if (!bRecurse) {
-                //$xml.children("category").each(function() {
-                    //var $this = $(this);
-                    //var subcat = $orig_this.buildContents($this);
-                    //item.contents.push(subcat);
-                //});                // look for videos
-            //}
-
-            $xml.children("rss").each(function() {
-                //console.log("found rss");
-                $(this).children("channel").each(function() {
-                    //console.log("found channel");
-                    $(this).children("item").each(function() {
-                        //console.log("found item");
-                        var $xml = $(this);
-                        var video = {
-                            title: $xml.find("title").eq(0).text(),
-                            description: $xml.find("description").eq(0).text(),
-                            imgURL: $xml.find("thumbnail").attr("url"),
-                            videoURL: $xml.find("content").eq(0).attr("url")
-                        };
-                        if (video.imgURL == undefined || video.imgURL == "") {
-                            video.imgURL = "assets/amazon-folder.png";
-                        }
-                        var subtitles = $xml.find("subtitles").eq(0).attr("url");
-                        if ( subtitles != undefined ) {
-                            video.tracks = [{src: subtitles}];
-                        }
-                        item.contents.push(video);
-                    });
-                });
-            });
 
 
             return item;
