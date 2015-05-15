@@ -115,12 +115,12 @@
             });
 
             // TODO: this really ought to be cleaner.  this is for categories containing rss
-            $xml.children("rss").each(function() {
+            //$xml.children("rss").each(function() {
                 //console.log("found rss");
-                $(this).children("channel").each(function() {
-                  $.merge(cats,$orig_this.processChannel($(this)));
-                });
-            });
+                //$(this).children("channel").each(function() {
+                  //$.merge(cats,$orig_this.processChannel($(this)));
+                //});
+            //});
 
             // TODO: this really ought to be cleaner.  this is for AJAXed data
             // that has a root element "rss"
@@ -182,6 +182,29 @@
             }
 
             item.thumbURL = item.imgURL;
+
+            $xml.children("rss").each(function() {
+            $(this).children("channel").each(function() {
+            $(this).children("item").each(function() {
+                //console.log("found item");
+                var $xml = $(this);
+                var video = {
+                    title: $xml.find("title").eq(0).text(),
+                    description: $xml.find("description").eq(0).text(),
+                    imgURL: $xml.find("thumbnail").attr("url"),
+                    videoURL: $xml.find("content").eq(0).attr("url")
+                };
+                if (video.imgURL == undefined || video.imgURL == "") {
+                    video.imgURL = "assets/amazon-folder.png";
+                }
+                var subtitles = $xml.find("subtitles").eq(0).attr("url");
+                if ( subtitles != undefined ) {
+                    video.tracks = [{src: subtitles}];
+                }
+                item.contents.push(video);
+            });
+            });
+            });
 
 
             return item;
