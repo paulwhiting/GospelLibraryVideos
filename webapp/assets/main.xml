@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <categories>
 	<category title="LDS Media Library - Recent" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_recent.xml" showAsList="1" showAsPortrait="0" />
@@ -14,5 +14,41 @@
         <category title="French" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/7.xml" />
         <category title="Other Languages" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/0.xml" />
     </category>
+  <category title="Mormon Channel Radio" subtitle="" url="" img="https://www.mormonchannel.org/bc/content/mormon-channel/radio/1200x1200/24-7-music.jpg">
+    <rss><channel><title/><description/>
+      <item>
+        <id>0</id>
+        <title>Music</title>
+        <description>Mormon Music Channel</description>
+        <duration>-1</duration>
+        <thumbnail url="https://www.mormonchannel.org/bc/content/mormon-channel/radio/300x300/24-7-music.jpg"/>
+        <content url="http://ldschurch.mp3.miisolutions.net/MormonMusicChannel/new_music_Web"/>
+      </item>
+      <item>
+        <id>0</id>
+        <title>Mormon Tabernacle Choir</title>
+        <description>Mormon Tabernacle Choir</description>
+        <duration>-1</duration>
+        <thumbnail url="https://www.mormonchannel.org/bc/content/mormon-channel/radio/300x300/24-7-motab.jpg"/>
+        <content url="http://ldschurch.mp3.miisolutions.net/MormonTabernacleChoir/motab_Web"/>
+      </item>
+      <item>
+        <id>0</id>
+        <title>Talk</title>
+        <description>Mormon Channel Talk</description>
+        <duration>-1</duration>
+        <thumbnail url="https://www.mormonchannel.org/bc/content/mormon-channel/radio/300x300/24-7-talk.jpg"/>
+        <content url="http://ldschurch.mp3.miisolutions.net/MormonChannel/new_mormon_Web"/>
+      </item>
+      <item>
+        <id>0</id>
+        <title>Canal Mormón</title>
+        <description>Spanish</description>
+        <duration>-1</duration>
+        <thumbnail url="http://broadcast2.lds.org/mc/a/030000001.jpg"/>
+        <content url="http://ldschurch.mp3.miisolutions.net/CanalMormon/spanish_Web"/>
+      </item>
+  </channel></rss>
+  </category>
 </categories>
 </opml>
