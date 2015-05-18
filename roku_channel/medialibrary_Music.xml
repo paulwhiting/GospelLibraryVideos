@@ -6955,6 +6955,48 @@
 <content url='http://broadcast2.lds.org/music/hymns/2001-01-3190-ye-elders-of-israel-men-vocal-and-instrumental-2500k-ase.mp4' height='0'/>
 </item>
 </channel></rss></category>
+<category title='Instrumental Music' subtitle='Videos: 5' img=''><rss><channel><title/><description/>
+<item>
+        <id>I Am a Child of God (Huff, for violins or flutes and piano)</id>
+        <title>I Am a Child of God (Huff, for violins or flutes and piano)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-003-i-am-a-child-of-god-128k-eng.mp3' height='0'/>
+</item>
+<item>
+        <id>I Feel My Savior's Love (Polhamus, for piano)</id>
+        <title>I Feel My Savior&apos;s Love (Polhamus, for piano)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-004-i-feel-my-saviors-love-128k-eng.mp3' height='0'/>
+</item>
+<item>
+        <id>Jesus, Lover of My Soul (Goates, for cello and piano)</id>
+        <title>Jesus, Lover of My Soul (Goates, for cello and piano)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-007-jesus-lover-of-my-soul-128k-eng.mp3' height='0'/>
+</item>
+<item>
+        <id>Jesus, the Very Thought of Thee (Andersen, for piano-4 hands)</id>
+        <title>Jesus, the Very Thought of Thee (Andersen, for piano-4 hands)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-008-jesus-the-very-thought-of-thee-128k-eng.mp3' height='0'/>
+</item>
+<item>
+        <id>Sunshine Hymn Medley (Violin and Piano)</id>
+        <title>Sunshine Hymn Medley (Violin and Piano)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-016-sunshine-hymn-medley-128k-eng.mp3' height='0'/>
+</item>
+</channel></rss></category>
 <category title='Music for Children' subtitle='Videos: 21' img=''><rss><channel><title/><description/>
 <item>
         <id>As a Child of God</id>
@@ -7316,7 +7358,7 @@
 <content url='http://media2.ldscdn.org/assets/music/hymns/2001-01-3210-ye-who-are-called-to-labor-men-instrumental-192k-eng.mp3' height='0'/>
 </item>
 </channel></rss></category>
-<category title='Music for Women' subtitle='Videos: 11' img=''><rss><channel><title/><description/>
+<category title='Music for Women' subtitle='Videos: 12' img=''><rss><channel><title/><description/>
 <item>
         <id>A Key Was Turned in Latter Days (Women)</id>
         <title>A Key Was Turned in Latter Days (Women)</title>
@@ -7371,6 +7413,14 @@
 <content url='http://media2.ldscdn.org/assets/music/hymns/2001-01-3180-love-at-home-women-instrumental-192k-eng.mp3' height='0'/>
 </item>
 <item>
+        <id>Safe Within His Keep (Holyoak, SSAA)</id>
+        <title>Safe Within His Keep (Holyoak, SSAA)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-013-safe-within-his-keep-128k-eng.mp3' height='0'/>
+</item>
+<item>
         <id>Sweet Is the Work (Women)</id>
         <title>Sweet Is the Work (Women)</title>
         <description></description>
@@ -7380,8 +7430,8 @@
 <content url='http://media2.ldscdn.org/assets/music/hymns/2001-01-3170-sweet-is-the-work-women-instrumental-192k-eng.mp3' height='0'/>
 </item>
 <item>
-        <id>The Lord Is My Light (Mohlman)</id>
-        <title>The Lord Is My Light (Mohlman)</title>
+        <id>The Lord Is My Light (Mohlman, SA)</id>
+        <title>The Lord Is My Light (Mohlman, SA)</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
@@ -9036,8 +9086,8 @@
 <content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-012-one-clear-night-128k-eng.mp3' height='0'/>
 </item>
 <item>
-        <id>Safe Within His Keep (Holyoak)</id>
-        <title>Safe Within His Keep (Holyoak)</title>
+        <id>Safe Within His Keep (Holyoak, SSAA)</id>
+        <title>Safe Within His Keep (Holyoak, SSAA)</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
@@ -9068,8 +9118,8 @@
 <content url='http://media2.ldscdn.org/assets/music/2014-fall-church-music-festival-performance/2015-04-016-sunshine-hymn-medley-128k-eng.mp3' height='0'/>
 </item>
 <item>
-        <id>The Lord Is My Light (Mohlman)</id>
-        <title>The Lord Is My Light (Mohlman)</title>
+        <id>The Lord Is My Light (Mohlman, SA)</id>
+        <title>The Lord Is My Light (Mohlman, SA)</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
