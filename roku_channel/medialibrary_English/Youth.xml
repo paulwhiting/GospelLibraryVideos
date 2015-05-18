@@ -1902,11 +1902,12 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-1080p-eng.mp4" height="1080"/>
 </item>
 <item>
-        <id>46834635501407725310-eng</id>
+        <id>2010-08-16-voice-of-the-spirit</id>
         <title>Voice of the Spirit</title>
         <description>In a world full of noise and many voices, President James E. Faust invites us to listen to and follow the voice of the Spirit, which is calm and quiet and leads to eternal life.</description>
-        <duration>0</duration>
+        <duration>235</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-1080p-eng.mp4" height="1080"/>
@@ -2093,16 +2094,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-06-0080-fathers-and-sons-1080p-eng.mp4" height="1080"/>
 </item>
 <item>
-        <id>33993457672213173370-eng</id>
-        <title>The Will of God</title>
-        <description>God uses love-inspired correction to guide us to a future we do not or cannot now envision but which He knows is the better way for us.</description>
-        <duration>0</duration>
-        <thumbnail url="http://www.lds.org/ldsorg/home/the-will-of-god-gallery-thumbnail.jpg"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-360p-eng.mp4" height="360"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-720p-eng.mp4" height="720"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-1080p-eng.mp4" height="1080"/>
-</item>
-<item>
         <id>2013-01-001-your-potential-your-privileges</id>
         <title>Your Potential, Your Privileges</title>
         <description>President Dieter F. Uchtdorf shares a humorous parable of a man who realizes he has been living far beneath his privileges.</description>
@@ -2112,6 +2103,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-1080p-eng.mp4" height="1080"/>
+</item>
+<item>
+        <id>2012-01-014-the-will-of-god-eng</id>
+        <title>The Will of God</title>
+        <description>God uses love-inspired correction to guide us to a future we do not or cannot now envision but which He knows is the better way for us.</description>
+        <duration>182</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-014-the-will-of-god-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-360p-eng.mp4" height="360"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-720p-eng.mp4" height="720"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-1080p-eng.mp4" height="1080"/>
 </item>
 </channel></rss></category>
 <category title="February: The Plan of Salvation" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/youth-curriculum/02-february-category-138x91.jpg"><rss><channel><title/><description/>
@@ -2688,6 +2690,7 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-1080p-eng.mp4" height="1080"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-audio-description-256k-eng.mp3" height="360"/>
 </item>
 <item>
         <id>2012-03-1130-priesthood-authority-and-power-eng</id>
@@ -3497,6 +3500,7 @@
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-720p-eng.mp4" height="720"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-1080p-eng.mp4" height="1080"/>
 </item>
 <item>
         <id>2013-02-0250-bringing-up-children-in-light-and-truth-loving-gods-children-eng</id>
@@ -3979,6 +3983,7 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-eng.mp4" height="1080"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="360"/>
 </item>
 <item>
         <id>2010-10-0100-sharing-the-light-of-christ-eng</id>
@@ -5057,6 +5062,22 @@
 <content url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-004-we-learn-1080p-eng.mp4" height="1080"/>
 </item>
 </channel></rss></category>
+</category>
+<category title="Face to Face" subtitle="Videos: 1" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
+  <rss>
+    <channel><title/><description/>
+<item>
+        <id>2015-05-1000-face-to-face-with-elder-and-sister-bednar</id>
+        <title>Face to Face with Elder and Sister Bednar</title>
+        <description>Face to Face with Elder and Sister Bednar</description>
+        <duration>4823</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/media-library/images/youth/face-to-face-elder-and-sister-bednar-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-360p-eng.mp4" height="360"/>
+<content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-720p-eng.mp4" height="720"/>
+<content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-1080p-eng.mp4" height="1080"/>
+</item>
+</channel>
+  </rss>
 </category>
 <category title="Youth Media" subtitle="Videos: 9" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>

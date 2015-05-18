@@ -302,7 +302,7 @@
 </channel>
   </rss>
 </category>
-<category title="I'm a Mormon 2012" subtitle="Videos: 58" img="http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg">
+<category title="I'm a Mormon 2012" subtitle="Videos: 59" img="http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -452,6 +452,17 @@
         <duration>169</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-11-5600-im-a-mormon-a-choir-director-and-a-musical-mom-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5600-im-a-mormon-a-choir-director-and-a-musical-mom-720p-eng.mp4" height="720"/>
+</item>
+<item>
+        <id>2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado</id>
+        <title>I&#x2019;m a Mormon, Aerial Dancer, and London Aficionado</title>
+        <description>Our path in life is not always easy. When it becomes too difficult, trust in God who will grant us wings&#x2026;like the ones Vanessa appears to wear when she dances. See more at www.mormon.org/Vanessa</description>
+        <duration>209</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado.xml"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-360p-eng.mp4" height="360"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-720p-eng.mp4" height="720"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-1080p-eng.mp4" height="1080"/>
 </item>
 <item>
         <id>2012-10-5300-im-a-mormon-neurologist-and-difference-maker</id>
