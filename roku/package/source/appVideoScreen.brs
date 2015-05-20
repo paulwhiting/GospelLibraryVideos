@@ -27,7 +27,13 @@ Function showVideoScreen(episode As Object, stream_url = "")
   vid_to_play = episode
 
   if stream_url <> "" then
-    print "Choosing to play url"; stream_url
+    print "Choosing to play url "; stream_url
+    format = episode.StreamFormat
+    
+    if LCase (Right (stream_url, 4)) = ".mp3"
+      format = "mp3"
+    end if
+      
     vid_to_play = {
       Stream: { url: stream_url }
       StreamFormat: episode.StreamFormat

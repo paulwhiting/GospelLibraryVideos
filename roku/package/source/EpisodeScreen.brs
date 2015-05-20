@@ -1,7 +1,5 @@
 sub ShowEpisodeScreen(show, leftBread, rightBread)
 
-    print "episode screen begin"
-
 	screen = CreateObject("roPosterScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
   screen.SetListStyle("flat-episodic-16x9")
@@ -9,28 +7,21 @@ sub ShowEpisodeScreen(show, leftBread, rightBread)
   screen.SetBreadcrumbText(leftBread, rightBread)
 	screen.Show()
 
-    Dbg("episode url: ", show.url)
-    Dbg("episode rss: ", show.content)
-	
-    Dbg("Glancy video count: ", show.videos.count())
-    if show.videos.count() > 0
-        print "Using glancy vids"
-        content = show.videos
-    else
-        print "Using regular vids"
-        mrss = NWM_MRSS(show.url,show.content)
-        content = mrss.GetEpisodes()
-        if content.Count() = 0
-            return
-        end if
-    end if
+  Dbg("episode url: ", show.url)
+  Dbg("episode rss: ", show.content)
+
+  mrss = NWM_MRSS(show.url,show.content)
+  content = mrss.GetEpisodes()
+  if content.Count() = 0
+    ' TODO: show an error dialog
+    return
+  end if
 
 	selectedEpisode = 0
 	screen.SetContentList(content)
 	screen.Show()
 
-    print "episode list while true"
-	while true
+  while true
 		msg = wait(0, screen.GetMessagePort())
 		
 		if msg <> invalid
@@ -43,12 +34,12 @@ sub ShowEpisodeScreen(show, leftBread, rightBread)
 				screen.SetFocusedListItem(selectedEpisode)
 				'screen.Show()
 			else if msg.isRemoteKeyPressed()
-                if msg.GetIndex() = 13
-                    if content[selectedEpisode].streamFormat = "mp3"
-                        ShowAudioScreen(content, selectedEpisode, leftBread, "")
-                    else
-                        ShowVideoScreen(content[selectedEpisode])
-                    end if
+        if msg.GetIndex() = 13
+          if content[selectedEpisode].streamFormat = "mp3"
+            ShowAudioScreen(content, selectedEpisode, leftBread, "")
+          else
+            ShowVideoScreen(content[selectedEpisode])
+          end if
 				end if
 			end if
 		end if

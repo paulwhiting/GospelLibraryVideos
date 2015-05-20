@@ -15,7 +15,7 @@
 	<category title="LDS Media Library on USB" subtitle="" url="ext1:/medialibrary_downloaded.xml" showAsList="0" showAsPortrait="0" />
 	<category title="LDS Media Library - Recent" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_recent.xml" showAsList="1" showAsPortrait="0" />
 	<category title="LDS Media Library - Full" subtitle="" url="" showAsList="1" showAsPortrait="0">
-		<category title="English Media Library" subtitle="" url="pkg:/xml/medialibrary_English.xml" showAsList="0" showAsPortrait="0" />
+		<category title="English Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_English_root.xml" showAsList="0" showAsPortrait="0" />
 		<category title="Spanish Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Spanish.xml" showAsList="0" showAsPortrait="0" />
 		<category title="ASL Media Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_ASL.xml" showAsList="0" showAsPortrait="0" />
 		<category title="Music Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Music.xml" showAsList="1" showAsPortrait="0" />

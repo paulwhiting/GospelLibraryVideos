@@ -3,7 +3,7 @@ Function ShowMessageDialog_USBError(file) As Void
     dialog = CreateObject("roMessageDialog")
     dialog.SetMessagePort(port)
     dialog.SetTitle("USB Error")
-    dialog.SetText("The file at " + file + " was not found.  To playvideos from USB follow the instructions at github.com/paulwhiting/GospelLibraryVideos/releases")
+    dialog.SetText("The file at " + file + " was not found.  To play videos from USB follow the instructions at github.com/paulwhiting/GospelLibraryVideos/releases")
  
 '    count = 1
 '    for each stream in episode.streams
@@ -95,6 +95,10 @@ sub ShowPosterScreen(contentList, breadLeft, breadRight, bAsListScreen, bAsPortr
             endif
 
             ParseCategoriesFromXML(xml,SelectedItem.categories)
+            if selectedItem.categories.Count() = 0
+              ' if we fail to parse a category from the XML then assume it's episode info
+              selectedItem.content = xml
+            end if
             selectedItem.bPopulatedCategories = 1
         end if
 

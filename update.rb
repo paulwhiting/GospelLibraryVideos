@@ -832,6 +832,8 @@ def FixQuality( title, quality )
     when "360P", "360 p", "Small", "Small video"
         PrettyPrintNewline "Fixing quality '#{quality}' to 360p for #{title}"
         return "360p"
+    when "Audio Description"
+        return "mp3"
     else
         PrettyPrintNewline "Fixing unknown quality '#{quality}' to 360p for #{title}"
         return "360p"
@@ -1195,12 +1197,12 @@ class MediaLibraryEntry
                 next if DOWNLOADED_VIDEO_DIR != nil and not video_already_downloaded?( link )
                 size = item['size']
                 if size.to_i == 0
-                  PrettyPrintNewline "Video download size is zero: #{link}"
                   if link == nil or link == ""
-                    PrettyPrintNewline "Link is empty for #{title}"
+                    PrettyPrintNewline "When detecting size the URL is empty for #{title}"
                   else
                     size = get_file_download_size( link )
                   end
+                  PrettyPrintNewline "WARNING: Video download size is zero for #{link} on page #{@url} but it was detected to be #{size}"
                 end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)
