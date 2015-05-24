@@ -944,7 +944,7 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-eng.mp4" height="1080"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="360"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="0"/>
 </item>
 <item>
         <id>2011-10-009-jesus-teaches-about-the-widows-mites</id>
@@ -1013,17 +1013,6 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together-1080p-eng.mp4" height="1080"/>
 </item>
 <item>
-        <id>2011-10-008-bible-videos-introduction-eng</id>
-        <title>Bible Videos - Introduction</title>
-        <description>The Life of Jesus Christ Bible Videos can help you experience Christ's ministry as never before. See how in this introductory video.</description>
-        <duration>81</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-008-bible-videos-introduction-138x81.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-008-bible-videos-introduction.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-008-bible-videos-introduction-360p-eng.mp4" height="360"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-008-bible-videos-introduction-720p-eng.mp4" height="720"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-008-bible-videos-introduction-1080p-eng.mp4" height="1080"/>
-</item>
-<item>
         <id>2011-10-002-an-angel-foretells-christs-birth-to-mary</id>
         <title>An Angel Foretells Christ&#x2019;s Birth to Mary</title>
         <description>The angel Gabriel, sent from the presence of God, announces to the young Mary her future role as the mother of the child Jesus.</description>
@@ -1033,17 +1022,6 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-360p-eng.mp4" height="360"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-720p-eng.mp4" height="720"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-1080p-eng.mp4" height="1080"/>
-</item>
-<item>
-        <id>2011-10-001-a-gift-to-the-world-eng</id>
-        <title>A Gift to the World</title>
-        <description>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</description>
-        <duration>554</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-001-a-gift-to-the-world-138x81.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-001-a-gift-to-the-world.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-001-a-gift-to-the-world-360p-eng.mp4" height="360"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-001-a-gift-to-the-world-720p-eng.mp4" height="720"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-001-a-gift-to-the-world-1080p-eng.mp4" height="1080"/>
 </item>
 </channel>
 </rss>
