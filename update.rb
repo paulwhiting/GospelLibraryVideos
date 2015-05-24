@@ -832,7 +832,7 @@ def FixQuality( title, quality )
     when "360P", "360 p", "Small", "Small video"
         PrettyPrintNewline "Fixing quality '#{quality}' to 360p for #{title}"
         return "360p"
-    when "Audio Description"
+    when "Audio Description", "MP3", "mp3"
         return "mp3"
     else
         PrettyPrintNewline "Fixing unknown quality '#{quality}' to 360p for #{title}"
@@ -1345,6 +1345,9 @@ def do_glancy_update( params = {} )
 
     title = params[:title]
     url = params[:url]
+    filename = params[:filename]
+    filename = title if filename == nil
+
     $unique_videos = {}
     $unique_filenames = Hash.new(0)
 
@@ -1367,12 +1370,12 @@ def do_glancy_update( params = {} )
         xml += e.to_xml
     end
     xml += "</categories>"
-    WriteToFile(ROKU_CHANNEL_DIR_PREFIX + "medialibrary_#{title}.xml",xml)
+    WriteToFile(ROKU_CHANNEL_DIR_PREFIX + "medialibrary_#{filename}.xml",xml)
 
-    common_glancy_output( title, a )
+    common_glancy_output( filename, title, a )
 end
 
-def common_glancy_output( title, a )
+def common_glancy_output( filename, title, a )
     puts "There are #{a.video_count} videos spanning #{$unique_videos.count} URLs"
     sizes_per_quality = Hash.new(0)
 
@@ -1396,11 +1399,11 @@ def common_glancy_output( title, a )
         # get download filename
         index = url.rindex('/')
         if index == nil
-            filename = url
+            f = url
         else
-            filename = url[(index+1)..-1]
+            f = url[(index+1)..-1]
         end
-        $unique_filenames[filename] += 1
+        $unique_filenames[f] += 1
     end
 
     if $unique_videos.count == $unique_filenames.count
@@ -1419,7 +1422,7 @@ def common_glancy_output( title, a )
         # print size of just videos of this quality
         puts "#{quality}: #{size} MB in #{counts[quality]} videos"
         xml = a.to_glancy_library_xml(quality.to_i)
-        xmlname = "medialibrary_rss_#{title}_#{quality}.xml"
+        xmlname = "medialibrary_rss_#{filename}_#{quality}.xml"
         WriteToFile(GLANCY_DIR_PREFIX + xmlname,xml)
 
         size = 0  # okay now print size of library including other vids we need to have to make a full library
@@ -1434,7 +1437,7 @@ def common_glancy_output( title, a )
           </item>\n"
     end
 
-    WriteToFile(GLANCY_DIR_PREFIX + "medialibrary_rss_#{title}.xml",glancy_rss)
+    WriteToFile(GLANCY_DIR_PREFIX + "medialibrary_rss_#{filename}.xml",glancy_rss)
     print_and_save_download_stats
 
 end # do_glancy_update
@@ -1515,15 +1518,25 @@ elsif ARGV[0] == 'glancy_update'
 
     ENGLISH_URL  = "https://www.lds.org/media-library/video/categories"
     ENGLISH_MUSIC_URL  = "https://www.lds.org/music/library"
-    ASL_URL      = "https://www.lds.org/media-library/video/categories?lang=eng&clang=ase"
-    SPANISH_URL  = "https://www.lds.org/media-library/video/categories?lang=spa"
-    PORTUGUESE_URL  = "https://www.lds.org/media-library/video/categories?lang=por"
+    GENERIC_URL  = "https://www.lds.org/media-library/video/categories?lang="
 
     do_glancy_update(title: "English", url: ENGLISH_URL)
-    do_glancy_update(title: "ASL", url: ASL_URL)
-    do_glancy_update(title: "Spanish", url: SPANISH_URL)
-    do_glancy_update(title: "Portuguese", url: PORTUGUESE_URL)
     do_glancy_update(title: "Music", url: ENGLISH_MUSIC_URL)
+
+    [
+      ["ASL", "American Sign Language (ASL)", "eng&clang=ase"],
+      ["Deutsch", "Deutsch", "deu"],
+      ["Spanish", "Español", "spa"],
+      ["French", "Français", "fra"],
+      ["Italiano", "Italiano", "ita"],
+      ["Portuguese", "Português", "por"],
+      ["Russian", "Русский", "rus"],
+      ["Korean", "한국어", "kor"],
+      ["Japanese", "日本語", "jpn"],
+    ].each do |threesome|
+        filename, title, tag = threesome
+        do_glancy_update(filename: filename, title: title, url: GENERIC_URL + tag)
+    end
 
     glancy_rss = "<?xml version=\"1.0\" encoding=\"utf-8\"?>
     <rss version=\"2.0\">
@@ -1533,7 +1546,6 @@ elsif ARGV[0] == 'glancy_update'
         <description>Media Library for The Church of Jesus Christ of Latter-day Saints</description>
         <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>\n"
 
-    #["English","ASL","Spanish","Portuguese"].each do |title|
     ["English","ASL","Spanish","Music"].each do |title|
         begin
             data = File.open(GLANCY_DIR_PREFIX + "medialibrary_rss_#{title}.xml").read
