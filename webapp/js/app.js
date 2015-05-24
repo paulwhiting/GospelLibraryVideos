@@ -67,6 +67,7 @@
     *                 settingsParams.displayButtons {Boolean} flag that tells the app to display the buttons or not
     */
     function App(settingsParams) {
+
         //hold onto the app settings
         this.settingsParams = settingsParams;
         this.showSearch = settingsParams.showSearch;
@@ -85,7 +86,8 @@
         * Callback from XHR to load the data model, this really starts the app UX
         */
         this.dataLoaded = function() {
-            /*var logo;
+            var logo;
+            this.$appContainer.empty();
 
             //check for entitlement services
             if(settingsParams.entitlement) {
@@ -103,8 +105,7 @@
             var html = utils.buildTemplate($("#app-header-template"), {
                 img_logo:logo
             });
-            this.$appContainer.append(html);
-	    */
+            // this.$appContainer.append(html);
             
             this.initializeLeftNavView();
 
@@ -132,6 +133,19 @@
             buttons.resync();
         };
 
+        this.exitPlayerView = function () {
+            this.loadingSpinner.hide.all();
+
+            // incase this was a livestream we need to clear the livestream updater
+            clearTimeout(this.liveUpdater);
+            if (this.subCategoryView) {
+                this.transitionFromPlayerToSubCategory();
+            }
+            else {
+                this.transitionFromPlayerToOneD();
+            }
+        };
+
        /**
         * All button events route through here, send them to current view
         * Views are switched based on the type of key press - up and down
@@ -141,6 +155,8 @@
         * @param {Event} e
         */
         this.handleButton = function(e) {
+            //TODO: hijack button events when error dialog is active. We may not need special logic if we set dialog view to currentView.
+            //Pending implementation detail.
             if (this.currentView) {
                 this.currentView.handleControls(e);
             } 
@@ -153,9 +169,9 @@
         * Handle touch events
         */
         this.handleTouch = function(e) {
-            if(e.type === 'swipe') {
+            if( false && e.type === 'swipe') {
                 //alert('swipe');
-                if(this.subCategoryView != undefined) {
+                if(this.subCategoryView) {
                     this.currentView = this.subCategoryView;
                 }
                 else if($("#left-nav-list-container").hasClass('leftnav-menulist-collapsed')) {
@@ -165,7 +181,9 @@
                     this.currentView = this.leftNavView;
                 }
             }
-            this.currentView.handleControls(e);
+            if (this.currentView) {
+              this.currentView.handleControls(e);
+            }
         };
 
        /***************************
@@ -208,7 +226,7 @@
                     this.oneDView.remove();
                     
                     //show the spinner
-                    this.showContentLoadingSpinner();
+                    this.loadingSpinner.show.spinner();
 
                     //set the newly selected category index
                     if(this.showSearch) { index--;}
@@ -233,7 +251,7 @@
                     this.oneDView.remove();
                     
                     //show the spinner
-                    this.showContentLoadingSpinner();
+                    this.loadingSpinner.show.spinner();
                     this.oneDView.updateCategoryFromSearch(this.searchInputView.currentSearchQuery);
 
                     //set the selected view
@@ -249,6 +267,9 @@
             */
             leftNavView.on('deselect', function() {
                 this.transitionFromLefNavToOneD();
+                if (this.oneDView.noItems) {
+                    this.exitApp();
+                }
             }, this);
    
            /**
@@ -268,6 +289,9 @@
                 }, this);
             }
 
+           /**
+            * Event Handler - Make this the active view
+            */
             leftNavView.on('makeActive', function() {
                 this.transitionToExpandedLeftNavView();
             }, this);
@@ -293,6 +317,14 @@
                     }
                 }
 
+            }, this);
+
+           /**
+            * Event Handler - When the left nav is loaded remove the 
+            *                 app overlay until the content is loaded
+            */
+            leftNavView.on('loadComplete', function() {
+                this.loadingSpinner.hide.overlay();
             }, this);
 
             //render the left nav right now
@@ -339,6 +371,7 @@
             */
             oneDView.on('noContent', function() {
                 window.setTimeout(function(){
+                    this.loadingSpinner.hide.spinner();
                     this.transitionToLeftNavView();
                     this.leftNavView.setHighlightedElement();
                 }.bind(this), 10);
@@ -366,13 +399,12 @@
                 this.exitApp();
             }, this);
 
-
            /** 
             * Event Handler - Load Complete 
             * @param {Number} index the index of the selected item
             */
             oneDView.on('loadComplete', function() {
-                this.hideContentLoadingSpinner();
+                this.loadingSpinner.hide.spinner();
                 handleDeviceOrientation();
             }, this);
 
@@ -381,7 +413,9 @@
             * @param {Object} categoryData
             */
             var successCallback = function(categoryData) {
+                this.succeededCategoryIndex = this.leftNavView.confirmedSelection;
                 this.categoryData = categoryData;
+                $("#one-D-view-item-elements").remove();
                 oneDView.render(this.$appContainer, categoryData, this.settingsParams.displayButtons);
             }.bind(this);
 
@@ -401,6 +435,7 @@
         };
 
         this.openSubCategory = function(data) {
+            this.succeededSubCategoryIndex = this.oneDView.currSelection;
             if (this.subCategoryView) {
                 if (!this.subCategoryStack) {
                     this.subCategoryStack = [];
@@ -494,27 +529,35 @@
         }.bind(this);
 
        /**
-        * Hide content loading spinner 
+        * loadingSpinner Object 
+        * Used to show/hide the loading spinner and app overlay
         */
-        this.hideContentLoadingSpinner = function() {
+        this.loadingSpinner = {
+            show : {
+                overlay : function() {
+                    $('#app-overlay').show();
+                },
+                spinner : function() {
+                    $('#app-loading-spinner').show();
+                },
+                all : function() {
+                    this.overlay();
+                    this.spinner();
+                }
+            },
+
+            hide : {
+                overlay : function() {
+                    $('#app-overlay').fadeOut(250);
+                },
+                spinner : function() {
             $('#app-loading-spinner').hide();
-            var $appOverlay = $('#app-overlay');
-
-            if ($appOverlay.css('display') !== 'none') {
-                $appOverlay.fadeOut(250);
-            }
-        };
-
-       /**
-        * Show content loading spinner 
-        * @param {Boolean} showOverlay if true show the app overlay
-        */
-        this.showContentLoadingSpinner = function(showOverlay) {
-            $('#app-loading-spinner').show();
-
-            if(showOverlay) {
-                $('#app-overlay').show();
-            }
+                },
+                all : function() {
+                    this.overlay();
+                    this.spinner();
+                }
+            },
         };
 
        /**
@@ -608,9 +651,11 @@
         */
         this.transitionFromPlayerToOneD = function () {
             this.selectView(this.oneDView);
+            if (this.playerView) {
             this.playerView.off('videoStatus', this.handleVideoStatus, this);
             this.playerView.remove();
             this.playerView = null;
+            }
             this.oneDView.show();
             this.leftNavView.show();
             this.oneDView.shovelerView.show();
@@ -622,10 +667,13 @@
         */
         this.transitionFromPlayerToSubCategory = function () {
             this.selectView(this.subCategoryView);
+            if (this.playerView) {
             this.playerView.off('videoStatus', this.handleVideoStatus, this);
             this.playerView.remove();
             this.playerView = null;
+            }
             this.subCategoryView.show();
+            this.showHeaderBar();
         };
 
        /**
@@ -650,20 +698,9 @@
             this.hideHeaderBar();
 
             //start the loader
-            this.showContentLoadingSpinner(true);
+            this.loadingSpinner.show.all();
 
-            playerView.on('exit', function() {
-                this.hideContentLoadingSpinner();
-
-                // incase this was a livestream we need to clear the livestream updater
-                clearTimeout(this.liveUpdater);
-                if (this.subCategoryView) {
-                    this.transitionFromPlayerToSubCategory();
-                }
-                else {
-                    this.transitionFromPlayerToOneD();
-                }
-            }, this);
+            playerView.on('exit', this.exitPlayerView, this);
 
             playerView.on('indexChange', function(index) {
                 if (this.subCategoryView) {
@@ -674,10 +711,37 @@
                 }
             }, this);
 
-
             this.selectView(playerView);
 
             playerView.on('videoStatus', this.handleVideoStatus, this);
+            playerView.on('error', function(errType, errStack) {
+                var errorDialog;
+
+                switch (errType) {
+                    case ErrorTypes.PLAYER_ERROR:
+                        var buttons = this.createOkButtonForErrorDialog(this.exitAppCallback);
+                        errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                        this.transitionToErrorDialog(errorDialog);
+                        break;
+                    case ErrorTypes.CONTENT_SRC_ERROR:
+                    case ErrorTypes.CONTENT_DECODE_ERROR:
+                    case ErrorTypes.VIDEO_NOT_FOUND:
+                    case ErrorTypes.TIMEOUT_ERROR:
+                    case ErrorTypes.NETWORK_ERROR:
+                    case ErrorTypes.HTML5_PLAYER_ERROR:
+                    case ErrorTypes.EMBEDDED_PLAYER_ERROR:
+                        var buttons = this.createButtonsForErrorDialog(this.playerErrorOkCallback, this.playerErrorRetryCallback);
+                        errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                        this.transitionToErrorDialog(errorDialog);
+                        break;
+                    default:
+                        errType.errToDev = "An unknown error occurred in the player adapter";
+                        errType.errToUser = "There is an error with the player.";
+                        break;
+                }
+                errorHandler.writeToConsole(errType, errType.errToDev, errStack);
+                errorHandler.informDev(errType, errType.errToDev, errStack);
+            }.bind(this));
 
             playerView.render(this.$appContainer, data, index);
         };
@@ -687,14 +751,14 @@
         */
         this.handleVideoStatus = function(currTime, duration, type) {
             if (!this.playerSpinnerHidden && type === "playing") {
-                this.hideContentLoadingSpinner();
+                this.loadingSpinner.hide.all();
                 this.playerSpinnerHidden = true;
             }
             else if (type === "canplay") {
                 this.playerView.playVideo();
             }
             else if (type === "ended") {
-                this.hideContentLoadingSpinner();
+                this.loadingSpinner.hide.all();
                 this.transitionFromPlayerToOneD();
             }
         };
@@ -707,8 +771,226 @@
         touches.on('touch', this.handleTouch, this);
         touches.on('swipe', this.handleTouch, this);
 
+        // initialize error handler instance that will be used globally
+        exports.errorHandler = new ErrorHandler();
+        // initialize utils instance
+        exports.utils = new Utils(this.settingsParams);
+
+        // an error has occured that should generate a dialog to the user transition to that error
+        this.transitionToErrorDialog = function(dialogView) {
+            // show the error dialog
+            if ($('#app-loading-spinner').is(":visible")) {
+                this.loadingSpinner.hide.spinner();
+            }
+            $('#app-overlay').show();
+            this.errorDialog = dialogView;
+            this.errorDialog.render(this.$appContainer);
+            this.appViewBeforeError = this.currentView;
+            this.selectView(this.errorDialog);
+
+        }.bind(this);
+
+        // transition the error dialog back to the previous view
+        this.transitionFromErrorDialog = function() {
+           // remove the error dialog
+           this.errorDialog.remove();
+           this.errorDialog = null;
+            var $appOverlay = $('#app-overlay');
+
+            if ($appOverlay.css('display') !== 'none') {
+                $appOverlay.fadeOut(250);
+            }
+           this.selectView(this.appViewBeforeError);
+        }.bind(this);
+
+        //create OK button for error dialog
+        this.createOkButtonForErrorDialog = function(okCallback) {
+            var buttons = [{
+                        text : "OK",
+                        id : "ok",
+                        callback : okCallback
+                    }];
+            return buttons;
+        }
+
+        //create buttons for error dialog
+        this.createButtonsForErrorDialog = function(okCallback, retryCallback) {
+            var buttons = [{
+                        text : "OK",
+                        id : "ok",
+                        callback : okCallback
+                    },
+                    {
+                        text : "Retry",
+                        id : "retry",
+                        callback : retryCallback
+                    }];
+            return buttons;
+        };
+
+        //player error callback function for the OK button
+        this.playerErrorOkCallback = function() {
+            //go back to one D view
+            this.exitPlayerView();
+            if (this.subCategoryStack && this.subCategoryStack.length > 0) {
+                this.appViewBeforeError = this.subCategoryView;
+                this.transitionFromErrorDialog();
+                this.transitionFromPlayerToSubCategory();
+            }
+            else {
+                this.appViewBeforeError = this.oneDView;
+                this.transitionFromErrorDialog();
+                this.transitionFromPlayerToOneD();
+            }
+        }.bind(this);
+
+        //player error callback function for the retry button
+        this.playerErrorRetryCallback = function() {
+            //retry playing the video from the beginning
+            if (this.appViewBeforeError instanceof PlaylistPlayerView || this.appViewBeforeError instanceof PlayerView){
+                this.transitionFromErrorDialog();
+                this.playerView.remove();
+                var el = this.appViewBeforeError.$el;
+                var data = this.appViewBeforeError.items;
+                var index = this.appViewBeforeError.currentIndex;
+                this.appViewBeforeError.render(el, data, index);
+            }
+        }.bind(this);
+
+        //callback function for the OK button
+        this.exitAppCallback = function() {
+            window.open('', '_self').close();
+        };
+
+        //initial feed error callback function for the retry button
+        this.initialFeedErrorRetryCallback = function() {
+            this.transitionFromErrorDialog();
+            this.data.loadInitialData(this.dataLoaded);
+        }.bind(this);
+
+        //category error callback function for the OK button
+        this.categoryErrorOkCallback = function() {
+            this.transitionFromErrorDialog();
+            //if there's an error when loaing the first category, exit the app
+            if (!this.succeededCategoryIndex) {
+                this.exitAppCallback();
+            }
+            //go back to previous category
+            this.leftNavView.currSelectedIndex = this.succeededCategoryIndex;
+            if (this.showSearch) {
+                this.data.setCurrentCategory(this.succeededCategoryIndex - 1);
+            } else {
+                this.data.setCurrentCategory(this.succeededCategoryIndex);
+            }
+            this.leftNavView.selectLeftNavItem();
+            this.leftNavView.confirmNavSelection();
+        }.bind(this);
+
+        //category error callback function for the retry button
+        this.categoryErrorRetryCallback = function() {
+            //retry updating category
+            this.transitionFromErrorDialog();
+            this.loadingSpinner.show.spinner();
+            this.oneDView.updateCategory();
+            this.selectView(this.oneDView);
+            this.leftNavView.collapse();
+
+            if (this.showSearch) {
+                this.leftNavView.searchUpdated = false;
+                this.searchInputView.reset();
+            }
+        }.bind(this);
+
+        //subcategory error callback function for the OK button
+        this.subCategoryErrorOkCallback = function() {
+            //go back to previous sub category
+            this.transitionFromErrorDialog();
+            this.data.setCurrentSubCategory(this.succeededSubCategoryIndex);
+            this.data.getSubCategoryData(this.openSubCategory);
+        }.bind(this);
+
+        //subcategory error call back function for the retry button
+        this.subCategoryErrorRetryCallback = function() {
+            //retry updating subcategory
+            this.transitionFromErrorDialog();
+            this.data.getSubCategoryData(this.openSubCategory);
+        }.bind(this);
+
+        //search error callback functino for the OK button
+        this.searchErrorOkCallback = function() {
+            //transition from error dialog to previous view
+            this.transitionFromErrorDialog();
+        }.bind(this);
+
+        //search error callback function for the retry button
+        this.searchErrorRetryCallback = function() {
+            //retry
+            this.transitionFromErrorDialog();
+            this.loadingSpinner.show.spinner();
+            this.oneDView.updateCategoryFromSearch(this.searchInputView.currentSearchQuery);
+            //set the selected view
+            this.selectView(this.oneDView);
+            //hide the leftNav
+            this.leftNavView.collapse();
+        }.bind(this);
+
         //initialize the model and get the first data set
         this.data = new this.settingsParams.Model(this.settingsParams);
+
+        // handle errors from the model 
+        this.data.on("error", function(errType, errStack) {
+            var errorDialog;
+            var buttons;
+
+            switch (errType) {
+                case ErrorTypes.INITIAL_FEED_ERROR:
+                case ErrorTypes.INITIAL_PARSING_ERROR:
+                case ErrorTypes.INITIAL_FEED_TIMEOUT:
+                case ErrorTypes.INITIAL_NETWORK_ERROR:
+                    // Create buttons for the error dialog pop up.
+                    buttons = this.createButtonsForErrorDialog(this.exitAppCallback, this.initialFeedErrorRetryCallback);
+                    errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                    this.transitionToErrorDialog(errorDialog);
+                    break;
+                case ErrorTypes.CATEGORY_FEED_ERROR:
+                case ErrorTypes.CATEGORY_PARSING_ERROR:
+                case ErrorTypes.CATEGORY_FEED_TIMEOUT:
+                case ErrorTypes.CATEGORY_NETWORK_ERROR:
+                    buttons = this.createButtonsForErrorDialog(this.categoryErrorOkCallback, this.categoryErrorRetryCallback);
+                    errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                    this.transitionToErrorDialog(errorDialog);
+                    break;
+                case ErrorTypes.SUBCATEGORY_ERROR:
+                case ErrorTypes.SUBCATEGORY_PARSING_ERROR:
+                case ErrorTypes.SUBCATEGORY_TIMEOUT:
+                case ErrorTypes.SUBCATEGORY_NETWORK_ERROR:
+                    buttons = this.createButtonsForErrorDialog(this.subCategoryErrorOkCallback, this.subCategoryErrorRetryCallback);
+                    errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                    this.transitionToErrorDialog(errorDialog);
+                    break;
+                case ErrorTypes.SEARCH_ERROR:
+                case ErrorTypes.SEARCH_PARSING_ERROR:
+                case ErrorTypes.SEARCH_TIMEOUT:
+                case ErrorTypes.SEARCH_NETWORK_ERROR:
+                    buttons = this.createButtonsForErrorDialog(this.searchErrorOkCallback, this.searchErrorRetryCallback);
+                    errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                    this.transitionToErrorDialog(errorDialog);
+                    break;
+                case ErrorTypes.TOKEN_ERROR:
+                    buttons = this.createOkButtonForErrorDialog(this.exitAppCallback);
+                    errorDialog = errorHandler.createErrorDialog(errType.errTitle, errType.errToUser, buttons);
+                    this.transitionToErrorDialog(errorDialog);
+                    break;
+                default:
+                    //won't show an error dialog for unknown errors, so that users don't see many bad error messages
+                    errType.errToDev = "An unknown error occurred in the data model adapter";
+                    errType.errToUser = "There is an error with the data.";
+                    break;
+
+            }
+            errorHandler.writeToConsole(errType, errType.errToDev, errStack);
+            errorHandler.informDev(errType, errType.errToDev, errStack);
+        }.bind(this));
 
         this.makeInitialDataCall();
     }
