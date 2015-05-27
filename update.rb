@@ -25,20 +25,6 @@ COVER_ART_URL = "http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/produc
 COVERS_SHOW_EMPTY = true
 IGNORE_OBSOLETE = true
 
-def get_file_download_size( url )
-  uri = URI(url)
-
-  Net::HTTP.start(uri.host) do |http|
-    response = http.request_head(uri.path)
-    size = response.header["Content-Length"].to_i
-    PrettyPrintNewline "Detected Size = #{size}"
-    return size
-  end
-
-  return 0
-end
-
-
 
 $book_cache = {}
 
@@ -775,6 +761,10 @@ end
 
 def FixURL( params )
     params[:title] = '' if params[:title] == nil
+    if params[:url].include?('\\')
+        PrettyPrintNewline "WARNING: URL contains '\\' - #{params[:url]}"
+        params[:url].gsub!('\\','/')
+    end
     if params[:title] == "Step Two: Hope" and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-001-step-one-honesty-1080p-eng.mp4"
         PrettyPrintNewline "Fixing Addiction Step Two URL..."
         return "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-002-step-two-hope-1080p-eng.mp4"
@@ -795,7 +785,8 @@ def FixURL( params )
         PrettyPrintNewline "Fixing Henry B. Eyring URL..."
         return "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0070-president-henry-b-eyring-360p-spa.mp4"
 
-    elsif params[:url].start_with?("https:")
+    end
+    if params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
     elsif params[:url].start_with?('/') # if it doesn't start with http then assume it's a relative URL instead of absolute
         #PrettyPrintNewline "Fixing URL to be absolute..."

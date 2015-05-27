@@ -15,6 +15,19 @@ def get_filename_from_url( url )
     return url[(ri+1)..-1]
 end
 
+def get_file_download_size( url )
+  uri = URI(url)
+
+  Net::HTTP.start(uri.host) do |http|
+    response = http.request_head(uri.path)
+    size = response.header["Content-Length"].to_i
+    # PrettyPrintNewline "Detected Size = #{size}"
+    return size
+  end
+
+  return 0
+end
+
 ###############################
 #  Video methods
 def video_already_downloaded?( url )

@@ -56,8 +56,14 @@ def OpenURL(url,filename,bRetry=true)
                     end
                 end
             end
-            PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s}"
-            $failed_URLs[url] += 1
+
+            if e.to_s.include?("Timeout::Error")
+              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s} -- Retrying."
+              return OpenURL(url,filename,true)
+            else
+              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s}"
+              $failed_URLs[url] += 1
+            end
         end
     else
         #puts "Reading #{filename}..."
