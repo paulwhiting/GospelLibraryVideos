@@ -193,7 +193,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Histoire Familiale' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Préparation de la leçon' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg'><category title='Leçon du 5e dimanche du mois' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Histoire Familiale' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='La préparation de la leçon' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg'><category title='Leçon du 5e dimanche du mois' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-08-101-now-im-converted</id>
         <title>Maintenant je suis converti</title>
@@ -297,7 +297,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Je suis mormone' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Je suis mormone 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Je suis mormon' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Je suis mormon 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-04-1120-im-a-mormon-i-clean-carpets-and-cook-curry</id>
         <title>Je suis mormon, je nettoie tapis et moquettes, et je cuisine le curry</title>
@@ -645,7 +645,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-58-chapter-54-jesus-is-risen-1080p-fra.mp4' height='1080'/>
 </item>
 </channel></rss></category>
-<category title='Vidéos de la Bible sur la vie de Jésus-Christ' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Vidéos sur la Bible : La vie de Jésus-Christ' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>Marie et Joseph se rendent à Bethléem</title>
@@ -788,17 +788,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Messages Mormons' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages Mormons, 2013' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2013-01-001-your-potential-your-privileges</id>
-        <title>Votre potentiel, vos droits sacrés</title>
-        <description>Dieter F. Uchtdorf raconte une parabole amusante sur un homme qui se rend compte qu’il a vécu bien en deçà de ce à quoi il avait droit.</description>
-        <duration>191</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-192x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges.xml'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-360p-fra.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-720p-fra.mp4' height='720'/>
-</item>
+<category title='Messages mormons' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages mormons, 2013' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-01-002-earthly-father-heavenly-father</id>
         <title>Père terrestre, Père céleste</title>

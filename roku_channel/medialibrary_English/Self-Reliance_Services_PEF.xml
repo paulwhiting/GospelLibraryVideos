@@ -157,6 +157,22 @@
 </item>
 </channel></rss></category>
 </category>
+<category title="My Path" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/pef-self-reliance/my-path-category-138x91.jpg">
+  <rss>
+    <channel><title/><description/>
+<item>
+        <id>2014-06-1510-i-will-provide-for-my-saints</id>
+        <title>I Will Provide for My Saints</title>
+        <description>Through Jesus Christ, the blessings of self-reliance are available to all.</description>
+        <duration>188</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/pef-self-reliance-curriculum/2014-06-1510-i-will-provide-for-my-saints-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/pef-self-reliance-curriculum/2014-06-1510-i-will-provide-for-my-saints.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1510-i-will-provide-for-my-saints-360p-eng.mp4" height="360"/>
+<content url="http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1510-i-will-provide-for-my-saints-720p-eng.mp4" height="720"/>
+</item>
+</channel>
+  </rss>
+</category>
 <category title="My Foundation" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/pef-self-reliance/my-foundation-category-138x91.jpg"><category title="Principle 1: Exercise Faith in Jesus Christ" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/principle-1-exercise-faith-in-jesus-christ-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2014-06-2100-exercise-faith-in-christ</id>
