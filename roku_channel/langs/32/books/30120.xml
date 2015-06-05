@@ -5,10 +5,10 @@
         <description></description>
         <duration>150</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1954238.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1701338.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1377724.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946546820001/640/360/789715.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1954238.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1701338.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1377724.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946546820001/640/360/789715.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

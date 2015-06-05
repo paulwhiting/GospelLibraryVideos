@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Él es la dádiva' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Él vive - Celebra la Pascua gracias a que Jesucristo vive' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>Él es la dádiva</title>
+        <title>Él vive - Celebra la Pascua gracias a que Jesucristo vive</title>
         <description></description>
-        <duration>145</duration>
+        <duration>146</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/2082416.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/1748714.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/1477437.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402318001/640/360/809089.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098117645001/1280/720/1920220.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098117645001/1280/720/1630816.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098117645001/1280/720/1369231.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098117645001/640/360/773458.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Gracias A Él' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +17,22 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/2047311.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/1801758.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/1460307.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905671001/640/360/762737.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/2047311.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/1801758.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905671001/1280/720/1460307.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905671001/640/360/762737.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Él es la dádiva' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Él es la dádiva</title>
+        <description></description>
+        <duration>145</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/2082416.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/1748714.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402318001/1280/720/1477437.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402318001/640/360/809089.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='主こそ贈り物' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='イエスは生きておられます―復活祭を祝いましょう
+イエス・キリストは生きておられるのです' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>主こそ贈り物</title>
+        <title>イエスは生きておられます―復活祭を祝いましょう
+イエス・キリストは生きておられるのです</title>
         <description></description>
-        <duration>167</duration>
+        <duration>145</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1987366.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1714885.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1451288.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210976001/640/360/794103.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116187001/1280/720/1863052.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116187001/1280/720/1631217.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116187001/1280/720/1391141.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116187001/640/360/763268.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='イエスのおかげで' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +19,22 @@
         <description></description>
         <duration>162</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1944756.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1714908.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1440217.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905669001/640/360/781417.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1944756.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1714908.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905669001/1280/720/1440217.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905669001/640/360/781417.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='主こそ贈り物' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>主こそ贈り物</title>
+        <description></description>
+        <duration>167</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1987366.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1714885.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210976001/1280/720/1451288.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210976001/640/360/794103.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

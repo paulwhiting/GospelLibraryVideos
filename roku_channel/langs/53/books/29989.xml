@@ -5,18 +5,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/1483186.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/1774886.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575299001/640/360/807731.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/2102532.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>歡迎參加大會</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/1483186.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/396/224/234538.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/480/268/550414.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/1774886.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/640/360/807731.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/720/404/1028643.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/480/268/365902.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575299001/1280/720/2102532.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='我們的希望的緣由' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -25,18 +25,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/1475630.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576836001/640/360/756514.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/1745979.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/2047887.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>我們的希望的緣由</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/1475630.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/396/224/227116.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/720/404/1017047.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/640/360/756514.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/480/268/540368.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/1745979.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/1280/720/2047887.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576836001/480/268/328356.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='你面向哪一邊？' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -45,18 +45,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/1481277.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/2117192.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/1757212.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576843001/640/360/807618.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>你面向哪一邊？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/480/268/550800.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/720/404/1043907.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/1481277.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/2117192.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/1280/720/1757212.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/396/224/228139.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/640/360/807618.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576843001/480/268/363332.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='聖餐──更新我們的靈魂' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -65,18 +65,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/2176099.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/1818090.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/1493263.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575317001/640/360/809859.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>聖餐──更新我們的靈魂</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/720/404/1050677.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/2176099.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/1818090.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/1280/720/1493263.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/480/268/551118.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/640/360/809859.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/480/268/364970.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575317001/396/224/231099.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='齊心救援' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -85,18 +85,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/1464854.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/1721011.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821573141001/640/360/792984.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/2073025.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>齊心救援</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/1464854.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/1721011.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/720/404/1028082.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/640/360/792984.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/1280/720/2073025.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/480/268/544277.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/396/224/227175.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821573141001/480/268/359383.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='永遠自由，可以自己採取行動' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -105,18 +105,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581566001/640/360/802075.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/1492516.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/2085475.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/1765538.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>永遠自由，可以自己採取行動</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/640/360/802075.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/1492516.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/2085475.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/396/224/231697.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/1280/720/1765538.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/480/268/544915.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/480/268/361828.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581566001/720/404/1019063.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-360p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='獲得對光與真理的見證' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -125,18 +125,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/1708827.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/2083579.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576866001/640/360/803538.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/1462241.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>獲得對光與真理的見證</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/480/268/550043.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/1708827.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/2083579.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/640/360/803538.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/480/268/374520.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/396/224/237202.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/1280/720/1462241.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821576866001/720/404/993848.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='支持教會職員' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -145,18 +145,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821585581001/640/360/761615.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/1465026.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/1737122.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/2080686.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>支持教會職員</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/720/404/1002891.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/480/268/335797.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/640/360/761615.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/1465026.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/1737122.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/1280/720/2080686.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/396/224/215562.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821585581001/480/268/505805.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-360p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='愛人和容忍差異' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -165,18 +165,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575335001/640/360/783978.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/1455989.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/2074409.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/1733475.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>愛人和容忍差異</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/640/360/783978.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/396/224/232126.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/1455989.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/720/404/1007563.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/480/268/548353.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/2074409.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/1280/720/1733475.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821575335001/480/268/370196.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='約瑟‧斯密' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -185,18 +185,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581584001/640/360/788828.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/2050537.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/1453636.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/1715797.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>約瑟‧斯密</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/640/360/788828.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/720/404/1007245.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/480/268/553807.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/2050537.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/396/224/237358.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/1453636.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/1280/720/1715797.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3821581584001/480/268/362752.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-720p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='父母是孩子主要的福音教師' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -205,18 +203,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/1529707.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/2121505.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374904001/640/360/798999.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/1779139.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>父母是孩子主要的福音教師</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/1529707.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/396/224/231878.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/480/268/536748.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/720/404/1043346.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/2121505.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/640/360/798999.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/1280/720/1779139.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374904001/480/268/357510.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='懷著自信接近神的寶座' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -225,18 +223,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/2209129.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/1506118.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374919001/640/360/809216.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/1849189.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>懷著自信接近神的寶座</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/2209129.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/1506118.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/640/360/809216.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/720/404/1045355.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/396/224/233227.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/1280/720/1849189.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/480/268/559235.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374919001/480/268/369458.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='「是的，主，我願跟隨您」' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -245,18 +243,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/1467211.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/2041298.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/1733172.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823368936001/640/360/787363.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>「是的，主，我願跟隨您」</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/396/224/230005.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/720/404/1008971.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/1467211.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/2041298.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/1280/720/1733172.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/480/268/360050.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/640/360/787363.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823368936001/480/268/550957.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='我們豈不都是乞丐嗎？' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -265,18 +263,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373406001/640/360/804447.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/1474590.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/1748908.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/2081984.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>我們豈不都是乞丐嗎？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/640/360/804447.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/1474590.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/396/224/234734.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/720/404/1022710.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/1748908.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/1280/720/2081984.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/480/268/542369.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373406001/480/268/367976.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='找到長久的平安，建立永恆的家庭' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -285,18 +283,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/1453082.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373415001/640/360/784232.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/1739753.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/2073101.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>找到長久的平安，建立永恆的家庭</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/1453082.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/640/360/784232.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/396/224/234450.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/720/404/1036703.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/1739753.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/480/268/542020.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/1280/720/2073101.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373415001/480/268/355468.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='明智地選擇' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -305,18 +303,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/1466665.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823378060001/640/360/778185.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/2080357.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/1747780.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>明智地選擇</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/1466665.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/396/224/228871.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/720/404/1013241.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/640/360/778185.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/2080357.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/1280/720/1747780.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/480/268/544547.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823378060001/480/268/360320.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='我自己知道這些事' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -325,18 +323,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373434001/640/360/795431.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/1472218.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/2092247.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/1731017.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>我自己知道這些事</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/640/360/795431.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/396/224/233247.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/720/404/1017832.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/1472218.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/480/268/545531.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/2092247.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/1280/720/1731017.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373434001/480/268/368360.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='禁食律法：照顧貧困者的一項個人責任' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -345,18 +343,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373441001/640/360/772728.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1401923.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1675655.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1991878.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>禁食律法：照顧貧困者的一項個人責任</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/640/360/772728.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1401923.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1675655.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/1280/720/1991878.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/396/224/226734.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/720/404/966130.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/480/268/537474.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373441001/480/268/349415.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='「主，是我嗎？」' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -365,18 +363,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/1744675.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/1463417.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/2053404.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373451001/640/360/810279.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>「主，是我嗎？」</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/396/224/237684.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/720/404/1008876.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/480/268/551630.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/1744675.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/1463417.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/1280/720/2053404.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/640/360/810279.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373451001/480/268/367840.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='預備的聖職' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -385,18 +383,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/2082323.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/1459178.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374991001/640/360/789122.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/1743732.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>預備的聖職</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/2082323.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/1459178.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/720/404/1019636.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/480/268/541068.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/640/360/789122.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/480/268/353464.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/1280/720/1743732.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823374991001/396/224/233837.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='蒙神引領，平安回家' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -405,18 +403,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/2085509.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/1739917.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/1502406.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823373476001/640/360/822370.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>蒙神引領，平安回家</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/720/404/1013954.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/480/268/545765.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/2085509.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/1739917.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/1280/720/1502406.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/640/360/822370.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/396/224/234890.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823373476001/480/268/360319.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='持續不斷的啟示' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -425,18 +423,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388449001/640/360/803833.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/1495880.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/1775996.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/2110265.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>持續不斷的啟示</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/480/268/548551.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/640/360/803833.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/1495880.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/1775996.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/396/224/231819.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/720/404/1028969.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/1280/720/2110265.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388449001/480/268/364108.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-720p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='支持先知' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -445,18 +441,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389272001/640/360/749039.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/1693131.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/1431564.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/2019065.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>支持先知</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/640/360/749039.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/480/268/529266.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/1693131.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/1431564.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/720/404/967005.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/396/224/223306.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/480/268/351970.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389272001/1280/720/2019065.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='遵照先知的話過生活' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -465,18 +461,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/1498219.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/1783333.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823377924001/640/360/806459.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/2128969.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>遵照先知的話過生活</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/480/268/550343.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/720/404/1043912.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/1498219.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/1783333.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/640/360/806459.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/396/224/225649.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/480/268/363122.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823377924001/1280/720/2128969.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='永生──即認識天父和祂的兒子耶穌基督' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -485,18 +481,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392083001/640/360/776364.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/1479138.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/2086869.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/1752707.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>永生──即認識天父和祂的兒子耶穌基督</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/640/360/776364.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/1479138.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/396/224/225553.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/2086869.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/1280/720/1752707.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/480/268/547236.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/720/404/1040858.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392083001/480/268/354567.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='聖餐與贖罪' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -505,18 +501,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/1488247.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388485001/640/360/811362.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/1744986.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/2079819.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>聖餐與贖罪</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/1488247.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/640/360/811362.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/1744986.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/480/268/558922.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/1280/720/2079819.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/720/404/1027781.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/480/268/366234.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388485001/396/224/235506.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='要修平你腳下的路' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -525,18 +521,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/1748157.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389306001/640/360/808846.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/2093051.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/1474021.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>要修平你腳下的路</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/1748157.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/396/224/233168.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/640/360/808846.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/720/404/1022466.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/2093051.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/1280/720/1474021.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/480/268/358220.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823389306001/480/268/549011.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='留在船上牢牢抓緊！' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -545,18 +539,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/1763541.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392134001/640/360/783288.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/2078726.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/1465197.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>留在船上牢牢抓緊！</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/1763541.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/396/224/227986.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/640/360/783288.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/480/268/535334.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/720/404/1028155.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/2078726.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/1280/720/1465197.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823392134001/480/268/362085.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-360p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='把運用信心列為最優先的事' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -565,18 +559,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/2077258.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/1764217.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399546001/640/360/818247.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/1472707.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>把運用信心列為最優先的事</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/2077258.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/720/404/1035744.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/396/224/230081.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/1764217.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/640/360/818247.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/1280/720/1472707.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/480/268/542202.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399546001/480/268/364288.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主為我們制定了計畫！' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -585,18 +579,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/1480468.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/1729224.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/2051848.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823388521001/640/360/814151.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主為我們制定了計畫！</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/720/404/1007273.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/1480468.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/1729224.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/480/268/541932.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/1280/720/2051848.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/640/360/814151.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/480/268/373945.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823388521001/396/224/232406.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='案卷' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -605,18 +599,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/1777208.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/1507498.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394854001/640/360/819917.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/2105040.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>案卷</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/1777208.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/1507498.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/640/360/819917.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/1280/720/2105040.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/396/224/227868.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/480/268/554684.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/720/404/1044354.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394854001/480/268/366929.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='我們的個人施助' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -625,18 +617,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/2109363.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/1482306.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394860001/640/360/809772.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/1759881.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>我們的個人施助</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/2109363.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/396/224/233062.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/480/268/553975.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/1482306.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/720/404/1037194.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/640/360/809772.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/1280/720/1759881.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823394860001/480/268/368318.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='不要輕忽神聖的事物' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -645,18 +637,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399577001/640/360/809619.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/2101385.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/1760747.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/1494107.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>不要輕忽神聖的事物</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/640/360/809619.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/2101385.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/1760747.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/720/404/1034313.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/396/224/226979.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/1280/720/1494107.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/480/268/549671.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399577001/480/268/363638.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-720p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='來看' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -665,18 +655,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/1745650.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/1474029.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823402490001/640/360/806144.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/2091872.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>來看</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/720/404/1025561.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/1745650.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/1474029.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/640/360/806144.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/1280/720/2091872.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/396/224/224327.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/480/268/537750.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823402490001/480/268/362118.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-1080p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-720p-yue.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-360p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='直到再相會' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -685,18 +675,16 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/1501081.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399601001/640/360/800604.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/1755929.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/2057036.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>直到再相會</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/1501081.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/640/360/800604.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/480/268/529510.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/1755929.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/720/404/998599.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/1280/720/2057036.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/480/268/353504.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3823399601001/396/224/226348.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='以「從沒有人知道的」方法作好準備' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -705,18 +693,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/2036084.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/1439904.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932008001/640/360/765119.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/1708720.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>以「從沒有人知道的」方法作好準備</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/480/268/351513.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/2036084.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/480/268/351513.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/1439904.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/480/268/530540.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/640/360/765119.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/396/224/228164.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/1280/720/1708720.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/720/404/1017562.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810932008001/480/268/351513.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-720p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='與神立下聖約的女兒' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -725,18 +713,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1397306.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810929240001/640/360/772440.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1996039.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1679663.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>與神立下聖約的女兒</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/480/268/354885.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1397306.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/640/360/772440.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/480/268/354885.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/480/268/531080.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1996039.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/720/404/987032.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/1280/720/1679663.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/396/224/228829.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810929240001/480/268/354885.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='分享你的光' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -745,18 +733,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/1426226.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/2014688.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931635001/640/360/757138.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/1693079.mp4' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>分享你的光</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/1426226.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/480/268/543553.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/480/268/353213.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/2014688.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/720/404/981996.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/640/360/757138.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/1280/720/1693079.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/396/224/227461.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/480/268/353213.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931635001/480/268/353213.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='喜樂地奉行福音' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -765,18 +753,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/1463440.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/2033638.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/1712532.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931651001/640/360/796081.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>喜樂地奉行福音</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-64k-yue.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-64k-yue.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/480/268/558619.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/1463440.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/480/268/360045.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/720/404/988511.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/396/224/237260.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/2033638.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/1280/720/1712532.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/640/360/796081.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/480/268/360045.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3810931651001/480/268/360045.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-1080p-yue.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

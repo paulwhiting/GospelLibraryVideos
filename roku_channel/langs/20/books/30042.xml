@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Hän on Lahja' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Hän elää – juhli pääsiäistä, koska Jeesus Kristus elää' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>Hän on Lahja</title>
+        <title>Hän elää – juhli pääsiäistä, koska Jeesus Kristus elää</title>
         <description></description>
-        <duration>167</duration>
+        <duration>145</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/2037253.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/1718139.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/1396418.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210981001/640/360/791448.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4124802429001/640/360/747457.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Hänen Ansiostaan' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +14,22 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1973066.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1654782.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1394802.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966389001/640/360/759512.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1973066.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1654782.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1394802.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966389001/640/360/759512.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Hän on Lahja' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Hän on Lahja</title>
+        <description></description>
+        <duration>167</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/2037253.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/1718139.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/1396418.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210981001/640/360/791448.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

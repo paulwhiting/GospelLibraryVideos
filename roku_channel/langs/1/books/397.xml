@@ -5,15 +5,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1991-general-womens-meeting/1991-09-0010-chieko-n-okazaki-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>News of the Church</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1991-general-womens-meeting/1991-09-0010-chieko-n-okazaki-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1991-general-womens-meeting/1991-09-0010-chieko-n-okazaki-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1991-general-womens-meeting/1991-09-0010-chieko-n-okazaki-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

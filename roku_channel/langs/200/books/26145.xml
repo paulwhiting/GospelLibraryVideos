@@ -5,19 +5,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/1776143' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/2104143' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/2504143' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894514001/640/360/904143' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1920/1080/8279000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Pahaad Chadhne ke Liye</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-64k-hif.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-64k-hif.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/1776143' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/480/268/404143' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/2104143' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1280/720/2504143' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/480/268/616143' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/640/360/904143' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/396/224/234419' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/480/268/404143' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/1920/1080/8279000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/480/268/404143' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1667894514001/720/404/1204143' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-360p-hif.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

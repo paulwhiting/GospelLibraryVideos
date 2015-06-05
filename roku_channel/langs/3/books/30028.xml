@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ein Heiland ist uns geschenkt worden' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Er lebt – wir feiern Ostern, weil Jesus Christus lebt!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>Ein Heiland ist uns geschenkt worden</title>
+        <title>Er lebt – wir feiern Ostern, weil Jesus Christus lebt!</title>
         <description></description>
-        <duration>167</duration>
+        <duration>145</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/2048399.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/1729180.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/1399738.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210975001/640/360/799482.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116183001/1280/720/1833767.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116183001/1280/720/1609833.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116183001/1280/720/1326593.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116183001/640/360/784405.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Dank ihm' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +17,22 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/2038960.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/1717512.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/1395796.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905657001/640/360/758060.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/2038960.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/1717512.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/1395796.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905657001/640/360/758060.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Ein Heiland ist uns geschenkt worden' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Ein Heiland ist uns geschenkt worden</title>
+        <description></description>
+        <duration>167</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/2048399.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/1729180.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/1399738.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210975001/640/360/799482.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

@@ -5,19 +5,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/2103739' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/1775739' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963999825001/640/360/903739' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1920/1080/8276984' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/2503739' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Maipanggep kadagiti Pagbabawyan ken Pangngeddeng</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-1070-president-dieter-f-uchtdorf-64k-ilo.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-1070-president-dieter-f-uchtdorf-64k-ilo.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/2103739' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/480/270/403739' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/400/224/239729' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/1775739' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/480/270/403739' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/720/405/1203739' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/480/270/403739' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/640/360/903739' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1920/1080/8276984' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/1280/720/2503739' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963999825001/480/270/615739' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-1070-president-dieter-f-uchtdorf-360p-ilo.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

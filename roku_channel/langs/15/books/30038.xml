@@ -1,14 +1,24 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Завдяки Йому' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Він живе---святкуйте Великдень, бо Ісус Христос живе' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Він живе---святкуйте Великдень, бо Ісус Христос живе</title>
+        <description></description>
+        <duration>150</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114633001/480/268/102636.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114633001/480/268/102542.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Завдяки Йому' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
         <title>Завдяки Йому</title>
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/2052413.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/1723245.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/1456084.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905665001/640/360/785986.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/2052413.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/1723245.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905665001/1280/720/1456084.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905665001/640/360/785986.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Він і є даром' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +27,10 @@
         <description></description>
         <duration>167</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/2041798.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/1674212.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/1458762.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210971001/640/360/795229.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/2041798.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/1674212.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210971001/1280/720/1458762.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210971001/640/360/795229.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

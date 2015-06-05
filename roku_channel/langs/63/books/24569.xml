@@ -5,19 +5,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/1774513' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1920/1080/8278805' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/2502513' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963915220001/640/360/902513' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/2102513' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>በረከቶችን አስቡባቸው</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-4060-president-thomas-s-monson-64k-amh.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-4060-president-thomas-s-monson-64k-amh.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/480/270/402513' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/1774513' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1920/1080/8278805' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/400/224/238563' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/720/405/1202513' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/480/270/402513' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/480/270/614513' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-4060-president-thomas-s-monson-360p-amh.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/480/270/402513' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/2502513' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/640/360/902513' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1963915220001/1280/720/2102513' height='720p'/>
 </item>
  </channel> </rss></category>
 </categories>

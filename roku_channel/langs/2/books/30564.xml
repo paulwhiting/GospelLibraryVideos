@@ -5,10 +5,34 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3991244995001/640/360/791094.mp4' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/2056396.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/1428235.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/1744066.mp4' height='720'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/480/268/528206.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/480/268/359933.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/640/360/791094.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/2056396.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/396/224/228779.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/720/404/990131.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/1428235.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/480/268/359933.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/480/268/359933.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3991244995001/1280/720/1744066.mp4' height='720p'/>
+</item>
+ </channel> </rss></category>
+<category title='Gustar la luz' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Gustar la luz</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-64k-spa.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/720/404/887134.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/1280/720/1300600.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/1280/720/1518890.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/480/268/345988.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/640/360/729281.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/1280/720/1786329.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/480/268/501352.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4225828816001/396/224/220914.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-1080p-spa.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

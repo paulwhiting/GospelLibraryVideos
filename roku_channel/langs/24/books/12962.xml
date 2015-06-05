@@ -5,18 +5,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1920/1080/8181000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1280/720/2104506' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1280/720/1776506' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976096001/640/360/904506' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>ʻI Heʻetau Toe Fakataha Maí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1010-president-thomas-s-monson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1010-president-thomas-s-monson-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/480/268/404506' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/480/268/404506' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1920/1080/8181000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/396/224/237308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/720/404/1204506' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/480/268/616506' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1280/720/2104506' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/1280/720/1776506' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/640/360/904506' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976096001/480/268/404506' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1010-president-thomas-s-monson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Pea ʻe Tataki ʻa Kinautolu ʻe ha Tamasiʻi Siʻi' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -25,19 +25,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/1775383' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/2103383' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1920/1080/8272000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/2503383' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976137001/640/360/903383' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Pea ʻe Tataki ʻa Kinautolu ʻe ha Tamasiʻi Siʻi</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1020-president-boyd-k-packer-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1020-president-boyd-k-packer-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/1775383' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/2103383' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/396/224/237289' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/480/268/403383' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1920/1080/8272000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/1280/720/2503383' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/480/268/615383' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/720/404/1203383' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/480/268/403383' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/480/268/403383' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976137001/640/360/903383' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1020-president-boyd-k-packer-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko Hono Akoʻi ke Mahino ki Heʻetau Fānaú' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -46,19 +46,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976144001/640/360/902228' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1920/1080/8240000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/2502228' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/1774228' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/2102228' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko Hono Akoʻi ke Mahino ki Heʻetau Fānaú</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1030-cheryl-esplin-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1030-cheryl-esplin-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/720/404/1202228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/396/224/233471' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/640/360/902228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1920/1080/8240000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/480/268/402228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/480/268/614228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/2502228' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/480/268/402228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/1774228' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/480/268/402228' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976144001/1280/720/2102228' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1030-cheryl-esplin-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ului ki Heʻene Ongoongoleleí ʻo fakafou ʻi Hono Siasí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -67,19 +67,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1920/1080/8251000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/1775205' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/2103205' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976170001/640/360/903205' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/2503205' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ului ki Heʻene Ongoongoleleí ʻo fakafou ʻi Hono Siasí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1040-elder-donald-l-hallstrom-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1040-elder-donald-l-hallstrom-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/480/268/403205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/480/268/615205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/480/268/403205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1920/1080/8251000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/396/224/237564' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/1775205' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/2103205' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/480/268/403205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/640/360/903205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/720/404/1203205' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1540976170001/1280/720/2503205' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1040-elder-donald-l-hallstrom-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='ʻOkú Ne ʻOfa Moʻoni ʻIate Kitautolu' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -88,19 +88,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/2104514' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013566001/640/360/904514' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/2504514' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1920/1080/8141000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/1776514' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>ʻOkú Ne ʻOfa Moʻoni ʻIate Kitautolu</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1050-elder-paul-e-koelliker-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1050-elder-paul-e-koelliker-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/480/268/404514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/2104514' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/480/268/404514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/640/360/904514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/2504514' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/480/268/404514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/396/224/236021' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/720/404/1204514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1920/1080/8141000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/480/268/616514' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013566001/1280/720/1776514' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1050-elder-paul-e-koelliker-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Feilaulaú' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -109,19 +109,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013586001/640/360/901556' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/1773556' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/2101556' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1920/1080/8271000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/2501556' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Feilaulaú</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1060-elder-dallin-h-oaks-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1060-elder-dallin-h-oaks-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/480/268/401556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/640/360/901556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/720/404/1201556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/1773556' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/480/268/613556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/2101556' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/480/268/401556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1920/1080/8271000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/1280/720/2501556' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/480/268/401556' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1541013586001/396/224/236028' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1060-elder-dallin-h-oaks-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ngaahi Faingataʻa ke Ikunaʻí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -130,19 +130,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/1775104' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/2103104' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543682123001/640/360/903104' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/2503104' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1920/1080/8279000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Ngaahi Faingataʻa ke Ikunaʻí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/1775104' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/480/268/615104' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/480/268/403104' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/2103104' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/720/404/1203104' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/640/360/903104' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1280/720/2503104' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/1920/1080/8279000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/396/224/236080' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/480/268/403104' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543682123001/480/268/403104' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko Hono Hikinimaʻi ʻo e Kau ʻŌfisa ʻo e Siasí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -151,19 +151,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/2503763' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543770603001/640/360/903763' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/1775763' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1920/1080/8239000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/2103763' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko Hono Hikinimaʻi ʻo e Kau ʻŌfisa ʻo e Siasí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2010-the-sustaining-of-church-officers-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2010-the-sustaining-of-church-officers-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/2503763' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/640/360/903763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/1775763' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/720/404/1203763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/480/268/403763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/480/268/615763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1920/1080/8239000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/1280/720/2103763' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/480/268/403763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/396/224/231213' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543770603001/480/268/403763' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2010-the-sustaining-of-church-officers-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Lipooti ‘a e Potungāue ʻAotita ʻo e Siasí, 2011' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -172,18 +172,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1920/1080/7956000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1542004617001/640/360/896000' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Lipooti ‘a e Potungāue ʻAotita ʻo e Siasí, 2011</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2020-church-auditing-department-report-2011-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2020-church-auditing-department-report-2011-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1920/1080/7956000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/396/224/194683' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1542004617001/640/360/896000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2020-church-auditing-department-report-2011-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Lipooti Fakasitetisitika ʻo e 2011' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -192,19 +192,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1920/1080/7955000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/2101253' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356857001/640/360/901253' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/2501253' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/1773253' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Lipooti Fakasitetisitika ʻo e 2011</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2030-statistical-report-2011-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2030-statistical-report-2011-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1920/1080/7955000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/480/268/401253' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/480/268/401253' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/2101253' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/480/268/613253' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/396/224/211189' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/640/360/901253' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/2501253' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/1280/720/1773253' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/480/268/401253' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356857001/720/404/1201253' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2030-statistical-report-2011-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Kau Ngāue ʻi he Ngoue Vainé' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -213,19 +213,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/2504523' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/2104523' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543762772001/640/360/904523' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1920/1080/8267000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/1776523' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Kau Ngāue ʻi he Ngoue Vainé</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2040-elder-jeffrey-r-holland-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2040-elder-jeffrey-r-holland-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/480/268/616523' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/2504523' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/2104523' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/480/268/404523' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/480/268/404523' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/640/360/904523' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1920/1080/8267000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/1280/720/1776523' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/480/268/404523' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/396/224/246071' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543762772001/720/404/1204523' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2040-elder-jeffrey-r-holland-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='ʻIloʻi Kitautolu: Ko e Sākalamēnití, Temipalé mo e Feilaulau ʻi he Tokoní' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -234,19 +234,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356859001/640/360/903936' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/2503936' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/2103936' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/1775936' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1920/1080/8263000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>ʻIloʻi Kitautolu: Ko e Sākalamēnití, Temipalé mo e Feilaulau ʻi he Tokoní</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2050-elder-robert-d-hales-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2050-elder-robert-d-hales-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/480/268/403936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/480/268/615936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/720/404/1203936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/480/268/403936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/396/224/240006' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/640/360/903936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/2503936' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/2103936' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1280/720/1775936' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/480/268/403936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545356859001/1920/1080/8263000' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2050-elder-robert-d-hales-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Nofo ʻi he Tafaʻaki ʻa e ʻEikí!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -255,19 +255,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1920/1080/8230000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/1774447' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/2502447' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916465001/640/360/902447' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/2102447' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Nofo ʻi he Tafaʻaki ʻa e ʻEikí!</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2070-elder-ulisses-soares-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2070-elder-ulisses-soares-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/480/268/402447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/720/404/1202447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1920/1080/8230000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/1774447' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/396/224/237046' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/480/268/614447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/2502447' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/640/360/902447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/480/268/402447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/480/268/402447' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916465001/1280/720/2102447' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2070-elder-ulisses-soares-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Tuí, Vilitakí, Fiefiá: Ko ha Pōpoaki ki he Mātuʻa Tāutahá' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -276,19 +276,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916458001/640/360/900308' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/1772308' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/2500308' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1920/1080/8225000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/2100308' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Tuí, Vilitakí, Fiefiá: Ko ha Pōpoaki ki he Mātuʻa Tāutahá</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/480/268/612308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/480/268/400308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/720/404/1200308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/640/360/900308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/396/224/234822' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/480/268/400308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/1772308' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/480/268/400308' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/2500308' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1920/1080/8225000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916458001/1280/720/2100308' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ke Fenāpasi mo e Tuí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -297,19 +297,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916495001/640/360/900616' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/2500616' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/1772616' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/2100616' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1920/1080/8266000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Ke Fenāpasi mo e Tuí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2080-elder-quentin-l-cook-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2080-elder-quentin-l-cook-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/640/360/900616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/480/268/400616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/720/404/1200616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/2500616' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/480/268/400616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/480/268/400616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/480/268/612616' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/1772616' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1280/720/2100616' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/396/224/234507' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543916495001/1920/1080/8266000' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2080-elder-quentin-l-cook-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Founga Hono Maʻu ʻo e Fakahā mo e Tataki Fakalaumālie ki Hoʻo Moʻui Fakatāutahá' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -318,19 +318,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/1776095' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/2504095' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/2104095' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543955286001/640/360/904095' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1920/1080/8271000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Founga Hono Maʻu ʻo e Fakahā mo e Tataki Fakalaumālie ki Hoʻo Moʻui Fakatāutahá</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2090-elder-richard-g-scott-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2090-elder-richard-g-scott-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/480/268/404095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/480/268/404095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/1776095' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/2504095' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/480/268/404095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/720/404/1204095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1280/720/2104095' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/480/268/616095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/640/360/904095' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/1920/1080/8271000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543955286001/396/224/236332' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2090-elder-richard-g-scott-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Ngaahi Mālohi ʻo e Langí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -339,19 +339,18 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/2101185' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1920/1080/8225000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1638681648001/640/360/901185' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/1773185' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/2501185' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Ngaahi Mālohi ʻo e Langí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3010-elder-david-a-bednar-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3010-elder-david-a-bednar-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/2101185' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1920/1080/8225000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/396/224/239936' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/480/268/613185' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/640/360/901185' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/1773185' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/1280/720/2501185' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/480/268/401185' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/480/268/401185' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1638681648001/480/268/401185' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3010-elder-david-a-bednar-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Fakahaofí ʻi he Tupulaki Moʻoní' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -360,19 +359,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/2501914' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1920/1080/8248000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841412001/640/360/901914' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/1773914' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/2101914' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Fakahaofí ʻi he Tupulaki Moʻoní</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3020-bishop-richard-c-edgley-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3020-bishop-richard-c-edgley-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/2501914' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1920/1080/8248000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/720/404/1201914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/640/360/901914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/1773914' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/1280/720/2101914' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/480/268/401914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/480/268/613914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/480/268/401914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/480/268/401914' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841412001/396/224/235346' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3020-bishop-richard-c-edgley-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Lakanga Taulaʻeiki Faka-ʻĒloné: Tuʻu Hake ʻo Fakaʻaongaʻi e Mālohi ʻo e ʻOtuá' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -381,19 +380,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/1775462' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/2503462' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/2103462' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1920/1080/8251000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1543841437001/640/360/903462' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Lakanga Taulaʻeiki Faka-ʻĒloné: Tuʻu Hake ʻo Fakaʻaongaʻi e Mālohi ʻo e ʻOtuá</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3030-adrian-ochoa-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3030-adrian-ochoa-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/480/268/403462' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/1775462' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/2503462' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/480/268/615462' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/720/404/1203462' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1280/720/2103462' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/480/268/403462' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/1920/1080/8251000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/640/360/903462' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/396/224/235898' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1543841437001/480/268/403462' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3030-adrian-ochoa-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e ʻUhinga ʻo e Tokoni ʻi he Lakanga Fakataulaʻeikí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -402,19 +401,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/1776953' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1634378335001/640/360/904953' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/2104953' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/2504953' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1920/1080/8277000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e ʻUhinga ʻo e Tokoni ʻi he Lakanga Fakataulaʻeikí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3040-president-dieter-f-uchtdorf-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3040-president-dieter-f-uchtdorf-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/396/224/238837' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/1776953' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/640/360/904953' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/2104953' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1280/720/2504953' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/480/268/404953' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/480/268/404953' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/480/268/404953' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/720/404/1204953' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/1920/1080/8277000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1634378335001/480/268/616953' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3040-president-dieter-f-uchtdorf-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ngaahi Fāmili Kuo Fakafuakavaʻí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -423,19 +422,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1920/1080/8258000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/2501829' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/1773829' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/2101829' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545270592001/640/360/901829' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ngaahi Fāmili Kuo Fakafuakavaʻí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3050-president-henry-b-eyring-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3050-president-henry-b-eyring-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1920/1080/8258000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/2501829' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/480/268/401829' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/1773829' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/480/268/613829' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/480/268/401829' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/720/404/1201829' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/396/224/233993' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/1280/720/2101829' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/480/268/401829' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545270592001/640/360/901829' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3050-president-henry-b-eyring-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Loto Vēkeveke pea Taau ke Ngāue' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -444,19 +443,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/2502088' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1920/1080/8275000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545303334001/640/360/902088' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/2102088' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/1774088' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Loto Vēkeveke pea Taau ke Ngāue</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3060-president-thomas-s-monson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3060-president-thomas-s-monson-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/396/224/234978' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/480/268/402088' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/480/268/614088' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/480/268/402088' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/2502088' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1920/1080/8275000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/640/360/902088' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/2102088' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/720/404/1202088' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/1280/720/1774088' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1545303334001/480/268/402088' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-3060-president-thomas-s-monson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='‘Oku Maʻu ʻa e ʻAloʻofá ʻe he Kau Manavaʻofá' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -465,19 +464,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158063001/640/360/899756' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1920/1080/8272000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/2499756' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/1771756' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/2099756' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>‘Oku Maʻu ʻa e ʻAloʻofá ʻe he Kau Manavaʻofá</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4010-president-dieter-f-uchtdorf-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4010-president-dieter-f-uchtdorf-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/640/360/899756' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/396/224/233074' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1920/1080/8272000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/480/268/611756' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/2499756' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/1771756' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/1280/720/2099756' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/720/404/1199756' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/480/268/399756' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/480/268/399756' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158063001/480/268/399756' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4010-president-dieter-f-uchtdorf-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Fakafetaʻi ki he ʻOtuá' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -486,19 +485,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/1770217' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158086001/640/360/898217' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/2098217' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1920/1080/8266000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/2498217' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Fakafetaʻi ki he ʻOtuá</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4020-elder-russell-m-nelson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4020-elder-russell-m-nelson-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/1770217' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/640/360/898217' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/396/224/231172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/480/268/398217' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/2098217' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1920/1080/8266000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/480/268/610217' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/1280/720/2498217' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/720/404/1198217' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/480/268/398217' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547158086001/480/268/398217' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4020-elder-russell-m-nelson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ngaahi Lēsoni Makehe' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -507,19 +506,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1920/1080/8169000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239205001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/1768000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ngaahi Lēsoni Makehe</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4030-elder-ronald-a-rasband-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4030-elder-ronald-a-rasband-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/396/224/226788' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1920/1080/8169000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239205001/480/268/608000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4030-elder-ronald-a-rasband-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Vīsone ʻa e Kau Palōfitá ki he Fineʻofá: Tuí, Fāmilí, Tokoní' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -528,19 +527,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239249001/640/360/898418' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/2498418' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/1770418' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/2098418' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1920/1080/8244000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Vīsone ʻa e Kau Palōfitá ki he Fineʻofá: Tuí, Fāmilí, Tokoní</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4040-julie-b-beck-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4040-julie-b-beck-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/720/404/1198418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/640/360/898418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/480/268/610418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/480/268/398418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/2498418' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/480/268/398418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/480/268/398418' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/1770418' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/396/224/231987' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1280/720/2098418' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547239249001/1920/1080/8244000' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4040-julie-b-beck-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Tokāteline ʻo Kalaisí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -549,19 +548,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1920/1080/8268000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1722677681001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/1768000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Tokāteline ʻo Kalaisí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4050-elder-d-todd-christofferson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4050-elder-d-todd-christofferson-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/396/224/225553' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1920/1080/8268000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1722677681001/1280/720/1768000' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4050-elder-d-todd-christofferson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Pue ʻo e Moʻuí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -570,15 +569,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4060-president-thomas-s-monson-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Pue ʻo e Moʻuí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4060-president-thomas-s-monson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4060-president-thomas-s-monson-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4060-president-thomas-s-monson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Mālohi ʻo e Fakahaofí' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -587,15 +579,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5010-elder-l-tom-perry-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Mālohi ʻo e Fakahaofí</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5010-elder-l-tom-perry-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5010-elder-l-tom-perry-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5010-elder-l-tom-perry-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ke Maʻu ʻa ia Naʻe Molé' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -604,15 +589,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5020-elder-m-russell-ballard-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ke Maʻu ʻa ia Naʻe Molé</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5020-elder-m-russell-ballard-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5020-elder-m-russell-ballard-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5020-elder-m-russell-ballard-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Maʻu ʻa e Vīsone ke Ngāué' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -621,15 +599,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Maʻu ʻa e Vīsone ke Ngāué</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='“‘I he ngaahi Tefitoʻi Moʻoni Pē ʻo e Anga-māʻoniʻoní”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -638,15 +609,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5040-elder-larry-y-wilson-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>“‘I he ngaahi Tefitoʻi Moʻoni Pē ʻo e Anga-māʻoniʻoní”</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5040-elder-larry-y-wilson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5040-elder-larry-y-wilson-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5040-elder-larry-y-wilson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Naʻe ʻAonga Nai?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -655,15 +619,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5050-elder-david-f-evans-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Naʻe ʻAonga Nai?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5050-elder-david-f-evans-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5050-elder-david-f-evans-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5050-elder-david-f-evans-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ke Tauhi ke Toputapu' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -672,15 +629,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5060-elder-paul-b-pieper-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ke Tauhi ke Toputapu</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5060-elder-paul-b-pieper-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5060-elder-paul-b-pieper-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5060-elder-paul-b-pieper-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Hā e Fakakaukau ʻa Kalaisi Kiate Aú?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -689,15 +639,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5070-elder-neil-l-andersen-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Hā e Fakakaukau ʻa Kalaisi Kiate Aú?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5070-elder-neil-l-andersen-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5070-elder-neil-l-andersen-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5070-elder-neil-l-andersen-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Heʻetau Fakaʻosi e Konifelenisí ni' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -706,19 +649,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1920/1080/8279000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/2101014' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/1773014' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/2501014' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1547389094001/640/360/901014' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Heʻetau Fakaʻosi e Konifelenisí ni</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5080-president-thomas-s-monson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5080-president-thomas-s-monson-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/396/224/233591' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/480/268/401014' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/480/268/401014' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/720/404/1201014' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1920/1080/8279000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/480/268/613014' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/480/268/401014' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/2101014' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/1773014' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/1280/720/2501014' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1547389094001/640/360/901014' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5080-president-thomas-s-monson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Tuʻu Hake pea Ulo Atu' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -727,19 +670,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/2502334' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467261001/640/360/902334' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/1774334' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1920/1080/8189000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/2102334' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Tuʻu Hake pea Ulo Atu</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0010-ann-m-dibb-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0010-ann-m-dibb-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/2502334' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/396/224/233232' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/720/404/1202334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/480/268/402334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/480/268/402334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/640/360/902334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/1774334' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1920/1080/8189000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/480/268/614334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/480/268/402334' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467261001/1280/720/2102334' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0010-ann-m-dibb-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Fekumi ki he ‘Iló: ‘Oku ‘i ai Ha Ngāue ke ke Fai' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -748,19 +691,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1920/1080/8014000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/1774332' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/2102332' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/2502332' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1529467328001/640/360/902332' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Fekumi ki he ‘Iló: ‘Oku ‘i ai Ha Ngāue ke ke Fai</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0020-mary-n-cook-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0020-mary-n-cook-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/480/268/402332' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/480/268/402332' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/720/404/1202332' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/480/268/614332' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1920/1080/8014000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/1774332' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/396/224/238580' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/2102332' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/480/268/402332' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/1280/720/2502332' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1529467328001/640/360/902332' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0020-mary-n-cook-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Ko e Taimí ‘Eni ke Tuʻu Hake pea Ulo!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -769,19 +712,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/1770345' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1920/1080/8075000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/2098345' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/2498345' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1530759239001/640/360/898345' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Ko e Taimí ‘Eni ke Tuʻu Hake pea Ulo!</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0040-elaine-s-dalton-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0040-elaine-s-dalton-64k-ton.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/1770345' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/480/268/398345' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/396/224/228589' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/480/268/398345' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/480/268/398345' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1920/1080/8075000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/2098345' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/1280/720/2498345' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/480/268/610345' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/640/360/898345' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1530759239001/720/404/1198345' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0040-elaine-s-dalton-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Tui, Talangofua, Kātaki' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -790,15 +733,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0050-president-thomas-s-monson-360p-ton.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Tui, Talangofua, Kātaki</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0050-president-thomas-s-monson-64k-ton.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0050-president-thomas-s-monson-64k-ton.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0050-president-thomas-s-monson-360p-ton.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

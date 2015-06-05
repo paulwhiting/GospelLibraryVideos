@@ -5,19 +5,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/2099700' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/2499700' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/1771700' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1920/1080/8273000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412268229001/640/360/899700' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Skrifternes styrke</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1010-elder-richard-g-scott-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1010-elder-richard-g-scott-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/2099700' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/2499700' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1280/720/1771700' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/480/268/399700' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/480/268/399700' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/396/224/231075' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/480/268/399700' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/1920/1080/8273000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/480/268/611700' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/720/404/1199700' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412268229001/640/360/899700' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1010-elder-richard-g-scott-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Personlig åbenbaring og vidnesbyrd' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -26,19 +26,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1920/1080/8262000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286949001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/1768000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Personlig åbenbaring og vidnesbyrd</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1020-barbara-thompson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1020-barbara-thompson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/396/224/235326' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1920/1080/8262000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286949001/1280/720/1768000' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1020-barbara-thompson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Tiden skal komme' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -47,19 +47,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286967001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1920/1080/8270000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Tiden skal komme</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1030-elder-l-whitney-clayton-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1030-elder-l-whitney-clayton-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/396/224/227282' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/1920/1080/8270000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286967001/720/404/1196000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1030-elder-l-whitney-clayton-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Nu ses vi igen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -68,19 +68,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/2498568' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1920/1080/8220000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286996001/640/360/898568' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/1770568' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/2098568' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Nu ses vi igen</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1040-president-thomas-s-monson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1040-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/480/268/398568' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/480/268/398568' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/720/404/1198568' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/396/224/228223' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/2498568' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1920/1080/8220000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/480/268/398568' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/640/360/898568' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/1770568' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/1280/720/2098568' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412286996001/480/268/610568' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1040-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Gør det rette til rette tid, uden tøven' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -89,19 +89,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/2498172' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1920/1080/8261000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291931001/640/360/898172' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/2098172' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/1770172' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Gør det rette til rette tid, uden tøven</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1050-elder-jose-l-alonso-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1050-elder-jose-l-alonso-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/480/268/398172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/720/404/1198172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/2498172' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/480/268/398172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1920/1080/8261000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/396/224/232625' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/640/360/898172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/480/268/398172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/2098172' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/480/268/610172' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291931001/1280/720/1770172' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1050-elder-jose-l-alonso-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Råd til de unge' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -110,19 +110,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291045001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1920/1080/8283000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Råd til de unge</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1060-president-boyd-k-packer-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1060-president-boyd-k-packer-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/396/224/231378' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/1920/1080/8283000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412291045001/480/268/396000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1060-president-boyd-k-packer-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='I betyder noget for ham' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -131,19 +131,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412298486001/640/360/898533' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/2498533' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/1770533' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/2098533' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1920/1080/8290000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>I betyder noget for ham</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1070-president-dieter-f-uchtdorf-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1070-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/480/268/398533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/396/224/233229' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/480/268/398533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/640/360/898533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/480/268/610533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/2498533' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/1770533' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/480/268/398533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1280/720/2098533' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/720/404/1198533' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412298486001/1920/1080/8290000' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-1070-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Opretholdelse af Kirkens ledere' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -152,19 +152,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/2500496' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1920/1080/8186000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320398001/640/360/900496' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/2100496' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/1772496' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Opretholdelse af Kirkens ledere</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2010-the-sustaining-of-church-officers-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2010-the-sustaining-of-church-officers-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/720/404/1200496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/480/268/400496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/396/224/205782' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/480/268/612496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/2500496' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/480/268/400496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1920/1080/8186000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/640/360/900496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/480/268/400496' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/2100496' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320398001/1280/720/1772496' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2010-the-sustaining-of-church-officers-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Børnenes hjerte skal vende sig' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -173,19 +173,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/1770258' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320418001/640/360/898258' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/2098258' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1920/1080/8166000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/2498258' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Børnenes hjerte skal vende sig</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2020-elder-david-a-bednar-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2020-elder-david-a-bednar-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/480/268/398258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/1770258' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/640/360/898258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/2098258' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/720/404/1198258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/480/268/398258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1920/1080/8166000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/480/268/398258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/1280/720/2498258' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/480/268/610258' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412320418001/396/224/229324' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2020-elder-david-a-bednar-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Børn' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -194,19 +194,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/1770244' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/2498244' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1920/1080/7652000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412319964001/640/360/898244' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/2098244' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Børn</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2030-elder-neil-l-andersen-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2030-elder-neil-l-andersen-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/1770244' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/2498244' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/480/268/398244' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/720/404/1198244' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/480/268/398244' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/396/224/224557' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1920/1080/7652000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/640/360/898244' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/1280/720/2098244' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/480/268/610244' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412319964001/480/268/398244' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2030-elder-neil-l-andersen-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='En forberedelsestid' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -215,19 +215,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/1773485' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1920/1080/8265000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/2101485' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/2501485' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331018001/640/360/901485' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>En forberedelsestid</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2040-elder-ian-s-ardern-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2040-elder-ian-s-ardern-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/1773485' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/480/268/401485' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1920/1080/8265000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/2101485' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/720/404/1201485' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/480/268/401485' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/1280/720/2501485' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/396/224/236165' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/480/268/401485' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/480/268/613485' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331018001/640/360/901485' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2040-elder-ian-s-ardern-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Det er bedre at se op' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -236,19 +236,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1920/1080/8251000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/2498943' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/2098943' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331042001/640/360/898943' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/1770943' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Det er bedre at se op</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2050-elder-carl-b-cook-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2050-elder-carl-b-cook-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/480/268/398943' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1920/1080/8251000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/2498943' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/2098943' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/480/268/398943' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/640/360/898943' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/1280/720/1770943' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/480/268/398943' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/396/224/230947' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/720/404/1198943' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412331042001/480/268/610943' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2050-elder-carl-b-cook-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Forløsning' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -257,19 +257,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1920/1080/8256000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412342211001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/1768000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Forløsning</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2060-elder-legrand-r-curtis-jr-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2060-elder-legrand-r-curtis-jr-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1920/1080/8256000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/396/224/229476' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412342211001/480/268/396000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2060-elder-legrand-r-curtis-jr-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Omvendelsens guddommelige gave' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -278,19 +278,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412345266001/640/360/897971' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/2097971' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1920/1080/8282000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/1769971' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/2497971' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Omvendelsens guddommelige gave</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2070-elder-d-todd-christofferson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2070-elder-d-todd-christofferson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/640/360/897971' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/2097971' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1920/1080/8282000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/1769971' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/396/224/231415' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/1280/720/2497971' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/480/268/397971' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/480/268/397971' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/720/404/1197971' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/480/268/609971' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412345266001/480/268/397971' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2070-elder-d-todd-christofferson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Den fuldendte kærlighed fordriver frygten' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -299,19 +299,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412348534001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1920/1080/8281000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Den fuldendte kærlighed fordriver frygten</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2080-elder-l-tom-perry-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2080-elder-l-tom-perry-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/396/224/231511' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/1920/1080/8281000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412348534001/480/268/396000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2080-elder-l-tom-perry-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Modigt må vi kæmpe' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -320,19 +320,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1920/1080/8282000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/2098897' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/1770897' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/2498897' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412359935001/640/360/898897' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Modigt må vi kæmpe</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3010-elder-jeffrey-r-holland-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3010-elder-jeffrey-r-holland-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/396/224/231784' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/480/268/610897' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/480/268/398897' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1920/1080/8282000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/2098897' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/720/404/1198897' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/1770897' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/480/268/398897' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/480/268/398897' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/1280/720/2498897' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412359935001/640/360/898897' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3010-elder-jeffrey-r-holland-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Det Aronske Præstedømmes kraft' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -341,19 +341,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1920/1080/8268000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412358132001/640/360/896000' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Det Aronske Præstedømmes kraft</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3020-bishop-keith-b-mcmullin-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3020-bishop-keith-b-mcmullin-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/1920/1080/8268000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/396/224/227557' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412358132001/480/268/396000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3020-bishop-keith-b-mcmullin-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Jeres livs chance' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -362,19 +362,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1920/1080/8268000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412373812001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/2096000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Jeres livs chance</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3030-elder-w-christopher-waddell-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3030-elder-w-christopher-waddell-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1920/1080/8268000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412373812001/396/224/229100' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3030-elder-w-christopher-waddell-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Omsorg på Herrens måde' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -383,19 +383,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1920/1080/8288000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/1770060' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/2498060' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412378761001/640/360/898060' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/2098060' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Omsorg på Herrens måde</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3040-president-dieter-f-uchtdorf-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3040-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/480/268/398060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/480/268/610060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/720/404/1198060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/480/268/398060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1920/1080/8288000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/1770060' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/480/268/398060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/2498060' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/396/224/231416' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/640/360/898060' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412378761001/1280/720/2098060' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3040-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Forberedelse i præstedømmet: »Jeg har brug for din hjælp«' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -404,19 +404,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412384614001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1920/1080/8292000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Forberedelse i præstedømmet: »Jeg har brug for din hjælp«</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3050-president-henry-b-eyring-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3050-president-henry-b-eyring-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/396/224/227887' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/1920/1080/8292000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412384614001/480/268/396000' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3050-president-henry-b-eyring-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Vov at stå alene' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -425,19 +425,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/2099214' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412371777001/640/360/899214' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/2499214' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/1771214' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1920/1080/8294000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Vov at stå alene</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3060-president-thomas-s-monson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3060-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/2099214' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/480/268/611214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/480/268/399214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/480/268/399214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/396/224/231782' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/640/360/899214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/2499214' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/720/404/1199214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/480/268/399214' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1280/720/1771214' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412371777001/1920/1080/8294000' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-3060-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Et vidne' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -446,19 +446,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/1771321' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/2499321' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412397471001/640/360/899321' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1920/1080/8286000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/2099321' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Et vidne</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4010-president-henry-b-eyring-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4010-president-henry-b-eyring-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/720/404/1199321' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/396/224/233186' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/1771321' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/2499321' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/640/360/899321' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1920/1080/8286000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/480/268/399321' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/480/268/399321' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/1280/720/2099321' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/480/268/611321' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412397471001/480/268/399321' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4010-president-henry-b-eyring-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Vent på Herren: Din vilje ske.' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -467,19 +467,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1920/1080/8285000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/1775501' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/2503501' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402005001/640/360/903501' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/2103501' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Vent på Herren: Din vilje ske.</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4020-elder-robert-d-hales-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4020-elder-robert-d-hales-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/396/224/238763' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/720/404/1203501' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1920/1080/8285000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/1775501' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/480/268/403501' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/480/268/403501' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/2503501' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/640/360/903501' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/480/268/615501' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/1280/720/2103501' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402005001/480/268/403501' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4020-elder-robert-d-hales-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Mormons Bog – en bog fra Gud' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -488,19 +488,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1920/1080/7725000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402040001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/2496000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Mormons Bog – en bog fra Gud</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4030-elder-tad-r-callister-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4030-elder-tad-r-callister-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1920/1080/7725000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/396/224/223028' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412402040001/1280/720/2496000' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4030-elder-tad-r-callister-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Elsk hendes mor' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -509,19 +509,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411819001/640/360/899054' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1920/1080/8152000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/2499054' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/2099054' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/1771054' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Elsk hendes mor</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4040-elaine-s-dalton-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4040-elaine-s-dalton-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/640/360/899054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1920/1080/8152000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/480/268/399054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/480/268/399054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/396/224/228965' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/2499054' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/480/268/399054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/720/404/1199054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/2099054' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/480/268/611054' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411819001/1280/720/1771054' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4040-elaine-s-dalton-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Et navns betydning' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -530,19 +530,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/1768000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411844001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1920/1080/8279000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/2496000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Et navns betydning</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4050-elder-m-russell-ballard-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4050-elder-m-russell-ballard-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1920/1080/8279000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412411844001/396/224/230367' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4050-elder-m-russell-ballard-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Stå på hellige steder' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -551,19 +551,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/1772618' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1920/1080/8293000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412414148001/640/360/900618' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/2500618' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/2100618' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Stå på hellige steder</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4060-president-thomas-s-monson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4060-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/1772618' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1920/1080/8293000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/396/224/235174' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/480/268/400618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/480/268/612618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/480/268/400618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/640/360/900618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/2500618' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/720/404/1200618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/480/268/400618' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412414148001/1280/720/2100618' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-4060-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Pagter' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -572,19 +572,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/1773493' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/2101493' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422457001/640/360/901493' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/2501493' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1920/1080/8280000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Pagter</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5010-elder-russell-m-nelson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5010-elder-russell-m-nelson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/1773493' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/396/224/235841' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/2101493' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/480/268/401493' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/480/268/613493' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/720/404/1201493' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/640/360/901493' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1280/720/2501493' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/480/268/401493' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/1920/1080/8280000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422457001/480/268/401493' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5010-elder-russell-m-nelson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Jesu lære' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -593,19 +593,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/2500933' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422149001/640/360/900933' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1920/1080/8285000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/2100933' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/1772933' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Jesu lære</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5020-elder-dallin-h-oaks-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5020-elder-dallin-h-oaks-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/2500933' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/480/268/400933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/720/404/1200933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/480/268/400933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/640/360/900933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/480/268/612933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1920/1080/8285000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/396/224/235603' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/2100933' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/480/268/400933' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412422149001/1280/720/1772933' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5020-elder-dallin-h-oaks-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Undervisning ved Ånden' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -614,19 +614,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/2098082' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429688001/640/360/898082' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/1770082' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/2498082' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1920/1080/8127000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Undervisning ved Ånden</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5030-matthew-o-richardson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5030-matthew-o-richardson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/2098082' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/640/360/898082' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/1770082' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/396/224/232149' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/720/404/1198082' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/480/268/398082' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1280/720/2498082' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/1920/1080/8127000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/480/268/398082' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/480/268/610082' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429688001/480/268/398082' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5030-matthew-o-richardson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Missionærer er Kirkens skat' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -635,19 +635,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/2500724' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429732001/640/360/900724' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1920/1080/8177000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/1772724' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/2100724' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Missionærer er Kirkens skat</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5040-elder-kazuhiko-yamashita-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5040-elder-kazuhiko-yamashita-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/480/268/612724' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/2500724' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/640/360/900724' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/720/404/1200724' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/480/268/400724' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1920/1080/8177000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/1772724' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/396/224/231687' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/480/268/400724' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/1280/720/2100724' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412429732001/480/268/400724' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5040-elder-kazuhiko-yamashita-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Vælg evigt liv' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -656,19 +656,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1920/1080/8262000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/2498801' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412439753001/640/360/898801' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/1770801' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/2098801' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Vælg evigt liv</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5050-elder-randall-k-bennett-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5050-elder-randall-k-bennett-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/480/268/398801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/480/268/610801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/480/268/398801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1920/1080/8262000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/2498801' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/480/268/398801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/640/360/898801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/1770801' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/720/404/1198801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/1280/720/2098801' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412439753001/396/224/233782' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5050-elder-randall-k-bennett-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Bønnens privilegium' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -677,19 +677,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1920/1080/8262000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433863001/640/360/896000' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/2096000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/2496000' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/1768000' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Bønnens privilegium</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5060-elder-j-devn-cornish-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5060-elder-j-devn-cornish-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/480/268/396000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/720/404/1196000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1920/1080/8262000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/396/224/230615' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/640/360/896000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/2096000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/480/268/608000' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/2496000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433863001/1280/720/1768000' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5060-elder-j-devn-cornish-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='De sange, de ikke kunne synge' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -698,19 +698,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/2499445' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433880001/640/360/899445' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1920/1080/8284000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/2099445' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/1771445' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>De sange, de ikke kunne synge</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5070-elder-quentin-l-cook-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5070-elder-quentin-l-cook-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/2499445' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/640/360/899445' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/480/268/399445' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/480/268/399445' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1920/1080/8284000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/396/224/233899' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/480/268/399445' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/2099445' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/480/268/611445' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/1280/720/1771445' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412433880001/720/404/1199445' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5070-elder-quentin-l-cook-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Til vi ses igen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -719,19 +719,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1920/1080/8222000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/2102102' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/2502102' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/1774102' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1412442942001/640/360/902102' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Til vi ses igen</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5080-president-thomas-s-monson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5080-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1920/1080/8222000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/2102102' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/480/268/402102' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/2502102' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/396/224/236220' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/720/404/1202102' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/480/268/614102' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/1280/720/1774102' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/640/360/902102' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/480/268/402102' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1412442942001/480/268/402102' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5080-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Det, jeg håber, mine børnebørn vil forstå om Hjælpeforeningen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -740,19 +740,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/1771577' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572920447001/640/360/899577' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/2099577' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1920/1080/8286000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/2499577' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Det, jeg håber, mine børnebørn vil forstå om Hjælpeforeningen</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0010-julie-b-beck-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0010-julie-b-beck-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/1771577' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/480/268/399577' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/640/360/899577' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/396/224/232994' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/480/268/399577' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/2099577' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1920/1080/8286000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/720/404/1199577' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/1280/720/2499577' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/480/268/399577' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572920447001/480/268/611577' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0010-julie-b-beck-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Kærligheden ophører aldrig' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -761,19 +761,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928111001/640/360/904276' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/2104276' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/1776276' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1920/1080/7894000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/2504276' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Kærligheden ophører aldrig</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0020-silvia-h-allred-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0020-silvia-h-allred-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/640/360/904276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/396/224/230889' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/2104276' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/1776276' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1920/1080/7894000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/480/268/404276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/480/268/404276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/720/404/1204276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/480/268/616276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/480/268/404276' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928111001/1280/720/2504276' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0020-silvia-h-allred-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Hold fast ved pagterne' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -782,19 +782,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/1773719' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/2101719' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/2501719' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928131001/640/360/901719' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1920/1080/8101000' height='1080'/>
-</item>
-<item>
-        <id></id>
-        <title>Hold fast ved pagterne</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0030-barbara-thompson-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0030-barbara-thompson-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/480/268/401719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/480/268/401719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/1773719' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/480/268/613719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/2101719' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1280/720/2501719' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/640/360/901719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/720/404/1201719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/1920/1080/8101000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/480/268/401719' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572928131001/396/224/231491' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0030-barbara-thompson-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Forglem mig ej' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -803,19 +803,19 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/2100798' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/2500798' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572937145001/640/360/900798' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1920/1080/8219000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/1772798' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>Forglem mig ej</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0040-president-dieter-f-uchtdorf-64k-dan.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0040-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/480/268/400798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/480/268/400798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/2100798' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/2500798' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/480/268/612798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/640/360/900798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/480/268/400798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1920/1080/8219000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/720/404/1200798' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/396/224/233075' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2572937145001/1280/720/1772798' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-relief-society-meeting/2011-general-relief-society-meeting/2011-09-0040-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

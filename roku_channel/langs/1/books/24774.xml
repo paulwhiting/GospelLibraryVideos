@@ -5,10 +5,10 @@
         <description></description>
         <duration>232</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3576/66852713001_2551203353001_2013-06-001-we-are-one-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/184/66852713001_2551199885001_2013-06-001-we-are-one-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/16/66852713001_2551208904001_2013-06-001-we-are-one-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2248/66852713001_2551208131001_2013-06-001-we-are-one-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3576/66852713001_2551203353001_2013-06-001-we-are-one-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/184/66852713001_2551199885001_2013-06-001-we-are-one-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/16/66852713001_2551208904001_2013-06-001-we-are-one-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2248/66852713001_2551208131001_2013-06-001-we-are-one-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -16,10 +16,10 @@
         <description></description>
         <duration>220</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3768/66852713001_2551195349001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/168/66852713001_2551202853001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/311/66852713001_2551224573001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2665/66852713001_2551224873001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3768/66852713001_2551195349001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/168/66852713001_2551202853001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/311/66852713001_2551224573001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2665/66852713001_2551224873001_2013-06-002-my-work-and-my-glory-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -27,22 +27,29 @@
         <description></description>
         <duration>267</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/833/66852713001_2551217530001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1777/66852713001_2551214536001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/697/66852713001_2551220763001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/689/66852713001_2551232032001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/833/66852713001_2551217530001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1777/66852713001_2551214536001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/697/66852713001_2551220763001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/689/66852713001_2551232032001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720p'/>
 </item>
  </channel> </rss></category>
 <category title='Priesthood Leaders' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Priesthood Leaders</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+</item>
+<item>
         <id></id>
         <title>Using Priesthood Keys in the Work—Stake and Mission Presidents</title>
         <description></description>
         <duration>184</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500392950001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500393879001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500395386001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500394244001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500392950001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500393879001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500395386001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500394244001_2013-06-005-using-priesthood-keys-in-the-work-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -50,10 +57,10 @@
         <description></description>
         <duration>332</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457359001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464171001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460297001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464237001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457359001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464171001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460297001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464237001_2013-06-016-strengthening-priesthood-quorums-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -61,10 +68,10 @@
         <description></description>
         <duration>221</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2697/66852713001_2551220737001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1167/66852713001_2551242852001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2129/66852713001_2551242836001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1791/66852713001_2551237346001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2697/66852713001_2551220737001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1167/66852713001_2551242852001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2129/66852713001_2551242836001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1791/66852713001_2551237346001_2013-06-017-member-missionary-work-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -72,22 +79,29 @@
         <description></description>
         <duration>214</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484381968001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484381987001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484389615001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484387891001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484381968001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484381987001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484389615001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484387891001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
 </item>
  </channel> </rss></category>
 <category title='Ward Councils and Ward Mission Leaders' subtitle='Videos: 10; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Ward Councils and Ward Mission Leaders</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+</item>
+<item>
         <id></id>
         <title>Preparing Families to Make Covenants—Ward Councils</title>
         <description></description>
         <duration>167</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487449557001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487452539001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487452466001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455937001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487449557001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487452539001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487452466001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455937001_2013-06-019-preparing-families-to-make-covenants-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -95,10 +109,10 @@
         <description></description>
         <duration>178</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487449562001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457372001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457303001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487463330001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487449562001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457372001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487457303001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487463330001_2013-06-020-helping-recent-converts-progress-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -106,10 +120,10 @@
         <description></description>
         <duration>214</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499154034001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499156500001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499156356001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499158288001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499154034001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499156500001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499156356001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499158288001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -117,10 +131,10 @@
         <description></description>
         <duration>203</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3567/66852713001_2551224852001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/657/66852713001_2551236152001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2529/66852713001_2551228090001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/657/66852713001_2551236140001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3567/66852713001_2551224852001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/657/66852713001_2551236152001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2529/66852713001_2551228090001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/657/66852713001_2551236140001_2013-06-009-it-takes-all-of-us-the-clawson-family-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -128,10 +142,10 @@
         <description></description>
         <duration>233</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/401/66852713001_2551211840001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/335/66852713001_2551217448001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2057/66852713001_2551221417001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2991/66852713001_2551224268001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/401/66852713001_2551211840001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/335/66852713001_2551217448001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2057/66852713001_2551221417001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2991/66852713001_2551224268001_2013-06-010-working-together-the-kane-family-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -139,10 +153,10 @@
         <description></description>
         <duration>246</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2495997334001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496015129001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496008753001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496004904001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2495997334001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496015129001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496008753001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2496004904001_2013-06-032-missionary-work-in-the-young-single-adult-committee-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -150,10 +164,10 @@
         <description></description>
         <duration>204</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455950001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460258001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467111001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455146001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455950001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460258001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467111001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487455146001_2013-06-022-seek-and-ye-shall-find-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -161,10 +175,10 @@
         <description></description>
         <duration>185</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467135001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460244001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487474632001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464181001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467135001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487460244001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487474632001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487464181001_2013-06-023-serving-in-the-ward-mission-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -172,10 +186,10 @@
         <description></description>
         <duration>193</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487461522001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487468413001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487466676001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467169001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487461522001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487468413001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487466676001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487467169001_2013-06-024-inviting-all-to-come-unto-christ-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -183,10 +197,10 @@
         <description></description>
         <duration>303</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498625790001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498621371001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498627750001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498625787001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498625790001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498621371001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498627750001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498625787001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720p'/>
 </item>
  </channel> </rss></category>
 <category title='Members and Missionaries' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -195,10 +209,10 @@
         <description></description>
         <duration>156</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1833/66852713001_2551217521001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3665/66852713001_2551224876001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/57/66852713001_2551221391001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2777/66852713001_2551222727001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1833/66852713001_2551217521001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3665/66852713001_2551224876001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/57/66852713001_2551221391001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2777/66852713001_2551222727001_2013-06-013-we-rejoice-in-christ-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -206,10 +220,10 @@
         <description></description>
         <duration>174</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487469648001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477204001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487480210001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487488367001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487469648001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477204001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487480210001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487488367001_2013-06-027-sharing-the-gospel-immokalee-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -217,10 +231,10 @@
         <description></description>
         <duration>127</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487474600001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487476370001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477276001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477275001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487474600001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487476370001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477276001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487477275001_2013-06-028-we-are-brothers-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -228,10 +242,10 @@
         <description></description>
         <duration>250</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499309968001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313712001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313779001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313750001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499309968001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313712001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313779001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313750001_2013-06-029-missionary-mindset-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -239,10 +253,10 @@
         <description></description>
         <duration>205</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499303772001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313095001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313141001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499315349001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499303772001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313095001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499313141001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2499315349001_2013-06-030-because-i-have-been-given-much-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -250,10 +264,10 @@
         <description></description>
         <duration>289</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487494150001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487491246001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487499794001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487500588001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487494150001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487491246001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487499794001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2487500588001_2013-06-031-priesthood-duty-preaching-the-gospel-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -261,10 +275,10 @@
         <description></description>
         <duration>280</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3687/66852713001_2551238291001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1897/66852713001_2551217485001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/961/66852713001_2551217402001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3577/66852713001_2551217783001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3687/66852713001_2551238291001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1897/66852713001_2551217485001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/961/66852713001_2551217402001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3577/66852713001_2551217783001_2013-06-012-the-lord-of-the-harvest-the-adams-family-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -272,10 +286,10 @@
         <description></description>
         <duration>248</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/121/66852713001_2551221327001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3375/66852713001_2551224648001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/833/66852713001_2551217534001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/239/66852713001_2551237820001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/121/66852713001_2551221327001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3375/66852713001_2551224648001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/833/66852713001_2551217534001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/239/66852713001_2551237820001_2013-06-014-in-his-own-time-jack-dysert-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -283,10 +297,10 @@
         <description></description>
         <duration>215</duration>
         <thumbnail url=''/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1055/66852713001_2551224306001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='360'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2679/66852713001_2551227017001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3921/66852713001_2551257380001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720'/>
-<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3513/66852713001_2551217879001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/1055/66852713001_2551224306001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='360p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/2679/66852713001_2551227017001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3921/66852713001_2551257380001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720p'/>
+<content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3513/66852713001_2551217879001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720p'/>
 </item>
  </channel> </rss></category>
 <category title='Special Broadcast: The Work of Salvation' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -295,10 +309,10 @@
         <description></description>
         <duration>1544</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2470226013001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2471936514001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2471946795001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2470233479001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2470226013001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2471936514001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2471946795001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2470233479001_2011-02-1040-discussion-on-priesthood-principles-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -306,10 +320,10 @@
         <description></description>
         <duration>233</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509334032001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509334737001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509346721001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509340368001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509334032001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509334737001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509346721001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509340368001_2013-06-1002-hark-all-ye-nations-new-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -317,10 +331,10 @@
         <description></description>
         <duration>113</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846107001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501845728001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846431001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846873001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846107001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501845728001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846431001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501846873001_2013-06-1010-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -328,10 +342,10 @@
         <description></description>
         <duration>556</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501848329001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501848215001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501847638001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501847644001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501848329001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501848215001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501847638001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501847644001_2013-06-1020-elder-jeffrey-r-holland-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -339,10 +353,10 @@
         <description></description>
         <duration>1322</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501855448001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858320001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850790001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850796001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501855448001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858320001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850790001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850796001_2013-06-1030-elder-l-tom-perry-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -350,10 +364,10 @@
         <description></description>
         <duration>345</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786661001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505790116001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505789156001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505803275001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786661001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505790116001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505789156001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505803275001_2013-06-1031-ill-go-where-you-want-me-to-go-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -361,10 +375,10 @@
         <description></description>
         <duration>917</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501854080001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501853403001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501853908001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858771001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501854080001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501853403001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501853908001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858771001_2013-06-1040-elder-neil-l-andersen-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -372,10 +386,10 @@
         <description></description>
         <duration>284</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786640001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786362001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505810677001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505805568001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786640001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505786362001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505810677001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2505805568001_2013-06-1041-missionary-song-medley-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -383,11 +397,11 @@
         <description></description>
         <duration>113</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294837001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294931001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294862001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294933001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260244791001_2013-02-0360-preparing-future-missionaries-8000k-eng-copy.mp4' height='1080'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294837001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294931001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294862001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260294933001_2013-02-0360-preparing-future-missionaries-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2260244791001_2013-02-0360-preparing-future-missionaries-8000k-eng-copy.mp4' height='1080p'/>
 </item>
 <item>
         <id></id>
@@ -395,10 +409,10 @@
         <description></description>
         <duration>387</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850054001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858714001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501851777001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501851762001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501850054001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501858714001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501851777001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2501851762001_2013-06-1060-president-boyd-k-packer-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -406,10 +420,10 @@
         <description></description>
         <duration>591</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509359189001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509389753001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509404372001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509378111001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509359189001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509389753001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509404372001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509378111001_2013-06-1072-president-thomas-s-monson-new-8000k-eng.mp4' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -417,10 +431,10 @@
         <description></description>
         <duration>190</duration>
         <thumbnail url=''/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509342871001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='360'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509342844001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509353452001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720'/>
-<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509356658001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509342871001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='360p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509342844001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509353452001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720p'/>
+<content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509356658001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720p'/>
 </item>
  </channel> </rss></category>
 </categories>

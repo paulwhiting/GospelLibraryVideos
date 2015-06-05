@@ -5,11 +5,17 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/2103216' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112069001/640/360/903216' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/2503216' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/1775216' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1920/1080/8280000' height='1080'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/480/268/403216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/2103216' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/640/360/903216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/2503216' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/480/268/403216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1280/720/1775216' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/396/224/235175' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/720/404/1203216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/480/268/615216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/480/268/403216' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112069001/1920/1080/8280000' height='1080p'/>
 </item>
  </channel> </rss></category>
 <category title='Fikiria Baraka' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -18,11 +24,17 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1920/1080/8278805' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/2101726' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/2501726' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/1773726' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/1964112084001/640/360/901726' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/480/270/613726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1920/1080/8278805' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/2101726' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/480/270/401726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/2501726' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/480/270/401726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/1280/720/1773726' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/640/360/901726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/480/270/401726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/720/405/1201726' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/1964112084001/400/224/237429' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

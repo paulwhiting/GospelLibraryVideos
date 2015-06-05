@@ -5,7 +5,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-02-friends-by-mail-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Reason for the Wonder' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -14,7 +14,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-03-the-reason-for-the-wonder-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-03-the-reason-for-the-wonder-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Grandma’s Gift' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -23,7 +23,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-04-grandmas-gift-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-04-grandmas-gift-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='A Temple Square Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -32,7 +32,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-05-a-temple-square-christmas-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-05-a-temple-square-christmas-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Christmas Basket' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -41,7 +41,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-06-the-christmas-basket-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-06-the-christmas-basket-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Jesus Is My True Light' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -50,15 +50,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-07-jesus-is-my-true-light-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Jesus Is My True Light</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-07-jesus-is-my-true-light-128k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-07-jesus-is-my-true-light-128k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-07-jesus-is-my-true-light-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -67,7 +60,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-08-our-creative-friends-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-08-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='I Will Remember Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -76,7 +69,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-09-i-will-remember-jesus-christ-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-09-i-will-remember-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='They Spoke to Us' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -85,7 +78,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-10-they-spoke-to-us-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-10-they-spoke-to-us-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -94,7 +87,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-11-for-little-friends-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-11-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Bundling Up for Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -103,7 +96,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-13-bundling-up-for-christmas-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-13-bundling-up-for-christmas-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Christmas around the World' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -112,7 +105,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-14-christmas-around-the-world-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-14-christmas-around-the-world-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -121,15 +114,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-16-matt-and-mandy-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Matt and Mandy</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-16-matt-and-mandy-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-16-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-16-matt-and-mandy-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='The Missing Egg' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -138,7 +124,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-17-the-missing-egg-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-17-the-missing-egg-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Christmas Workshop' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -147,7 +133,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-18-christmas-workshop-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-18-christmas-workshop-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Why is what I wear to church important?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -156,7 +142,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-19-why-is-what-i-wear-to-church-important-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-19-why-is-what-i-wear-to-church-important-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -165,7 +151,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-20-friends-in-the-news-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-20-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='I Wasn’t There' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -174,7 +160,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-21-i-wasnt-there-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-21-i-wasnt-there-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Pink Dresser' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -183,7 +169,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-22-the-pink-dresser-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-22-the-pink-dresser-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Primary Manners' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -192,7 +178,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-23-primary-manners-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-23-primary-manners-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='A True Example of Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -201,7 +187,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-25-a-true-example-of-christ-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-25-a-true-example-of-christ-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -210,7 +196,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-26-trying-to-be-like-jesus-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-26-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Tire Tracks and Twinkle Lights' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -219,7 +205,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-27-tire-tracks-and-twinkle-lights-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-27-tire-tracks-and-twinkle-lights-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -228,7 +214,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-29-guide-to-the-friend-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2009/2009-12-29-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 </categories>

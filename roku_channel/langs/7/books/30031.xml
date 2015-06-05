@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Il est le cadeau' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Il vit - Fêtez Pâques parce que Jésus-Christ vit' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>Il est le cadeau</title>
+        <title>Il vit - Fêtez Pâques parce que Jésus-Christ vit</title>
         <description></description>
-        <duration>167</duration>
+        <duration>146</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1992601.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1721552.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1454157.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900210977001/640/360/826641.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114326001/1280/720/1842771.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114326001/1280/720/1557649.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114326001/1280/720/1371428.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098114326001/640/360/782200.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Grâce à lui' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +17,22 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/2036343.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/1714841.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/1441279.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905655001/640/360/776284.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/2036343.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/1714841.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905655001/1280/720/1441279.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905655001/640/360/776284.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Il est le cadeau' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Il est le cadeau</title>
+        <description></description>
+        <duration>167</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1992601.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1721552.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210977001/1280/720/1454157.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210977001/640/360/826641.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

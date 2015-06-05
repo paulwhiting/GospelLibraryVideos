@@ -5,15 +5,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0040-elder-russell-m-nelson-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>General Conference Music</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0040-elder-russell-m-nelson-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0040-elder-russell-m-nelson-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0040-elder-russell-m-nelson-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='News of the Church' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -22,15 +15,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0010-joanne-b-doxey-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>News of the Church</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0010-joanne-b-doxey-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0010-joanne-b-doxey-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-meeting/1987-general-womens-meeting/1987-09-0010-joanne-b-doxey-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

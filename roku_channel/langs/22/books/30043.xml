@@ -5,10 +5,10 @@
         <description></description>
         <duration>150</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1970185.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1653713.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1508035.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3946566317001/640/360/788042.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1970185.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1653713.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946566317001/1280/720/1508035.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3946566317001/640/360/788042.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='På grund af Ham' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +17,10 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/2051356.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/1724011.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/1459755.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3680966388001/640/360/787190.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/2051356.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/1724011.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966388001/1280/720/1459755.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3680966388001/640/360/787190.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

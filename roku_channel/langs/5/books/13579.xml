@@ -5,19 +5,17 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1920/1080/8224000' height='1080'/>
-<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/2104655' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2402577688001/640/360/904655' height='360'/>
-<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/1776655' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/2504655' height='720'/>
-</item>
-<item>
-        <id></id>
-        <title>大会へようこそ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1010-president-thomas-s-monson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1010-president-thomas-s-monson-64k-jpn.mp3' height='mp3'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/480/268/616655' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1920/1080/8224000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/480/268/404655' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/2104655' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/640/360/904655' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/1776655' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/1280/720/2504655' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/396/224/219883' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/2402577688001/720/404/1204655' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1010-president-thomas-s-monson-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='物心両面で賢い養い手となる' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -26,15 +24,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1020-elder-robert-d-hales-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>物心両面で賢い養い手となる</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1020-elder-robert-d-hales-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1020-elder-robert-d-hales-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1020-elder-robert-d-hales-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='敬意と敬けい虔けんさ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -43,17 +34,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>敬意と敬けい虔けんさ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1030-margaret-s-lifferth-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='啓示された定員会の原則' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -62,17 +46,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>啓示された定員会の原則</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1040-michael-a-neider-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='厳しい時代の中で強さを見いだす！' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -81,17 +58,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>厳しい時代の中で強さを見いだす！</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1050-elder-allan-f-packer-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='聖約の力' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -100,17 +70,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>聖約の力</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1060-elder-d-todd-christofferson-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='逆境' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -119,17 +82,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>逆境</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-1070-president-henry-b-eyring-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='教会役員の支持' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -138,17 +94,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>教会役員の支持</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2010-the-sustaining-of-church-officers-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='2008年度　教会監査部報告' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -157,16 +106,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>2008年度　教会監査部報告</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2020-church-auditing-department-report-2008-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='2008年度統計報告' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -175,16 +117,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>2008年度統計報告</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2030-statistical-report-2008-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='過去の教訓から学ぶ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -193,16 +128,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>過去の教訓から学ぶ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2040-elder-m-russell-ballard-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='御父の計画──すべての子供たちを救う壮大なもの' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -211,17 +139,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>御父の計画──すべての子供たちを救う壮大なもの</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2050-elder-quentin-l-cook-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主イエス・キリストを信じる信仰' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -230,17 +151,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主イエス・キリストを信じる信仰</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2060-elder-kevin-w-pearson-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='逆境の中の信仰' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -249,17 +163,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>逆境の中の信仰</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2070-elder-rafael-e-pino-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='「神殿での礼拝──苦難のときに強さと力を与えてくれる源泉」' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -268,17 +175,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>「神殿での礼拝──苦難のときに強さと力を与えてくれる源泉」</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2080-elder-richard-g-scott-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主の祈りから得られる教訓' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -287,17 +187,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主の祈りから得られる教訓</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-2090-elder-russell-m-nelson-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='若い男性への勧め' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -306,15 +199,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3010-president-boyd-k-packer-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>若い男性への勧め</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3010-president-boyd-k-packer-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3010-president-boyd-k-packer-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3010-president-boyd-k-packer-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='これはあなたへの電話です' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -323,17 +209,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>これはあなたへの電話です</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3020-bishop-richard-c-edgley-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='神権の責任' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -342,17 +221,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>神権の責任</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='偉大な業に携わっているから下って行くことはできない' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -361,17 +233,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>偉大な業に携わっているから下って行くことはできない</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3040-president-dieter-f-uchtdorf-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='「負傷者あり！」' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -380,17 +245,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>「負傷者あり！」</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3050-president-henry-b-eyring-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='最高の自分になる' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -399,17 +257,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>最高の自分になる</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3060-president-thomas-s-monson-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='キリストの弟子として歩む道' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -418,17 +269,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>キリストの弟子として歩む道</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4010-president-dieter-f-uchtdorf-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主のみもとに来なさい' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -437,17 +281,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主のみもとに来なさい</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4020-elder-neil-l-andersen-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='新たな人生を歩み始める' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -456,17 +293,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>新たな人生を歩み始める</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4030-elder-steven-e-snow-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主の手近し' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -475,17 +305,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主の手近し</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4040-barbara-thompson-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='だれも主とともにいなかった' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -494,17 +317,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>だれも主とともにいなかった</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4050-elder-jeffrey-r-holland-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='元気を出しなさい' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -513,17 +329,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>元気を出しなさい</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4060-president-thomas-s-monson-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='無私の奉仕' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -532,17 +341,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>無私の奉仕</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5010-elder-dallin-h-oaks-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='名と地位を立派に維持する' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -551,17 +353,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>名と地位を立派に維持する</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5020-elder-david-a-bednar-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='聖なる家庭，聖なる神殿' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -570,17 +365,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>聖なる家庭，聖なる神殿</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5030-elder-gary-e-stevenson-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='人生のかじ取りに役立つ賜物' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -589,17 +377,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>人生のかじ取りに役立つ賜物</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5040-elder-jose-a-teixeira-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='主の僕，預言者' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -608,17 +389,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>主の僕，預言者</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5050-elder-f-michael-watson-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='人々をわたしのもとに連れて来なさい' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -627,17 +401,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>人々をわたしのもとに連れて来なさい</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5060-elder-l-tom-perry-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='また逢あう日まで' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -646,17 +413,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-720p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>また逢あう日まで</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5070-president-thomas-s-monson-720p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='信者の模範になりなさい' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -665,16 +425,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>信者の模範になりなさい</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0010-ann-m-dibb-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='徳高い人生──一歩ずつ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -683,16 +436,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-1080p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-360p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>徳高い人生──一歩ずつ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-1080p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0020-mary-n-cook-360p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='さあ，わたしたちは主の山に登ろう' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -701,17 +447,10 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-720p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>さあ，わたしたちは主の山に登ろう</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-720p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0040-elaine-s-dalton-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='勇気を持てるように' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -720,16 +459,9 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-360p-jpn.mp4' height='360'/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-1080p-jpn.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>勇気を持てるように</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-64k-jpn.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-64k-jpn.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2009-general-young-women-meeting/2009-03-0050-president-thomas-s-monson-1080p-jpn.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

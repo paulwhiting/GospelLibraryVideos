@@ -5,15 +5,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-1020-elder-m-russell-ballard-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>La familia del profeta José Smith</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-1020-elder-m-russell-ballard-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-1020-elder-m-russell-ballard-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-1020-elder-m-russell-ballard-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='El proceso de la conversión' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -22,15 +15,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-2030-elder-julio-e-davila-480p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>El proceso de la conversión</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-2030-elder-julio-e-davila-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-2030-elder-julio-e-davila-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/october-1991-general-conference/1991-10-2030-elder-julio-e-davila-480p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>

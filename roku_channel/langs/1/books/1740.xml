@@ -5,7 +5,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-02-friends-by-mail-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Christmas Cane' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -14,7 +14,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-03-the-christmas-cane-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-03-the-christmas-cane-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='A Christmas Gift for Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -23,7 +23,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-04-a-christmas-gift-for-jesus-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-04-a-christmas-gift-for-jesus-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Christmas Eve Drop-Off' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -32,7 +32,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-05-christmas-eve-drop-off-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-05-christmas-eve-drop-off-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Church History Library' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -41,15 +41,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-06-the-church-history-library-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>The Church History Library</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-06-the-church-history-library-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-06-the-church-history-library-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-06-the-church-history-library-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='A Special Guest' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -58,7 +51,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-07-a-special-guest-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-07-a-special-guest-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -67,7 +60,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-08-bright-idea-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-08-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='How do I receive personal revelation?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -76,7 +69,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-09-how-do-i-receive-personal-revelation-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-09-how-do-i-receive-personal-revelation-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -85,7 +78,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-10-bulletin-board-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Jesus Is Born' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -94,7 +87,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-11-jesus-is-born-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-11-jesus-is-born-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Our Christmas Story Tree' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -103,15 +96,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-12-our-christmas-story-tree-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Our Christmas Story Tree</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-12-our-christmas-story-tree-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-12-our-christmas-story-tree-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-12-our-christmas-story-tree-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Bethlehem Canadian Style' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -120,7 +106,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-13-bethlehem-canadian-style-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-13-bethlehem-canadian-style-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Open House' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -129,7 +115,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-14-the-open-house-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-14-the-open-house-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Temple Is for Everyone' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -138,7 +124,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-15-the-temple-is-for-everyone-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-15-the-temple-is-for-everyone-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Life of Joseph Smith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -147,7 +133,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-16-the-life-of-joseph-smith-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-16-the-life-of-joseph-smith-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Scripture Ornaments' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -156,7 +142,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-17-scripture-ornaments-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-17-scripture-ornaments-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Christmas Workshop' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -165,7 +151,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-18-christmas-workshop-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-18-christmas-workshop-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='The Christmas Thaw' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -174,7 +160,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-19-the-christmas-thaw-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-19-the-christmas-thaw-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -183,7 +169,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-20-trying-to-be-like-jesus-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-20-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='For Little Friends' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -192,15 +178,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-21-for-little-friends-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>For Little Friends</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-21-for-little-friends-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-21-for-little-friends-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-21-for-little-friends-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Straw for the Manger' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -209,7 +188,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-22-straw-for-the-manger-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-22-straw-for-the-manger-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -218,7 +197,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-23-our-creative-friends-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-23-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='I Know That My Redeemer Lives' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -227,7 +206,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-24-i-know-that-my-redeemer-lives-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-24-i-know-that-my-redeemer-lives-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -236,15 +215,8 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-25-matt-and-mandy-360p-eng.mp4' height='360'/>
-</item>
-<item>
-        <id></id>
-        <title>Matt and Mandy</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-25-matt-and-mandy-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-25-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-25-matt-and-mandy-360p-eng.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -253,7 +225,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-26-friends-in-the-news-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-26-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Good Neighbors' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -262,7 +234,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-28-good-neighbors-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-28-good-neighbors-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -271,7 +243,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-29-guide-to-the-friend-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-29-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 <category title='Our Savior, Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -280,7 +252,7 @@
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
-<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-30-our-savior-jesus-christ-64k-eng.mp3' height='360'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-december-2010/2010-12-30-our-savior-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
  </channel> </rss></category>
 </categories>

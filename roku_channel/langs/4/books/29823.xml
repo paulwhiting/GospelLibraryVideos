@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ele é o Presente' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<categories><category title='Ele Vive - Comemore a Páscoa Porque Jesus Cristo Vive' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
         <id></id>
-        <title>Ele é o Presente</title>
+        <title>Ele Vive - Comemore a Páscoa Porque Jesus Cristo Vive</title>
         <description></description>
-        <duration>145</duration>
+        <duration>146</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/2018211.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/1760558.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/1422868.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3900402317001/640/360/807577.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116193001/1280/720/1898475.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116193001/1280/720/1561592.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116193001/1280/720/1321622.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4098116193001/640/360/753257.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 <category title='Graças a Ele' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
@@ -17,10 +17,22 @@
         <description></description>
         <duration>164</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1974659.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1668580.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1406166.mp4' height='720'/>
-<content url='http://mediasrv.lds.org/media-services/size/3471905672001/640/360/760463.mp4' height='360'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1974659.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1668580.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905672001/1280/720/1406166.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3471905672001/640/360/760463.mp4' height='360p'/>
+</item>
+ </channel> </rss></category>
+<category title='Ele é o Presente' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+        <id></id>
+        <title>Ele é o Presente</title>
+        <description></description>
+        <duration>145</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/2018211.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/1760558.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402317001/1280/720/1422868.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3900402317001/640/360/807577.mp4' height='360p'/>
 </item>
  </channel> </rss></category>
 </categories>
