@@ -105,9 +105,14 @@
                 var video = {
                     title: $xml.find("title").eq(0).text(),
                     description: $xml.find("description").eq(0).text(),
+                    pubDate: "1/1/2015",
                     imgURL: $xml.find("thumbnail").attr("url"),
                     videoURL: $xml.find("content").eq(0).attr("url")
                 };
+                // if item is mp3 then select the next URL if available (to default to videos instead of audio)
+                if ($xml.find("content").length > 1 && video.videoURL.length > 1 && video.videoURL[video.videoURL.length-1] === '3') {
+                    video.videoURL = $xml.find("content").eq(1).attr("url");
+                }
                 if (video.imgURL == undefined || video.imgURL == "") {
                     video.imgURL = "assets/amazon-folder.png";
                 }
@@ -211,9 +216,14 @@
                 var video = {
                     title: $xml.find("title").eq(0).text(),
                     description: $xml.find("description").eq(0).text(),
+                    pubDate: "1/1/2015",
                     imgURL: $xml.find("thumbnail").attr("url"),
                     videoURL: $xml.find("content").eq(0).attr("url")
                 };
+                // if item is mp3 then select the next URL if available (to default to videos instead of audio)
+                if ($xml.find("content").length > 1 && video.videoURL.length > 1 && video.videoURL[video.videoURL.length-1] === '3') {
+                    video.videoURL = $xml.find("content").eq(1).attr("url");
+                }
                 if (video.imgURL == undefined || video.imgURL == "") {
                     video.imgURL = "assets/amazon-folder.png";
                 }
