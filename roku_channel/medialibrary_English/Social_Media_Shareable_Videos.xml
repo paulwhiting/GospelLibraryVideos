@@ -1,6 +1,17 @@
 <rss>
   <channel><title/><description/>
 <item>
+        <id>2015-06-001-now-serving</id>
+        <title>Now Serving</title>
+        <description>Each day is full of small chances to do a little good.</description>
+        <duration>138</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/now-serving/2015-06-001-now-serving-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/now-serving/2015-06-001-now-serving.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/now-serving/2015-06-001-now-serving-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/now-serving/2015-06-001-now-serving-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/now-serving/2015-06-001-now-serving-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2015-03-1000-living-the-gospel</id>
         <title>Living the Gospel</title>
         <description>We don't achieve spiritual progress in large increments all at once. It comes gradually and slowly. It requires patience and persistence. The council I would give, the observation I would make is; consistency in small things brings great blessings.</description>
