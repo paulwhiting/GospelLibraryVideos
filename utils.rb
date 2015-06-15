@@ -7,6 +7,8 @@ require 'openssl'
 
 $failed_URLs = Hash.new(0)
 $blacklisted_URLs = Hash.new(0)
+$cached_file_sizes = Hash.new(0)
+$detected_file_sizes = Hash.new(0)
 
 def PrettyPrint( str )
     print str
@@ -60,6 +62,9 @@ def OpenURL(url,filename,bRetry=true)
             if e.to_s.include?("Timeout::Error")
               PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s} -- Retrying."
               return OpenURL(url,filename,true)
+            elsif e.to_s.include?("400 Bad Request")
+              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s} -- Retrying."
+              return OpenURL(url,filename,true)
             else
               PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s}"
               $failed_URLs[url] += 1
@@ -77,5 +82,15 @@ def load_blacklisted_urls
     data.each_line do |line|
         $blacklisted_URLs[line.chomp] = 1
     end
+end
+
+def load_cached_file_sizes
+    data = File.read("url_cached_file_sizes.txt")
+    data.each_line do |line|
+        size, url = line.split(' ')
+        $cached_file_sizes[url] = size
+    end
+
+    puts "Loaded #{$cached_file_sizes.count} file sizes from the cache file."
 end
 

@@ -260,22 +260,22 @@ class BookEntry
         if @media.count == 0 and @children.count == 0
             return true
         elsif @media.count == 1
-            if @title == @media[0].title
+            #if @title == @media[0].title
                 #puts "#{@title} == #{@media[0].title}"
-                puts "combinable true for #{@title}"
-                return true
-            else
-                puts "#{@title} != #{@media[0].title}"
-            end
+            #    puts "combinable true for #{@title}"
+            #    return true
+            #else
+            #    puts "#{@title} != #{@media[0].title}"
+            #end
         end
 
-        puts "combinable false for #{@title}"
+        #puts "combinable false for #{@title}"
         return false
     end
         
     #  The parent assumes all media of its children
     def combineSimilarChildren
-        puts "Combining children for BookEntry #{@title}"
+        #puts "Combining children for BookEntry #{@title}"
         combinable = 0
         @children.each do |item|  # item is BookEntry
             item.combineSimilarChildren  # recurse to all children
@@ -335,14 +335,6 @@ end
 
 
 class CatalogEntry < BookEntry
-    #attr_accessor :catalog_id
-
-    #attr_accessor :url
-    #attr_accessor :filename
-
-    #attr_accessor :video_count
-    #attr_accessor :audio_count
-
     def initialize( catalog_id, id, name, cover_art )
         super({id: id, title: name, cover_art: cover_art})
         @catalog_id = catalog_id
@@ -362,9 +354,9 @@ class CatalogEntry < BookEntry
         #if @url != "" and @id == 24825 #... for quick testing english
         #if @url != "" and @url.include?("Friend") #id == 42769 #... for quick testing english
         #if @url != "" and @url.include?("scriptures.bofm") #id == 42769 #... for quick testing english
-        if @url != "" and @url.include?("youth.learn.yw") #id == 42769 #... for quick testing english
+        #if @url != "" and @url.include?("youth.learn.yw") #id == 42769 #... for quick testing english
         #if @url != "" and @url.include?("2015") #id == 42769 #... for quick testing english
-        #if @url != ""
+        if @url != ""
             if not @url.include?(".zbook")
                 puts "BAD URL!!!!!  id=#{@id}  name = #{@title}   url=#{@url}"
             end
@@ -821,10 +813,25 @@ end
 
 def FixURL( params )
     params[:title] = '' if params[:title] == nil
+
+    # warn if improper slashes are used
     if params[:url].include?('\\')
         PrettyPrintNewline "WARNING: URL contains '\\' - #{params[:url]}"
         params[:url].gsub!('\\','/')
     end
+
+    # warn if improper whitespace is present
+    nowhitespace = params[:url].strip
+    if nowhitespace != params[:url]
+        PrettyPrintNewline "WARNING: URL contains extra whitespace - #{params[:url]}"
+        params[:url] = nowhitespace
+    end
+
+    # warn if encoded whitespace is present
+    if params[:url].include?('%20')
+        PrettyPrintNewline "WARNING: URL contains '%20' - #{params[:url]}"
+    end
+
     if params[:title] == "Step Two: Hope" and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-001-step-one-honesty-1080p-eng.mp4"
         PrettyPrintNewline "Fixing Addiction Step Two URL..."
         return "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-002-step-two-hope-1080p-eng.mp4"
@@ -897,6 +904,7 @@ def NormalizeParams( params )
     params[:summary] = HTMLEntities.new.encode(params[:summary]) if params[:summary] != nil
     params[:desc] = HTMLEntities.new.encode(params[:desc]) if params[:desc] != nil
     params[:quality] = FixQuality( params[:title], params[:quality] ) if params[:quality] != nil
+    params[:thumb] = FixURL( title: params[:title], url: params[:thumb], quality: params[:quality] ) if params[:thumb] != nil
     params[:url] = FixURL( title: params[:title], url: params[:url], quality: params[:quality] ) if params[:url] != nil
     return params
 end
@@ -991,9 +999,10 @@ class Video
         found_stream = nil
         smallest_stream = nil
         @streams.each do |stream|
+            q = stream.quality.to_i
             # find the smallest video equal to or less than the quality
-            if stream.quality > found_quality and stream.quality <= quality
-                found_quality = stream.quality
+            if q > found_quality and q <= quality
+                found_quality = q
                 found_stream = stream
             end
             # as a backup grab the lowest quality video (which will be of higher quality than what they requested)
@@ -1158,7 +1167,8 @@ class MediaLibraryEntry
                 elements = JSON.parse(text)
                 vids = parseEntryJson(elements)
             rescue => error
-                puts "EXCEPTION parsing JSON on page #{@url}  --  #{error.message}"
+                PrettyPrintNewline "EXCEPTION parsing JSON on page #{@url}  --  #{error.message}"
+                puts "Backtrace:\n\t#{error.backtrace.join("\n\t")}"
                 vids = []
             end
             @video_count += vids.count
@@ -1276,9 +1286,19 @@ class MediaLibraryEntry
                   if link == nil or link == ""
                     PrettyPrintNewline "When detecting size the URL is empty for #{title}"
                   else
-                    size = get_file_download_size( link )
+                    size = $cached_file_sizes[link].to_f
+                    if size > 0
+                      PrettyPrintNewline "WARNING: Using cached video download size (#{size} MB) for #{link} on page #{@url}"
+                    else
+                      if $detected_file_sizes[link] > 0
+                        size = $detected_file_sizes[link]
+                      else
+                        size = get_file_download_size( link ) / 1000000.0  # we want size in MB not bytes
+                        $detected_file_sizes[link] = size
+                        PrettyPrintNewline "WARNING: Video download size is zero for #{link} on page #{@url} but it was detected to be #{size.round(2)} MB"
+                      end
+                    end
                   end
-                  PrettyPrintNewline "WARNING: Video download size is zero for #{link} on page #{@url} but it was detected to be #{size}"
                 end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)
@@ -1413,7 +1433,7 @@ end
 # input should be something like:
 # {language: "English", url: "https://.../..."}
 
-def do_rss_update( params = {} )
+def do_update( params = {} )
     if params[:title] == nil or params[:url] == nil
         puts "Error:  please specify an input title and url"
         return
@@ -1516,7 +1536,7 @@ def common_rss_output( filename, title, a )
     WriteToFile(RSS_DIR_PREFIX + "medialibrary_rss_#{filename}.xml",rss)
     print_and_save_download_stats
 
-end # do_rss_update
+end # do_update
 
 def print_and_save_download_stats
     if $downloaded_thumbnail_count > 0
@@ -1542,6 +1562,16 @@ def print_and_save_download_stats
             failures += "#{url}\n"
         end
         WriteToFile("url_failures.txt",failures)
+    end
+
+    if $detected_file_sizes.count > 0
+        puts "Detected file size count: #{$detected_file_sizes.count}. Refer to url_detected_sizes.txt for more information."
+        detections = ""
+
+        $detected_file_sizes.each do |url,size|
+            detections += "#{size} #{url}\n"
+        end
+        WriteToFile("url_detected_sizes.txt",detections)
     end
 end
 
@@ -1600,6 +1630,8 @@ elsif ARGV[0].downcase == 'update'
 
     printUsage if ARGV.count != 2
     load_blacklisted_urls
+    load_cached_file_sizes
+
     DOWNLOADED_VIDEO_DIR = nil  # nil because we want to create XML for all vids
     DOWNLOADED_THUMBNAIL_DIR = "#{ARGV[1]}/thumbnails"
     DOWNLOADED_SUBTITLES_DIR = "#{ARGV[1]}/subtitles"
