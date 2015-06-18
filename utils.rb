@@ -94,3 +94,27 @@ def load_cached_file_sizes
     puts "Loaded #{$cached_file_sizes.count} file sizes from the cache file."
 end
 
+def get_filename_from_url( url )
+    return '' if url == nil or url == ''
+    index = url.rindex('/')
+    if index == nil
+        return url
+    end
+    return url[(index+1)..-1]
+end
+
+def load_cached_subtitles
+    $cached_subtitles = {}
+    if not File.exist?("allcaptionfiles.txt")
+        puts "url_subtitles.txt not found. No cached subtitles loaded."
+    else
+        data = File.read("allcaptionfiles.txt")
+        data.each_line do |url|
+            filename = get_filename_from_url(url).chomp.chomp('.xml')
+            $cached_subtitles[filename] = url.chomp
+        end
+    end
+
+    puts "Loaded #{$cached_subtitles.count} subtitles from the cache file."
+end
+

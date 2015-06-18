@@ -763,15 +763,6 @@ ROKU_USB_VIDEO_PREFIX = "ext1:/LDS Media"
 ROKU_USB_THUMBNAIL_PREFIX = "ext1:/LDS Media/thumbnails"
 ROKU_USB_SUBTITLES_PREFIX = "ext1:/LDS Media/subtitles"
 
-def get_filename_from_url( url )
-    return '' if url == nil or url == ''
-    index = url.rindex('/')
-    if index == nil
-        return url
-    end
-    return url[(index+1)..-1]
-end
-
 def durationStrToInt( duration )
     t1 = Time.parse( "2015-01-01 00:00:00" )
 
@@ -1271,11 +1262,17 @@ class MediaLibraryEntry
                     if cc_idx != nil
                         # some id's have -eng at the end...
                         better_id = v_id.gsub(/-eng$/,'')
-                        cc = cc[0..cc_idx] + "#{better_id}.xml"
-                        cc = cc.gsub("images/videos","dfxp")
-                        cc = apply_subtitles_hacks( cc )
-                        video.update_subtitles(cc)
+                        if $cached_subtitles[better_id]
+                            cc = $cached_subtitles[better_id]
+                            #puts "found cached subtitle #{cc}"
+                        else
+                            #puts "WARNING: no cached subtitle for #{better_id}"
+                            cc = cc[0..cc_idx] + "#{better_id}.xml"
+                            cc = cc.gsub("images/videos","dfxp")
+                            cc = apply_subtitles_hacks( cc )
+                        end
                     end
+                    video.update_subtitles(cc) if cc != nil
                 end
 
                 # if downloaded_video_dir is present then we need to only show
@@ -1631,6 +1628,7 @@ elsif ARGV[0].downcase == 'update'
     printUsage if ARGV.count != 2
     load_blacklisted_urls
     load_cached_file_sizes
+    load_cached_subtitles
 
     DOWNLOADED_VIDEO_DIR = nil  # nil because we want to create XML for all vids
     DOWNLOADED_THUMBNAIL_DIR = "#{ARGV[1]}/thumbnails"
