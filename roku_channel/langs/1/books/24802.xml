@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Son Every Day' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Son Every Day</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606756001/640/480/1747753.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606756001/480/360/867696.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Answering Machine' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Answering Machine</title>
         <description></description>
@@ -23,8 +21,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606757001/640/480/1753905.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606757001/480/360/876782.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='At the Movies' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>At the Movies</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606758001/640/480/1450106.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606758001/480/360/775057.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bad Hair Day' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bad Hair Day</title>
         <description></description>
@@ -47,8 +43,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648744340001/640/360/979098.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648744340001/640/360/791508.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Blockbuster' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Blockbuster</title>
         <description></description>
@@ -60,8 +55,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596200001/640/480/1752717.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596200001/480/360/880717.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Born to Play the Game' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Born to Play the Game</title>
         <description></description>
@@ -73,8 +67,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596201001/640/480/1755479.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596201001/480/360/888280.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='But Not Forgotten' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>But Not Forgotten</title>
         <description></description>
@@ -87,8 +80,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288144812001/640/360/1210866.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288144812001/640/360/921194.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='But Why?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>But Why?</title>
         <description></description>
@@ -100,8 +92,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610883001/640/480/1761492.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610883001/480/360/889492.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='By the Hour' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>By the Hour</title>
         <description></description>
@@ -112,8 +103,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596202001/640/480/1622062.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596202001/480/360/834514.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Canoe' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Canoe</title>
         <description></description>
@@ -125,8 +115,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594181001/640/480/1730067.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594181001/480/360/867524.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Casey at the Bat' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Casey at the Bat</title>
         <description></description>
@@ -138,8 +127,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596203001/640/480/1743508.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596203001/480/360/880698.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Cell Phone' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cell Phone</title>
         <description></description>
@@ -150,8 +138,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648744341001/640/480/1659568.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648744341001/480/360/867416.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Cheering Section' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cheering Section</title>
         <description></description>
@@ -163,8 +150,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594182001/640/480/1740397.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594182001/480/360/881736.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Cookies' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cookies</title>
         <description></description>
@@ -176,8 +162,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288133920001/640/480/1760092.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288133920001/480/360/888092.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Crayon' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Crayon</title>
         <description></description>
@@ -188,8 +173,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606759001/640/480/1729593.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606759001/480/360/865383.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dinner Conversation' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dinner Conversation</title>
         <description></description>
@@ -201,8 +185,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606760001/640/480/1754210.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606760001/480/360/882210.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dream Car' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dream Car</title>
         <description></description>
@@ -214,8 +197,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288115994001/640/480/1780924.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288115994001/480/360/914779.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dry Cleaner' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dry Cleaner</title>
         <description></description>
@@ -227,8 +209,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594183001/640/480/1753855.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594183001/480/360/891342.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Family Harmony' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Family Harmony</title>
         <description></description>
@@ -240,8 +221,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606762001/640/480/1751787.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606762001/480/360/879787.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Going to the Dogs' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Going to the Dogs</title>
         <description></description>
@@ -253,8 +233,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288133921001/640/480/1772580.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288133921001/480/360/906295.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Halftime' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Halftime</title>
         <description></description>
@@ -266,8 +245,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596205001/640/480/1748023.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596205001/480/360/876023.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Home Repair' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Home Repair</title>
         <description></description>
@@ -278,8 +256,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596206001/1280/720/1662522.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596206001/640/360/817712.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Homework' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Homework</title>
         <description></description>
@@ -290,8 +267,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648744343001/640/480/1493235.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648744343001/480/360/829587.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='I Want Drink' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Want Drink</title>
         <description></description>
@@ -303,8 +279,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594186001/640/480/1759217.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594186001/480/360/887217.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='I&apos;ve Put It Off Too Long' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I&apos;ve Put It Off Too Long</title>
         <description></description>
@@ -315,8 +290,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648732779001/720/480/1564743.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648732779001/540/360/814785.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Is Mom Home?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Is Mom Home?</title>
         <description></description>
@@ -328,8 +302,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834606763001/640/480/1747220.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834606763001/480/360/881374.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Johnny Got a Job' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Johnny Got a Job</title>
         <description></description>
@@ -337,8 +310,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/1648754202001/480/268/409854.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Just What to Say' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Just What to Say</title>
         <description></description>
@@ -348,8 +320,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648754203001/640/480/1503899.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648754203001/480/360/854649.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Lasting Marriage' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lasting Marriage</title>
         <description></description>
@@ -360,8 +331,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648754204001/640/480/1418057.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648754204001/480/360/857897.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Late Night' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Late Night</title>
         <description></description>
@@ -372,8 +342,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1649175983001/640/480/1380652.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1649175983001/480/360/855281.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Like Father Like Son' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Like Father Like Son</title>
         <description></description>
@@ -385,8 +354,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596208001/640/480/1758674.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596208001/480/360/886674.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Little Mr. Microchip' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Little Mr. Microchip</title>
         <description></description>
@@ -398,8 +366,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594187001/640/480/1732029.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594187001/480/360/873791.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Miss The Bus' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Miss The Bus</title>
         <description></description>
@@ -411,8 +378,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594188001/640/480/1750885.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594188001/480/360/888499.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Missing' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Missing</title>
         <description></description>
@@ -423,8 +389,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610885001/640/480/1458414.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610885001/480/360/846375.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Parking Spot' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Parking Spot</title>
         <description></description>
@@ -435,8 +400,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610886001/640/480/1645126.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610886001/480/360/873416.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Phone Call' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Phone Call</title>
         <description></description>
@@ -448,8 +412,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648734253001/640/480/1755253.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648734253001/480/360/879028.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Please Sit Down' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Please Sit Down</title>
         <description></description>
@@ -461,8 +424,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610888001/640/480/1746156.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610888001/480/360/877432.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Pool' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Pool</title>
         <description></description>
@@ -475,8 +437,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2260465158001/640/360/1247685.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2260465158001/640/360/946926.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Potato Chip Trail' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Potato Chip Trail</title>
         <description></description>
@@ -487,8 +448,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648734257001/640/480/1595578.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648734257001/480/360/842521.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Runaway Stagecoach' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Runaway Stagecoach</title>
         <description></description>
@@ -499,8 +459,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648734258001/1280/720/1564275.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648734258001/640/360/881504.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='SciFi' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>SciFi</title>
         <description></description>
@@ -511,8 +470,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648734259001/1280/720/1542195.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648734259001/640/360/807780.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Secret Agent' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Secret Agent</title>
         <description></description>
@@ -524,8 +482,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610889001/640/480/1761333.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610889001/480/360/896430.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Soccer' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Soccer</title>
         <description></description>
@@ -537,8 +494,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594189001/640/480/1733784.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594189001/480/360/886588.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Something Important to Do' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Something Important to Do</title>
         <description></description>
@@ -551,8 +507,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288144813001/640/360/1189449.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288144813001/640/360/899219.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Swashbuckler' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Swashbuckler</title>
         <description></description>
@@ -564,8 +519,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288115995001/1280/720/1809377.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288115995001/640/360/933676.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Fence' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Fence</title>
         <description></description>
@@ -576,8 +530,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648732782001/640/480/1614946.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648732782001/480/360/804726.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Swing Set' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Swing Set</title>
         <description></description>
@@ -589,8 +542,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610890001/640/480/1725115.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610890001/480/360/882880.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Truck Talk' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Truck Talk</title>
         <description></description>
@@ -602,8 +554,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648754212001/480/360/972303.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648754212001/480/360/791163.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Up-Down' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Up-Down</title>
         <description></description>
@@ -615,8 +566,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834594191001/640/480/1726539.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834594191001/480/360/882533.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Waiting for Dad' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Waiting for Dad</title>
         <description></description>
@@ -627,8 +577,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648732783001/640/480/1549266.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648732783001/480/360/792636.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Watch Videos' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Watch Videos</title>
         <description></description>
@@ -639,8 +588,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648744348001/640/480/1461576.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648744348001/480/360/793436.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='You Said' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>You Said</title>
         <description></description>
@@ -652,8 +600,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596209001/640/480/1745820.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596209001/480/360/884061.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Consequences—Daughter' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Consequences—Daughter</title>
         <description></description>
@@ -665,8 +612,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1648734260001/640/360/1028594.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1648734260001/640/360/867710.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kidnapped' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kidnapped</title>
         <description></description>
@@ -677,8 +623,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834610892001/640/480/1585983.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834610892001/480/360/821359.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Saturday Mornings' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Saturday Mornings</title>
         <description></description>
@@ -689,5 +634,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/1834596210001/640/480/1516796.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1834596210001/480/360/802477.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='いつも主を覚えなさい' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>いつも主を覚えなさい</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680983293001/1280/720/1435883.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680983293001/640/360/763203.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='キリストのような特質' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>キリストのような特質</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202695595001/1280/720/1461068.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202695595001/640/360/773107.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='源' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>源</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649368001/1280/720/71588.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649368001/640/360/54133.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='しっかりしたアンカー' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>しっかりしたアンカー</title>
         <description></description>
@@ -46,8 +42,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649387001/1280/720/72007.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649387001/640/360/31059.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='特別な賜物' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>特別な賜物</title>
         <description></description>
@@ -58,8 +53,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892884262001/1280/720/1463317.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892884262001/640/360/805024.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='アマゾンにあるわたしたちの神殿' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>アマゾンにあるわたしたちの神殿</title>
         <description></description>
@@ -70,8 +64,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892896155001/1280/720/1536973.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892896155001/640/360/795717.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='若人の強さ（メディア版）2013年' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>若人の強さ（メディア版）2013年</title>
         <description></description>
@@ -79,8 +72,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/2553555744001/1920/1080/6243000.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='預言者と啓示－主の声を聞く' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>預言者と啓示－主の声を聞く</title>
         <description></description>
@@ -92,8 +84,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546282001/1280/720/1796228.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546282001/640/360/924228.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神権と神権の鍵―わたしたちは兄弟である' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神権と神権の鍵―わたしたちは兄弟である</title>
         <description></description>
@@ -105,8 +96,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235529956001/1280/720/1794827.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235529956001/640/360/922827.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神殿―常に目を向ける' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神殿―常に目を向ける</title>
         <description></description>
@@ -118,8 +108,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546294001/1280/720/1799177.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546294001/640/360/927177.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='儀式と聖約―エリヤの御霊' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>儀式と聖約―エリヤの御霊</title>
         <description></description>
@@ -131,8 +120,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559152001/1280/720/1799229.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559152001/640/360/927229.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='家庭と家族―小さなことから' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>家庭と家族―小さなことから</title>
         <description></description>
@@ -144,8 +132,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550600001/1280/720/1798603.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550600001/640/360/926603.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ほんとうの自信―標準―性的な清さと慎み深さ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>ほんとうの自信―標準―性的な清さと慎み深さ</title>
         <description></description>
@@ -157,8 +144,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559162001/1280/720/1799168.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559162001/640/360/927168.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='標準―奉仕―自分を捨てる' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>標準―奉仕―自分を捨てる</title>
         <description></description>
@@ -170,8 +156,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556465001/1280/720/1798638.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556465001/640/360/926638.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='標準―教育―神の栄光は英知である' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>標準―教育―神の栄光は英知である</title>
         <description></description>
@@ -183,8 +168,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559167001/1280/720/1798711.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559167001/640/360/926711.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='今いる場所で咲きなさい―聖なる場所に立ちなさい' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>今いる場所で咲きなさい―聖なる場所に立ちなさい</title>
         <description></description>
@@ -196,8 +180,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556469001/1280/720/1795590.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556469001/640/360/923590.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2013年テーマソング―立つ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>2013年テーマソング―立つ</title>
         <description></description>
@@ -209,8 +192,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559177001/1280/720/1799988.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559177001/640/360/927988.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Seminary Can Change Lives' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Seminary Can Change Lives</title>
         <description></description>
@@ -222,8 +204,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2180291008001/1280/720/1800027.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2180291008001/640/360/928027.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='埋め立て' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>埋め立て</title>
         <description></description>
@@ -235,8 +216,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028847702001/1280/720/1777512.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028847702001/640/360/905512.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='線の内側にとどまる' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>線の内側にとどまる</title>
         <description></description>
@@ -248,8 +228,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133738947001/1280/720/1798799.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133738947001/640/360/926799.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='福音を見いだせるように助ける' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>福音を見いだせるように助ける</title>
         <description></description>
@@ -261,8 +240,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079263001/1280/720/1797094.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079263001/640/360/925094.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='何を教えるかを決める' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>何を教えるかを決める</title>
         <description></description>
@@ -274,8 +252,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079279001/1280/720/1798447.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079279001/640/360/926447.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='救い主の方法で福音を教える' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>救い主の方法で福音を教える</title>
         <description></description>
@@ -287,8 +264,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079267001/1280/720/1799996.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079267001/640/360/927996.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='敵の領域' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>敵の領域</title>
         <description></description>
@@ -300,8 +276,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133738932001/1280/720/1799953.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133738932001/640/360/927953.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='一人でも気高く立ち' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>一人でも気高く立ち</title>
         <description></description>
@@ -312,8 +287,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2346562064001/1280/720/1518470.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2346562064001/640/360/887031.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神への務めを果たす' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神への務めを果たす</title>
         <description></description>
@@ -325,8 +299,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028836522001/1280/720/1768000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028836522001/640/360/896000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神はわたしたちを高める' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神はわたしたちを高める</title>
         <description></description>
@@ -338,8 +311,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2163168026001/1280/720/1800003.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2163168026001/640/360/928003.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='深遠な美しさ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>深遠な美しさ</title>
         <description></description>
@@ -350,8 +322,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616624969001/1280/720/1441855.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616624969001/640/360/765808.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='あなたの伝道のための日' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>あなたの伝道のための日</title>
         <description></description>
@@ -363,8 +334,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133681119001/1280/720/1799821.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133681119001/640/360/927821.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='清く純粋な信仰' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>清く純粋な信仰</title>
         <description></description>
@@ -376,8 +346,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028878024001/1280/720/1799488.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028878024001/640/360/927488.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='徳高い若い女性' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>徳高い若い女性</title>
         <description></description>
@@ -389,8 +358,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1497897881001/1280/720/1799290.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1497897881001/640/360/927290.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='6人兄弟' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>6人兄弟</title>
         <description></description>
@@ -402,8 +370,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1808802753001/1280/720/1799301.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1808802753001/640/360/927301.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='あなたの兄弟を力づけてあげなさい' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>あなたの兄弟を力づけてあげなさい</title>
         <description></description>
@@ -415,8 +382,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1497897885001/1280/720/1799282.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1497897885001/640/360/927282.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='現在のことをありのままに' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>現在のことをありのままに</title>
         <description></description>
@@ -428,8 +394,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2659942082001/1280/720/1798629.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2659942082001/640/360/926629.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='置き忘れたハンドバッグ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>置き忘れたハンドバッグ</title>
         <description></description>
@@ -441,8 +406,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616624977001/1280/720/1799939.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616624977001/640/360/927939.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='「自分自身を聖めなさい」' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>「自分自身を聖めなさい」</title>
         <description></description>
@@ -454,8 +418,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028830375001/1280/720/1798185.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028830375001/640/360/926185.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='人々が教会に戻ってこれるように助ける' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>人々が教会に戻ってこれるように助ける</title>
         <description></description>
@@ -467,8 +430,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945268001/1280/720/1799995.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945268001/640/360/927995.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='人々が自分の家系図に写真や文書を追加するのを助ける' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>人々が自分の家系図に写真や文書を追加するのを助ける</title>
         <description></description>
@@ -480,8 +442,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1567431314001/1280/720/1799913.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1567431314001/640/360/927913.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='清くあることを選択する' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>清くあることを選択する</title>
         <description></description>
@@ -493,8 +454,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536284511001/1280/720/1800013.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536284511001/640/360/928013.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ホームティーチング先の家族を助ける' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>ホームティーチング先の家族を助ける</title>
         <description></description>
@@ -506,8 +466,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945284001/1280/720/1799038.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945284001/640/360/927038.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='純潔―どこまで許されるのか' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>純潔―どこまで許されるのか</title>
         <description></description>
@@ -519,8 +478,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661510001/1280/720/1797023.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661510001/640/360/925023.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='心の変化' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>心の変化</title>
         <description></description>
@@ -532,8 +490,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028824613001/1280/720/1799989.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028824613001/640/360/927989.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='195着のドレス' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>195着のドレス</title>
         <description></description>
@@ -545,8 +502,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761061001/1280/720/1774473.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761061001/640/360/902473.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神への務め' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神への務め</title>
         <description></description>
@@ -558,8 +514,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661494001/1280/720/1794688.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661494001/640/360/922688.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='「成長するわたし」の奇跡' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>「成長するわたし」の奇跡</title>
         <description></description>
@@ -571,8 +526,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533104158001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533104158001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='デイトンの足' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>デイトンの足</title>
         <description></description>
@@ -584,8 +538,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533105650001/1280/720/1799075.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533105650001/640/360/927075.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='同じユニフォーム' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>同じユニフォーム</title>
         <description></description>
@@ -597,8 +550,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761079001/1280/720/1799009.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761079001/640/360/927009.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='主は助けてくださいます' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>主は助けてくださいます</title>
         <description></description>
@@ -610,8 +562,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028824595001/1280/720/1798229.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028824595001/640/360/926229.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='神権の務め' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>神権の務め</title>
         <description></description>
@@ -623,8 +574,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533001874001/1280/720/1794364.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533001874001/640/360/922364.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='境界線の中で' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>境界線の中で</title>
         <description></description>
@@ -636,8 +586,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133585688001/1280/720/1797288.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133585688001/640/360/925288.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='途絶えない記録' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>途絶えない記録</title>
         <description></description>
@@ -649,8 +598,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536318080001/1280/720/1790837.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536318080001/640/360/918837.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ヒラバレー神殿 文化の祭典' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>ヒラバレー神殿 文化の祭典</title>
         <description></description>
@@ -662,8 +610,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761091001/1280/720/1799988.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761091001/640/360/927988.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='行動する青少年' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>行動する青少年</title>
         <description></description>
@@ -674,8 +621,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654464693001/1280/720/1485193.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654464693001/640/360/825770.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Inviting All to Come unto Christ:  Sharing the Gospel' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Inviting All to Come unto Christ:  Sharing the Gospel</title>
         <description></description>
@@ -687,8 +633,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028852846001/1280/720/1761709.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028852846001/640/360/889709.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Mighty Change:  Conversion' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Mighty Change:  Conversion</title>
         <description></description>
@@ -699,8 +644,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3875279920001/1280/720/1523596.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3875279920001/640/360/755088.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='モルモン・マスタング' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>モルモン・マスタング</title>
         <description></description>
@@ -712,8 +656,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028817235001/1280/720/1799938.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028817235001/640/360/927938.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='汚い言葉ゼロクラブ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>汚い言葉ゼロクラブ</title>
         <description></description>
@@ -724,8 +667,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616734237001/1280/720/1515169.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616734237001/640/360/823244.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='キリストの光を分かち合う' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>キリストの光を分かち合う</title>
         <description></description>
@@ -737,8 +679,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654341244001/1280/720/1798012.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654341244001/640/360/926012.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='マディソンのため' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>マディソンのため</title>
         <description></description>
@@ -749,8 +690,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654261724001/1280/720/1379114.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654261724001/640/360/823622.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='兄弟の溝' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>兄弟の溝</title>
         <description></description>
@@ -761,8 +701,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536240653001/1280/720/1428051.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536240653001/640/360/799736.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='悔いはなし' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>悔いはなし</title>
         <description></description>
@@ -774,8 +713,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133504666001/1280/720/1798181.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133504666001/640/360/926181.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='導きを素直に受け入れる' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>導きを素直に受け入れる</title>
         <description></description>
@@ -786,8 +724,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2667865257001/1280/720/1490165.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2667865257001/640/360/783812.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='父親と息子' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>父親と息子</title>
         <description></description>
@@ -799,8 +736,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533001870001/1280/720/1794745.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533001870001/640/360/922745.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='母と娘' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>母と娘</title>
         <description></description>
@@ -812,8 +748,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532995937001/1280/720/1799480.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532995937001/640/360/927480.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='大いなる神権' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>大いなる神権</title>
         <description></description>
@@ -825,8 +760,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533003252001/1280/720/1795426.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003252001/640/360/923426.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='慈愛―信者の模範' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>慈愛―信者の模範</title>
         <description></description>
@@ -837,8 +771,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654149668001/1280/720/1426778.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654149668001/640/360/803189.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='「とても大切なもの」' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>「とても大切なもの」</title>
         <description></description>
@@ -850,8 +783,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3127593061001/1280/720/1799940.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3127593061001/640/360/927940.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしたちの真の姿' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしたちの真の姿</title>
         <description></description>
@@ -863,8 +795,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533001880001/1280/720/1790984.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533001880001/640/360/918984.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='徳に立ち返る' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>徳に立ち返る</title>
         <description></description>
@@ -872,5 +803,4 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/1532995944001/1920/1080/7754000.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

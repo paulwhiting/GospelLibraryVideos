@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Title Page' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Title Page</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-01-title-page-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Message from the First Presidency' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Message from the First Presidency</title>
         <description></description>
@@ -16,104 +14,92 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-03-a-message-from-the-first-presidency-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Preface: “Something Extraordinary”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Preface: “Something Extraordinary”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_preface-02-study.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-04-preface-something-extraordinary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Relief Society: A Restoration of an Ancient Pattern' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Relief Society: A Restoration of an Ancient Pattern</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_01-01-feet.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-05-chapter-1-relief-society-a-restoration-of-an-ancient-pattern-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Something Better”: The Female Relief Society of Nauvoo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Something Better”: The Female Relief Society of Nauvoo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_02-01-nauvoo.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-06-chapter-2-something-better-the-female-relief-society-of-nauvoo-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Cleave unto the Covenants”: Exodus, Migration, and Settlement' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Cleave unto the Covenants”: Exodus, Migration, and Settlement</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_03-01-rich.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-07-chapter-3-cleave-unto-the-covenants-exodus-migration-and-settlement-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“A Wide and Extensive Sphere of Action”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“A Wide and Extensive Sphere of Action”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_04-01-construction.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-08-chapter-4-a-wide-and-extensive-sphere-of-action-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Charity Never Faileth”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Charity Never Faileth”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_000_05-01-seal.png'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-09-chapter-5-charity-never-faileth-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Worldwide Circle of Sisterhood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Worldwide Circle of Sisterhood</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_06-01-service.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-10-chapter-6-a-worldwide-circle-of-sisterhood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Pure Religion”: Watchcare and Ministering through Visiting Teaching' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Pure Religion”: Watchcare and Ministering through Visiting Teaching</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_07-01-hands.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-11-chapter-7-pure-religion-watchcare-and-ministering-through-visiting-teaching-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Blessings of the Priesthood for All: An Inseparable Connection with the Priesthood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Blessings of the Priesthood for All: An Inseparable Connection with the Priesthood</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_08-01-whitney.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-12-chapter-8-blessings-of-the-priesthood-for-all-an-inseparable-connection-with-the-priesthood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Guardians of the Hearth”: Establishing, Nurturing, and Defending the Family' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Guardians of the Hearth”: Establishing, Nurturing, and Defending the Family</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_09-01-hinckley.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-13-chapter-9-guardians-of-the-hearth-establishing-nurturing-and-defending-the-family-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Live Up to Your Privilege”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Live Up to Your Privilege”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/06500_all_10-01-woman.jpg'/>
 <content url='http://media2.ldscdn.org/assets/relief-society/relief-society-daughters-in-my-kingdom-2011/2011-11-14-chapter-10-live-up-to-your-privilege-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

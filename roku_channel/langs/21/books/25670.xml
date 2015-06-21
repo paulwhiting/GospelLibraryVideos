@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Search for Truth' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Search for Truth</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257952298001_2010-07-02-a-search-for-truth-8000k-hun.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257919626001_2010-07-02-a-search-for-truth-8000k-hun-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Őrállók a tornyokon' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Őrállók a tornyokon</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253091515001_2010-07-23-watchmen-on-the-tower-8000k-hun.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019278001_2010-07-23-watchmen-on-the-tower-8000k-hun-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='„Ne nyugtalankodjatok”' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>„Ne nyugtalankodjatok”</title>
         <description></description>
@@ -36,8 +33,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2870663213001_2010-07-038-be-not-troubled-8000k-hun.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2870663240001_2010-07-038-be-not-troubled-8000k-hun.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='„Azok, akik bölcsek”' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>„Azok, akik bölcsek”</title>
         <description></description>
@@ -48,8 +44,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695083699001_2010-07-040-they-that-are-wise-8000k-hun.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695087442001_2010-07-040-they-that-are-wise-8000k-hun.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith—Prophet of the Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith—Prophet of the Restoration</title>
         <description></description>
@@ -61,5 +56,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253073625001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-hun.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019264001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-hun-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

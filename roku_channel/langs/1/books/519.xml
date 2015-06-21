@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Washed Clean' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Washed Clean</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-02-washed-clean-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Moroni and the Chocolate Chip Cookies' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Moroni and the Chocolate Chip Cookies</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-03-moroni-and-the-chocolate-chip-cookies-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-05-friend-to-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Winners' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Winners</title>
         <description></description>
@@ -34,26 +30,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-06-winners-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Funstuf' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Funstuf</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d68.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-07-funstuf-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Savior and Redeemer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Savior and Redeemer</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d6a.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-08-sharing-time-savior-and-redeemer-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Beautiful Savior' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Beautiful Savior</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-09-beautiful-savior-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Amy and Tyler Arndt of Lewiston, Idaho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Amy and Tyler Arndt of Lewiston, Idaho</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-10-amy-and-tyler-arndt-of-lewiston-idaho-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Sacrament' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Sacrament</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-11-the-sacrament-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Old Friend, Shepherd' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Old Friend, Shepherd</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-12-my-old-friend-shepherd-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='General Conference Activity' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>General Conference Activity</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:81.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-13-general-conference-activity-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -106,17 +94,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-14-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d6c.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-15-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Parable of the Ketchup' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Parable of the Ketchup</title>
         <description></description>
@@ -124,17 +110,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-16-parable-of-the-ketchup-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Savior and Redeemer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Savior and Redeemer</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d6e.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-17-our-savior-and-redeemer-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Babushka’s Eyes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Babushka’s Eyes</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-18-babushkas-eyes-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Robby’s New Words' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Robby’s New Words</title>
         <description></description>
@@ -151,17 +134,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-19-robbys-new-words-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d70.jpg'/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-20-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus Christ</title>
         <description></description>
@@ -169,5 +150,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/1999-april/1999-04-21-trying-to-be-like-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

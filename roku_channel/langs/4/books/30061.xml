@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Bem-vindos à Conferência' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Bem-vindos à Conferência' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Bem-vindos à Conferência</title>
         <description></description>
@@ -7,8 +8,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-02-welcome-to-conference-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Razão de Nossa Esperança' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='A Razão de Nossa Esperança' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255564/eeaa9091bb554748b3c8818172aa51e7/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A Razão de Nossa Esperança</title>
         <description></description>
@@ -16,8 +18,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-03-the-reason-for-our-hope-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='De Que Lado Você Está?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='De Que Lado Você Está?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255576/e76934415a0941669fa6bc4c18fbc916/320x404.jpg'>
+<rss><channel><item>
         <id></id>
         <title>De Que Lado Você Está?</title>
         <description></description>
@@ -25,8 +28,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-04-which-way-do-you-face-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Sacramento: Renovação para a Alma' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O Sacramento: Renovação para a Alma' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255523/c7da472f239f4d45a30e78edcb722e75/320x440.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Sacramento: Renovação para a Alma</title>
         <description></description>
@@ -34,8 +38,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-05-the-sacrament-a-renewal-for-the-soul-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trabalhar Juntos no Resgate' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Trabalhar Juntos no Resgate' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255598/46e7eb28673b4cb7960c5cd198786a44/320x449.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Trabalhar Juntos no Resgate</title>
         <description></description>
@@ -43,8 +48,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-06-rescue-in-unity-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Livres para Sempre, para Agirem por Si Mesmos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Livres para Sempre, para Agirem por Si Mesmos' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255505/a0fc63690e6244fd9ddf436d08092e4a/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Livres para Sempre, para Agirem por Si Mesmos</title>
         <description></description>
@@ -52,8 +58,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-07-free-forever-to-act-for-themselves-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Receber um Testemunho de Luz e Verdade' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Receber um Testemunho de Luz e Verdade' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Receber um Testemunho de Luz e Verdade</title>
         <description></description>
@@ -72,8 +79,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1610241' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1307737' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Apoio aos Líderes da Igreja' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Apoio aos Líderes da Igreja' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Apoio aos Líderes da Igreja</title>
         <description></description>
@@ -81,8 +89,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-09-the-sustaining-of-church-officers-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Amar os Outros e Viver com as Diferenças' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Amar os Outros e Viver com as Diferenças' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255560/dba5b00f7f654915b178c31c47a2163e/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Amar os Outros e Viver com as Diferenças</title>
         <description></description>
@@ -90,8 +99,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-10-loving-others-and-living-with-differences-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joseph Smith' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255490/3d517516d6924e7499b1a942d323dd2b/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Joseph Smith</title>
         <description></description>
@@ -110,8 +120,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/640/360/658967' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/1280/720/1273702' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Pais: Os Melhores Professores do Evangelho de Seus Filhos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Pais: Os Melhores Professores do Evangelho de Seus Filhos' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255500/062045c49ad3483492ded2c171b4d091/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Pais: Os Melhores Professores do Evangelho de Seus Filhos</title>
         <description></description>
@@ -119,8 +130,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-12-parents-the-prime-gospel-teachers-of-their-children-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Aproximar-se do Trono de Deus com Confiança' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Aproximar-se do Trono de Deus com Confiança' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255545/74be63f2cebe433faa3caa8fae97b1ba/320x448.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Aproximar-se do Trono de Deus com Confiança</title>
         <description></description>
@@ -128,8 +140,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-13-approaching-the-throne-of-god-with-confidence-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sim, Senhor, Eu Te Seguirei' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sim, Senhor, Eu Te Seguirei' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sim, Senhor, Eu Te Seguirei</title>
         <description></description>
@@ -137,8 +150,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-14-yes-lord-i-will-follow-thee-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Não Somos Todos Mendigos?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Não Somos Todos Mendigos?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255541/56dc3848affe4c9390b1ddded72e3d0f/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Não Somos Todos Mendigos?</title>
         <description></description>
@@ -146,8 +160,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-15-are-we-not-all-beggars-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Encontrar Paz Duradoura e Edificar uma Família Eterna' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Encontrar Paz Duradoura e Edificar uma Família Eterna' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255566/5e246277f3774476835e4ae9d0a98831/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Encontrar Paz Duradoura e Edificar uma Família Eterna</title>
         <description></description>
@@ -155,8 +170,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-16-finding-lasting-peace-and-building-eternal-families-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Escolher com Sabedoria' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Escolher com Sabedoria' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255509/9edc398376e3431788ceb62e046a5b32/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Escolher com Sabedoria</title>
         <description></description>
@@ -164,8 +180,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-17-choose-wisely-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sei Destas Coisas por Mim Mesmo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sei Destas Coisas por Mim Mesmo' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255504/00263332f5ca4d05b2928c2b71d6fe4f/320x401.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sei Destas Coisas por Mim Mesmo</title>
         <description></description>
@@ -173,8 +190,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-18-i-know-these-things-of-myself-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Lei do Jejum: Uma Responsabilidade Pessoal de Cuidar dos Pobres e Necessitados' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='A Lei do Jejum: Uma Responsabilidade Pessoal de Cuidar dos Pobres e Necessitados' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255515/5915e33a5356403f9575a0cc18714e05/320x441.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A Lei do Jejum: Uma Responsabilidade Pessoal de Cuidar dos Pobres e Necessitados</title>
         <description></description>
@@ -182,8 +200,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-19-the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Porventura Sou Eu, Senhor?”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='“Porventura Sou Eu, Senhor?”' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Porventura Sou Eu, Senhor?”</title>
         <description></description>
@@ -191,8 +210,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-20-lord-is-it-i-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Sacerdócio Preparatório' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O Sacerdócio Preparatório' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Sacerdócio Preparatório</title>
         <description></description>
@@ -200,8 +220,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-21-the-preparatory-priesthood-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guiado em Segurança para Casa' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Guiado em Segurança para Casa' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Guiado em Segurança para Casa</title>
         <description></description>
@@ -209,8 +230,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-22-guided-safely-home-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Revelação Contínua' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Revelação Contínua' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Revelação Contínua</title>
         <description></description>
@@ -218,8 +240,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-23-continuing-revelation-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Apoiar os Profetas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Apoiar os Profetas' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255557/bdaeff04d43d4f3e81f1ad5ac59f2564/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Apoiar os Profetas</title>
         <description></description>
@@ -227,8 +250,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-24-sustaining-the-prophets-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Viver de Acordo com as Palavras dos Profetas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Viver de Acordo com as Palavras dos Profetas' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255554/907e1a6ae0a64f0581ed473dc5a66cbe/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Viver de Acordo com as Palavras dos Profetas</title>
         <description></description>
@@ -236,8 +260,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-25-live-according-to-the-words-of-the-prophets-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Vida Eterna: Conhecer a Deus, Nosso Pai Celestial, e Seu Filho, Jesus Cristo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vida Eterna: Conhecer a Deus, Nosso Pai Celestial, e Seu Filho, Jesus Cristo' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255538/8578a9f6c4114a3a9708ee79ba54f7af/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Vida Eterna: Conhecer a Deus, Nosso Pai Celestial, e Seu Filho, Jesus Cristo</title>
         <description></description>
@@ -245,8 +270,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-26-eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Sacramento e a Expiação' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O Sacramento e a Expiação' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255540/40f118d02cb647deb85d7236ffc68c31/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Sacramento e a Expiação</title>
         <description></description>
@@ -254,8 +280,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-27-the-sacrament-and-the-atonement-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Pondera a Vereda de Teus Pés' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Pondera a Vereda de Teus Pés' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Pondera a Vereda de Teus Pés</title>
         <description></description>
@@ -263,8 +290,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-28-ponder-the-path-of-thy-feet-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Fiquem no Barco e Segurem-se!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Fiquem no Barco e Segurem-se!' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Fiquem no Barco e Segurem-se!</title>
         <description></description>
@@ -283,8 +311,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1237240' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1817314' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Fazer do Exercício da Fé Sua Prioridade' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Fazer do Exercício da Fé Sua Prioridade' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255578/3f30638f484a4cad81730c6a26cf1a23/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Fazer do Exercício da Fé Sua Prioridade</title>
         <description></description>
@@ -292,8 +321,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-30-make-the-exercise-of-faith-your-first-priority-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Senhor Tem um Plano para Nós!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O Senhor Tem um Plano para Nós!' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255532/13ef88a344ce4491b39cc78feb779b7f/320x417.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Senhor Tem um Plano para Nós!</title>
         <description></description>
@@ -301,8 +331,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-31-the-lord-has-a-plan-for-us-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Livro' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O Livro' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255563/8ecf4be9384442fdbc9b8cf44a0627d8/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Livro</title>
         <description></description>
@@ -310,8 +341,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-32-the-book-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nosso Próprio Ministério' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Nosso Próprio Ministério' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Nosso Próprio Ministério</title>
         <description></description>
@@ -319,8 +351,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-33-our-personal-ministries-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Não Trates com Leviandade as Coisas Sagradas.' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Não Trates com Leviandade as Coisas Sagradas.' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255543/ebdd1b16b16e4a8786579f613884c55b/320x442.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Não Trates com Leviandade as Coisas Sagradas.</title>
         <description></description>
@@ -328,8 +361,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-34-trifle-not-with-sacred-things-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Vinde, e Vede”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='“Vinde, e Vede”' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Vinde, e Vede”</title>
         <description></description>
@@ -337,8 +371,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-35-come-and-see-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Até Voltarmos a Nos Encontrar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Até Voltarmos a Nos Encontrar' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Até Voltarmos a Nos Encontrar</title>
         <description></description>
@@ -346,8 +381,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-36-until-we-meet-again-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Preparadas de uma Forma Nunca Antes Vista' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Preparadas de uma Forma Nunca Antes Vista' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255499/02312c356cf7496f99170ecd0098a209/320x437.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Preparadas de uma Forma Nunca Antes Vista</title>
         <description></description>
@@ -355,8 +391,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-37-prepared-in-a-manner-that-never-had-been-known-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Filhas do Convênio' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Filhas do Convênio' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255583/eeb96362d11245028ff554c2ad400db3/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Filhas do Convênio</title>
         <description></description>
@@ -364,8 +401,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-38-covenant-daughters-of-god-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Compartilhar Sua Luz' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Compartilhar Sua Luz' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255549/073840702ed040d4b0e52e435b94f623/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Compartilhar Sua Luz</title>
         <description></description>
@@ -373,8 +411,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-39-sharing-your-light-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Viver o Evangelho com Alegria' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Viver o Evangelho com Alegria' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Viver o Evangelho com Alegria</title>
         <description></description>
@@ -382,5 +421,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-november-2014/2014-11-40-living-the-gospel-joyful-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

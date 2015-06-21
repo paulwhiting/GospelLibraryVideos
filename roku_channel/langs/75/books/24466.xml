@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Welcome to Conference' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Welcome to Conference</title>
         <description></description>
@@ -7,19 +6,11 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1010-president-thomas-s-monson-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516198001/1280/720/1777837' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/396/224/229937' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/480/268/405837' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516198001/1280/720/2105837' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/480/268/405837' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/480/268/617837' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516198001/1280/720/2505837' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516198001/640/360/905837' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/480/268/405837' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516198001/720/404/1205837' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1010-president-thomas-s-monson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='These Things I Know' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>These Things I Know</title>
         <description></description>
@@ -27,39 +18,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1020-president-boyd-k-packer-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516230001/1280/720/2104838' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/480/268/616838' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516230001/1280/720/1776838' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/480/268/404838' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/480/268/404838' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/480/268/404838' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/720/404/1204838' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516230001/396/224/220308' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516230001/640/360/904838' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516230001/1280/720/2504838' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1020-president-boyd-k-packer-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Sure Foundation' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Sure Foundation</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1030-bishop-dean-m-davies-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/480/268/407606' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/720/404/1207606' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/396/224/233293' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/480/268/407606' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516268001/1280/720/2107606' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516268001/640/360/907606' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/480/268/407606' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516268001/1280/720/2507606' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516268001/1280/720/1779606' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516268001/480/268/619606' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1030-bishop-dean-m-davies-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='We Are Daughters of Our Heavenly Father' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We Are Daughters of Our Heavenly Father</title>
         <description></description>
@@ -67,99 +42,59 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1040-elaine-s-dalton-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305521314001/1280/720/1776317' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/480/268/404317' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/396/224/231412' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/720/404/1204317' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/480/268/616317' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305521314001/1280/720/2504317' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/480/268/404317' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305521314001/480/268/404317' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305521314001/640/360/904317' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305521314001/1280/720/2104317' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1040-elaine-s-dalton-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Savior Wants to Forgive' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Savior Wants to Forgive</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1050-elder-craig-a-cardon-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/720/404/1204952' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/396/224/245779' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/480/268/404952' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/480/268/616952' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531546001/1280/720/1776952' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531546001/1280/720/2104952' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531546001/1280/720/2504952' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/480/268/404952' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531546001/480/268/404952' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531546001/640/360/904952' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1050-elder-craig-a-cardon-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='&quot;This Is My Work and Glory&quot;' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>&quot;This Is My Work and Glory&quot;</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1060-elder-m-russell-ballard-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/720/404/1202672' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531571001/1280/720/2502672' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/480/268/402672' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531571001/1280/720/1774672' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/396/224/231420' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531571001/1280/720/2102672' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/480/268/402672' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/480/268/402672' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531571001/480/268/614672' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531571001/640/360/902672' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1060-elder-m-russell-ballard-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='&quot;Come unto Me&quot;' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>&quot;Come unto Me&quot;</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1070-president-henry-b-eyring-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/480/268/406876' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/396/224/234857' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/480/268/406876' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529621001/1280/720/1778876' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529621001/1280/720/2106876' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/480/268/618876' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529621001/640/360/906876' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/720/404/1206876' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529621001/480/268/406876' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529621001/1280/720/2506876' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1070-president-henry-b-eyring-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Sustaining of Church Officers' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Sustaining of Church Officers</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2010-the-sustaining-of-church-officers-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/720/404/1205726' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/480/268/405726' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305537978001/1280/720/2505726' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/480/268/617726' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305537978001/1280/720/2105726' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305537978001/1280/720/1777726' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/480/268/405726' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305537978001/640/360/905726' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/396/224/213538' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305537978001/480/268/405726' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2010-the-sustaining-of-church-officers-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Church Auditing Department Report, 2012' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Church Auditing Department Report, 2012</title>
         <description></description>
@@ -167,19 +102,11 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2020-church-auditing-department-report-2012-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545420001/640/360/903520' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/480/268/403520' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545420001/1280/720/1775520' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/480/268/403520' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545420001/1280/720/2503520' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545420001/1280/720/2103520' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/720/404/1203520' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/396/224/193993' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/480/268/403520' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545420001/480/268/615520' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2020-church-auditing-department-report-2012-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Statistical Report, 2012' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Statistical Report, 2012</title>
         <description></description>
@@ -188,58 +115,34 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2030-statistical-report-2012-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305551448001/1280/720/2098560' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305551448001/1280/720/1770560' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/720/404/1198560' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305551448001/1280/720/2498560' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305551448001/640/360/898560' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/480/268/398560' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/396/224/186941' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/480/268/398560' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/480/268/610560' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305551448001/480/268/398560' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2030-statistical-report-2012-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='For Peace at Home' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Peace at Home</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2040-elder-richard-g-scott-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/480/268/409768' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305543138001/1280/720/2509768' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/396/224/233918' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/720/404/1209768' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305543138001/1280/720/1781768' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/480/268/409768' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305543138001/1280/720/2109768' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305543138001/640/360/909768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/480/268/409768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305543138001/480/268/621768' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2040-elder-richard-g-scott-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Personal Peace: The Reward of Righteousness' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Personal Peace: The Reward of Righteousness</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2050-elder-quentin-l-cook-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/480/268/616462' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/480/268/404462' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545469001/1280/720/1776462' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545469001/1280/720/2504462' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/720/404/1204462' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/480/268/404462' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545469001/1280/720/2104462' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545469001/640/360/904462' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/396/224/239567' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545469001/480/268/404462' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2050-elder-quentin-l-cook-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Lord&apos;s Way' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Lord&apos;s Way</title>
         <description></description>
@@ -247,39 +150,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2060-elder-stanley-g-ellis-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560130001/640/360/902921' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/480/268/402921' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/720/404/1202921' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/480/268/614921' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/480/268/402921' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560130001/1280/720/2502921' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/396/224/225356' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560130001/480/268/402921' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560130001/1280/720/1774921' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560130001/1280/720/2102921' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2060-elder-stanley-g-ellis-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Gospel to All the World' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Gospel to All the World</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2070-elder-john-b-dickson-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/480/268/401582' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/480/268/401582' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555936001/1280/720/1773582' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555936001/640/360/901582' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/480/268/401582' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/720/404/1201582' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/480/268/613582' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555936001/1280/720/2501582' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555936001/1280/720/2101582' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555936001/396/224/225094' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2070-elder-john-b-dickson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='We Believe in Being Chaste' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We Believe in Being Chaste</title>
         <description></description>
@@ -287,59 +174,35 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559478001/1280/720/2506820' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/396/224/236733' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/480/268/618820' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559478001/1280/720/1778820' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/480/268/406820' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559478001/640/360/906820' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559478001/1280/720/2106820' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/480/268/406820' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/480/268/406820' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559478001/720/404/1206820' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Catch the Wave' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Catch the Wave</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2090-elder-russell-m-nelson-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/720/404/1201894' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559496001/640/360/901894' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559496001/1280/720/2501894' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/480/268/401894' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559496001/1280/720/2101894' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/480/268/401894' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/396/224/234989' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/480/268/613894' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305559496001/1280/720/1773894' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305559496001/480/268/401894' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2090-elder-russell-m-nelson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Stand Strong in Holy Places' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Stand Strong in Holy Places</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3010-elder-robert-d-hales-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/480/268/405735' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/396/224/216951' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/480/268/617735' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305569901001/1280/720/1777735' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305569901001/1280/720/2505735' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/720/404/1205735' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305569901001/640/360/905735' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/480/268/405735' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305569901001/480/268/405735' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305569901001/1280/720/2105735' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3010-elder-robert-d-hales-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Power of the Priesthood in the Boy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Power of the Priesthood in the Boy</title>
         <description></description>
@@ -348,235 +211,195 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3020-elder-tad-r-callister-64k-pap.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577800001/1280/720/2104230' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577800001/640/360/904230' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/480/268/404230' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/396/224/223772' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/480/268/404230' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577800001/1280/720/1776230' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577800001/1280/720/2504230' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/480/268/404230' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/720/404/1204230' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577800001/480/268/616230' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3020-elder-tad-r-callister-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Your Sacred Duty to Minister' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Your Sacred Duty to Minister</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3030-david-l-beck-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/480/268/405869' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/396/224/234833' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585105001/1280/720/2505869' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/480/268/405869' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585105001/640/360/905869' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585105001/1280/720/2105869' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585105001/1280/720/1777869' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/480/268/617869' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/480/268/405869' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585105001/720/404/1205869' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3030-david-l-beck-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Four Titles' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Four Titles</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3040-president-dieter-f-uchtdorf-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/480/268/406303' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/720/404/1206303' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/480/268/406303' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/396/224/232333' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589815001/1280/720/1778303' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/480/268/406303' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589815001/1280/720/2506303' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589815001/1280/720/2106303' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589815001/640/360/906303' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589815001/480/268/618303' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3040-president-dieter-f-uchtdorf-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='We Are One' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We Are One</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3050-president-henry-b-eyring-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/396/224/245388' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305590931001/1280/720/1778012' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/720/404/1206012' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305590931001/640/360/906012' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/480/268/406012' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/480/268/406012' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305590931001/1280/720/2506012' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/480/268/618012' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305590931001/480/268/406012' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305590931001/1280/720/2106012' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3050-president-henry-b-eyring-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come, All Ye Sons of God' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come, All Ye Sons of God</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3060-president-thomas-s-monson-64k-pap.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/480/268/618297' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596709001/1280/720/1778297' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/480/268/406297' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/480/268/406297' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596709001/640/360/906297' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596709001/1280/720/2106297' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/480/268/406297' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/720/404/1206297' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596709001/1280/720/2506297' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596709001/396/224/232058' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3060-president-thomas-s-monson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Hope of God&apos;s Light' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Hope of God&apos;s Light</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='It&apos;s a Miracle' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>It&apos;s a Miracle</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Words We Speak' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Words We Speak</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Marriage: Watch and Learn' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Marriage: Watch and Learn</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Obedience to Law Is Liberty' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Obedience to Law Is Liberty</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Obedience Brings Blessings' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Obedience Brings Blessings</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='“Lord, I Believe”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Lord, I Believe”</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Followers of Christ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Followers of Christ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Father and the Son' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Father and the Son</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Home: The School of Life' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Home: The School of Life</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Being Accepted of the Lord' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Being Accepted of the Lord</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Beautiful Mornings' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Beautiful Mornings</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Redemption' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Redemption</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Until We Meet Again' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Until We Meet Again</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-64k-pap.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-64k-pap.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-360p-pap.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

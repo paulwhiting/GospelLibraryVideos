@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Πρόεδρος Τόμας Μόνσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Πρόεδρος Τόμας Μόνσον</title>
         <description></description>
@@ -7,13 +6,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837282514001/640/360/749941.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282514001/396/224/196498.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282514001/480/268/520986.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282514001/480/268/333752.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Μπόιντ Πάκερ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Μπόιντ Πάκερ</title>
         <description></description>
@@ -21,55 +15,35 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837281124001/640/360/735214.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281124001/480/268/522918.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281124001/396/224/191655.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281124001/480/268/328921.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Λυν Ρόμπινς' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Λυν Ρόμπινς</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282537001/396/224/190517.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282537001/480/268/519213.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837282537001/640/360/738961.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282537001/480/268/328832.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Σέρυλ Έσπλιν' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Σέρυλ Έσπλιν</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281154001/480/268/513790.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837281154001/640/360/740803.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281154001/396/224/185728.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281154001/480/268/318240.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Τσι Χονγκ (Σαμ) Γονγκ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Τσι Χονγκ (Σαμ) Γονγκ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282559001/480/268/531295.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282559001/396/224/190072.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837282559001/640/360/722026.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282559001/480/268/327594.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Τοντ Κριστόφερσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Τοντ Κριστόφερσον</title>
         <description></description>
@@ -77,27 +51,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837293759001/640/360/744584.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293759001/480/268/522628.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293759001/396/224/191966.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293759001/480/268/333214.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Ντίτερ Ούχτντορφ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Ντίτερ Ούχτντορφ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294270001/396/224/195829.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294270001/480/268/525227.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837294270001/640/360/745995.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294270001/480/268/336460.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Η υποστήριξη των κατεχόντων υπεύθυνη θέση στην Εκκλησία' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Η υποστήριξη των κατεχόντων υπεύθυνη θέση στην Εκκλησία</title>
         <description></description>
@@ -105,83 +69,53 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837318068001/640/360/661437.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837318068001/480/268/306168.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837318068001/396/224/182369.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837318068001/480/268/465506.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ντάλιν Όουκς' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ντάλιν Όουκς</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312570001/480/268/524694.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837312570001/640/360/755167.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312570001/396/224/194427.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312570001/480/268/330241.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Νιλ Άντερσεν' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Νιλ Άντερσεν</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322395001/480/268/518731.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322395001/396/224/189694.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837322395001/640/360/747287.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322395001/480/268/325029.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ταντ Κάλιστερ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ταντ Κάλιστερ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322429001/480/268/514689.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837322429001/640/360/732912.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322429001/480/268/325184.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322429001/396/224/187293.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Γιέργκ Κλέμπινγκατ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Γιέργκ Κλέμπινγκατ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322462001/396/224/197497.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322462001/480/268/526578.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837322462001/640/360/754432.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322462001/480/268/337737.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Εντουάρντο Γκαβαρέτ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Εντουάρντο Γκαβαρέτ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329361001/480/268/524276.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329361001/480/268/332663.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329361001/396/224/192033.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837329361001/640/360/752615.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Τζέφρυ Χόλαντ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Τζέφρυ Χόλαντ</title>
         <description></description>
@@ -189,13 +123,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837329183001/640/360/757687.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329183001/480/268/526612.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329183001/396/224/194896.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329183001/480/268/343403.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Τομ Πέρι' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Τομ Πέρι</title>
         <description></description>
@@ -203,13 +132,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837332013001/640/360/759803.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837332013001/480/268/516277.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837332013001/396/224/200546.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837332013001/480/268/344344.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Κουέντιν Κουκ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Κουέντιν Κουκ</title>
         <description></description>
@@ -217,41 +141,26 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837348964001/640/360/734344.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837348964001/480/268/514802.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837348964001/396/224/192402.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837348964001/480/268/326510.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Κρεγκ Κρίστενσεν' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Κρεγκ Κρίστενσεν</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346582001/396/224/194014.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346582001/480/268/529007.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346582001/480/268/336809.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837346582001/640/360/772514.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Επίσκοπος Ντιν Ντέιβις' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Επίσκοπος Ντιν Ντέιβις</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346622001/480/268/322661.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346622001/396/224/187709.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837346622001/640/360/731118.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837346622001/480/268/508704.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Ντίτερ Ούχτντορφ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Ντίτερ Ούχτντορφ</title>
         <description></description>
@@ -259,13 +168,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837350555001/640/360/758377.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837350555001/396/224/197641.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837350555001/480/268/527432.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837350555001/480/268/337121.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Χένρυ Άιρινγκ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Χένρυ Άιρινγκ</title>
         <description></description>
@@ -273,27 +177,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837358618001/640/360/749497.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358618001/396/224/194526.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358618001/480/268/333879.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358618001/480/268/517814.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Τόμας Μόνσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Τόμας Μόνσον</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358083001/396/224/201069.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837358083001/640/360/763586.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358083001/480/268/340524.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837358083001/480/268/533271.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Χένρυ Άιρινγκ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Χένρυ Άιρινγκ</title>
         <description></description>
@@ -301,13 +195,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837364570001/640/360/747259.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837364570001/480/268/522000.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837364570001/396/224/198655.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837364570001/480/268/332362.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ράσελ Νέλσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ράσελ Νέλσον</title>
         <description></description>
@@ -315,27 +204,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837371586001/640/360/772762.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371586001/396/224/190165.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371586001/480/268/515616.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371586001/480/268/328049.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Κάρολ ΜακΚόνκι' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Κάρολ ΜακΚόνκι</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837370676001/396/224/190654.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837370676001/480/268/320427.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837370676001/640/360/745441.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837370676001/480/268/515977.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ρόμπερτ Χέιλς' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ρόμπερτ Χέιλς</title>
         <description></description>
@@ -343,111 +222,71 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837369024001/640/360/725833.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837369024001/396/224/182706.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837369024001/480/268/307328.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837369024001/480/268/493218.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Τζέιμς Χαμούλα' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Τζέιμς Χαμούλα</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371641001/396/224/198015.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837371641001/640/360/761280.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371641001/480/268/529980.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837371641001/480/268/336114.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Τόμας Μόνσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Τόμας Μόνσον</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837374913001/480/268/521173.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837374913001/396/224/199805.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837374913001/640/360/740130.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837374913001/480/268/339451.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ράσελ Μπάλαρντ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ράσελ Μπάλαρντ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393515001/396/224/192612.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837393515001/640/360/730713.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393515001/480/268/524399.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393515001/480/268/329731.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ρίτσαρντ Σκοτ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ρίτσαρντ Σκοτ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384286001/480/268/320561.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384286001/396/224/191141.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837384286001/640/360/749477.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384286001/480/268/507792.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Κάρλος Γκοντόι' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Κάρλος Γκοντόι</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393547001/396/224/199503.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837393547001/640/360/763243.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393547001/480/268/526277.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393547001/480/268/343564.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Άλαν Πάκερ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Άλαν Πάκερ</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393566001/480/268/530094.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393566001/396/224/193963.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837393566001/480/268/339572.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837393566001/640/360/750277.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ούγο Μαρτίνες' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ούγο Μαρτίνες</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384997001/396/224/193357.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837384997001/640/360/746582.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384997001/480/268/335755.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837384997001/480/268/529338.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Λάρυ Κάκερ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Λάρυ Κάκερ</title>
         <description></description>
@@ -455,13 +294,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837402427001/640/360/753635.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837402427001/396/224/194060.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837402427001/480/268/525351.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837402427001/480/268/335412.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρεσβύτερος Ντέιβιντ Μπέντναρ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρεσβύτερος Ντέιβιντ Μπέντναρ</title>
         <description></description>
@@ -469,82 +303,50 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-64k-ell.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837406937001/640/360/759430.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837406937001/480/268/529467.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837406937001/396/224/192647.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837406937001/480/268/333023.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Πρόεδρος Τόμας Μόνσον' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Πρόεδρος Τόμας Μόνσον</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837410878001/480/268/527538.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837410878001/396/224/193915.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837410878001/480/268/338474.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837410878001/640/360/748771.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Έτοιμοι κατά τρόπο άγνωστο ώς τότε' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Έτοιμοι κατά τρόπο άγνωστο ώς τότε</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293750001/396/224/196623.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293750001/480/268/540889.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837293750001/640/360/776547.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293750001/480/268/345528.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Θυγατέρες της διαθήκης του Θεού' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Θυγατέρες της διαθήκης του Θεού</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294251001/396/224/196291.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294251001/480/268/340255.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837294251001/640/360/745376.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837294251001/480/268/519422.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Μοιρασθείτε το φως σας' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Μοιρασθείτε το φως σας</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293294001/396/224/200249.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837293294001/640/360/757829.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293294001/480/268/531612.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837293294001/480/268/350279.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ζώντας το Ευαγγέλιο περιχαρώς' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ζώντας το Ευαγγέλιο περιχαρώς</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-64k-ell.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310071001/480/268/348361.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310071001/396/224/205510.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310071001/480/268/348361.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310071001/480/268/348361.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837310071001/640/360/780432.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310071001/480/268/542052.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-360p-ell.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

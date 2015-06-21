@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Fearless in Sharing the Gospel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Fearless in Sharing the Gospel</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EyringHB_07_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-03-fearless-in-sharing-the-gospel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Small and Simple Things' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Small and Simple Things</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ChristoffersonDT_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-04-small-and-simple-things-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Gratitude List' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Gratitude List</title>
         <description></description>
@@ -34,17 +30,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-05-my-gratitude-list-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Serving in the Church' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Serving in the Church</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BeckJB_03.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-06-serving-in-the-church-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -52,17 +46,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-07-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='When We’re Helping, We’re Happy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>When We’re Helping, We’re Happy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09nov12_sharing_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-08-when-were-helping-were-happy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -70,18 +62,18 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-09-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt Lewis of Pocatello, Idaho' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt Lewis of Pocatello, Idaho</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-10-matt-lewis-of-pocatello-idaho-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-10-matt-lewis-of-pocatello-idaho-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-10-matt-lewis-of-pocatello-idaho-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-10-matt-lewis-of-pocatello-idaho-360p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Keep It Up, Jenna!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Keep It Up, Jenna!</title>
         <description></description>
@@ -89,8 +81,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-11-keep-it-up-jenna-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Right Kind of Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Right Kind of Friend</title>
         <description></description>
@@ -98,8 +89,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-12-the-right-kind-of-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -107,17 +97,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-13-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Happy Home' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Happy Home</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09nov24_cutouts_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-14-a-happy-home-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Porter’s Terrible (Super) Day' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Porter’s Terrible (Super) Day</title>
         <description></description>
@@ -125,17 +113,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-16-porters-terrible-super-day-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09nov30_maze_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-17-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='No Bad Dreams' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>No Bad Dreams</title>
         <description></description>
@@ -143,8 +129,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-20-no-bad-dreams-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Feeling Scared? Try This!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Feeling Scared? Try This!</title>
         <description></description>
@@ -152,26 +137,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-21-feeling-scared-try-this-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Does Heavenly Father love others more than He loves me?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Does Heavenly Father love others more than He loves me?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HollandJR_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-22-does-heavenly-father-love-others-more-than-he-loves-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Peacemaker' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Peacemaker</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09nov38_prophets_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-23-a-peacemaker-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -179,27 +161,26 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-24-book-reviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Filling Up with Love' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Filling Up with Love</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/UchtdorfDF_06.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-25-filling-up-with-love-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09nov44_matt_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-26-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-26-matt-and-mandy-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-26-matt-and-mandy-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-26-matt-and-mandy-480p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Say Something Nice' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Say Something Nice</title>
         <description></description>
@@ -207,8 +188,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-27-say-something-nice-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -216,8 +196,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-28-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -225,5 +204,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2009/2009-11-30-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

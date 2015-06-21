@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How Many People Can We Help?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How Many People Can We Help?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_08_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-03-how-many-people-can-we-help-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Let It Go' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Let It Go</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HinckleyGB_95-99.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-04-let-it-go-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Getting to Know Dad (or Mom)' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Getting to Know Dad (or Mom)</title>
         <description></description>
@@ -34,35 +30,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-05-getting-to-know-dad-or-mom-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Strength to Follow the Lord' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Strength to Follow the Lord</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ZivicCD_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-06-strength-to-follow-the-lord-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Prayer for Muffie' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Prayer for Muffie</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/NelsonRM_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-07-a-prayer-for-muffie-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='They Spoke to Us' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They Spoke to Us</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_08.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-08-they-spoke-to-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='They Sang for Us' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They Sang for Us</title>
         <description></description>
@@ -70,27 +62,26 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-09-they-sang-for-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Foundation for Happiness' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Foundation for Happiness</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09jun16_sharing_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-10-foundation-for-happiness-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09jun19_matt_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-11-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-11-matt-and-mandy-64k-eng.mp3' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-11-matt-and-mandy-480p-eng.wmv' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-11-matt-and-mandy-360p-eng.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -98,17 +89,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-12-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Smiles to Share' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Smiles to Share</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HinckleyGB_95-99.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-13-smiles-to-share-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend Survey' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend Survey</title>
         <description></description>
@@ -116,17 +105,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-15-friend-survey-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Helping Her Family' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Helping Her Family</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09jun28_map.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-16-helping-her-family-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -134,35 +121,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-17-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Caught!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Caught!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/OaksDH_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-18-caught-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How can I be a good missionary?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How can I be a good missionary?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/OaksDH_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-19-how-can-i-be-a-good-missionary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09jun36_story_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-20-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Best Summer Day' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Best Summer Day</title>
         <description></description>
@@ -170,8 +153,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-22-the-best-summer-day-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Scripture Heroes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Scripture Heroes</title>
         <description></description>
@@ -179,8 +161,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-23-my-scripture-heroes-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -188,17 +169,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-24-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Command to Build Temples' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Command to Build Temples</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09jun44_prophets_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-25-the-command-to-build-temples-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -206,8 +185,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-26-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -215,5 +193,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-june-2009/2009-06-28-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

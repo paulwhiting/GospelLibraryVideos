@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Január: Az Istenség' subtitle='Videos: 19; Audio: 0'><category title='Mit tudunk az Istenség természetéről?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit tudunk az Istenség természetéről?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+    <categories><category title='Január: Az Istenség' subtitle='Videos: 19, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<category title='Mit tudunk az Istenség természetéről?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>A visszaállítás</title>
         <description></description>
@@ -32,15 +27,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215185609001/640/360/1799989' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215185609001/640/360/2741000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan ismerhetem meg Mennyei Atyámat?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan ismerhetem meg Mennyei Atyámat?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan ismerhetem meg Mennyei Atyámat?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/heavenly-father/images/How can I know my Heavenly Father - AV110331_cah109-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Az ima</title>
         <description></description>
@@ -64,15 +53,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829275025001/1280/720/2527965' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829275025001/1280/720/1799965' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos az életemben Jézus Krisztus?' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos az életemben Jézus Krisztus?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos az életemben Jézus Krisztus?' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/important/images/godhead-why-is-jesus-christ-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>Ő segíteni fog</title>
         <description></description>
@@ -156,15 +139,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836531001/640/360/905519' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836531001/1280/720/1777519' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mik a Szentlélek szerepei?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mik a Szentlélek szerepei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mik a Szentlélek szerepei?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/roles/images/What are the roles of the Holy Ghost - AV120607_cah0016-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A Lélek hangja</title>
         <description></description>
@@ -188,15 +165,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585646001/1280/720/2127968' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585646001/1280/720/2527968' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ki vagyok és kivé válhatok?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ki vagyok és kivé válhatok?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ki vagyok és kivé válhatok?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/become/images/Who am I and who can I become - L1008_de_006-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Minden tekintetben jelentős</title>
         <description></description>
@@ -255,16 +226,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416905001/1280/720/1516275' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416905001/640/360/714195' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Február: A szabadítás terve' subtitle='Videos: 15; Audio: 0'><category title='Mi a szabadítás terve?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mi a szabadítás terve?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Február: A szabadítás terve' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<category title='Mi a szabadítás terve?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>Az emberek szíve megfélemlik</title>
         <description></description>
@@ -298,15 +264,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681068001/1280/720/1796128' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681068001/1280/720/2524128' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért számítanak a döntéseim?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért számítanak a döntéseim?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért számítanak a döntéseim?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/choices/images/plan-why-do-the-choices-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Megbánás nélkül</title>
         <description></description>
@@ -340,15 +300,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504663001/1280/720/1517050' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504663001/640/360/879279' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért érnek bennünket csapások?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért érnek bennünket csapások?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért érnek bennünket csapások?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/adversity/images/plan-why-do-we-have-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Isten felemel minket</title>
         <description></description>
@@ -382,8 +336,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715064001/1280/720/62611' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715064001/1280/720/70855' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan találhatok vigaszt, amikor meghal valaki, akit szeretek?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hogyan találhatok vigaszt, amikor meghal valaki, akit szeretek?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/comfort/images/AV121105_cah0246-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Míg újra találkozunk</title>
         <description></description>
@@ -436,15 +391,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341894001/640/360/927376' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341894001/1280/720/8346000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért bánjak a testemmel templomként?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért bánjak a testemmel templomként?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért bánjak a testemmel templomként?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/sacred/images/plan-why-should-i-treat-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Erkölcsi tisztaság: Mik a korlátok?</title>
         <description></description>
@@ -470,16 +419,11 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Március: Jézus Krisztus engesztelése' subtitle='Videos: 15; Audio: 0'><category title='Mit jelent Jézus Krisztus engesztelése?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit jelent Jézus Krisztus engesztelése?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Március: Jézus Krisztus engesztelése' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<category title='Mit jelent Jézus Krisztus engesztelése?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Az engesztelésről szóló bibliai videofilmek</title>
         <description></description>
@@ -496,15 +440,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481880001/640/360/927751' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481880001/1280/720/8584000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mit jelent hinni Jézus Krisztusban?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit jelent hinni Jézus Krisztusban?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mit jelent hinni Jézus Krisztusban?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/faith/images/AV071211cah019-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Tiszta és egyszerű hit</title>
         <description></description>
@@ -528,15 +466,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191166074001/1280/720/2527518' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191166074001/640/360/927518' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan segíthet nekem a bűnbánat nap mint nap?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan segíthet nekem a bűnbánat nap mint nap?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan segíthet nekem a bűnbánat nap mint nap?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/repentance/images/Atonement - How can repentance help me every day CWD_9d7be10f-3163-436f-82b2-a6358971f2ca-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Not a One-Time Thing,”</title>
         <description></description>
@@ -571,8 +503,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191175039001/640/360/927982' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191175039001/1280/720/2527982' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért kell megbocsátanom másoknak?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Miért kell megbocsátanom másoknak?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/forgive/images/refuges.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Bocsáss meg hetvenhétszer is!</title>
         <description></description>
@@ -621,8 +554,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Mi a feltámadás?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mi a feltámadás?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/resurrection/images/Resurrection-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Feltámadott!</title>
         <description></description>
@@ -646,15 +580,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728387001/1920/1080/7802000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728387001/640/360/924577' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan segíthet nekem az engesztelés a megpróbáltatásaim idején?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan segíthet nekem az engesztelés a megpróbáltatásaim idején?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan segíthet nekem az engesztelés a megpróbáltatásaim idején?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/trials/images/AV120822_cah0008-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Isten felemel minket,</title>
         <description></description>
@@ -689,16 +617,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150465001/1920/1080/7907000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150465001/640/360/928005' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Április: A hitehagyás és a visszaállítás' subtitle='Videos: 9; Audio: 0'><category title='Miért volt szükség visszaállításra?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért volt szükség visszaállításra?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Április: A hitehagyás és a visszaállítás' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<category title='Miért volt szükség visszaállításra?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Az igazság keresése</title>
         <description></description>
@@ -717,15 +640,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Miért van szükségünk a Mormon könyvére?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért van szükségünk a Mormon könyvére?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért van szükségünk a Mormon könyvére?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/book-of-mormon/images/apostasy-why-do-we-need-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Tanulmányozd a Mormon könyvét!</title>
         <description></description>
@@ -736,15 +653,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396728112001/1280/720/1322477' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396728112001/1280/720/1843287' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan került visszaállításra a papság?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan került visszaállításra a papság?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/beliefs-practices/priesthood-blessing-307866-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan került visszaállításra a papság?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restored/images/how-was-the-priesthood-restore.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A papság visszaállítása</title>
         <description></description>
@@ -768,15 +679,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291611522001/640/360/927382' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291611522001/1280/720/1799382' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mi volt Joseph Smith szerepe a visszaállításban?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mi volt Joseph Smith szerepe a visszaállításban?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mi volt Joseph Smith szerepe a visszaállításban?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/joseph-smith/images/joseph-smith-role.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Joseph Smith: A visszaállítás prófétája,</title>
         <description></description>
@@ -812,15 +717,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264503140001/480/360/920655' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264503140001/640/480/1792655' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos az első látomás?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos az első látomás?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-teaching-nephites-39665-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos az első látomás?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/first-vision/images/first-vision-important.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A visszaállítás</title>
         <description></description>
@@ -846,16 +745,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215185609001/640/360/1799989' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215185609001/640/360/2741000' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Május: A próféták és a kinyilatkoztatás' subtitle='Videos: 15; Audio: 0'><category title='Miért fontos figyelni az élő prófétákra és követni őket?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos figyelni az élő prófétákra és követni őket?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Május: A próféták és a kinyilatkoztatás' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/AV110119cah0037-circle.jpg'>
+<category title='Miért fontos figyelni az élő prófétákra és követni őket?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/AV110119cah0037-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Szükségünk van élő prófétákra</title>
         <description></description>
@@ -890,15 +784,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421776001/1280/720/1518657' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421776001/1280/720/1294738' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan kaphatok személyes kinyilatkoztatást?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan kaphatok személyes kinyilatkoztatást?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan kaphatok személyes kinyilatkoztatást?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/receive/images/prophets-how-do-i-receive-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A világosság mintái: a kinyilatkoztatás lelke,</title>
         <description></description>
@@ -953,15 +841,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416850001/640/360/707241' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416850001/1280/720/1456870' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tehetem az imáimat még jelentőségteljesebbé?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tehetem az imáimat még jelentőségteljesebbé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tehetem az imáimat még jelentőségteljesebbé?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/meaningful/images/prophets-how-can-i-make-my-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Mindennapi kenyerünk: Tapasztalat</title>
         <description></description>
@@ -995,15 +877,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282365001/1280/720/1428972' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282365001/640/360/782420' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos a szentírások tanulmányozása?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos a szentírások tanulmányozása?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos a szentírások tanulmányozása?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/study/images/scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A Mormon könyve: üzenetek a mennyből</title>
         <description></description>
@@ -1037,15 +913,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416927001/640/360/669172' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416927001/1280/720/1295236' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudom erősíteni a bizonyságomat?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudom erősíteni a bizonyságomat?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudom erősíteni a bizonyságomat?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/gain/images/AV120106_cah122-ircle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Szólíts fel bennünket bizonyságtételre!</title>
         <description></description>
@@ -1057,16 +927,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717471001/1280/720/2524614' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717471001/1280/720/2124614' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Június: A papság és a papsági kulcsok' subtitle='Videos: 10; Audio: 0'><category title='Mi a papság?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mi a papság?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Június: A papság és a papsági kulcsok' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/new-youth-curriculum-yw-what-is-the-priesthood-994008.jpg'>
+<category title='Mi a papság?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/new-youth-curriculum-yw-what-is-the-priesthood-994008.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A papság áldásait mindenki számára elérhető”;</title>
         <description></description>
@@ -1088,15 +953,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030833001/1280/720/1780726' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030833001/1280/720/2108726' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mik a felelősségeim a papság munkájában?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mik a felelősségeim a papság munkájában?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mik a felelősségeim a papság munkájában?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/duties/images/new-youth-curriculum-yw-my-responsibilities-in-the-priesthood-1190698.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Mily jó dolog, én Istenem</title>
         <description></description>
@@ -1129,8 +988,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421772001/640/360/662635' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421772001/1280/720/1435553' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mit jelent az egyházi vezetőim támogatása?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mit jelent az egyházi vezetőim támogatása?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/honor/images/new-youth-curriculum-yw-sustain-my-church-leaders-1196047.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Engedd, hogy tanítsunk!</title>
         <description></description>
@@ -1142,15 +1002,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717490001/1280/720/2124273' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717490001/1280/720/1796273' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mik a papság kulcsai?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mik a papság kulcsai?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mik a papság kulcsai?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/keys/images/What are the keys of the priesthood - AV0812016cah032-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A kulcsok Isten felhatalmazása</title>
         <description></description>
@@ -1161,15 +1015,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293955614001/640/360/927918' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293955614001/1280/720/2127918' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan áld meg engem a papság?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan áld meg engem a papság?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-gallery.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan áld meg engem a papság?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/bless/images/How does the priesthood bless me - AV081231cah089-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A papság áldásai</title>
         <description></description>
@@ -1203,16 +1051,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127559856001/640/360/812225' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127559856001/1280/720/1785630' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Július: Szövetségek és szertartások' subtitle='Videos: 16; Audio: 0'><category title='Miért fontosak a szertartások az életemben?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontosak a szertartások az életemben?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Július: Szövetségek és szertartások' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<category title='Miért fontosak a szertartások az életemben?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Hit a papság erejében</title>
         <description></description>
@@ -1246,15 +1089,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293981012001/640/360/699142' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293981012001/1280/720/1903029' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontosak a szövetségek az életemben?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontosak a szövetségek az életemben?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/anti-nephi-lehies-bury-weapons-39657-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontosak a szövetségek az életemben?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/essential/images/0001284s.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Járj az Ő világosságában!</title>
         <description></description>
@@ -1287,15 +1124,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407318001/1280/720/1268102' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407318001/640/360/708261' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Milyen szövetségeket kötöttem a kereszteléskor?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Milyen szövetségeket kötöttem a kereszteléskor?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Milyen szövetségeket kötöttem a kereszteléskor?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/baptism/images/AV060503_cah3944.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Egyforma mez,</title>
         <description></description>
@@ -1328,15 +1159,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416854001/1280/720/1656097' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416854001/1280/720/1214802' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan nyerem el a Szentlélek ajándékát?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan nyerem el a Szentlélek ajándékát?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan nyerem el a Szentlélek ajándékát?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/gift/images/av051208_jrn051alt.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Döntsd el, mit fogsz tanítani!</title>
         <description></description>
@@ -1348,15 +1173,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686991001/1920/1080/7617000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686991001/1280/720/2493113' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontosak a templomi szertartások?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontosak a templomi szertartások?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontosak a templomi szertartások?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/temple/images/Why are temple ordinances important - -AV081208cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A templomok fáklyák</title>
         <description></description>
@@ -1390,8 +1209,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681104001/640/360/849175' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681104001/1280/720/2129928' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mit jelent magamra venni Jézus Krisztus nevét?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mit jelent magamra venni Jézus Krisztus nevét?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/myself/images/AV061026_cah0028.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Bátran állj magad!</title>
         <description></description>
@@ -1426,16 +1246,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416850001/640/360/707241' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416850001/1280/720/1456870' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Augusztus: A házasság és a család' subtitle='Videos: 25; Audio: 0'><category title='Miért fontos a család?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos a család?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Augusztus: A házasság és a család' subtitle='Videos: 25, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<category title='Miért fontos a család?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Családunk együtt élhet örökre</title>
         <description></description>
@@ -1479,15 +1294,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416927001/640/360/669172' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416927001/1280/720/1295236' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos a templomi házasság?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos a templomi házasság?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/laie-hawaii-temple-wedding-243957-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos a templomi házasság?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/marriage/images/Why is temple marriage important - AV090511cah004-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Tegyél fel nekünk kérdéseket!</title>
         <description></description>
@@ -1499,15 +1308,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728395001/1920/1080/7796000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728395001/1280/720/2524254' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos az erkölcsi tisztaság?' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos az erkölcsi tisztaság?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos az erkölcsi tisztaság?' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/chastity/images/Why is chastity important - AV060224_cah069alt2-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Úgy döntök, hogy tiszta leszek;</title>
         <description></description>
@@ -1598,15 +1401,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240673001/1280/720/1766778' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240673001/640/360/829291' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudok már most felkészülni arra, hogy igazlelkű feleség és anya legyek?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudok már most felkészülni arra, hogy igazlelkű feleség és anya legyek?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudok már most felkészülni arra, hogy igazlelkű feleség és anya legyek?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/prepare/images/How can I prepare now to be a righteous wife and mother - matt-5101-cirlce.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Anyák és leányok</title>
         <description></description>
@@ -1672,15 +1469,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417379001/1280/720/1624557' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417379001/1280/720/1184997' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan egészítik ki egymást a férfi és női szerepek a családban?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan egészítik ki egymást a férfi és női szerepek a családban?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan egészítik ki egymást a férfi és női szerepek a családban?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/roles/images/How do the roles of fathers and mothers complement each other - AV110125cah0024-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> Az életünkben lévő nők</title>
         <description></description>
@@ -1713,15 +1504,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416905001/1280/720/1516275' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416905001/640/360/714195' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudom megerősíteni a családomat?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudom megerősíteni a családomat?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudom megerősíteni a családomat?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/strengthen/images/How can I strengthen my family AV100408cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Kis dolgokon keresztül</title>
         <description></description>
@@ -1755,16 +1540,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240617001/1280/720/1720802' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240617001/1280/720/2132851' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Szeptember: Parancsolatok' subtitle='Videos: 20; Audio: 0'><category title='Hogyan élhetek a világban anélkül, hogy a világból való lennék?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan élhetek a világban anélkül, hogy a világból való lennék?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Szeptember: Parancsolatok' subtitle='Videos: 20, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<category title='Hogyan élhetek a világban anélkül, hogy a világból való lennék?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ott virágozz, ahova ültettek!</title>
         <description></description>
@@ -1821,15 +1601,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423551001/640/360/730115' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423551001/1280/720/1258506' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudom megóvni az erényemet?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudom megóvni az erényemet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudom megóvni az erényemet?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/virtue/images/How do I guard my virtue-CWD_13b27bad-9827-457d-839f-a6249eafc096-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Vigyázzatok a lépteitekre!</title>
         <description></description>
@@ -1886,15 +1660,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611662425001/1280/720/1428423' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611662425001/640/360/784443' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Milyen hatással vannak szavaim rám és a körülöttem lévőkre?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Milyen hatással vannak szavaim rám és a körülöttem lévőkre?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Milyen hatással vannak szavaim rám és a körülöttem lévőkre?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/affect/images/AV1008024cmb0033.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A káromkodni nem hajlandók klubja</title>
         <description></description>
@@ -1927,8 +1695,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418943001/1280/720/1579707' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418943001/1280/720/1251486' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért böjtölünk?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Miért böjtölünk?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/fast/images/What are the blessings of a meaningful fast - AV090126cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Megosztunk</title>
         <description></description>
@@ -1940,15 +1709,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717467001/1920/1080/7815000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717467001/1280/720/1796501' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért parancsolták meg nekünk, hogy szenteljük meg a sabbat napját?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért parancsolták meg nekünk, hogy szenteljük meg a sabbat napját?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért parancsolták meg nekünk, hogy szenteljük meg a sabbat napját?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/sabbath/images/AV060802_cah2716.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Fiatalon tanult könyörületet</title>
         <description></description>
@@ -1982,15 +1745,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620094001/1280/720/70487' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620094001/1280/720/70473' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos, hogy becsületesek legyünk?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos, hogy becsületesek legyünk?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos, hogy becsületesek legyünk?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/honest/images/Why is it important to be hones - AV110413_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Becsületesség: Hidd csak el!</title>
         <description></description>
@@ -2012,15 +1769,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416403260001/1280/720/1448714' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416403260001/1280/720/1730970' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fizetünk tizedet?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fizetünk tizedet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fizetünk tizedet?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/tithing/images/Why do we pay tithing - AV070116_cah025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Cselekvésre buzdítani</title>
         <description></description>
@@ -2031,16 +1782,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416847001/1280/720/1155954' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416847001/1280/720/1348429' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Október: Krisztusibbá válni' subtitle='Videos: 26; Audio: 0'><category title='Hogyan válhatok krisztusibbá?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan válhatok krisztusibbá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Október: Krisztusibbá válni' subtitle='Videos: 26, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<category title='Hogyan válhatok krisztusibbá?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Mindennapi kenyerünk: Változás</title>
         <description></description>
@@ -2089,15 +1835,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421726001/1280/720/1616221' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421726001/1280/720/1184990' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudok krisztusi szeretetet kialakítani?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudok krisztusi szeretetet kialakítani?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudok krisztusi szeretetet kialakítani?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/develop/images/How can I develop Christlike love - CWD_4e861973-622f-4451-9e59-e6d773f2a759-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Szurkoljunk egymásnak!;</title>
         <description></description>
@@ -2164,8 +1904,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680962841001/1280/720/70960' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680962841001/1280/720/62760' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan lehetek krisztusibb a másoknak nyújtott szolgálatom során?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hogyan lehetek krisztusibb a másoknak nyújtott szolgálatom során?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/service/images/How can I be more Christlike in my service to others - AV080325_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Az irgalmas szamaritánus példázata</title>
         <description></description>
@@ -2264,8 +2005,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416921001/1280/720/1420743' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416921001/1280/720/1679188' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tanulhatok meg türelmesebbnek lenni?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hogyan tanulhatok meg türelmesebbnek lenni?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/patient/images/How can I learn to be more patient - AV091209cah208-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Tartsunk ki türelmesen!</title>
         <description></description>
@@ -2299,8 +2041,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181239001/1280/720/2017705' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181239001/1280/720/1495431' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos, hogy hálásak legyünk?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Miért fontos, hogy hálásak legyünk?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/grateful/images/Why is it important to be gratefu - AV100730cah0025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Adjunk hálát!</title>
         <description></description>
@@ -2340,16 +2083,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417402001/1280/720/1225710' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417402001/640/360/671672' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='November: Lelki és fizikai önellátás' subtitle='Videos: 12; Audio: 0'><category title='Mit jelent önellátónak lenni?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit jelent önellátónak lenni?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='November: Lelki és fizikai önellátás' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<category title='Mit jelent önellátónak lenni?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Szólíts fel bennünket cselekvésre!</title>
         <description></description>
@@ -2361,15 +2099,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737236001/1280/720/1796081' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737236001/1280/720/2124081' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos, hogy oktatásban részesüljek és készségeket sajátítsak el?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos, hogy oktatásban részesüljek és készségeket sajátítsak el?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos, hogy oktatásban részesüljek és készségeket sajátítsak el?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/develop/images/Why is it important for me to gain an education and develop skillsCWD_879eb746-d0c8-41f6-a7e0-41924797dee8-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Keressünk válaszokat a konferenciai beszédekben</title>
         <description></description>
@@ -2380,15 +2112,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417413001/1280/720/1281747' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417413001/1280/720/1088834' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Honnan tudom, hogy megtértem-e?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Honnan tudom, hogy megtértem-e?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Honnan tudom, hogy megtértem-e?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/converted/images/new-youth-curriculum-yw-How-do-I-know-if-I-am-becoming-converted-1216157.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Várakozni a Damaszkuszba vezető úton</title>
         <description></description>
@@ -2410,15 +2136,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680725979001/1280/720/62376' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680725979001/640/360/46730' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért fontos evangéliumi tantétel a munka?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért fontos evangéliumi tantétel a munka?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért fontos evangéliumi tantétel a munka?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/work/images/E06J_T2Z7843.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Könnyedén irányítható</title>
         <description></description>
@@ -2452,15 +2172,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667869294001/640/360/779491' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667869294001/1280/720/1775947' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miért szeretné az Úr, hogy egészséges legyek?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miért szeretné az Úr, hogy egészséges legyek?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miért szeretné az Úr, hogy egészséges legyek?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/healthy/images/Why does the Lord want me to be healthy - AV0706012_cah207-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>2010 teljesen új esztendeje: Fizikai egészség</title>
         <description></description>
@@ -2493,15 +2207,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428151001/1280/720/1247490' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428151001/640/360/723180' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mi az Úr módja a szegények és a rászorulók megsegítésére?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mi az Úr módja a szegények és a rászorulók megsegítésére?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mi az Úr módja a szegények és a rászorulók megsegítésére?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needy AV091029cah072-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Engedd, hogy tanítsunk!</title>
         <description></description>
@@ -2513,15 +2221,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717490001/1280/720/2124273' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717490001/1280/720/1796273' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan találhatok megoldást a kihívásaimra és a problémáimra?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan találhatok megoldást a kihívásaimra és a problémáimra?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan találhatok megoldást a kihívásaimra és a problémáimra?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/solutions/images/av050825_jrn049.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Kérdések megbeszélése</title>
         <description></description>
@@ -2532,16 +2234,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421776001/1280/720/1518657' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421776001/1280/720/1294738' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='December: Isten királyságának felépítése az utolsó napokban' subtitle='Videos: 22; Audio: 0'><category title='Hogyan hívhatok másokat Krisztushoz?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan hívhatok másokat Krisztushoz?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='December: Isten királyságának felépítése az utolsó napokban' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<category title='Hogyan hívhatok másokat Krisztushoz?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Mert sokat kaptam</title>
         <description></description>
@@ -2574,15 +2271,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407318001/1280/720/1268102' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407318001/640/360/708261' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mit szeretne Mennyei Atyám, hogyan használjam a lelki ajándékaimat?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit szeretne Mennyei Atyám, hogyan használjam a lelki ajándékaimat?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mit szeretne Mennyei Atyám, hogyan használjam a lelki ajándékaimat?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts- AV120906_cah0042-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Kivételes ajándék</title>
         <description></description>
@@ -2616,15 +2307,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738987001/1280/720/62420' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738987001/640/360/46508' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan tudok felkészülni arra, hogy Krisztus-központú otthont teremtsek?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan tudok felkészülni arra, hogy Krisztus-központú otthont teremtsek?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan tudok felkészülni arra, hogy Krisztus-központú otthont teremtsek?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-AV100114cah002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Anyaság: Örökkévaló társas viszony Istennel</title>
         <description></description>
@@ -2659,15 +2344,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728322001/1920/1080/7724000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728322001/1280/720/2522623' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mit tehetek, hogy segítséget nyújtsak az új egyháztagoknak?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mit tehetek, hogy segítséget nyújtsak az új egyháztagoknak?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mit tehetek, hogy segítséget nyújtsak az új egyháztagoknak?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/help/images/What can I do to help new members of the Church-AV060212_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Misszionáriusi munka és megtartás: Georgia Elias</title>
         <description></description>
@@ -2722,15 +2401,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418943001/1280/720/1579707' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418943001/1280/720/1251486' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hogyan segíthetek a kevésbé tevékeny barátaimnak visszatérni az egyházba?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hogyan segíthetek a kevésbé tevékeny barátaimnak visszatérni az egyházba?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hogyan segíthetek a kevésbé tevékeny barátaimnak visszatérni az egyházba?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/friends/images/AV090107cah386.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Cukorrépák és egy lélek értéke</title>
         <description></description>
@@ -2804,15 +2477,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417428001/1280/720/1710607' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417428001/640/360/689717' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mi Sion?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mi Sion?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mi Sion?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Cselekszünk</title>
         <description></description>
@@ -2824,6 +2491,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737216001/1920/1080/7608000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737216001/640/360/920549' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

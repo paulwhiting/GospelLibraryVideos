@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='General Conference Is for You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>General Conference Is for You</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_08_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-02-general-conference-is-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Are You LDS?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Are You LDS?</title>
         <description></description>
@@ -16,17 +14,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-03-are-you-lds-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormonad: Choose to Write…' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mormonad: Choose to Write…</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/new-era/2010/11/ne10nov23_poster_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-04-mormonad-choose-to-write-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Solid Routine' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Solid Routine</title>
         <description></description>
@@ -34,17 +30,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-05-a-solid-routine-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Questions and Answers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/SmithJ_c1836_painting.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-06-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='He Wanted to Be a Missionary' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>He Wanted to Be a Missionary</title>
         <description></description>
@@ -52,8 +46,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-07-he-wanted-to-be-a-missionary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Extra Smile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Extra Smile</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-08-the-extra-smile-128k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Challenge That Changed My Life' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Challenge That Changed My Life</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-09-the-challenge-that-changed-my-life-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Earning My Award' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Earning My Award</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-10-earning-my-award-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Missionaries All Around Me' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Missionaries All Around Me</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-11-missionaries-all-around-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Finding My Second Wind' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Finding My Second Wind</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-12-finding-my-second-wind-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Losing a Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Losing a Friend</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-13-losing-a-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='He Is My Savior Too' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>He Is My Savior Too</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-14-he-is-my-savior-too-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Instant Messages' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Instant Messages</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-15-instant-messages-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='If' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>If</title>
         <description></description>
@@ -133,5 +118,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-november-2010/2010-11-16-if-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

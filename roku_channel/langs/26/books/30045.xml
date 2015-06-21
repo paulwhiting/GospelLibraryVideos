@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Siya Buhi - Sauloga ang Pasko sa Pagkabanhaw Tungod kay si Jesukristo Buhi' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Siya Buhi - Sauloga ang Pasko sa Pagkabanhaw Tungod kay si Jesukristo Buhi</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4098114623001/640/360/937126.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4098114623001/640/360/792505.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Tungod Kaniya' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tungod Kaniya</title>
         <description></description>
@@ -23,8 +21,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905658001/1280/720/1367902.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905658001/640/360/778760.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Siya Mao ang Gasa' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Siya Mao ang Gasa</title>
         <description></description>
@@ -35,5 +32,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900402313001/1280/720/1435265.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900402313001/640/360/788485.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

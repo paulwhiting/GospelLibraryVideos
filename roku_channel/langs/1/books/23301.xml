@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='An Unshakable Foundation' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>An Unshakable Foundation</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/henry-b-eyring.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-03-an-unshakable-foundation-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='1-2-3! We’re Here to Help!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>1-2-3! We’re Here to Help!</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-04-1-2-3-were-here-to-help-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='T-Shirt Tote for Mom' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>T-Shirt Tote for Mom</title>
         <description></description>
@@ -34,17 +30,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-05-t-shirt-tote-for-mom-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Day to Play?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Day to Play?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/larry-y-wilson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-06-a-day-to-play-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Shining Walls' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Shining Walls</title>
         <description></description>
@@ -52,35 +46,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-07-shining-walls-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Follow the Prophet' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Follow the Prophet</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may11-music.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-09-follow-the-prophet-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may12-temple-matching-activity.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kirtland and the First Temple' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kirtland and the First Temple</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may14-15-kirtland.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-11-kirtland-and-the-first-temple-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Christ Accepts the Kirtland Temple as His House' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Christ Accepts the Kirtland Temple as His House</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-12-jesus-christ-accepts-the-kirtland-temple-as-his-house-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How can I feel close to the Savior?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How can I feel close to the Savior?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/neil-l-andersen.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-13-how-can-i-feel-close-to-the-savior-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Crop of Blessings' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Crop of Blessings</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-14-a-crop-of-blessings-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='James H. from Utah' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>James H. from Utah</title>
         <description></description>
@@ -115,17 +102,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-15-james-h-from-utah-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Can Climb My Family Tree!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Can Climb My Family Tree!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may22-family-tree.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-16-i-can-climb-my-family-tree-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Hope They Call Me on a Mission' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Hope They Call Me on a Mission</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-17-i-hope-they-call-me-on-a-mission-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Remembering Mothers: Stories from Our Prophets' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Remembering Mothers: Stories from Our Prophets</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-18-remembering-mothers-stories-from-our-prophets-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Princess and the Monster' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Princess and the Monster</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-19-the-princess-and-the-monster-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -160,35 +142,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-20-book-reviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may29-poster.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-21-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Song for Grandma' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Song for Grandma</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may35-maze.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-24-a-song-for-grandma-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The New Adventures of Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The New Adventures of Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may36-Matt-and-Mandy.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-25-the-new-adventures-of-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -196,17 +174,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-27-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prophets Teach Us to Live the Restored Gospel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prophets Teach Us to Live the Restored Gospel</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may41-frame-activity.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-28-prophets-teach-us-to-live-the-restored-gospel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Orange Shirt' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Orange Shirt</title>
         <description></description>
@@ -214,17 +190,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-29-the-orange-shirt-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Above the Line' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Above the Line</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/richard-g-scott.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-30-above-the-line-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Question Corner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Question Corner</title>
         <description></description>
@@ -232,8 +206,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-32-question-corner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -241,14 +214,12 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-33-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prophet Portrait: Lorenzo Snow' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prophet Portrait: Lorenzo Snow</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/05/fr13may49-Lorenzo-Snow.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2013/2013-05-34-prophet-portrait-lorenzo-snow-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

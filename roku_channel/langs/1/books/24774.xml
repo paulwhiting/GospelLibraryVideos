@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A New Vision for the Work of Salvation' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='A New Vision for the Work of Salvation' subtitle='Videos: 3, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>We Are One</title>
         <description></description>
@@ -32,15 +33,9 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/697/66852713001_2551220763001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/689/66852713001_2551232032001_2013-06-003-let-your-light-so-shine-8000k-eng.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Priesthood Leaders' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Priesthood Leaders</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Priesthood Leaders' subtitle='Videos: 4, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Using Priesthood Keys in the Work—Stake and Mission Presidents</title>
         <description></description>
@@ -84,15 +79,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484389615001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2484387891001_2013-06-021-new-and-returning-member-progress-ward-councils-8000k-eng.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ward Councils and Ward Mission Leaders' subtitle='Videos: 10; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ward Councils and Ward Mission Leaders</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ward Councils and Ward Mission Leaders' subtitle='Videos: 10, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Preparing Families to Make Covenants—Ward Councils</title>
         <description></description>
@@ -202,8 +191,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498627750001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2498625787001_2013-06-008-the-ward-mission-leader-in-the-work-of-salvation-8000k-eng.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Members and Missionaries' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Members and Missionaries' subtitle='Videos: 9, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>We Rejoice in Christ</title>
         <description></description>
@@ -302,8 +292,9 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3921/66852713001_2551257380001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/07/3513/66852713001_2551217879001_2013-06-015-the-faith-of-youth-the-ennis-family-8000k-eng.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Special Broadcast: The Work of Salvation' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Special Broadcast: The Work of Salvation' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>The Work of Salvation in the Ward and Stake</title>
         <description></description>
@@ -436,5 +427,5 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509353452001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2509356658001_2013-06-1073-called-to-serve-new-8000k-eng.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

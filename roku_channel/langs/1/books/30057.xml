@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Welcome to Conference' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Welcome to Conference' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Welcome to Conference</title>
         <description></description>
@@ -7,8 +8,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-02-welcome-to-conference-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Reason for Our Hope' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Reason for Our Hope' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255564/eeaa9091bb554748b3c8818172aa51e7/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Reason for Our Hope</title>
         <description></description>
@@ -16,8 +18,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-03-the-reason-for-our-hope-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Which Way Do You Face?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Which Way Do You Face?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255576/e76934415a0941669fa6bc4c18fbc916/320x404.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Which Way Do You Face?</title>
         <description></description>
@@ -25,8 +28,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-04-which-way-do-you-face-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Sacrament—a Renewal for the Soul' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Sacrament—a Renewal for the Soul' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255523/c7da472f239f4d45a30e78edcb722e75/320x440.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Sacrament—a Renewal for the Soul</title>
         <description></description>
@@ -34,8 +38,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-05-the-sacrament-a-renewal-for-the-soul-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Rescue in Unity' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Rescue in Unity' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255598/46e7eb28673b4cb7960c5cd198786a44/320x449.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Rescue in Unity</title>
         <description></description>
@@ -43,8 +48,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-06-rescue-in-unity-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Free Forever, to Act for Themselves' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Free Forever, to Act for Themselves' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255505/a0fc63690e6244fd9ddf436d08092e4a/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Free Forever, to Act for Themselves</title>
         <description></description>
@@ -52,8 +58,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-07-free-forever-to-act-for-themselves-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Receiving a Testimony of Light and Truth' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Receiving a Testimony of Light and Truth' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Receiving a Testimony of Light and Truth</title>
         <description></description>
@@ -72,8 +79,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855542621001/1280/720/2084231' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855542621001/1280/720/1502347' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='The Sustaining of Church Officers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Sustaining of Church Officers' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Sustaining of Church Officers</title>
         <description></description>
@@ -81,8 +89,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-09-the-sustaining-of-church-officers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Loving Others and Living with Differences' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Loving Others and Living with Differences' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255560/dba5b00f7f654915b178c31c47a2163e/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Loving Others and Living with Differences</title>
         <description></description>
@@ -90,8 +99,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-10-loving-others-and-living-with-differences-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joseph Smith' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255490/3d517516d6924e7499b1a942d323dd2b/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Joseph Smith</title>
         <description></description>
@@ -110,8 +120,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538977001/1280/720/2054259' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538977001/1280/720/1479647' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Parents: The Prime Gospel Teachers of Their Children' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Parents: The Prime Gospel Teachers of Their Children' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255500/062045c49ad3483492ded2c171b4d091/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Parents: The Prime Gospel Teachers of Their Children</title>
         <description></description>
@@ -119,8 +130,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-12-parents-the-prime-gospel-teachers-of-their-children-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Approaching the Throne of God with Confidence' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Approaching the Throne of God with Confidence' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255545/74be63f2cebe433faa3caa8fae97b1ba/320x448.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Approaching the Throne of God with Confidence</title>
         <description></description>
@@ -128,8 +140,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-13-approaching-the-throne-of-god-with-confidence-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Yes, Lord, I Will Follow Thee' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Yes, Lord, I Will Follow Thee' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Yes, Lord, I Will Follow Thee</title>
         <description></description>
@@ -137,8 +150,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-14-yes-lord-i-will-follow-thee-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Are We Not All Beggars?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Are We Not All Beggars?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255541/56dc3848affe4c9390b1ddded72e3d0f/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Are We Not All Beggars?</title>
         <description></description>
@@ -146,8 +160,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-15-are-we-not-all-beggars-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Finding Lasting Peace and Building Eternal Families' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Finding Lasting Peace and Building Eternal Families' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255566/5e246277f3774476835e4ae9d0a98831/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Finding Lasting Peace and Building Eternal Families</title>
         <description></description>
@@ -155,8 +170,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-16-finding-lasting-peace-and-building-eternal-families-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Choose Wisely' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Choose Wisely' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255509/9edc398376e3431788ceb62e046a5b32/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Choose Wisely</title>
         <description></description>
@@ -164,8 +180,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-17-choose-wisely-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Know These Things of Myself' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='I Know These Things of Myself' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255504/00263332f5ca4d05b2928c2b71d6fe4f/320x401.jpg'>
+<rss><channel><item>
         <id></id>
         <title>I Know These Things of Myself</title>
         <description></description>
@@ -173,8 +190,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-18-i-know-these-things-of-myself-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255515/5915e33a5356403f9575a0cc18714e05/320x441.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy</title>
         <description></description>
@@ -182,8 +200,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-19-the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Lord, Is It I?”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='“Lord, Is It I?”' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Lord, Is It I?”</title>
         <description></description>
@@ -191,8 +210,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-20-lord-is-it-i-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Preparatory Priesthood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Preparatory Priesthood' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Preparatory Priesthood</title>
         <description></description>
@@ -200,8 +220,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-21-the-preparatory-priesthood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guided Safely Home' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Guided Safely Home' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Guided Safely Home</title>
         <description></description>
@@ -209,8 +230,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-22-guided-safely-home-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Continuing Revelation' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Continuing Revelation' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Continuing Revelation</title>
         <description></description>
@@ -218,8 +240,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-23-continuing-revelation-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sustaining the Prophets' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sustaining the Prophets' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255557/bdaeff04d43d4f3e81f1ad5ac59f2564/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sustaining the Prophets</title>
         <description></description>
@@ -227,8 +250,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-24-sustaining-the-prophets-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Live according to the Words of the Prophets' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Live according to the Words of the Prophets' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255554/907e1a6ae0a64f0581ed473dc5a66cbe/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Live according to the Words of the Prophets</title>
         <description></description>
@@ -236,8 +260,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-25-live-according-to-the-words-of-the-prophets-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255538/8578a9f6c4114a3a9708ee79ba54f7af/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ</title>
         <description></description>
@@ -245,8 +270,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-26-eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Sacrament and the Atonement' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Sacrament and the Atonement' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255540/40f118d02cb647deb85d7236ffc68c31/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Sacrament and the Atonement</title>
         <description></description>
@@ -254,8 +280,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-27-the-sacrament-and-the-atonement-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ponder the Path of Thy Feet' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ponder the Path of Thy Feet' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ponder the Path of Thy Feet</title>
         <description></description>
@@ -263,8 +290,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-28-ponder-the-path-of-thy-feet-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Stay in the Boat and Hold On!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Stay in the Boat and Hold On!' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Stay in the Boat and Hold On!</title>
         <description></description>
@@ -283,8 +311,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855542620001/1280/720/1758598' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855542620001/1280/720/1493425' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Make the Exercise of Faith Your First Priority' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Make the Exercise of Faith Your First Priority' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255578/3f30638f484a4cad81730c6a26cf1a23/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Make the Exercise of Faith Your First Priority</title>
         <description></description>
@@ -292,8 +321,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-30-make-the-exercise-of-faith-your-first-priority-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Lord Has a Plan for Us!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Lord Has a Plan for Us!' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255532/13ef88a344ce4491b39cc78feb779b7f/320x417.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Lord Has a Plan for Us!</title>
         <description></description>
@@ -301,8 +331,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-31-the-lord-has-a-plan-for-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Book' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Book' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255563/8ecf4be9384442fdbc9b8cf44a0627d8/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Book</title>
         <description></description>
@@ -310,8 +341,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-32-the-book-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Personal Ministries' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Our Personal Ministries' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Our Personal Ministries</title>
         <description></description>
@@ -319,8 +351,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-33-our-personal-ministries-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trifle Not with Sacred Things' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Trifle Not with Sacred Things' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255543/ebdd1b16b16e4a8786579f613884c55b/320x442.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Trifle Not with Sacred Things</title>
         <description></description>
@@ -328,8 +361,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-34-trifle-not-with-sacred-things-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come and See' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Come and See' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Come and See</title>
         <description></description>
@@ -337,8 +371,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-35-come-and-see-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Until We Meet Again' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Until We Meet Again' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Until We Meet Again</title>
         <description></description>
@@ -346,8 +381,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-36-until-we-meet-again-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prepared in a Manner That Never Had Been Known' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Prepared in a Manner That Never Had Been Known' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255499/02312c356cf7496f99170ecd0098a209/320x437.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Prepared in a Manner That Never Had Been Known</title>
         <description></description>
@@ -355,8 +391,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-37-prepared-in-a-manner-that-never-had-been-known-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Covenant Daughters of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Covenant Daughters of God' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255583/eeb96362d11245028ff554c2ad400db3/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Covenant Daughters of God</title>
         <description></description>
@@ -364,8 +401,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-38-covenant-daughters-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Your Light' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sharing Your Light' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255549/073840702ed040d4b0e52e435b94f623/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sharing Your Light</title>
         <description></description>
@@ -373,8 +411,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-39-sharing-your-light-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Living the Gospel Joyful' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Living the Gospel Joyful' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Living the Gospel Joyful</title>
         <description></description>
@@ -382,8 +421,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-40-living-the-gospel-joyful-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Conference Story Index' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Conference Story Index' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Conference Story Index</title>
         <description></description>
@@ -391,5 +431,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-november-2014/2014-11-42-conference-story-index-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

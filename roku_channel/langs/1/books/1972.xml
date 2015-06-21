@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Temple Blessings' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Temple Blessings</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/UchtdorfDF_06_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-03-temple-blessings-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Most Important Job' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Most Important Job</title>
         <description></description>
@@ -25,35 +22,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-04-the-most-important-job-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Racing to Read' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Racing to Read</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/AllredSH_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-05-racing-to-read-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I am a daughter of God. Who can be my role model as I grow up?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I am a daughter of God. Who can be my role model as I grow up?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BallardMR_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-06-i-am-a-daughter-of-god-who-can-be-my-role-model-as-i-grow-up-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Right Side Up' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Right Side Up</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/05/LeeHB_all.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-07-right-side-up-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Heals the Sick' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Heals the Sick</title>
         <description></description>
@@ -61,17 +54,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-08-jesus-heals-the-sick-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Article of Faith 5' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Article of Faith 5</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/05/fr11may12-article-of-faith.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-09-article-of-faith-5-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-10-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Simple Prayer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Simple Prayer</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-11-a-simple-prayer-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -97,17 +86,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-12-book-reviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/05/fr11may17-matt.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-13-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sarah’s Shoes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sarah’s Shoes</title>
         <description></description>
@@ -115,26 +102,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-14-sarahs-shoes-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Church of Jesus Christ Has Been Restored' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Church of Jesus Christ Has Been Restored</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/05/fr11may21-hidden-pictures-tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-15-the-church-of-jesus-christ-has-been-restored-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Catcher’s Mitt' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Catcher’s Mitt</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/05/HinckleyGB_95-99.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-16-the-catchers-mitt-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Praise to the Man' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Praise to the Man</title>
         <description></description>
@@ -142,5 +126,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2011/2011-05-17-praise-to-the-man-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Title Page' subtitle='Videos: 0; Audio: 7'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Title Page' subtitle='Videos: 0, Audio: 7' >
+<rss><channel><item>
         <id></id>
         <title>Title Page</title>
         <description></description>
@@ -55,8 +56,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-006-a-brief-explanation-about-the-book-of-mormon-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='1 Nephi' subtitle='Videos: 0; Audio: 22'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='1 Nephi' subtitle='Videos: 0, Audio: 22' >
+<rss><channel><item>
         <id></id>
         <title>1 Nephi 1</title>
         <description></description>
@@ -232,8 +234,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-030-1-nephi-22-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='2 Nephi' subtitle='Videos: 0; Audio: 33'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2 Nephi' subtitle='Videos: 0, Audio: 33' >
+<rss><channel><item>
         <id></id>
         <title>2 Nephi 1</title>
         <description></description>
@@ -497,8 +500,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-064-2-nephi-33-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jacob' subtitle='Videos: 0; Audio: 7'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jacob' subtitle='Videos: 0, Audio: 7' >
+<rss><channel><item>
         <id></id>
         <title>Jacob 1</title>
         <description></description>
@@ -554,8 +558,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-072-jacob-07-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Enos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Enos' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Enos</title>
         <description></description>
@@ -563,8 +568,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-074-enos-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jarom' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jarom' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Jarom</title>
         <description></description>
@@ -572,8 +578,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-076-jarom-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Omni' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Omni' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Omni</title>
         <description></description>
@@ -581,8 +588,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-078-omni-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Words of Mormon' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Words of Mormon' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Words of Mormon</title>
         <description></description>
@@ -590,8 +598,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-080-words-of-mormon-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mosiah' subtitle='Videos: 0; Audio: 29'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mosiah' subtitle='Videos: 0, Audio: 29' >
+<rss><channel><item>
         <id></id>
         <title>Mosiah 1</title>
         <description></description>
@@ -823,8 +832,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-110-mosiah-29-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Alma' subtitle='Videos: 0; Audio: 63'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Alma' subtitle='Videos: 0, Audio: 63' >
+<rss><channel><item>
         <id></id>
         <title>Alma 1</title>
         <description></description>
@@ -1328,8 +1338,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-174-alma-63-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Helaman' subtitle='Videos: 0; Audio: 16'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Helaman' subtitle='Videos: 0, Audio: 16' >
+<rss><channel><item>
         <id></id>
         <title>Helaman 1</title>
         <description></description>
@@ -1457,8 +1468,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-191-helaman-16-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='3 Nephi' subtitle='Videos: 0; Audio: 30'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='3 Nephi' subtitle='Videos: 0, Audio: 30' >
+<rss><channel><item>
         <id></id>
         <title>3 Nephi 1</title>
         <description></description>
@@ -1698,8 +1710,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-222-3-nephi-30-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='4 Nephi' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='4 Nephi' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>4 Nephi</title>
         <description></description>
@@ -1707,8 +1720,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-224-4-nephi-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormon' subtitle='Videos: 0; Audio: 9'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mormon' subtitle='Videos: 0, Audio: 9' >
+<rss><channel><item>
         <id></id>
         <title>Mormon 1</title>
         <description></description>
@@ -1780,8 +1794,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-234-mormon-09-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ether' subtitle='Videos: 0; Audio: 15'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ether' subtitle='Videos: 0, Audio: 15' >
+<rss><channel><item>
         <id></id>
         <title>Ether 1</title>
         <description></description>
@@ -1901,8 +1916,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-250-ether-15-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Moroni' subtitle='Videos: 0; Audio: 10'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Moroni' subtitle='Videos: 0, Audio: 10' >
+<rss><channel><item>
         <id></id>
         <title>Moroni 1</title>
         <description></description>
@@ -1982,5 +1998,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2013-06-261-moroni-10-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

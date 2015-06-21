@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Clean Again!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Clean Again!</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-02-clean-again-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Glad I Did' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Glad I Did</title>
         <description></description>
@@ -16,17 +14,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-03-glad-i-did-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Faith in Every Footstep' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Faith in Every Footstep</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:1125.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-04-faith-in-every-footstep-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Randy to the Rescue' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Randy to the Rescue</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-05-randy-to-the-rescue-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Suspect' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Suspect</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-06-suspect-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
@@ -52,26 +46,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-07-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormonad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mormonad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:1129.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-08-mormonad-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='’Tis Sweet to Sing' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>’Tis Sweet to Sing</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:112b.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-09-tis-sweet-to-sing-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Maid Service' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Maid Service</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-10-my-maid-service-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Grandfather the Prophet' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Grandfather the Prophet</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-11-my-grandfather-the-prophet-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='FYI: For Your Info' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>FYI: For Your Info</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-12-fyi-for-your-info-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Are You His Friend?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Are You His Friend?</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-13-are-you-his-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Moonlight and Mosquitoes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Moonlight and Mosquitoes</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-14-moonlight-and-mosquitoes-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ready to Die?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ready to Die?</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-15-ready-to-die-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trails and Trials' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trails and Trials</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-16-trails-and-trials-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Feedback' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Feedback</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-17-feedback-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Small Realization of the Immense Pain' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Small Realization of the Immense Pain</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-18-a-small-realization-of-the-immense-pain-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Photo of the Month' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Photo of the Month</title>
         <description></description>
@@ -160,5 +142,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-april-1997/1997-04-19-photo-of-the-month-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

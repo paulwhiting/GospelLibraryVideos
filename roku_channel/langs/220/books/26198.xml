@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='是救恩的事工' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>是救恩的事工</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2379251791001_2013-01-04-this-is-the-work-of-salvation-8000k-yue.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='「讓心轉向」濃縮版' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>「讓心轉向」濃縮版</title>
         <description></description>
@@ -19,8 +17,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904663817001_2011-09-02-to-turn-the-hearts-condensed-8000k-yue.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904682513001_2011-09-02-to-turn-the-hearts-condensed-8000k-yue.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='「讓心轉向」完整版' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>「讓心轉向」完整版</title>
         <description></description>
@@ -31,5 +28,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904653924001_2011-09-01-to-turn-the-hearts-featured-8000k-yue.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904695468001_2011-09-01-to-turn-the-hearts-featured-8000k-yue.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

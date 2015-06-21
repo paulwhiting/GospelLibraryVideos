@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-02-friends-by-mail-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Five Little Fish' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Five Little Fish</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HinckleyGB_95-99_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-03-five-little-fish-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Rock Soup' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Rock Soup</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='HinckleyGB_95-99.ob.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-04-rock-soup-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Busy Body' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Busy Body</title>
         <description></description>
@@ -34,53 +30,47 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-05-my-busy-body-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prayer and Work' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prayer and Work</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='AndersenNL_all.ob.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-06-prayer-and-work-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Tithing Shoes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tithing Shoes</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EyringHB_03.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-07-tithing-shoes-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Two Little Words' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Two Little Words</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov14_sharing.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-09-two-little-words-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov17_mattandmandy.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-10-matt-and-mandy-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Magic Doors—The Kearl Family of Calgary, Alberta, Canada' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Magic Doors—The Kearl Family of Calgary, Alberta, Canada</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov20_map.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-11-magic-doors-the-kearl-family-of-calgary-alberta-canada-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-12-book-reviews-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Karl’s Mission' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Karl’s Mission</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov24_mission.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-13-karls-mission-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-15-kitchen-krafts-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Too Old for Primary' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Too Old for Primary</title>
         <description></description>
@@ -115,17 +102,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-16-too-old-for-primary-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/OaksDH_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-17-special-witness-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-18-trying-to-be-like-jesus-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Answer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Answer</title>
         <description></description>
@@ -142,35 +126,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-19-the-answer-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov37_thankful.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-20-for-little-friends-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Camilla, a Cherished Companion' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Camilla, a Cherished Companion</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr07nov42_prophets.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-22-camilla-a-cherished-companion-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nine Lepers and a Thank-you Note' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nine Lepers and a Thank-you Note</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='MonsonTS_86-99.ob.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-24-nine-lepers-and-a-thank-you-note-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -178,5 +158,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2007/2007-11-26-guide-to-the-friend-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

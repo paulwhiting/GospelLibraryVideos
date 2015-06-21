@@ -1,38 +1,34 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ricevere una testimonianza di luce e verità' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Ricevere una testimonianza di luce e verità</title>
         <description></description>
         <duration>61</duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/640/360/684278' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1941986' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1610241' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1307737' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith</title>
         <description></description>
         <duration>33</duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1255490/3d517516d6924e7499b1a942d323dd2b/320x426.jpg'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/1280/720/1805596' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/1280/720/1509744' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/640/360/658967' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/1280/720/1273702' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Rimanete sulla barca e tenetevi stretti!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Rimanete sulla barca e tenetevi stretti!</title>
         <description></description>
         <duration>17</duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1502626' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/640/360/645193' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1237240' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1817314' height='720p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

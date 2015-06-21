@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='1월: 신회' subtitle='Videos: 13; Audio: 0'><category title='우리는 신회의 속성에 대해 무엇을 알고 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>우리는 신회의 속성에 대해 무엇을 알고 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+    <categories><category title='1월: 신회' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<category title='우리는 신회의 속성에 대해 무엇을 알고 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“회복”</title>
         <description></description>
@@ -42,15 +37,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151639001/1280/720/1799903' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151639001/1280/720/2127903' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 하나님 아버지를 어떻게 알 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 하나님 아버지를 어떻게 알 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 하나님 아버지를 어떻게 알 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/heavenly-father/images/How can I know my Heavenly Father - AV110331_cah109-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”그분은 저를 아십니다“</title>
         <description></description>
@@ -86,15 +75,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824630001/1920/1080/7834000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824630001/1280/720/2521546' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='왜 예수 그리스도가 내 삶에서 중요한가?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 예수 그리스도가 내 삶에서 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='왜 예수 그리스도가 내 삶에서 중요한가?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/important/images/godhead-why-is-jesus-christ-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“그분은 도와 주실 거예요”</title>
         <description></description>
@@ -191,16 +174,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/640/360/717061' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/1280/720/1663156' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='2월: 구원의 계획' subtitle='Videos: 12; Audio: 0'><category title='구원의 계획이란 무엇인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>구원의 계획이란 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='2월: 구원의 계획' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<category title='구원의 계획이란 무엇인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“사람들이 기절할 것이요”</title>
         <description></description>
@@ -236,15 +214,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824541001/1280/720/2525608' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824541001/1920/1080/8117000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='인생의 목적은 무엇인가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>인생의 목적은 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='인생의 목적은 무엇인가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/purpose/images/plan-what-is-the-purpose-copy1.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“경전으로 서로 가르친다”</title>
         <description></description>
@@ -255,15 +227,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1388249' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1640814' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='왜 우리는 고난을 겪는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 우리는 고난을 겪는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='왜 우리는 고난을 겪는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/adversity/images/plan-why-do-we-have-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>하나님은 우리를 들어 올려 주십니다</title>
         <description></description>
@@ -297,8 +263,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715060001/640/360/761701' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715060001/1280/720/1917499' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='내가 사랑하는 누군가가 세상을 떠났을 때 나는 어떻게 위안을 찾을 수 있나?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='내가 사랑하는 누군가가 세상을 떠났을 때 나는 어떻게 위안을 찾을 수 있나?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/comfort/images/AV121105_cah0246-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”우리 다시 만날 때까지”</title>
         <description></description>
@@ -357,16 +324,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341221001/1280/720/2127902' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341221001/1920/1080/6860000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='3월: 예수 그리스도의 속죄' subtitle='Videos: 18; Audio: 0'><category title='예수 그리스도의 속죄란 무엇인가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>예수 그리스도의 속죄란 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='3월: 예수 그리스도의 속죄' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<category title='예수 그리스도의 속죄란 무엇인가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>속죄를 묘사하는 성경 비디오</title>
         <description></description>
@@ -386,15 +348,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481878001/1280/720/1799946' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481878001/1280/720/8057000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='예수 그리스도를 믿는 신앙이 있다는 것은 무슨 뜻인가?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>예수 그리스도를 믿는 신앙이 있다는 것은 무슨 뜻인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='예수 그리스도를 믿는 신앙이 있다는 것은 무슨 뜻인가?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/faith/images/AV071211cah019-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“순수하고 단순한 신앙”</title>
         <description></description>
@@ -452,15 +408,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867149001/640/360/927488' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867149001/1280/720/2127488' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='회개는 매일 나에게 어떤 도움을 줄 수 있는가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>회개는 매일 나에게 어떤 도움을 줄 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='회개는 매일 나에게 어떤 도움을 줄 수 있는가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/repentance/images/Atonement - How can repentance help me every day CWD_9d7be10f-3163-436f-82b2-a6358971f2ca-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“마음의 변화”</title>
         <description></description>
@@ -484,15 +434,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824502001/1280/720/2527989' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824502001/640/360/927989' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='은혜란 무엇인가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>은혜란 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='은혜란 무엇인가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/grace/images/AV081231cah249-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리는 배운다”</title>
         <description></description>
@@ -504,8 +448,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717455001/1920/1080/7801000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717455001/640/360/923698' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 왜 다른 사람들을 용서해야 하는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='나는 왜 다른 사람들을 용서해야 하는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/forgive/images/refuges.jpg'>
+<rss><channel><item>
         <id></id>
         <title>일곱 번을 일흔 번까지</title>
         <description></description>
@@ -554,8 +499,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='부활이란 무엇인가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='부활이란 무엇인가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/resurrection/images/Resurrection-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>주님 다시 부활했네</title>
         <description></description>
@@ -579,15 +525,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729287001/640/360/924582' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729287001/1280/720/1796582' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='시련을 겪을 때 속죄는 나에게 어떻게 도움이 되는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>시련을 겪을 때 속죄는 나에게 어떻게 도움이 되는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='시련을 겪을 때 속죄는 나에게 어떻게 도움이 되는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/trials/images/AV120822_cah0008-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“하나님은 우리를 들어 올려 주십니다”</title>
         <description></description>
@@ -622,16 +562,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151118001/1280/720/1800005' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151118001/640/360/928005' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='4월: 배도와 회복' subtitle='Videos: 10; Audio: 0'><category title='왜 회복이 필요했나?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 회복이 필요했나?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='4월: 배도와 회복' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/Unknown-1.jpeg'>
+<category title='왜 회복이 필요했나?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“진리의 추구”,</title>
         <description></description>
@@ -654,15 +589,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2245716417001/1280/720/2127982' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2245716417001/1280/720/1799982' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='우리는 왜 몰몬경이 필요한가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>우리는 왜 몰몬경이 필요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='우리는 왜 몰몬경이 필요한가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/book-of-mormon/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“몰몬경을 연구하십시오”</title>
         <description></description>
@@ -674,15 +603,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396728114001/1280/720/1760439' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396728114001/640/360/888439' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='신권은 어떻게 회복되었는가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>신권은 어떻게 회복되었는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='신권은 어떻게 회복되었는가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restored/images/Unknown copy.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“신권의 회복”</title>
         <description></description>
@@ -706,15 +629,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291613866001/640/360/2054000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291613866001/640/360/1800000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='조셉 스미스가 회복에서 맡았던 역할은 무엇인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>조셉 스미스가 회복에서 맡았던 역할은 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='조셉 스미스가 회복에서 맡았던 역할은 무엇인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/joseph-smith/images/Unknown.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“조셉 스미스: 회복의 선지자”</title>
         <description></description>
@@ -750,15 +667,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264493572001/640/480/2127980' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264493572001/640/480/1799980' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='첫번째 시현이 왜 중요한가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>첫번째 시현이 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-teaching-nephites-39665-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='첫번째 시현이 왜 중요한가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/article/yw/apostasy-restoration/first-vision/images/AV060414_cah705-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“회복”</title>
         <description></description>
@@ -782,16 +693,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151639001/1280/720/1799903' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151639001/1280/720/2127903' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='5월: 선지자와 계시' subtitle='Videos: 15; Audio: 0'><category title='왜 살아 계신 선지자들의 말씀을 듣고 따르는 것이 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 살아 계신 선지자들의 말씀을 듣고 따르는 것이 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='5월: 선지자와 계시' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<category title='왜 살아 계신 선지자들의 말씀을 듣고 따르는 것이 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리는 살아계신 선지자가 필요합니다”</title>
         <description></description>
@@ -826,15 +732,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434717001/1280/720/1286191' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434717001/640/360/725011' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='개인적인 계시는 어떻게 받는가?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>개인적인 계시는 어떻게 받는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='개인적인 계시는 어떻게 받는가?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/receive/images/prophets-how-do-i-receive-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“빛의 유형: 계시의 영”,</title>
         <description></description>
@@ -891,15 +791,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423501001/1280/720/1407714' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423501001/640/360/682643' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='어떻게 하면 내 기도가 좀 더 의미 있게 되도록 할 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>어떻게 하면 내 기도가 좀 더 의미 있게 되도록 할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='어떻게 하면 내 기도가 좀 더 의미 있게 되도록 할 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/meaningful/images/prophets-how-can-i-make-my-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>일용할 양식: 경험</title>
         <description></description>
@@ -927,15 +821,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282354001/480/268/34763' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='왜 경전을 공부하는 것이 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 경전을 공부하는 것이 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='왜 경전을 공부하는 것이 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/study/images/scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>몰몬경: 하늘에서 온 메시지</title>
         <description></description>
@@ -966,15 +854,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1388249' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1640814' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='어떻게 나는 간증을 강화할 수 있는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>어떻게 나는 간증을 강화할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='어떻게 나는 간증을 강화할 수 있는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/gain/images/testimony.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리가 간증하도록 권유해 주십시오”</title>
         <description></description>
@@ -986,16 +868,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728337001/1280/720/2124616' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728337001/640/360/924616' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='6월: 신권과 신권 열쇠' subtitle='Videos: 12; Audio: 0'><category title='신권이란 무엇인가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>신권이란 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='6월: 신권과 신권 열쇠' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/priesthood.jpg'>
+<category title='신권이란 무엇인가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/priesthood.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“모든 사람은 신권 축복을 누릴 수 있음”</title>
         <description></description>
@@ -1017,15 +894,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407336001/640/360/668065' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407336001/1280/720/1188863' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='신권 사업에서 나의 책임은 무엇인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>신권 사업에서 나의 책임은 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='신권 사업에서 나의 책임은 무엇인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/duties/images/new-youth-curriculum-yw-my-responsibilities-in-the-priesthood-1190698.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“나의 하나님 나의 왕”</title>
         <description></description>
@@ -1058,15 +929,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428191001/640/360/700870' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428191001/1280/720/1747543' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='교회 지도자들을 지지한다는 것은 무슨 의미인가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>교회 지도자들을 지지한다는 것은 무슨 의미인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='교회 지도자들을 지지한다는 것은 무슨 의미인가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/honor/images/new-youth-curriculum-yw-sustain-my-church-leaders-1196047.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리가 가르치게 해 준다”</title>
         <description></description>
@@ -1078,15 +943,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729254001/1280/720/1796275' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729254001/640/360/924275' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='신권 열쇠란 무엇인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>신권 열쇠란 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='신권 열쇠란 무엇인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/keys/images/priesthood-what-are-the-keys-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“신권 열쇠의 회복”</title>
         <description></description>
@@ -1119,15 +978,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293973758001/1280/720/2527986' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293973758001/640/360/927986' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 나의 삶에서 신권의 권능과 축복을 어떻게 받는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 나의 삶에서 신권의 권능과 축복을 어떻게 받는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 나의 삶에서 신권의 권능과 축복을 어떻게 받는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/bless/images/bless-me.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“신권의 축복”</title>
         <description></description>
@@ -1163,16 +1016,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127558954001/1920/1080/7770000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127558954001/1280/720/2128000' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='7월: 의식과 성약' subtitle='Videos: 16; Audio: 0'><category title='의식은 내 삶에서 왜 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>의식은 내 삶에서 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='7월: 의식과 성약' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<category title='의식은 내 삶에서 왜 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“신권 권능에 대한 신앙”</title>
         <description></description>
@@ -1206,15 +1054,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291412785001/1280/720/1886693' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291412785001/1280/720/1293905' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='왜 성약이 내 삶에서 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 성약이 내 삶에서 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/anti-nephi-lehies-bury-weapons-39657-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='왜 성약이 내 삶에서 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/essential/images/0001284s.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“그분의 빛 가운데 걸어가십시오”</title>
         <description></description>
@@ -1247,15 +1089,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/640/360/717061' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/1280/720/1663156' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 침례 받을 때 어떤 성약을 맺었는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 침례 받을 때 어떤 성약을 맺었는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/beliefs-practices/baptism-271833-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 침례 받을 때 어떤 성약을 맺었는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/baptism/images/AV060503_cah3944.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“같은 유니폼”,</title>
         <description></description>
@@ -1289,15 +1125,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423505001/640/360/699119' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423505001/1280/720/1381963' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 어떻게 성신의 은사를 받는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 어떻게 성신의 은사를 받는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 어떻게 성신의 은사를 받는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/gift/images/av051208_jrn051alt.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “가르칠 내용을 결정한다” </title>
         <description></description>
@@ -1309,15 +1139,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079278001/1920/1080/7621000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079278001/1280/720/2126483' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='성전 의식은 왜 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>성전 의식은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='성전 의식은 왜 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/temple/images/Why are temple ordinances important - -AV081208cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“성전은 등대입니다”</title>
         <description></description>
@@ -1351,8 +1175,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681100001/1280/720/1692927' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681100001/640/360/813426' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='예수 그리스도의 이름을 받든다는 것은 무슨 의미인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='예수 그리스도의 이름을 받든다는 것은 무슨 의미인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/myself/images/AV061026_cah0028.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“용감하게 홀로 서라”</title>
         <description></description>
@@ -1385,16 +1210,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423501001/1280/720/1407714' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423501001/640/360/682643' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='8월: 결혼과 가족' subtitle='Videos: 23; Audio: 0'><category title='가족은 왜 중요한가?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>가족은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='8월: 결혼과 가족' subtitle='Videos: 23, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<category title='가족은 왜 중요한가?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“가족은 영원해”</title>
         <description></description>
@@ -1438,15 +1258,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1388249' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423571001/1280/720/1640814' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='성전 결혼은 왜 중요한가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>성전 결혼은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/laie-hawaii-temple-wedding-243957-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='성전 결혼은 왜 중요한가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/marriage/images/Why is temple marriage important - AV090511cah004-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리에게 질문한다”</title>
         <description></description>
@@ -1458,15 +1272,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728398001/1280/720/2524253' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728398001/1920/1080/7798000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='순결은 왜 중요한가?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>순결은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='순결은 왜 중요한가?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/chastity/images/Why is chastity important - AV060224_cah069alt2-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“저는 순결하기로 선택하였어요”</title>
         <description></description>
@@ -1538,15 +1346,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661512001/1280/720/2126520' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661512001/1920/1080/7566000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 의로운 아내와 어머니가 되기 위해 지금 어떻게 준비할 수 있는가?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 의로운 아내와 어머니가 되기 위해 지금 어떻게 준비할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 의로운 아내와 어머니가 되기 위해 지금 어떻게 준비할 수 있는가?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/prepare/images/How can I prepare now to be a righteous wife and mother - matt-5101-cirlce.jpg'>
+<rss><channel><item>
         <id></id>
         <title>어머니와 딸”</title>
         <description></description>
@@ -1614,15 +1416,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417380001/1280/720/1191295' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417380001/1280/720/1653242' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='남성과 여성의 역할은 어떻게 가정에서 서로를 보완하는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>남성과 여성의 역할은 어떻게 가정에서 서로를 보완하는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='남성과 여성의 역할은 어떻게 가정에서 서로를 보완하는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/roles/images/How do the roles of fathers and mothers complement each other - AV110125cah0024-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리 삶의 여성들”</title>
         <description></description>
@@ -1655,15 +1451,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421754001/640/360/693223' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421754001/1280/720/1732177' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 내 가족을 어떻게 강화할 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 내 가족을 어떻게 강화할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 내 가족을 어떻게 강화할 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/strengthen/images/How can I strengthen my family AV100408cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“작은 일을 통해”</title>
         <description></description>
@@ -1699,16 +1489,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550601001/640/360/926606' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550601001/1280/720/2526606' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='9월: 계명' subtitle='Videos: 20; Audio: 0'><category title='나는 어떻게 세상에 거하되 세상에 속하지 않을 수 있는가?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 어떻게 세상에 거하되 세상에 속하지 않을 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='9월: 계명' subtitle='Videos: 20, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<category title='나는 어떻게 세상에 거하되 세상에 속하지 않을 수 있는가?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“여러분이 지금 있는 곳을 아름답게 만드십시오”</title>
         <description></description>
@@ -1766,15 +1551,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428165001/640/360/732057' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428165001/1280/720/1779142' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 어떻게 내 정결을 지키는가?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 어떻게 내 정결을 지키는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 어떻게 내 정결을 지키는가?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/virtue/images/How do I guard my virtue-CWD_13b27bad-9827-457d-839f-a6249eafc096-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“발 밑을 주의하십시오”</title>
         <description></description>
@@ -1831,15 +1610,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611668344001/1280/720/2090243' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611668344001/1280/720/1442279' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='내가 하는 말은 어떻게 나와 내 주위 사람들에게 영향을 미치는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>내가 하는 말은 어떻게 나와 내 주위 사람들에게 영향을 미치는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='내가 하는 말은 어떻게 나와 내 주위 사람들에게 영향을 미치는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/affect/images/AV1008024cmb0033.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“욕 안 하기 동아리”</title>
         <description></description>
@@ -1872,15 +1645,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421716001/1280/720/1254973' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421716001/1280/720/1478589' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='우리는 왜 금식하는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>우리는 왜 금식하는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='우리는 왜 금식하는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/fast/images/What are the blessings of a meaningful fast - AV090126cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리는 나눈다”</title>
         <description></description>
@@ -1892,15 +1659,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687012001/1920/1080/7810000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687012001/640/360/924501' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='우리는 왜 안식일을 거룩하게 지키라는 명을 받았는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>우리는 왜 안식일을 거룩하게 지키라는 명을 받았는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='우리는 왜 안식일을 거룩하게 지키라는 명을 받았는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/sabbath/images/AV060802_cah2716.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“그는 청소년기에 동정심을 배웠다”</title>
         <description></description>
@@ -1934,15 +1695,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620090001/1280/720/65120' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620090001/1280/720/58559' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='왜 정직한 것이 중요한가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>왜 정직한 것이 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='왜 정직한 것이 중요한가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/honest/images/Why is it important to be hones - AV110413_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> 정직: 내 말을 믿는 게 좋을걸!</title>
         <description></description>
@@ -1966,15 +1721,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518527001/1280/720/2508004' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518527001/1280/720/1780004' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='우리는 왜 십일조를 바치는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>우리는 왜 십일조를 바치는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='우리는 왜 십일조를 바치는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/tithing/images/Why do we pay tithing - AV070116_cah025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리가 실천하도록 권유한다”</title>
         <description></description>
@@ -1985,16 +1734,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416848001/1280/720/1133228' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416848001/640/360/683277' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='10월: 좀 더 그리스도와 같이 됨' subtitle='Videos: 26; Audio: 0'><category title='어떻게 하면 좀 더 그리스도와 같은 사람이 될 수 있는가?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>어떻게 하면 좀 더 그리스도와 같은 사람이 될 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='10월: 좀 더 그리스도와 같이 됨' subtitle='Videos: 26, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<category title='어떻게 하면 좀 더 그리스도와 같은 사람이 될 수 있는가?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“일용할 양식: 변화”</title>
         <description></description>
@@ -2049,15 +1793,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423524001/1280/720/1386334' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423524001/640/360/668542' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='어떻게 그리스도와 같은 사랑을 키울 수 있는가?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>어떻게 그리스도와 같은 사랑을 키울 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='어떻게 그리스도와 같은 사랑을 키울 수 있는가?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/develop/images/How can I develop Christlike love - CWD_4e861973-622f-4451-9e59-e6d773f2a759-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“서로 격려하십시오”,</title>
         <description></description>
@@ -2125,15 +1863,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680957721001/640/360/51516' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680957721001/1280/720/64923' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 다른 사람들에게 봉사할 때 어떻게 좀 더 그리스도와 같이 될 수 있는가?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 다른 사람들에게 봉사할 때 어떻게 좀 더 그리스도와 같이 될 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 다른 사람들에게 봉사할 때 어떻게 좀 더 그리스도와 같이 될 수 있는가?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/service/images/How can I be more Christlike in my service to others - AV080325_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“선한 사마리아인의 비유”</title>
         <description></description>
@@ -2232,15 +1964,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416922001/1280/720/1477812' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416922001/1280/720/1751261' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='어떻게 더 인내하는 법을 배울 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>어떻게 더 인내하는 법을 배울 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='어떻게 더 인내하는 법을 배울 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/patient/images/How can I learn to be more patient - AV091209cah208-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“계속 인내하십시오”</title>
         <description></description>
@@ -2274,15 +2000,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654173598001/1280/720/2105768' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654173598001/1280/720/1781314' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='감사한 마음을 지니는 것은 왜 중요한가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>감사한 마음을 지니는 것은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='감사한 마음을 지니는 것은 왜 중요한가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/grateful/images/Why is it important to be gratefu - AV100730cah0025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“감사를 표하십시오”</title>
         <description></description>
@@ -2315,16 +2035,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407336001/640/360/668065' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407336001/1280/720/1188863' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='11월: 영적 및 현세적 자립' subtitle='Videos: 12; Audio: 0'><category title='자립한다는 것은 무엇을 의미하는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>자립한다는 것은 무엇을 의미하는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='11월: 영적 및 현세적 자립' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<category title='자립한다는 것은 무엇을 의미하는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리가 실천하도록 권유한다”</title>
         <description></description>
@@ -2336,15 +2051,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737238001/1280/720/2124081' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737238001/1280/720/2524081' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='교육을 받고 기술을 배우는 것은 왜 중요한가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>교육을 받고 기술을 배우는 것은 왜 중요한가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='교육을 받고 기술을 배우는 것은 왜 중요한가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/develop/images/Why is it important for me to gain an education and develop skillsCWD_879eb746-d0c8-41f6-a7e0-41924797dee8-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“연차 대회 말씀에서 답을 찾는다”</title>
         <description></description>
@@ -2355,15 +2064,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406325001/1280/720/1135295' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406325001/640/360/643646' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 내가 개종하고 있는지 어떻게 아는가?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 내가 개종하고 있는지 어떻게 아는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 내가 개종하고 있는지 어떻게 아는가?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/converted/images/new-youth-curriculum-yw-How-do-I-know-if-I-am-becoming-converted-1216157.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”다메섹으로 가는 길에 앉아 기다리며“</title>
         <description></description>
@@ -2386,15 +2089,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3875277062001/1280/720/2141018' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3875277062001/1280/720/1411209' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='일은 왜 복음의 중요한 원리인가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>일은 왜 복음의 중요한 원리인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='일은 왜 복음의 중요한 원리인가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/work/images/E06J_T2Z7843.jpg'>
+<rss><channel><item>
         <id></id>
         <title>쉽게 인도를 받아</title>
         <description></description>
@@ -2428,15 +2125,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667869296001/1280/720/1562200' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667869296001/1280/720/2218807' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='주님은 왜 내가 건강하기를 바라시는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>주님은 왜 내가 건강하기를 바라시는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='주님은 왜 내가 건강하기를 바라시는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/healthy/images/Why does the Lord want me to be healthy - AV0706012_cah207-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>2010년 새롭게 시작하는 한 해: 신체적 건강</title>
         <description></description>
@@ -2469,15 +2160,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428153001/1280/720/1289896' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428153001/1280/720/1805525' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='가난하고 궁핍한 자들을 돕는 주님의 방법은 무엇인가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>가난하고 궁핍한 자들을 돕는 주님의 방법은 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='가난하고 궁핍한 자들을 돕는 주님의 방법은 무엇인가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needy AV091029cah072-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리가 가르치게 해주십시오”</title>
         <description></description>
@@ -2489,8 +2174,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729254001/1280/720/1796275' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729254001/640/360/924275' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='내가 겪는 시련과 문제들에 대한 해답을 어떻게 찾을 수 있는가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='내가 겪는 시련과 문제들에 대한 해답을 어떻게 찾을 수 있는가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/solutions/images/av050825_jrn049.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“질문에 대해 토론하기”</title>
         <description></description>
@@ -2501,16 +2187,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434717001/1280/720/1286191' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434717001/640/360/725011' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='12월: 후기에 하나님의 왕국을 세움' subtitle='Videos: 20; Audio: 0'><category title='나는 어떻게 다른 사람들에게 그리스도께로 나아오도록 권유할 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 어떻게 다른 사람들에게 그리스도께로 나아오도록 권유할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='12월: 후기에 하나님의 왕국을 세움' subtitle='Videos: 20, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<category title='나는 어떻게 다른 사람들에게 그리스도께로 나아오도록 권유할 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“풍성하신 주 은혜로”</title>
         <description></description>
@@ -2543,15 +2224,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/640/360/717061' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407321001/1280/720/1663156' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='하나님께서는 내가 내 영적인 은사를 어떻게 사용하기를 바라시는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>하나님께서는 내가 내 영적인 은사를 어떻게 사용하기를 바라시는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='하나님께서는 내가 내 영적인 은사를 어떻게 사용하기를 바라시는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts- AV120906_cah0042-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“특별한 은사”</title>
         <description></description>
@@ -2585,15 +2260,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885573001/1280/720/2020565' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885573001/1280/720/1455363' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 그리스도에 중심을 둔 가정을 세우기 위해 어떻게 준비할 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 그리스도에 중심을 둔 가정을 세우기 위해 어떻게 준비할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 그리스도에 중심을 둔 가정을 세우기 위해 어떻게 준비할 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-AV100114cah002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “어머니: 하나님과 맺는 영원한 동반 관계”</title>
         <description></description>
@@ -2627,15 +2296,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687009001/1280/720/2522649' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687009001/640/360/922649' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 교회의 새로운 회원들을 돕기 위해 무엇을 할 수 있는가?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 교회의 새로운 회원들을 돕기 위해 무엇을 할 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 교회의 새로운 회원들을 돕기 위해 무엇을 할 수 있는가?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/help/images/What can I do to help new members of the Church-AV060212_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“선교 사업과 유지: 조지아 엘리아스”</title>
         <description></description>
@@ -2669,15 +2332,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421716001/1280/720/1254973' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421716001/1280/720/1478589' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 저활동인 친구가 교회로 돌아오도록 어떻게 도울 수 있는가?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>나는 저활동인 친구가 교회로 돌아오도록 어떻게 도울 수 있는가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='나는 저활동인 친구가 교회로 돌아오도록 어떻게 도울 수 있는가?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/friends/images/AV090107cah386.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“사탕무, 그리고 영혼의 가치”</title>
         <description></description>
@@ -2754,15 +2411,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417429001/1280/720/1647375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417429001/1280/720/1230362' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='시온은 무엇인가?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>시온은 무엇인가?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='시온은 무엇인가?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“우리는 실천한다”</title>
         <description></description>
@@ -2774,6 +2425,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729277001/1920/1080/7608000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729277001/1280/720/2520556' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

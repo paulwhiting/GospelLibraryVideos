@@ -1,7 +1,15 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Cara a Cara com o Élder e a irmã Bednar' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>Cara a Cara com o Élder e a irmã Bednar</title>
+        <title>Face to Face with Lindsey Stirling (1:03:13)</title>
+        <description></description>
+        <duration>3793</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3911737789001/480/268/565752.mp4' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3911737789001/480/268/374691.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Cara a Cara com o Élder e a irmã Bednar (1:20:23)</title>
         <description></description>
         <duration>4823</duration>
         <thumbnail url=''/>
@@ -10,5 +18,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4236227090001/1280/720/1548110.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4236227090001/640/360/846130.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

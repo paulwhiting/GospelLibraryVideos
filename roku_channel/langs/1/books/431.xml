@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-02-friends-by-mail-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come Listen to a Prophet’s Voice: The Lighthouse' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come Listen to a Prophet’s Voice: The Lighthouse</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:63.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-03-come-listen-to-a-prophets-voice-the-lighthouse-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Counting Stars' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Counting Stars</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:5b.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-04-counting-stars-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Colors of Our World' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Colors of Our World</title>
         <description></description>
@@ -34,35 +30,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-05-colors-of-our-world-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: Seeking Him in Prayer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: Seeking Him in Prayer</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:65.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-06-friend-to-friend-seeking-him-in-prayer-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Valentine from the Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Valentine from the Heart</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:67.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-07-valentine-from-the-heart-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: My Life Has a Plan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: My Life Has a Plan</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:6f.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-09-sharing-time-my-life-has-a-plan-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: Guess Who?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: Guess Who?</title>
         <description></description>
@@ -70,17 +62,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-10-special-witness-guess-who-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nets Full of Fish' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nets Full of Fish</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:71.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-11-nets-full-of-fish-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-12-kitchen-krafts-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Can Live with My Father in Heaven Again' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Can Live with My Father in Heaven Again</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:73.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-13-i-can-live-with-my-father-in-heaven-again-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Rebekah Nielsen of Moscow, Idaho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Rebekah Nielsen of Moscow, Idaho</title>
         <description></description>
@@ -106,53 +94,47 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-14-rebekah-nielsen-of-moscow-idaho-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:77.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-15-for-little-friends-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Friend Linda' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Friend Linda</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:79.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-16-my-friend-linda-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:7b.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-17-matt-and-mandy-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From the Life of President Wilford Woodruff' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From the Life of President Wilford Woodruff</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:7d.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-18-from-the-life-of-president-wilford-woodruff-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lost in a Cave' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lost in a Cave</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:79.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-19-lost-in-a-cave-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -160,17 +142,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-20-trying-to-be-like-jesus-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='An A in Integrity' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>An A in Integrity</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr2006lp.nfo:o:81.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-21-an-a-in-integrity-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -178,5 +158,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-february/2006-02-22-guide-to-the-friend-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

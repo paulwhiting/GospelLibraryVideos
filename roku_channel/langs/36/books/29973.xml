@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Witajcie na konferencji' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Witajcie na konferencji' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Witajcie na konferencji</title>
         <description></description>
@@ -7,55 +8,43 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584811001/640/360/750861.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584811001/480/268/521227.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584811001/396/224/196791.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584811001/480/268/334022.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Powód naszej nadziei' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Powód naszej nadziei' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255564/eeaa9091bb554748b3c8818172aa51e7/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Powód naszej nadziei</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584817001/396/224/191394.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584817001/480/268/515392.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584817001/480/268/317281.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584817001/640/360/735354.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='W którą stronę jesteś zwrócony?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='W którą stronę jesteś zwrócony?' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255576/e76934415a0941669fa6bc4c18fbc916/320x404.jpg'>
+<rss><channel><item>
         <id></id>
         <title>W którą stronę jesteś zwrócony?</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572536001/480/268/516665.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572536001/396/224/190964.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832572536001/640/360/726628.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572536001/480/268/328822.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sakrament — odnowa duszy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sakrament — odnowa duszy' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255523/c7da472f239f4d45a30e78edcb722e75/320x440.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sakrament — odnowa duszy</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572540001/396/224/185679.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832572540001/640/360/729193.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572540001/480/268/318039.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572540001/480/268/511291.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ratowanie w jedności' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ratowanie w jedności' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255598/46e7eb28673b4cb7960c5cd198786a44/320x449.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ratowanie w jedności</title>
         <description></description>
@@ -63,13 +52,10 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584833001/640/360/720262.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584833001/396/224/191781.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584833001/480/268/327661.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584833001/480/268/506833.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Wolni na zawsze, aby sami działali' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Wolni na zawsze, aby sami działali' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255505/a0fc63690e6244fd9ddf436d08092e4a/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Wolni na zawsze, aby sami działali</title>
         <description></description>
@@ -77,24 +63,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832572550001/640/360/741332.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572550001/480/268/521031.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572550001/396/224/193687.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832572550001/480/268/331978.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Otrzymać świadectwo o świetle i prawdzie' subtitle='Videos: 2; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Otrzymać świadectwo o świetle i prawdzie' subtitle='Videos: 2, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Otrzymać świadectwo o świetle i prawdzie</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592674001/396/224/196136.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592674001/480/268/526011.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832592674001/640/360/742871.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592674001/480/268/333031.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-360p-pol.mp4' height='360p'/>
 </item>
 <item>
         <id></id>
@@ -107,8 +86,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/1280/720/1610241' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855518243001/640/360/684278' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Popieranie urzędników Kościoła' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Popieranie urzędników Kościoła' subtitle='Videos: 1, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Popieranie urzędników Kościoła</title>
         <description></description>
@@ -116,13 +96,10 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584546001/640/360/684357.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584546001/480/268/304831.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584546001/480/268/484749.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584546001/396/224/179797.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Miłowanie bliźnich i życie pomimo różnic' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Miłowanie bliźnich i życie pomimo różnic' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255560/dba5b00f7f654915b178c31c47a2163e/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Miłowanie bliźnich i życie pomimo różnic</title>
         <description></description>
@@ -130,24 +107,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584867001/640/360/743129.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584867001/480/268/525265.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584867001/480/268/335076.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584867001/396/224/193593.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Józef Smith' subtitle='Videos: 2; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Józef Smith' subtitle='Videos: 2, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255490/3d517516d6924e7499b1a942d323dd2b/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Józef Smith</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584872001/396/224/189707.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584872001/480/268/330350.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832584872001/640/360/748454.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832584872001/480/268/510206.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-360p-pol.mp4' height='360p'/>
 </item>
 <item>
         <id></id>
@@ -160,22 +130,20 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/1280/720/1805596' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538976001/640/360/658967' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Rodzice: najważniejsi nauczyciele ewangelii dla swoich dzieci' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Rodzice: najważniejsi nauczyciele ewangelii dla swoich dzieci' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255500/062045c49ad3483492ded2c171b4d091/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Rodzice: najważniejsi nauczyciele ewangelii dla swoich dzieci</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596332001/480/268/514495.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832596332001/640/360/758061.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596332001/396/224/187325.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596332001/480/268/325841.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Stanąć z pewnością siebie przed tronem Bożym' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Stanąć z pewnością siebie przed tronem Bożym' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255545/74be63f2cebe433faa3caa8fae97b1ba/320x448.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Stanąć z pewnością siebie przed tronem Bożym</title>
         <description></description>
@@ -183,41 +151,32 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832592725001/640/360/754445.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592725001/396/224/197390.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592725001/480/268/517278.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592725001/480/268/331102.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Tak, Panie, pójdę za Tobą' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Tak, Panie, pójdę za Tobą' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Tak, Panie, pójdę za Tobą</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600946001/396/224/192010.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600946001/480/268/514872.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832600946001/640/360/738012.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600946001/480/268/332853.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Czyż wszyscy nie jesteśmy żebrakami?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Czyż wszyscy nie jesteśmy żebrakami?' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255541/56dc3848affe4c9390b1ddded72e3d0f/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Czyż wszyscy nie jesteśmy żebrakami?</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592737001/480/268/516664.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832592737001/640/360/743619.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592737001/396/224/194346.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832592737001/480/268/330290.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Odnajdowanie trwałego spokoju i budowanie wiecznych rodzin' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Odnajdowanie trwałego spokoju i budowanie wiecznych rodzin' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255566/5e246277f3774476835e4ae9d0a98831/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Odnajdowanie trwałego spokoju i budowanie wiecznych rodzin</title>
         <description></description>
@@ -225,13 +184,10 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832599259001/640/360/756507.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599259001/396/224/196953.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599259001/480/268/516415.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599259001/480/268/330401.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dokonujcie mądrych wyborów' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Dokonujcie mądrych wyborów' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255509/9edc398376e3431788ceb62e046a5b32/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Dokonujcie mądrych wyborów</title>
         <description></description>
@@ -239,27 +195,21 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832596370001/640/360/745990.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596370001/396/224/193747.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596370001/480/268/523478.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596370001/480/268/332406.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sam z siebie wiem o tych rzeczach' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sam z siebie wiem o tych rzeczach' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255504/00263332f5ca4d05b2928c2b71d6fe4f/320x401.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sam z siebie wiem o tych rzeczach</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600969001/396/224/194987.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832600969001/640/360/760372.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600969001/480/268/530456.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600969001/480/268/337891.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Prawo postu: indywidualny obowiązek opieki nad biednymi i potrzebującymi' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Prawo postu: indywidualny obowiązek opieki nad biednymi i potrzebującymi' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255515/5915e33a5356403f9575a0cc18714e05/320x441.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Prawo postu: indywidualny obowiązek opieki nad biednymi i potrzebującymi</title>
         <description></description>
@@ -267,125 +217,98 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832600978001/640/360/733424.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600978001/396/224/187439.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600978001/480/268/518297.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600978001/480/268/327260.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='„[Czy to] ja, Panie?”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='„[Czy to] ja, Panie?”' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>„[Czy to] ja, Panie?”</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599284001/396/224/197312.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599284001/480/268/529708.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832599284001/640/360/762282.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599284001/480/268/331979.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kapłaństwo przygotowawcze' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kapłaństwo przygotowawcze' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Kapłaństwo przygotowawcze</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596396001/480/268/538940.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832596396001/640/360/770790.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596396001/396/224/201135.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832596396001/480/268/334010.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Prowadzeni bezpiecznie do domu' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Prowadzeni bezpiecznie do domu' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Prowadzeni bezpiecznie do domu</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600989001/396/224/196836.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832600989001/640/360/763491.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600989001/480/268/533748.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832600989001/480/268/340609.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ciągłe objawienie' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ciągłe objawienie' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ciągłe objawienie</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601004001/396/224/193165.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601004001/480/268/521804.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832601004001/640/360/766333.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601004001/480/268/340447.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Popieranie proroków' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Popieranie proroków' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255557/bdaeff04d43d4f3e81f1ad5ac59f2564/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Popieranie proroków</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599321001/480/268/515844.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599321001/396/224/194216.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599321001/480/268/328462.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832599321001/640/360/738836.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Życie według słów proroków' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Życie według słów proroków' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255554/907e1a6ae0a64f0581ed473dc5a66cbe/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Życie według słów proroków</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599325001/396/224/188496.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832599325001/640/360/745620.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599325001/480/268/319892.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832599325001/480/268/515298.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Życie wieczne — poznawanie naszego Ojca Niebieskiego i Jego Syna, Jezusa Chrystusa' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Życie wieczne — poznawanie naszego Ojca Niebieskiego i Jego Syna, Jezusa Chrystusa' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255538/8578a9f6c4114a3a9708ee79ba54f7af/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Życie wieczne — poznawanie naszego Ojca Niebieskiego i Jego Syna, Jezusa Chrystusa</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610072001/480/268/302517.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832610072001/640/360/698829.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610072001/480/268/493777.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610072001/396/224/183502.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sakrament i Zadośćuczynienie' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sakrament i Zadośćuczynienie' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255540/40f118d02cb647deb85d7236ffc68c31/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Sakrament i Zadośćuczynienie</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605951001/396/224/198744.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832605951001/640/360/761537.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605951001/480/268/541999.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605951001/480/268/335936.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bacz na tor, po którym ma stąpać twoja noga' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Bacz na tor, po którym ma stąpać twoja noga' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Bacz na tor, po którym ma stąpać twoja noga</title>
         <description></description>
@@ -393,24 +316,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832610081001/640/360/793888.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610081001/396/224/199887.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610081001/480/268/339388.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610081001/480/268/533625.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Pozostań w łodzi i trzymaj się jej!' subtitle='Videos: 2; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Pozostań w łodzi i trzymaj się jej!' subtitle='Videos: 2, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Pozostań w łodzi i trzymaj się jej!</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601038001/396/224/192629.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832601038001/640/360/751008.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601038001/480/268/330491.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832601038001/480/268/510627.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-360p-pol.mp4' height='360p'/>
 </item>
 <item>
         <id></id>
@@ -423,36 +339,31 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1237240' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3855538978001/1280/720/1817314' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Niech rozwijanie wiary będzie waszym priorytetem' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Niech rozwijanie wiary będzie waszym priorytetem' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255578/3f30638f484a4cad81730c6a26cf1a23/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Niech rozwijanie wiary będzie waszym priorytetem</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617005001/480/268/320941.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832617005001/640/360/749758.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617005001/396/224/191065.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617005001/480/268/508545.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Pan ma dla nas plan!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Pan ma dla nas plan!' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255532/13ef88a344ce4491b39cc78feb779b7f/320x417.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Pan ma dla nas plan!</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610098001/480/268/536884.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610098001/396/224/199388.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832610098001/640/360/777636.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832610098001/480/268/343863.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Księga' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Księga' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255563/8ecf4be9384442fdbc9b8cf44a0627d8/320x447.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Księga</title>
         <description></description>
@@ -460,27 +371,21 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832612800001/640/360/764669.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832612800001/396/224/196854.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832612800001/480/268/339605.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832612800001/480/268/529889.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nasza osobista służba' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Nasza osobista służba' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/320x446.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Nasza osobista służba</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605993001/480/268/528910.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832605993001/640/360/748170.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605993001/396/224/194256.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832605993001/480/268/336288.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nie igrajcie ze świętymi sprawami' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Nie igrajcie ze świętymi sprawami' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255543/ebdd1b16b16e4a8786579f613884c55b/320x442.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Nie igrajcie ze świętymi sprawami</title>
         <description></description>
@@ -488,27 +393,21 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832620647001/640/360/753490.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620647001/480/268/513801.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620647001/396/224/189237.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620647001/480/268/327841.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Pójdźcie, a zobaczycie' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Pójdźcie, a zobaczycie' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Pójdźcie, a zobaczycie</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620650001/480/268/531853.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832620650001/640/360/741509.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620650001/480/268/333293.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832620650001/396/224/193000.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Do następnego spotkania' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Do następnego spotkania' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Do następnego spotkania</title>
         <description></description>
@@ -516,13 +415,10 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832617049001/640/360/748834.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617049001/480/268/525585.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617049001/396/224/195594.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832617049001/480/268/338159.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Przygotowanie w sposób dotychczas nieznany' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Przygotowanie w sposób dotychczas nieznany' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255499/02312c356cf7496f99170ecd0098a209/320x437.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Przygotowanie w sposób dotychczas nieznany</title>
         <description></description>
@@ -530,52 +426,39 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-64k-pol.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832626380001/640/360/755244.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626380001/396/224/196685.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626380001/480/268/527430.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626380001/480/268/344994.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Córki Boga w przymierzu' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Córki Boga w przymierzu' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255583/eeb96362d11245028ff554c2ad400db3/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Córki Boga w przymierzu</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626386001/396/224/196318.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626386001/480/268/519166.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832626386001/640/360/761650.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832626386001/480/268/332016.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dzielenie się swoim światłem' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Dzielenie się swoim światłem' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255549/073840702ed040d4b0e52e435b94f623/320x445.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Dzielenie się swoim światłem</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832634019001/396/224/200099.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832634019001/640/360/741787.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832634019001/480/268/531586.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832634019001/480/268/339274.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Życie radością ewangelii' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Życie radością ewangelii' subtitle='Videos: 1, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1255589/5e69a565d2b94642bd69adc6d17ba77d/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Życie radością ewangelii</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-64k-pol.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832644288001/396/224/203138.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3832644288001/640/360/778766.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832644288001/480/268/541626.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3832644288001/480/268/341108.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-360p-pol.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

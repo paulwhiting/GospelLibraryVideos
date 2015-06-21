@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Seminaries and Institutes Training' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Seminaries and Institutes Training</title>
         <description></description>
@@ -8,8 +7,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871431909001/640/360/826000.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871431909001/640/360/820033.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Correlation and Sharing' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Correlation and Sharing</title>
         <description></description>
@@ -21,8 +19,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2118117929001/1280/720/1773634.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2118117929001/640/360/901634.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Global Faculty Meeting, November 2012' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Global Faculty Meeting, November 2012</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2118117930001/1280/720/1773407.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2118117930001/640/360/901407.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='復興' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>復興</title>
         <description></description>
@@ -47,8 +43,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4028120477001/640/480/1799757.mp4' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4028120477001/480/360/927757.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jeffrey R. Holland' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jeffrey R. Holland</title>
         <description></description>
@@ -59,5 +54,11 @@
 <content url='http://mediasrv.lds.org/media-services/size/4032371718001/1280/720/1487887.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4032371718001/640/360/824321.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+<item>
+        <id></id>
+        <title>Finding Happiness</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+</item>
+</channel></rss>

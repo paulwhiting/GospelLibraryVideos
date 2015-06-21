@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Он жив – Празднуем Пасху, потому что Иисус Христос жив' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Он жив – Празднуем Пасху, потому что Иисус Христос жив</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4098117643001/1280/720/1372201.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4098117643001/640/360/755839.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Пасха: Благодаря Ему' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Пасха: Благодаря Ему</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905670001/1280/720/1463337.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905670001/640/360/786373.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Подарок Небес' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Подарок Небес</title>
         <description></description>
@@ -34,5 +31,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900210969001/1280/720/1454741.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900210969001/640/360/770344.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Поиск истины' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Поиск истины</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168296999001_2010-07-02-a-search-for-truth-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168260762001_2010-07-02-a-search-for-truth-8000k-rus-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Стражи на башне' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Стражи на башне</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253086546001_2010-07-23-watchmen-on-the-tower-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019308001_2010-07-23-watchmen-on-the-tower-8000k-rus-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Не тревожьтесь' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Не тревожьтесь</title>
         <description></description>
@@ -36,8 +33,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695530189001_2010-07-038-be-not-troubled-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695527120001_2010-07-038-be-not-troubled-8000k-rus.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Те, кто мудры' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Те, кто мудры</title>
         <description></description>
@@ -48,8 +44,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695192898001_2010-07-040-they-that-are-wise-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695193192001_2010-07-040-they-that-are-wise-8000k-rus.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Джозеф Смит – Пророк Восстановления' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Джозеф Смит – Пророк Восстановления</title>
         <description></description>
@@ -61,8 +56,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253112703001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019316001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-rus-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='&quot;The Family is Central to the Creator&apos;s Plan&quot;' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>&quot;The Family is Central to the Creator&apos;s Plan&quot;</title>
         <description></description>
@@ -74,5 +68,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050133812001_2010-07-131-the-family-is-central-to-the-creators-plan-8000k-rus.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050128707001_2010-07-131-the-family-is-central-to-the-creators-plan-8000k-rus-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

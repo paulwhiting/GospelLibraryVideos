@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='索引編製基本知識' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>索引編製基本知識</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088519865001_2012-09-06-indexing-basics-8000k-yue.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088388228001_2012-09-06-indexing-basics-8000k-yue-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='索引編製的成功故事' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>索引編製的成功故事</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088446426001_2012-09-03-indexing-success-stories-8000k-yue.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088341714001_2012-09-03-indexing-success-stories-8000k-yue-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='接下來六個月的產品策略藍圖' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>接下來六個月的產品策略藍圖</title>
         <description></description>
@@ -35,5 +32,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088429594001_2012-09-05-product-roadmap-for-the-next-six-months-8000k-yue.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2088341750001_2012-09-05-product-roadmap-for-the-next-six-months-8000k-yue-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

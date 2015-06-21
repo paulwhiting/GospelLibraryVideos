@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Gennaio: La Divinità' subtitle='Videos: 16; Audio: 0'><category title='Come posso conoscere il mio Padre Celeste?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso conoscere il mio Padre Celeste?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+    <categories><category title='Gennaio: La Divinità' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<category title='Come posso conoscere il mio Padre Celeste?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Adempiere il nostro dovere verso Dio”</title>
         <description></description>
@@ -42,15 +37,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532995939001/640/360/922745' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532995939001/1920/1080/7222000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa sappiamo della natura della Divinità?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa sappiamo della natura della Divinità?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa sappiamo della natura della Divinità?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/nature/images/What do we believe about the nature of the Godhead - AV120607_cah0067-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“La Restaurazione”</title>
         <description></description>
@@ -86,15 +75,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151638001/1280/720/2525493' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151638001/1280/720/2125493' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché Gesù Cristo è importante nella mia vita?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché Gesù Cristo è importante nella mia vita?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché Gesù Cristo è importante nella mia vita?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/important/images/jesus-christ-important-in-my-life-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Redenti”</title>
         <description></description>
@@ -118,15 +101,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845394001/1280/720/2505530' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845394001/640/360/905530' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Quali sono i ruoli dello Spirito Santo?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quali sono i ruoli dello Spirito Santo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quali sono i ruoli dello Spirito Santo?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/roles/images/What are the roles of the Holy Ghost - L1008_de_001-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“La voce dello Spirito”</title>
         <description></description>
@@ -150,15 +127,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738933001/640/360/927931' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738933001/1280/720/1799931' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Chi sono io, e chi posso diventare?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Chi sono io, e chi posso diventare?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Chi sono io, e chi posso diventare?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/become/images/Who am I and who can I become - L1209_ourspace_cedric-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Il vostro potenziale, il vostro privilegio”</title>
         <description></description>
@@ -230,16 +201,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416906001/1280/720/1343652' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416906001/1280/720/1954611' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Febbraio: Il piano di salvezza' subtitle='Videos: 21; Audio: 0'><category title='Qual è il mio ruolo nell’adempimento del piano del Padre Celeste?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Qual è il mio ruolo nell’adempimento del piano del Padre Celeste?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+<category title='Febbraio: Il piano di salvezza' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<category title='Qual è il mio ruolo nell’adempimento del piano del Padre Celeste?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Invitare tutti a venire a Cristo”</title>
         <description></description>
@@ -263,15 +229,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824566001/640/360/896000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824566001/1280/720/1768000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è il piano di salvezza?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è il piano di salvezza?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è il piano di salvezza?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/what/images/Unknown-18.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Il cuore degli uomini verrà loro meno”</title>
         <description></description>
@@ -307,15 +267,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824646001/1920/1080/8594000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824646001/640/360/925598' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa è successo nella vita pre-terrena?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa è successo nella vita pre-terrena?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa è successo nella vita pre-terrena?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/premortal/images/Unknown-20.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Il piano di salvezza”</title>
         <description></description>
@@ -327,15 +281,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028813320001/480/360/927988' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028813320001/640/480/2492988' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Qual è lo scopo della vita?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Qual è lo scopo della vita?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Qual è lo scopo della vita?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/purpose/images/Unknown-21.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Istruirsi a vicenda usando le Scritture”</title>
         <description></description>
@@ -346,15 +294,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/1280/720/1170689' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/640/360/657275' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché le mie scelte sono importanti?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché le mie scelte sono importanti?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché le mie scelte sono importanti?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/choices/images/plan-why-do-the-choices-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“State entro le linee”</title>
         <description></description>
@@ -401,15 +343,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717502001/1920/1080/8139000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717502001/1280/720/2128025' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché incontriamo delle avversità?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché incontriamo delle avversità?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché incontriamo delle avversità?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/adversity/images/plan-why-do-we-have-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Dio ci rincuorerà”</title>
         <description></description>
@@ -443,15 +379,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715062001/1280/720/1622695' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715062001/640/360/761079' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso trovare conforto quando una persona cara muore?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso trovare conforto quando una persona cara muore?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso trovare conforto quando una persona cara muore?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/comfort/images/Unknown-23.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Fino al giorno in cui ci rivedrem”</title>
         <description></description>
@@ -505,15 +435,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028817283001/1280/720/8355000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028817283001/640/360/927411' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché dovrei trattare il mio corpo come un tempio?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché dovrei trattare il mio corpo come un tempio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché dovrei trattare il mio corpo come un tempio?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/body/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Il Mormon Mustang”</title>
         <description></description>
@@ -537,16 +461,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661508001/1920/1080/7675000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661508001/1280/720/1798597' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Marzo: L’Espiazione di Gesù Cristo' subtitle='Videos: 18; Audio: 0'><category title='Come posso aiutare il prossimo a ricevere le benedizioni dell’Espiazione?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso aiutare il prossimo a ricevere le benedizioni dell’Espiazione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Marzo: L’Espiazione di Gesù Cristo' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<category title='Come posso aiutare il prossimo a ricevere le benedizioni dell’Espiazione?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Il magnifico Sacerdozio”</title>
         <description></description>
@@ -570,15 +489,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824556001/640/360/926185' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824556001/1280/720/2126185' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è l’Espiazione di Gesù Cristo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è l’Espiazione di Gesù Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è l’Espiazione di Gesù Cristo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/atonement/images/AV050901_cah064-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Riflessioni pasquali di un apostolo su Cristo”</title>
         <description></description>
@@ -587,15 +500,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824514001/640/360/882654' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824514001/1280/720/8492000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa significa avere fede in Gesù Cristo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa significa avere fede in Gesù Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa significa avere fede in Gesù Cristo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/faith/images/AV060911_cah2776-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Una fede pura e semplice”</title>
         <description></description>
@@ -631,15 +538,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867148001/1920/1080/8018000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867148001/1280/720/2127512' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa significa pentirsi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa significa pentirsi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa significa pentirsi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/repent/images/AV080801_cah008alt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Non una volta sola”</title>
         <description></description>
@@ -675,15 +576,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585689001/1280/720/2125261' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585689001/1920/1080/8162000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è la grazia?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è la grazia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è la grazia?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/grace/images/AV090107cah457-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Impariamo”</title>
         <description></description>
@@ -695,15 +590,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724992001/1280/720/2123695' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724992001/1280/720/1795695' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché devo perdonare gli altri?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché devo perdonare gli altri?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché devo perdonare gli altri?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/forgive/images/atonement-why-do-i-need-to-forgive-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Perdona fino a settanta volte sette”</title>
         <description></description>
@@ -752,15 +641,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è la risurrezione?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è la risurrezione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è la risurrezione?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“È risorto”</title>
         <description></description>
@@ -784,15 +667,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725058001/640/360/924579' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725058001/1280/720/2124579' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='In che modo l’Espiazione può aiutarmi nelle prove?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo l’Espiazione può aiutarmi nelle prove?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='In che modo l’Espiazione può aiutarmi nelle prove?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/trials/images/AV091228cah222-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Dio ci rincuorerà”,</title>
         <description></description>
@@ -827,16 +704,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150466001/1280/720/2128004' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150466001/1280/720/1800004' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Aprile: L’Apostasia e la Restaurazione' subtitle='Videos: 16; Audio: 0'><category title='In che modo posso invitare tutti a venire a Cristo?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo posso invitare tutti a venire a Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Aprile: L’Apostasia e la Restaurazione' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<category title='In che modo posso invitare tutti a venire a Cristo?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Invitare tutti a venire a Cristo”</title>
         <description></description>
@@ -860,15 +732,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028861975001/1280/720/1761709' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028861975001/1280/720/2489709' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché fu necessaria la Restaurazione?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché fu necessaria la Restaurazione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché fu necessaria la Restaurazione?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/necessary/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Alla ricerca della verità”</title>
         <description></description>
@@ -892,15 +758,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291578930001/640/480/1783475' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291578930001/640/480/2111475' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Come fu restaurato il sacerdozio?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come fu restaurato il sacerdozio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come fu restaurato il sacerdozio?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/restored/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>L’autorità e il potere del sacerdozio</title>
         <description></description>
@@ -972,15 +832,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291522262001/1280/720/2096000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291522262001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Quale fu il ruolo di Joseph Smith nella restaurazione?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quale fu il ruolo di Joseph Smith nella restaurazione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quale fu il ruolo di Joseph Smith nella restaurazione?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/joseph-smith/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Joseph Smith: il profeta della Restaurazione”</title>
         <description></description>
@@ -1016,15 +870,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264500620001/640/480/2812000' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264500620001/640/480/2127987' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché la Prima Visione è importante?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché la Prima Visione è importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché la Prima Visione è importante?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/first-vision/images/AV070604_cah109-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“La Restaurazione”</title>
         <description></description>
@@ -1048,15 +896,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151638001/1280/720/2525493' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215151638001/1280/720/2125493' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché abbiamo bisogno del Libro di Mormon?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché abbiamo bisogno del Libro di Mormon?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché abbiamo bisogno del Libro di Mormon?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/book-of-mormon/images/Unknown.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>Il Libro di Mormon: introduzione</title>
         <description></description>
@@ -1068,16 +910,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830355001/1920/1080/8288000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830355001/640/360/927131' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Maggio: I profeti e la rivelazione' subtitle='Videos: 19; Audio: 0'><category title='Perché è importante studiare le Scritture?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché è importante studiare le Scritture?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Maggio: I profeti e la rivelazione' subtitle='Videos: 19, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<category title='Perché è importante studiare le Scritture?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Adempiere il tuo dovere verso Dio”</title>
         <description></description>
@@ -1120,15 +957,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/1280/720/1170689' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/640/360/657275' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché è importante ascoltare e seguire i profeti viventi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché è importante ascoltare e seguire i profeti viventi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché è importante ascoltare e seguire i profeti viventi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/listen/images/_P9Q4219-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sentinelle sulla torre”</title>
         <description></description>
@@ -1163,15 +994,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434716001/1280/720/1342892' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434716001/1280/720/1847216' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso ricevere la rivelazione personale?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso ricevere la rivelazione personale?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso ricevere la rivelazione personale?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/receive/images/AV110928_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Modelli di luce: lo spirito di rivelazione”</title>
         <description></description>
@@ -1230,15 +1055,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423500001/1280/720/1216323' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423500001/640/360/693194' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso rendere le mie preghiere più significative?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso rendere le mie preghiere più significative?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso rendere le mie preghiere più significative?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/meaningful/images/AV120106_cah551-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Pane quotidiano — Esperienza”</title>
         <description></description>
@@ -1266,15 +1085,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282363001/480/268/36715' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso rafforzare la mia testimonianza?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso rafforzare la mia testimonianza?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso rafforzare la mia testimonianza?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/testimony/images/AV110922_cah001-circle-jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Aspettando sulla nostra via di Damasco”</title>
         <description></description>
@@ -1298,15 +1111,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729241001/640/360/924616' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729241001/1280/720/2124616' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa ha insegnato il presidente Monson ai detentori del Sacerdozio di Aaronne?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa ha insegnato il presidente Monson ai detentori del Sacerdozio di Aaronne?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa ha insegnato il presidente Monson ai detentori del Sacerdozio di Aaronne?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/holders/images/codybellcodybell-9975-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Il lavoro missionario: un dovere del sacerdozio”</title>
         <description></description>
@@ -1329,16 +1136,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346570551001/1280/720/1515519' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346570551001/1280/720/1829270' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Giugno: Il sacerdozio e le sue chiavi' subtitle='Videos: 24; Audio: 0'><category title='In che modo la dignità influisce sul potere del sacerdozio?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo la dignità influisce sul potere del sacerdozio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Giugno: Il sacerdozio e le sue chiavi' subtitle='Videos: 24, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<category title='In che modo la dignità influisce sul potere del sacerdozio?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Santificatevi”</title>
         <description></description>
@@ -1384,15 +1186,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313015930001/1280/720/2511771' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313015930001/1280/720/1783771' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è il sacerdozio?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è il sacerdozio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è il sacerdozio?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/what/images/priesthood-what-is-the-priesthood-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Le benedizioni del sacerdozio sono a disposizione di tutti”</title>
         <description></description>
@@ -1446,15 +1242,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407335001/1280/720/1193652' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407335001/1280/720/1668243' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa sono le chiavi del sacerdozio?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa sono le chiavi del sacerdozio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa sono le chiavi del sacerdozio?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/keys/images/priesthood-what-are-the-keys-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Apprendi il tuo dovere”</title>
         <description></description>
@@ -1533,15 +1323,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642067001/1920/1080/7963000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642067001/1280/720/2496000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Quali sono i miei doveri come detentore del Sacerdozio di Aaronne?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quali sono i miei doveri come detentore del Sacerdozio di Aaronne?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quali sono i miei doveri come detentore del Sacerdozio di Aaronne?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/duties/images/What are my duties as an AP holder - AV100312cah008ALT-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Adempiere il tuo dovere verso Dio”</title>
         <description></description>
@@ -1586,15 +1370,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434710001/640/360/681732' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434710001/1280/720/1456429' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché dovrei andare in missione?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché dovrei andare in missione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché dovrei andare in missione?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/mission/images/Why should I server a Mission - AV1008012cah0007-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Il tuo momento per una missione”</title>
         <description></description>
@@ -1642,16 +1420,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681120001/1920/1080/7794000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681120001/1280/720/1799820' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Luglio: Le ordinanze e le alleanze' subtitle='Videos: 17; Audio: 0'><category title='Come posso aiutare gli altri ad avere un’esperienza significativa durante il sacramento?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso aiutare gli altri ad avere un’esperienza significativa durante il sacramento?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Luglio: Le ordinanze e le alleanze' subtitle='Videos: 17, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<category title='Come posso aiutare gli altri ad avere un’esperienza significativa durante il sacramento?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ricordarsi sempre di Lui”</title>
         <description></description>
@@ -1662,15 +1435,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680983292001/640/360/759917' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680983292001/1280/720/2079348' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché le ordinanze sono importanti nella mia vita?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché le ordinanze sono importanti nella mia vita?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché le ordinanze sono importanti nella mia vita?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/sacrament/images/How can I make the sacrament more meaningful to me - AV080801_cah005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fede nel potere del sacerdozio”</title>
         <description></description>
@@ -1704,15 +1471,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291382744001/1280/720/1339286' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291382744001/1280/720/1564584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché le alleanze sono importanti nella mia vita?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché le alleanze sono importanti nella mia vita?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/captain-moroni-title-liberty-39658-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché le alleanze sono importanti nella mia vita?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/what/images/What are ordinances and covenants, and why are they essential - AV080111cah043-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Usare le immagini”</title>
         <description></description>
@@ -1723,15 +1484,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407319001/640/360/701344' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407319001/1280/720/1470931' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Quali alleanze ho stipulato al battesimo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quali alleanze ho stipulato al battesimo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quali alleanze ho stipulato al battesimo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/baptism/images/What covenants did I make at baptism - AV090212cah022-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Stessa casacca”</title>
         <description></description>
@@ -1766,15 +1521,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418940001/1280/720/1355047' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418940001/1280/720/1590853' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='In che modo ricevo il dono dello Spirito Santo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo ricevo il dono dello Spirito Santo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='In che modo ricevo il dono dello Spirito Santo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/gift/images/How do I receive the gift of the Holy Ghost - AV090218cah017-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Decidi che cosa insegnare”</title>
         <description></description>
@@ -1786,15 +1535,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686994001/640/360/926483' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686994001/1280/720/1798483' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché le ordinanze del tempio sono importanti?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché le ordinanze del tempio sono importanti?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché le ordinanze del tempio sono importanti?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/temple-main-salt-lake-279x279.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“I templi sono fari”</title>
         <description></description>
@@ -1816,15 +1559,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681102001/640/360/789356' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681102001/1280/720/1658717' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa sono il giuramento e l’alleanza del sacerdozio?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa sono il giuramento e l’alleanza del sacerdozio?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa sono il giuramento e l’alleanza del sacerdozio?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/covenant/images/What is the oath and covenant of the priesthood - AV091028cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Santificatevi</title>
         <description></description>
@@ -1860,15 +1597,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824556001/640/360/926185' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824556001/1280/720/2126185' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa significa prendere su di me il nome di Gesù Cristo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa significa prendere su di me il nome di Gesù Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa significa prendere su di me il nome di Gesù Cristo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/myself/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Osate stare soli”</title>
         <description></description>
@@ -1901,16 +1632,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423500001/1280/720/1216323' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423500001/640/360/693194' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Agosto: Il matrimonio e la famiglia' subtitle='Videos: 25; Audio: 0'><category title='Come posso rafforzare la mia famiglia?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso rafforzare la mia famiglia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Agosto: Il matrimonio e la famiglia' subtitle='Videos: 25, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<category title='Come posso rafforzare la mia famiglia?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Padri e figli”</title>
         <description></description>
@@ -1957,15 +1683,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725041001/1920/1080/7690000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725041001/640/360/923755' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché la castità è importante?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché la castità è importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché la castità è importante?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/chastity/images/Why is chastity important - AV050803_cah060-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Scegliete di essere casti”</title>
         <description></description>
@@ -2025,15 +1745,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661508001/1920/1080/7675000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661508001/1280/720/1798597' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché il matrimonio al tempio è importante?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché il matrimonio al tempio è importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché il matrimonio al tempio è importante?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/CU120426_LDSBuilding_Madrid07.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fai domande”</title>
         <description></description>
@@ -2045,15 +1759,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725064001/1280/720/2124256' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725064001/1280/720/2524256' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché la famiglia è importante?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché la famiglia è importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché la famiglia è importante?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/family/images/AV130117_kat0202.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Le famiglie sono eterne”</title>
         <description></description>
@@ -2094,15 +1802,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/1280/720/1170689' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416928001/640/360/657275' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso prepararmi adesso per diventare un marito e un padre retto?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso prepararmi adesso per diventare un marito e un padre retto?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso prepararmi adesso per diventare un marito e un padre retto?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/prepare/images/How can I prepare now to become a righteous husband and father.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Un lavoro in corso”</title>
         <description></description>
@@ -2170,15 +1872,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418875001/640/360/708268' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418875001/1280/720/1714980' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='In che modo i ruoli dell’uomo e della donna si completano a vicenda all’interno della famiglia?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo i ruoli dell’uomo e della donna si completano a vicenda all’interno della famiglia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='In che modo i ruoli dell’uomo e della donna si completano a vicenda all’interno della famiglia?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/roles/images/AV110125cah0024-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Siamo uomini”</title>
         <description></description>
@@ -2227,16 +1923,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416906001/1280/720/1343652' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416906001/1280/720/1954611' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Settembre: I comandamenti' subtitle='Videos: 21; Audio: 0'><category title='Come posso essere nel mondo ma non del mondo?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso essere nel mondo ma non del mondo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Settembre: I comandamenti' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<category title='Come posso essere nel mondo ma non del mondo?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Osate stare soli”</title>
         <description></description>
@@ -2282,15 +1973,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421756001/1280/720/1522204' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421756001/1280/720/1302040' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='In che modo le cose che dico influenzano me e coloro che mi circondano?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>In che modo le cose che dico influenzano me e coloro che mi circondano?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='In che modo le cose che dico influenzano me e coloro che mi circondano?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/say/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Il club di chi non impreca”</title>
         <description></description>
@@ -2345,15 +2030,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423511001/1280/720/1517533' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423511001/1280/720/1298603' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso resistere alla pornografia?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso resistere alla pornografia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso resistere alla pornografia?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/pornography/images/AV130116_kat0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Controllate il vostro passo”</title>
         <description></description>
@@ -2413,15 +2092,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2207235753001/1280/720/1408970' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2207235753001/1280/720/1942261' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché digiuniamo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché digiuniamo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché digiuniamo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/fast/images/What%20does%20it%20mean%20to%20fast%20%20-%20AV0802019cah018-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Condividiamo”</title>
         <description></description>
@@ -2433,15 +2106,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725002001/1280/720/2124502' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725002001/1920/1080/7813000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché ci viene comandato di osservare la santità della domenica?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché ci viene comandato di osservare la santità della domenica?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché ci viene comandato di osservare la santità della domenica?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/holy/images/AV120109_law002.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Apprese la compassione nella sua giovinezza”</title>
         <description></description>
@@ -2475,15 +2142,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620092001/640/360/33367' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620092001/1280/720/70854' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché paghiamo la decima?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché paghiamo la decima?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché paghiamo la decima?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/tithing/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Invitare ad agire”</title>
         <description></description>
@@ -2494,15 +2155,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417432001/640/360/680834' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417432001/1280/720/1176361' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché è importante essere onesti?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché è importante essere onesti?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché è importante essere onesti?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/honest/images/Why is it important to be honest - AV100730cah0011-Circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Onestà: dovresti davvero crederci!”</title>
         <description></description>
@@ -2526,16 +2181,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634524828001/1920/1080/20590000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634524828001/1280/720/1780509' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Ottobre: Come diventare più simili a Cristo' subtitle='Videos: 21; Audio: 0'><category title='Come posso servire gli altri?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso servire gli altri?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Ottobre: Come diventare più simili a Cristo' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<category title='Come posso servire gli altri?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Soccorrere i bisognosi”</title>
         <description></description>
@@ -2581,15 +2231,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649304001/640/360/839486' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649304001/1280/720/1831431' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso diventare più simile a Cristo?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso diventare più simile a Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso diventare più simile a Cristo?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/become/images/How can I become more Christlike AV060419_cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Pane quotidiano – Cambiamento”</title>
         <description></description>
@@ -2644,15 +2288,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423522001/1280/720/1634475' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423522001/1280/720/1191597' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso sviluppare un amore simile a quello di Cristo?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso sviluppare un amore simile a quello di Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso sviluppare un amore simile a quello di Cristo?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/develop/images/How can I develop Christlike love AV0802025ke001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“La parabola del buon Samaritano”</title>
         <description></description>
@@ -2732,15 +2370,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673858001/1280/720/2527988' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673858001/640/360/927988' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso imparare a essere più paziente?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso imparare a essere più paziente?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso imparare a essere più paziente?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/patient/images/How can I learn to be more patient AV081208cah082-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Continuate con pazienza”</title>
         <description></description>
@@ -2774,15 +2406,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654173597001/640/360/862211' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654173597001/1280/720/1735568' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché è importante essere grati?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché è importante essere grati?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché è importante essere grati?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/grateful/images/Why is it important to be grateful LeslieNilsson_dsc2340-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Siate grati”</title>
         <description></description>
@@ -2804,16 +2430,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407335001/1280/720/1193652' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407335001/1280/720/1668243' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Novembre: L’autosufficienza spirituale e materiale' subtitle='Videos: 18; Audio: 0'><category title='Perché è importante conseguire un’istruzione e sviluppare delle capacità?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché è importante conseguire un’istruzione e sviluppare delle capacità?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Novembre: L’autosufficienza spirituale e materiale' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<category title='Perché è importante conseguire un’istruzione e sviluppare delle capacità?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Trovare le risposte nei discorsi della Conferenza”</title>
         <description></description>
@@ -2824,15 +2445,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418907001/640/360/630080' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418907001/1280/720/1510493' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa significa essere autosufficienti?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa significa essere autosufficienti?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa significa essere autosufficienti?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/reliant/images/What does it mean to be self-reliantN07JIMOFC-CIRCLE.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Diventiamo previdenti nel soddisfare le necessità”</title>
         <description></description>
@@ -2860,15 +2475,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737237001/1920/1080/7720000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737237001/1280/720/1796052' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché il lavoro è un principio importante del Vangelo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché il lavoro è un principio importante del Vangelo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché il lavoro è un principio importante del Vangelo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/work/images/Why is work an important gospel principleAV100611cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Un lavoro in corso”</title>
         <description></description>
@@ -2904,15 +2513,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536318168001/1920/1080/6452000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536318168001/1280/720/2519575' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso sapere se mi sto convertendo?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso sapere se mi sto convertendo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso sapere se mi sto convertendo?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/converted/images/new-youth-curriculum-ap-How-do-I-know-if-I-am-becoming-converted-1216195.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Aspettando sulla nostra via di Damasco”</title>
         <description></description>
@@ -2935,15 +2538,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722183001/640/360/814994' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722183001/1280/720/1383235' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Perché il Signore vuole che io sia sano?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Perché il Signore vuole che io sia sano?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Perché il Signore vuole che io sia sano?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/healthy/images/AV1008011cah0060.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sarai liberato”</title>
         <description></description>
@@ -3002,15 +2599,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421737001/1280/720/1811529' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421737001/640/360/703359' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Qual è la maniera del Signore di provvedere ai poveri e ai bisognosi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Qual è la maniera del Signore di provvedere ai poveri e ai bisognosi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Qual è la maniera del Signore di provvedere ai poveri e ai bisognosi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needyAV100308cah014-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Condividere la luce di Cristo”</title>
         <description></description>
@@ -3046,15 +2637,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654336199001/640/360/926016' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654336199001/1280/720/1798016' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso trovare le soluzioni alle mie difficoltà e ai miei problemi?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso trovare le soluzioni alle mie difficoltà e ai miei problemi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso trovare le soluzioni alle mie difficoltà e ai miei problemi?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/solutions/images/AV070822_cah031.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Rispondere insieme alle domande”</title>
         <description></description>
@@ -3065,16 +2650,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434716001/1280/720/1342892' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434716001/1280/720/1847216' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Dicembre: Edificare il regno di Dio negli ultimi giorni' subtitle='Videos: 24; Audio: 0'><category title='Come posso essere un missionario già adesso?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso essere un missionario già adesso?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Dicembre: Edificare il regno di Dio negli ultimi giorni' subtitle='Videos: 24, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<category title='Come posso essere un missionario già adesso?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Adempiere il tuo Dovere verso Dio”,</title>
         <description></description>
@@ -3108,15 +2688,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2500272307001/1280/720/2007148' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2500272307001/1280/720/1574551' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso diventare un insegnante familiare migliore?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso diventare un insegnante familiare migliore?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso diventare un insegnante familiare migliore?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home-teacher/images/How can I become a better home teacher-AV100315cah067-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“L’insegnamento familiare: incoraggiare i detentori del Sacerdozio di Aaronne”</title>
         <description></description>
@@ -3151,15 +2725,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407319001/640/360/701344' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407319001/1280/720/1470931' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come vuole il Padre Celeste che io usi i miei doni spirituali?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come vuole il Padre Celeste che io usi i miei doni spirituali?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come vuole il Padre Celeste che io usi i miei doni spirituali?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts-AV070307_cah034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Un dono straordinario”</title>
         <description></description>
@@ -3193,15 +2761,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892888988001/640/360/790397' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892888988001/1280/720/2070794' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso prepararmi a stabilire una casa incentrata su Cristo?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso prepararmi a stabilire una casa incentrata su Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso prepararmi a stabilire una casa incentrata su Cristo?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-VRL_105861_0188906-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Un padre per davvero”</title>
         <description></description>
@@ -3221,15 +2783,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717462001/1920/1080/7723000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717462001/1280/720/2522651' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cosa posso fare per aiutare i nuovi membri della Chiesa?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cosa posso fare per aiutare i nuovi membri della Chiesa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cosa posso fare per aiutare i nuovi membri della Chiesa?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/new-members/images/What can I do to help new members of the Church-CU070305_bkf013-circle.JPG'>
+<rss><channel><item>
         <id></id>
         <title>“Lavoro missionario e ritenimento: Georgia Elias”</title>
         <description></description>
@@ -3280,15 +2836,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423511001/1280/720/1517533' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423511001/1280/720/1298603' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Come posso aiutare i miei amici meno attivi a tornare in chiesa?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Come posso aiutare i miei amici meno attivi a tornare in chiesa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Come posso aiutare i miei amici meno attivi a tornare in chiesa?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/friends/images/How can I help my less-active friends return to church-AV080806_cah013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Nessun altro può farlo – Il salvataggio di Cole”</title>
         <description></description>
@@ -3342,15 +2892,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421692001/1280/720/1188145' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421692001/1280/720/1668891' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Che cos’è Sion?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Che cos’è Sion?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Che cos’è Sion?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Le gambe di Dayton”</title>
         <description></description>
@@ -3386,6 +2930,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729276001/1920/1080/7608000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729276001/640/360/920554' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Gospel—A Gift to Share' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Gospel—A Gift to Share</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/henry-b-eyring.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-03-the-gospel-a-gift-to-share-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Art for the Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Art for the Heart</title>
         <description></description>
@@ -25,17 +22,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-04-art-for-the-heart-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun06-thanks-unto-God-poster.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-05-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Two Million Helping Hands' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Two Million Helping Hands</title>
         <description></description>
@@ -43,44 +38,39 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-06-two-million-helping-hands-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Meteors and Memories' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Meteors and Memories</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/m-russell-ballard.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-07-meteors-and-memories-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Father’s Day Activities' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Father’s Day Activities</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun10-fathers-day-activities-kitchen-crafts.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-08-fathers-day-activities-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What is revelation?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What is revelation?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/david-a-bednar.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-09-what-is-revelation-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/thomas-s-monson.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='King Benjamin’s People Repent' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>King Benjamin’s People Repent</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-11-king-benjamins-people-repent-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What Big Sisters Are For' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What Big Sisters Are For</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-12-what-big-sisters-are-for-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Playground for Carly' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Playground for Carly</title>
         <description></description>
@@ -106,26 +94,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-13-a-playground-for-carly-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Blessings of Hard Work' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Blessings of Hard Work</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/per-g-malm.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-15-the-blessings-of-hard-work-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Growing in the Garden' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Growing in the Garden</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-16-growing-in-the-garden-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Worldwide Helpers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Worldwide Helpers</title>
         <description></description>
@@ -133,17 +118,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-17-worldwide-helpers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How You Can Help' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How You Can Help</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun26-how-you-can-help-comfort-doll.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-18-how-you-can-help-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Little League Lesson' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Little League Lesson</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-20-the-little-league-lesson-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Dylan’s Saturday Surprise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dylan’s Saturday Surprise</title>
         <description></description>
@@ -160,26 +142,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-21-dylans-saturday-surprise-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun34-ready-for-blessings.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-22-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Bad Day Better' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Bad Day Better</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/gordon-b-hinckley.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-23-a-bad-day-better-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -187,26 +166,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-24-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Choose the Right by Living Gospel Principles' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Choose the Right by Living Gospel Principles</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun40-choose-the-right-by-living-gospel-principles-tithing.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-25-i-choose-the-right-by-living-gospel-principles-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun42-matt-and-mandy.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-26-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Question Corner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Question Corner</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-27-question-corner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Older Kids' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Older Kids</title>
         <description></description>
@@ -223,17 +198,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-28-for-older-kids-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Will Be Valiant' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Will Be Valiant</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/06/fr12jun47-i-will-be-valiant-song.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-29-i-will-be-valiant-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -241,5 +214,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-june/2012-06-30-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

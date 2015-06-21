@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='มกราคม: พระผู้เป็นเจ้าสามพระองค์' subtitle='Videos: 6; Audio: 0'><category title='การศึกษาพระคัมภีร์จะช่วยให้ฉันเรียนรู้เกี่ยวกับพระบิดาบนสวรรค์ได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='มกราคม: พระผู้เป็นเจ้าสามพระองค์' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<category title='การศึกษาพระคัมภีร์จะช่วยให้ฉันเรียนรู้เกี่ยวกับพระบิดาบนสวรรค์ได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“พรจากพระคัมภีร์”</title>
         <description></description>
@@ -10,8 +12,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396730595001/640/360/925099' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396730595001/1280/720/1797099' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเรียนรู้ในการมองเห็นพระหัตถ์ของพระบิดาบนสวรรค์ในทุกสิ่งได้อย่างไร' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะเรียนรู้ในการมองเห็นพระหัตถ์ของพระบิดาบนสวรรค์ในทุกสิ่งได้อย่างไร' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/hand/images/How can I see God%E2%80%99s hand in all things-AV110112cah0011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Remember, Remember,</title>
         <description></description>
@@ -66,16 +69,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714982001/1280/720/79941' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714982001/640/360/39820' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='กุมภาพันธ์: แผนแห่งความรอด' subtitle='Videos: 8; Audio: 0'><category title='เหตุใดการเรียนรู้จึงเป็นส่วนสำคัญในแผนของพระบิดาบนสวรรค์' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>เหตุใดการเรียนรู้จึงเป็นส่วนสำคัญในแผนของพระบิดาบนสวรรค์</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='กุมภาพันธ์: แผนแห่งความรอด' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<category title='เหตุใดการเรียนรู้จึงเป็นส่วนสำคัญในแผนของพระบิดาบนสวรรค์' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“ท่านรู้มากพอ”</title>
         <description></description>
@@ -110,15 +108,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428203001/1280/720/1418573' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428203001/640/360/749702' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='เหตุใดการสอนพระกิตติคุณจึงสำคัญในแผนแห่งความรอด' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>เหตุใดการสอนพระกิตติคุณจึงสำคัญในแผนแห่งความรอด</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='เหตุใดการสอนพระกิตติคุณจึงสำคัญในแผนแห่งความรอด' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/teaching/images/Unknown-26.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“พระเยซูในวัยเยาว์ทรงสอนในพระวิหาร”</title>
         <description></description>
@@ -176,9 +168,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163183081001/1920/1080/7933000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163183081001/1280/720/2103238' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='มีนาคม: การชดใช้ของพระเยซูคริสต์' subtitle='Videos: 6; Audio: 0'><category title='ฉันจะใช้ถ้อยคำของศาสดาพยากรณ์และอัครสาวกที่มีชีวิตเสริมสร้างศรัทธาของฉันในการชดใช้ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='มีนาคม: การชดใช้ของพระเยซูคริสต์' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<category title='ฉันจะใช้ถ้อยคำของศาสดาพยากรณ์และอัครสาวกที่มีชีวิตเสริมสร้างศรัทธาของฉันในการชดใช้ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ยกภาระ”</title>
         <description></description>
@@ -187,15 +181,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829125747001/1280/720/8733000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829125747001/640/360/927987' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='พระคัมภีร์สอนอะไรฉันได้บ้างเกี่ยวกับการชดใช้ของพระเยซูคริสต์' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>พระคัมภีร์สอนอะไรฉันได้บ้างเกี่ยวกับการชดใช้ของพระเยซูคริสต์</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='พระคัมภีร์สอนอะไรฉันได้บ้างเกี่ยวกับการชดใช้ของพระเยซูคริสต์' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/scriptures/images/atonement-what-can-the-scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ใช้พระคัมภีร์”</title>
         <description></description>
@@ -207,8 +195,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729271001/1280/720/2124817' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729271001/1280/720/2524817' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='พระคัมภีร์มอรมอนจะช่วยฉันเสริมสร้างศรัทธาในการชดใช้ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='พระคัมภีร์มอรมอนจะช่วยฉันเสริมสร้างศรัทธาในการชดใช้ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/strengthen/images/CU100407_bkf01-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“คำนำพระคัมภีร์มอรมอน”</title>
         <description></description>
@@ -232,15 +221,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642095001/1280/720/1798539' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642095001/640/360/926539' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะใช้เรื่องเปรียบเทียบสอนคนอื่นเกี่ยวกับการชดใช้ได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะใช้เรื่องเปรียบเทียบสอนคนอื่นเกี่ยวกับการชดใช้ได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะใช้เรื่องเปรียบเทียบสอนคนอื่นเกี่ยวกับการชดใช้ได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/teach/images/N1009_England3_jt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“พระผู้เป็นสื่อกลาง”;</title>
         <description></description>
@@ -256,16 +239,11 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223845882001/400/360/928000' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='เมษายน: การละทิ้งความเชื่อและการฟื้นฟู' subtitle='Videos: 10; Audio: 0'><category title='อีสเตอร์: ฉันจะแบ่งปันประจักษ์พยานของฉันเกี่ยวกับการฟื้นคืนพระชนม์ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>อีสเตอร์: ฉันจะแบ่งปันประจักษ์พยานของฉันเกี่ยวกับการฟื้นคืนพระชนม์ของพระเยซูคริสต์ได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='เมษายน: การละทิ้งความเชื่อและการฟื้นฟู' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<category title='อีสเตอร์: ฉันจะแบ่งปันประจักษ์พยานของฉันเกี่ยวกับการฟื้นคืนพระชนม์ของพระเยซูคริสต์ได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“เนื่องจากพระองค์”</title>
         <description></description>
@@ -287,8 +265,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3857687394001/640/360/39717' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3857687394001/1280/720/80213' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='แบบอย่างของโจเซฟ สมิธสอนอะไรฉันเกี่ยวกับการเรียนพระกิตติคุณ' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='แบบอย่างของโจเซฟ สมิธสอนอะไรฉันเกี่ยวกับการเรียนพระกิตติคุณ' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/apostasy-what-does-joseph.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ต้นกำเนิด”</title>
         <description></description>
@@ -322,8 +301,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649361001/1280/720/81079' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649361001/1280/720/80995' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะแยกแยะความแตกต่างระหว่างความจริงกับความเชื่อที่ผิดได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะแยกแยะความแตกต่างระหว่างความจริงกับความเชื่อที่ผิดได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/difference/images/apostasy-how-can-i-recognize.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”ท่านจะเป็นอิสระ“</title>
         <description></description>
@@ -357,15 +337,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667850396001/1280/720/2190006' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667850396001/1280/720/1492106' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเปรียบเหตุการณ์ของการละทิ้งความเชื่อและการฟื้นฟูกับชีวิตฉันได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเปรียบเหตุการณ์ของการละทิ้งความเชื่อและการฟื้นฟูกับชีวิตฉันได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเปรียบเหตุการณ์ของการละทิ้งความเชื่อและการฟื้นฟูกับชีวิตฉันได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/learn-more/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>การฟื้นฟูมีความหมายอะไรต่อฉัน</title>
         <description></description>
@@ -387,16 +361,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550099001/1280/720/1797381' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550099001/1280/720/2525381' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='พฤษภาคม: ศาสดาพยากรณ์และการเปิดเผย' subtitle='Videos: 9; Audio: 0'><category title='ฉันสามารถเรียนรู้อะไรได้บ้างจากศาสดาพยากรณ์และอัครสาวกที่มีชีวิต' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันสามารถเรียนรู้อะไรได้บ้างจากศาสดาพยากรณ์และอัครสาวกที่มีชีวิต</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='พฤษภาคม: ศาสดาพยากรณ์และการเปิดเผย' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<category title='ฉันสามารถเรียนรู้อะไรได้บ้างจากศาสดาพยากรณ์และอัครสาวกที่มีชีวิต' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“รู้จักและรักเรา”</title>
         <description></description>
@@ -408,15 +377,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717483001/1920/1080/8064000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717483001/1280/720/1796286' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='การแสดงประจักษ์พยานหมายความว่าอะไร' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>การแสดงประจักษ์พยานหมายความว่าอะไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='การแสดงประจักษ์พยานหมายความว่าอะไร' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/testimony/images/AV110112cah0002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ชายที่ไม่มีวาทศิลป์,”</title>
         <description></description>
@@ -472,8 +435,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585611001/640/480/1799990' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585611001/480/360/927990' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันสามารเรียนรู้อะไรได้บ้างจากประธานมอนสันเกี่ยวกับการทำตามพระวิญญาณ' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันสามารเรียนรู้อะไรได้บ้างจากประธานมอนสันเกี่ยวกับการทำตามพระวิญญาณ' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/more/images/AV110701_cah095-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ Following the Promptings of the Spirit,”</title>
         <description></description>
@@ -506,9 +470,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423515001/1280/720/1239524' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423515001/640/360/623699' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='มิถุนายน: ฐานะปุโรหิตและกุญแจฐานะปุโรหิต' subtitle='Videos: 6; Audio: 0'><category title='ฉันสามารถมีส่วนร่วมในสภาของศาสนจักรอย่างมีประสิทธิภาพได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='มิถุนายน: ฐานะปุโรหิตและกุญแจฐานะปุโรหิต' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<category title='ฉันสามารถมีส่วนร่วมในสภาของศาสนจักรอย่างมีประสิทธิภาพได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การมีส่วนร่วมในสภา”</title>
         <description></description>
@@ -524,8 +490,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396757905001/1920/1080/428000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='ผู้ดำรงฐานะปุโรหิตและสตรีทำงานด้วยกันเพื่อสร้างอาณาจักรของพระผู้เป็นเจ้าอย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ผู้ดำรงฐานะปุโรหิตและสตรีทำงานด้วยกันเพื่อสร้างอาณาจักรของพระผู้เป็นเจ้าอย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/together/images/AV120106_cah338-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“กิจธุระของเหล่าเทพ,”</title>
         <description></description>
@@ -547,8 +514,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642127001/640/360/736890' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642127001/1280/720/2057038' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะใช้เรื่องเล่าสอนผู้อื่นเกี่ยวกับฐานะปุโรหิตได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะใช้เรื่องเล่าสอนผู้อื่นเกี่ยวกับฐานะปุโรหิตได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/teach/images/How can I teach others about the priesthood and priesthood keys - AV120404_cah0013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ชำระตัวท่านให้บริสุทธิ์,”</title>
         <description></description>
@@ -571,16 +539,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396698081001/640/360/769207' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396698081001/1280/720/1976235' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='กรกฎาคม: ศาสนพิธีและพันธสัญญา' subtitle='Videos: 8; Audio: 0'><category title='ฉันสามารถเรียนรู้ความจริงทางวิญญาณอะไรบ้างจากศาสนพิธีของพระกิตติคุณ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันสามารถเรียนรู้ความจริงทางวิญญาณอะไรบ้างจากศาสนพิธีของพระกิตติคุณ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='กรกฎาคม: ศาสนพิธีและพันธสัญญา' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<category title='ฉันสามารถเรียนรู้ความจริงทางวิญญาณอะไรบ้างจากศาสนพิธีของพระกิตติคุณ' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ช่วยเราค้นพบพระกิตติคุณ”</title>
         <description></description>
@@ -592,15 +555,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717442001/1280/720/1768000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717442001/1920/1080/6959000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะทำให้ความเข้าใจเรื่องพันธสัญญาลึกซึ้งขึ้นได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะทำให้ความเข้าใจเรื่องพันธสัญญาลึกซึ้งขึ้นได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะทำให้ความเข้าใจเรื่องพันธสัญญาลึกซึ้งขึ้นได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/learn/images/How can I learn more about ordinances and covenants - L06FOFC-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การสอนกันและกัน”</title>
         <description></description>
@@ -611,15 +568,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421682001/640/360/672776' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421682001/1280/720/1716443' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะทำให้ศีลระลึกมีความหมายต่อฉันมากขึ้นได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะทำให้ศีลระลึกมีความหมายต่อฉันมากขึ้นได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะทำให้ศีลระลึกมีความหมายต่อฉันมากขึ้นได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/teach/images/050804_jrn043.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”ศีลระลึกช่วยให้เราใกล้ชิดพระเยซูคริสต์มากขึ้น“</title>
         <description></description>
@@ -642,15 +593,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421765001/1280/720/1480219' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421765001/640/360/679610' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันรักษาพันธสัญญาว่าจะระลึกถึงพระผู้ช่วยให้รอดตลอดเวลาอย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันรักษาพันธสัญญาว่าจะระลึกถึงพระผู้ช่วยให้รอดตลอดเวลาอย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันรักษาพันธสัญญาว่าจะระลึกถึงพระผู้ช่วยให้รอดตลอดเวลาอย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/remember/images/How do I keep my covenant to always remember the Savior1-circle.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“เชื้อเชิญให้เราเป็นพยาน”</title>
         <description></description>
@@ -662,15 +607,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717472001/1920/1080/7893000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717472001/640/360/924618' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเตรียมรับศาสนพิธีพระวิหารได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเตรียมรับศาสนพิธีพระวิหารได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเตรียมรับศาสนพิธีพระวิหารได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/prepare/images/How can I prepare to receive temple ordinances - CWD_521645e9-4515-4683-b07f-1ba1f3cd9c7a-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“อยู่ในสายตาเราเสมอ”</title>
         <description></description>
@@ -704,9 +643,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553557188001/1280/720/1523668' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553557188001/640/360/819238' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='สิงหาคม: การแต่งงานและครอบครัว' subtitle='Videos: 11; Audio: 0'><category title='การจดบันทึกส่วนตัวจะเป็นพรแก่ฉันและครอบครัวฉันอย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='สิงหาคม: การแต่งงานและครอบครัว' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<category title='การจดบันทึกส่วนตัวจะเป็นพรแก่ฉันและครอบครัวฉันอย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>โอ้จงจำ จงจำไว้</title>
         <description></description>
@@ -737,15 +678,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428143001/640/360/662083' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428143001/1280/720/1136446' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='เหตุใดการเรียนรู้เกี่ยวกับประวัติครอบครัวของฉันจึงสำคัญ' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>เหตุใดการเรียนรู้เกี่ยวกับประวัติครอบครัวของฉันจึงสำคัญ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='เหตุใดการเรียนรู้เกี่ยวกับประวัติครอบครัวของฉันจึงสำคัญ' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/history/images/AV120727_cah0035.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“เอ็ลเดอร์เบดนาร์ปราศรัยกับเยาวชน,”</title>
         <description></description>
@@ -790,8 +725,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729303001/1280/720/2524081' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729303001/1280/720/2124081' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะสอนคนอื่นให้รู้วิธีทำงานประวัติครอบครัวได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะสอนคนอื่นให้รู้วิธีทำงานประวัติครอบครัวได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/teach/images/AV100226cah005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การหาคำตอบในคำพูดการประชุมใหญ่”</title>
         <description></description>
@@ -802,15 +738,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421688001/1280/720/1346265' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421688001/640/360/653774' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะอธิบายความสำคัญของการแต่งงานและครอบครัวให้คนอื่นฟังได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะอธิบายความสำคัญของการแต่งงานและครอบครัวให้คนอื่นฟังได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะอธิบายความสำคัญของการแต่งงานและครอบครัวให้คนอื่นฟังได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/importance/images/AV121003_cah0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ให้เราสอน” </title>
         <description></description>
@@ -822,8 +752,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717496001/1280/720/2124271' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717496001/1920/1080/7774000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='มีโอกาสอะไรบ้างสำหรับการเรียนและการสอนในบ้าน' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='มีโอกาสอะไรบ้างสำหรับการเรียนและการสอนในบ้าน' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/opportunities/images/What opportunities are there for learning and teaching in the home - AV061023_yv0052-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ปรแกรมที่ได้รับการดลใจจากสวรรค์”</title>
         <description></description>
@@ -846,16 +777,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725083001/1280/720/1795724' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725083001/640/360/923724' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='กันยายน: พระบัญญัติ' subtitle='Videos: 12; Audio: 0'><category title='พระบัญญัติช่วยให้ฉันเรียนรู้ที่จะเป็นเหมือนพระบิดาบนสวรรค์มากขึ้นอย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>พระบัญญัติช่วยให้ฉันเรียนรู้ที่จะเป็นเหมือนพระบิดาบนสวรรค์มากขึ้นอย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='กันยายน: พระบัญญัติ' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<category title='พระบัญญัติช่วยให้ฉันเรียนรู้ที่จะเป็นเหมือนพระบิดาบนสวรรค์มากขึ้นอย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การสนทนาคำถาม”</title>
         <description></description>
@@ -866,15 +792,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428203001/1280/720/1418573' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428203001/640/360/749702' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะช่วยให้ผู้อื่นเข้าใจมาตรฐานของฉันได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะช่วยให้ผู้อื่นเข้าใจมาตรฐานของฉันได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะช่วยให้ผู้อื่นเข้าใจมาตรฐานของฉันได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/standards/images/How can I help others understand my standards - AV120223_cah0029alt-CIRCLE'>
+<rss><channel><item>
         <id></id>
         <title>“การตอบคำถามของสมาชิกชั้นเรียน”</title>
         <description></description>
@@ -885,8 +805,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421698001/1280/720/1539668' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421698001/1280/720/1246677' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='การรักษาพระบัญญัติส่งผลต่อความสามารถในการเรียนพระกิตติคุณของฉันอย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='การรักษาพระบัญญัติส่งผลต่อความสามารถในการเรียนพระกิตติคุณของฉันอย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/ability/images/CU120426_People_Madrid52.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“พระผู้เป็นเจ้าประทานความรู้ให้พวกเขา”</title>
         <description></description>
@@ -919,15 +840,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428193001/640/360/680258' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428193001/1280/720/1544698' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะสร้างแรงบันดาลใจให้ผู้อื่นเชื่อฟังพระบัญญัติได้อย่างไร' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะสร้างแรงบันดาลใจให้ผู้อื่นเชื่อฟังพระบัญญัติได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะสร้างแรงบันดาลใจให้ผู้อื่นเชื่อฟังพระบัญญัติได้อย่างไร' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/inspire/images/How can I inspire others to obey the commandments - AV070307_cah054-cirecle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ให้แสงของเจ้าส่องเช่นนั้น”</title>
         <description></description>
@@ -972,15 +887,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665164725001/1280/720/2065032' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665164725001/1280/720/1456140' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='พระบิดาบนสวรรค์ทรงสัญญาพรอะไรบ้างถ้าฉันเชื่อฟังพระบัญญัติ' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>พระบิดาบนสวรรค์ทรงสัญญาพรอะไรบ้างถ้าฉันเชื่อฟังพระบัญญัติ</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='พระบิดาบนสวรรค์ทรงสัญญาพรอะไรบ้างถ้าฉันเชื่อฟังพระบัญญัติ' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/blessings/images/What blessings does Heavenly Father promise if I obey the commandments - CWD_998fb89e-db4c-4a5c-8f6e-963c96fc57a7-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ สมออันมั่นคง”</title>
         <description></description>
@@ -1014,9 +923,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649380001/640/360/41363' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649380001/1280/720/80514' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='ตุลาคม: จงเป็นเหมือนพระคริสต์มากขึ้น' subtitle='Videos: 14; Audio: 0'><category title='ฉันจะเชื้อเชิญให้ผู้อื่นเป็นเหมือนพระผู้ช่วยให้รอดมากขึ้นได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='ตุลาคม: จงเป็นเหมือนพระคริสต์มากขึ้น' subtitle='Videos: 14, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<category title='ฉันจะเชื้อเชิญให้ผู้อื่นเป็นเหมือนพระผู้ช่วยให้รอดมากขึ้นได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ชื้อเชิญทุกคนให้มาสู่พระคริสต์: การแบ่งปันพระกิตติคุณ,”</title>
         <description></description>
@@ -1064,15 +975,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423502001/1280/720/1248936' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423502001/640/360/713347' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะแสดงความรักต่อคนที่ฉันสอนได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะแสดงความรักต่อคนที่ฉันสอนได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะแสดงความรักต่อคนที่ฉันสอนได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/love/images/N11GIM43B-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>“รักคนที่ท่านสอน”</title>
         <description></description>
@@ -1105,15 +1010,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416895001/1280/720/1529490' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416895001/1280/720/1717332' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='พระผู้ช่วยให้รอดทรงเปรียบเทียบความจริงพระกิตติคุณกับสิ่งของและประสบการณ์ที่คุ้นเคยอย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>พระผู้ช่วยให้รอดทรงเปรียบเทียบความจริงพระกิตติคุณกับสิ่งของและประสบการณ์ที่คุ้นเคยอย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='พระผู้ช่วยให้รอดทรงเปรียบเทียบความจริงพระกิตติคุณกับสิ่งของและประสบการณ์ที่คุ้นเคยอย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/familiar/images/livingwater_altLessRed.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“บุตรหายไป”</title>
         <description></description>
@@ -1147,15 +1046,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079250001/1920/1080/7879000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079250001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะใช้พระคัมภีร์ช่วยให้ผู้อื่นเป็นเหมือนพระคริสต์มากขึ้นได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะใช้พระคัมภีร์ช่วยให้ผู้อื่นเป็นเหมือนพระคริสต์มากขึ้นได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะใช้พระคัมภีร์ช่วยให้ผู้อื่นเป็นเหมือนพระคริสต์มากขึ้นได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/others/images/AV060509_cah1009.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ตัดสินใจว่าจะสอนอะไร”</title>
         <description></description>
@@ -1167,15 +1060,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673865001/640/360/926477' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673865001/1280/720/2126477' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะใช้คำถามอย่างมีประสิทธิภาพขณะสอนได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะใช้คำถามอย่างมีประสิทธิภาพขณะสอนได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะใช้คำถามอย่างมีประสิทธิภาพขณะสอนได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/questions/images/AV0812010cah001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“เรื่องดังที่เป็นจริง”</title>
         <description></description>
@@ -1208,15 +1095,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421757001/1280/720/1784994' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421757001/640/360/766393' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันสามารถเรียนรู้อะไรได้บ้างเกี่ยวกับการเรียนรู้พระกิตติคุณจากแบบอย่างของพระผู้ช่วยให้รอด' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันสามารถเรียนรู้อะไรได้บ้างเกี่ยวกับการเรียนรู้พระกิตติคุณจากแบบอย่างของพระผู้ช่วยให้รอด</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันสามารถเรียนรู้อะไรได้บ้างเกี่ยวกับการเรียนรู้พระกิตติคุณจากแบบอย่างของพระผู้ช่วยให้รอด' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/example/images/0001394PL.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“แบ่งปันเรื่องเล่าและประสบการณ์”</title>
         <description></description>
@@ -1228,9 +1109,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728363001/640/360/924579' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728363001/1280/720/2124579' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='พฤศจิกายน: การพึ่งพาตนเองทางโลกและทางวิญญาณ' subtitle='Videos: 16; Audio: 0'><category title='ฉันจะพึ่งพาตนเองทางวิญญาณได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='พฤศจิกายน: การพึ่งพาตนเองทางโลกและทางวิญญาณ' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<category title='ฉันจะพึ่งพาตนเองทางวิญญาณได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“คนที่ฉลาด”</title>
         <description></description>
@@ -1264,8 +1147,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667929533001/640/480/1571704' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667929533001/480/360/854765' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะยืนเป็นพยานเกี่ยวกับพระผู้เป็นเจ้าได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะยืนเป็นพยานเกี่ยวกับพระผู้เป็นเจ้าได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/witness/images/new-youth-curriculum-ss-How-can-I-stand-as-a-witness-of-God-1200973.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ชมรมต่อต้านคำสบถ”</title>
         <description></description>
@@ -1287,8 +1171,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616750841001/1280/720/1528192' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616750841001/640/360/830450' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะพบคำตอบของคำถามพระกิตติคุณของฉันเองได้อย่างไร' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะพบคำตอบของคำถามพระกิตติคุณของฉันเองได้อย่างไร' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/answers/images/AV121011_cah0006-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>วีดิทัศน์ของคำปราศรัย</title>
         <description></description>
@@ -1312,8 +1197,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728401001/1280/720/2524255' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728401001/1280/720/1796255' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเรียนรู้การตัดสินใจด้วยตนเองได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ฉันจะเรียนรู้การตัดสินใจด้วยตนเองได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/decisions/images/How can I learn to make my own decisionsV090107cah379-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ถนนผิดสาย”</title>
         <description></description>
@@ -1346,8 +1232,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423507001/1280/720/1398806' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423507001/640/360/694291' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='การตั้งเป้าหมายจะช่วยให้ฉันพึ่งพาตนเองได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='การตั้งเป้าหมายจะช่วยให้ฉันพึ่งพาตนเองได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/goals/images/How can setting goals help me become self-reliantAV090107cah331-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“งานกำลังรุดหน้า”</title>
         <description></description>
@@ -1380,15 +1267,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417435001/1280/720/1168950' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417435001/640/360/681370' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเตรียมพึ่งพาตนเองด้านการเงินได้อย่างไร' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเตรียมพึ่งพาตนเองด้านการเงินได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเตรียมพึ่งพาตนเองด้านการเงินได้อย่างไร' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/financially/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การเป็นผู้หาเลี้ยงที่มองการณ์ไกล”</title>
         <description></description>
@@ -1422,16 +1303,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867439001/1280/720/2006962' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867439001/1280/720/1393156' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='ธันวาคม: การสร้างอาณาจักรของพระผู้เป็นเจ้าในยุคสุดท้าย' subtitle='Videos: 14; Audio: 0'><category title='ฉันจะเรียนรู้ให้รับใช้อย่างมีประสิทธิภาพมากขึ้นในศาสนจักรได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเรียนรู้ให้รับใช้อย่างมีประสิทธิภาพมากขึ้นในศาสนจักรได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='ธันวาคม: การสร้างอาณาจักรของพระผู้เป็นเจ้าในยุคสุดท้าย' subtitle='Videos: 14, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<category title='ฉันจะเรียนรู้ให้รับใช้อย่างมีประสิทธิภาพมากขึ้นในศาสนจักรได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“เราเปลี่ยนใจเลื่อมใส”</title>
         <description></description>
@@ -1443,15 +1319,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725062001/1280/720/2124572' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725062001/1280/720/1796572' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเป็นผู้นำที่ดีขึ้นได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเป็นผู้นำที่ดีขึ้นได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเป็นผู้นำที่ดีขึ้นได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/leader/images/AV050901_cah051.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การใช้รูปภาพ”</title>
         <description></description>
@@ -1462,15 +1332,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407330001/1280/720/1264058' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407330001/1280/720/1426938' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเป็นครูที่ดีขึ้นได้อย่างไร' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเป็นครูที่ดีขึ้นได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเป็นครูที่ดีขึ้นได้อย่างไร' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/teacher/images/AV110518_cah013.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“สอนกันจากพระคัมภีร์”</title>
         <description></description>
@@ -1481,8 +1345,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428187001/640/360/651614' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428187001/1280/720/1616597' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='วิธีแบ่งปันพระกิตติคุณกับผู้อื่นอย่างมีประสิทธิภาพมีอะไรบ้าง' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='วิธีแบ่งปันพระกิตติคุณกับผู้อื่นอย่างมีประสิทธิภาพมีอะไรบ้าง' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/share/images/What are effective ways to share the gospel with others-AV0808025_cah021-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“การแบ่งปันความเชื่อของท่าน”</title>
         <description></description>
@@ -1515,15 +1380,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407313001/1280/720/1637113' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407313001/640/360/687260' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันจะเข้าใจสัญลักษณ์ที่ใช้สอนเกี่ยวกับการเสด็จมาครั้งที่สองได้อย่างไร' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันจะเข้าใจสัญลักษณ์ที่ใช้สอนเกี่ยวกับการเสด็จมาครั้งที่สองได้อย่างไร</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันจะเข้าใจสัญลักษณ์ที่ใช้สอนเกี่ยวกับการเสด็จมาครั้งที่สองได้อย่างไร' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/symobls/images/How can I understand the symbols used to teach about the Second Coming0001238-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“พวกเขาที่มีปัญญา”</title>
         <description></description>
@@ -1579,15 +1438,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874487092001/640/480/1875403' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874487092001/480/360/840365' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ฉันสามารถเรียนรู้อะไรบ้างจากพระคัมภีร์เพื่อช่วยฉันเตรียมรับการเสด็จมาครั้งที่สอง' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ฉันสามารถเรียนรู้อะไรบ้างจากพระคัมภีร์เพื่อช่วยฉันเตรียมรับการเสด็จมาครั้งที่สอง</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ฉันสามารถเรียนรู้อะไรบ้างจากพระคัมภีร์เพื่อช่วยฉันเตรียมรับการเสด็จมาครั้งที่สอง' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/learn/images/What can I learn from the scriptures to help me prepare for the Second Coming-AV091221cah050-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“เราเรียนรู้”</title>
         <description></description>
@@ -1599,15 +1452,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673878001/640/360/923697' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673878001/1280/720/2523697' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='คริสต์มาส: ฉันจะแบ่งปันประจักษ์พยานของฉันได้อย่างไรว่าพระเยซูคริสต์ทรงเป็นพระบุตรของพระผู้เป็นเจ้า' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>คริสต์มาส: ฉันจะแบ่งปันประจักษ์พยานของฉันได้อย่างไรว่าพระเยซูคริสต์ทรงเป็นพระบุตรของพระผู้เป็นเจ้า</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='คริสต์มาส: ฉันจะแบ่งปันประจักษ์พยานของฉันได้อย่างไรว่าพระเยซูคริสต์ทรงเป็นพระบุตรของพระผู้เป็นเจ้า' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/christmas/images/nativity-1168845-gallery.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“พระองค์คือของขวัญ,”</title>
         <description></description>
@@ -1629,6 +1476,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619425001/640/360/39423' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619425001/1280/720/81099' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

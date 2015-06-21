@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='How Can I Help?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>How Can I Help?</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-02-how-can-i-help-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Journey by Handcart (Part Two)' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Journey by Handcart (Part Two)</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-03-journey-by-handcart-part-two-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-05-friend-to-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Promise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Promise</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-06-the-promise-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Childviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Childviews</title>
         <description></description>
@@ -43,26 +38,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-07-childviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Warp and Weft' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Warp and Weft</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:19d2.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-09-sharing-time-warp-and-weft-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Christ Is Born' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Christ Is Born</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:19dc.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-10-jesus-christ-is-born-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lawn-Mowing Service' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lawn-Mowing Service</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-12-lawn-mowing-service-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Iniko’s Small Sacrifice' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Iniko’s Small Sacrifice</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-16-inikos-small-sacrifice-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-17-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Army of Helaman: How Can “My Gospel Standards” Help Me Keep My Baptismal Covenant?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Army of Helaman: How Can “My Gospel Standards” Help Me Keep My Baptismal Covenant?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:19fa.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-18-the-army-of-helaman-how-can-my-gospel-standards-help-me-keep-my-baptismal-covenant-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Hidden Dangers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hidden Dangers</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-19-hidden-dangers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Miyako Tashiro of Osaka, Japan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Miyako Tashiro of Osaka, Japan</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-20-miyako-tashiro-of-osaka-japan-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus Christ</title>
         <description></description>
@@ -124,5 +110,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2000/2000-08-21-trying-to-be-like-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

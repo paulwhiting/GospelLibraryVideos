@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Introducción' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Introducción</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-001-title-introduction-testimony-of-the-twelve-apostles-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 1' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 1</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-002-section-01-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 2' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 2</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-003-section-02-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 3' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 3</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-004-section-03-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 4' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 4</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-005-section-04-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 5' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 5</title>
         <description></description>
@@ -52,8 +46,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-006-section-05-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 6' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 6</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-007-section-06-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 7' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 7</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-008-section-07-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 8' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 8</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-009-section-08-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 9' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 9</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-010-section-09-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 10' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 10</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-011-section-10-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 11' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 11</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-012-section-11-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 12' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 12</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-013-section-12-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 13' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 13</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-014-section-13-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 14' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 14</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-015-section-14-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 15' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 15</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-016-section-15-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 16' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 16</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-017-section-16-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 17' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 17</title>
         <description></description>
@@ -160,8 +142,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-018-section-17-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 18' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 18</title>
         <description></description>
@@ -169,8 +150,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-019-section-18-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 19' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 19</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-020-section-19-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 20' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 20</title>
         <description></description>
@@ -187,8 +166,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-021-section-20-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 21' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 21</title>
         <description></description>
@@ -196,8 +174,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-022-section-21-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 22' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 22</title>
         <description></description>
@@ -205,8 +182,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-023-section-22-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 23' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 23</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-024-section-23-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 24' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 24</title>
         <description></description>
@@ -223,8 +198,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-025-section-24-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 25' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 25</title>
         <description></description>
@@ -232,8 +206,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-026-section-25-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 26' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 26</title>
         <description></description>
@@ -241,8 +214,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-027-section-26-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 27' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 27</title>
         <description></description>
@@ -250,8 +222,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-028-section-27-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 28' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 28</title>
         <description></description>
@@ -259,8 +230,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-029-section-28-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 29' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 29</title>
         <description></description>
@@ -268,8 +238,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-030-section-29-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 30' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 30</title>
         <description></description>
@@ -277,8 +246,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-031-section-30-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 31' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 31</title>
         <description></description>
@@ -286,8 +254,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-032-section-31-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 32' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 32</title>
         <description></description>
@@ -295,8 +262,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-033-section-32-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 33' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 33</title>
         <description></description>
@@ -304,8 +270,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-034-section-33-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 34' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 34</title>
         <description></description>
@@ -313,8 +278,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-035-section-34-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 35' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 35</title>
         <description></description>
@@ -322,8 +286,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-036-section-35-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 36' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 36</title>
         <description></description>
@@ -331,8 +294,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-037-section-36-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 37' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 37</title>
         <description></description>
@@ -340,8 +302,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-038-section-37-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 38' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 38</title>
         <description></description>
@@ -349,8 +310,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-039-section-38-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 39' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 39</title>
         <description></description>
@@ -358,8 +318,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-040-section-39-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 40' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 40</title>
         <description></description>
@@ -367,8 +326,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-041-section-40-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 41' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 41</title>
         <description></description>
@@ -376,8 +334,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-042-section-41-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 42' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 42</title>
         <description></description>
@@ -385,8 +342,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-043-section-42-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 43' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 43</title>
         <description></description>
@@ -394,8 +350,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-044-section-43-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 44' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 44</title>
         <description></description>
@@ -403,8 +358,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-045-section-44-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 45' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 45</title>
         <description></description>
@@ -412,8 +366,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-046-section-45-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 46' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 46</title>
         <description></description>
@@ -421,8 +374,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-047-section-46-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 47' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 47</title>
         <description></description>
@@ -430,8 +382,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-048-section-47-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 48' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 48</title>
         <description></description>
@@ -439,8 +390,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-049-section-48-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 49' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 49</title>
         <description></description>
@@ -448,8 +398,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-050-section-49-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 50' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 50</title>
         <description></description>
@@ -457,8 +406,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-051-section-50-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 51' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 51</title>
         <description></description>
@@ -466,8 +414,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-052-section-51-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 52' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 52</title>
         <description></description>
@@ -475,8 +422,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-053-section-52-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 53' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 53</title>
         <description></description>
@@ -484,8 +430,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-054-section-53-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 54' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 54</title>
         <description></description>
@@ -493,8 +438,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-055-section-54-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 55' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 55</title>
         <description></description>
@@ -502,8 +446,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-056-section-55-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 56' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 56</title>
         <description></description>
@@ -511,8 +454,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-057-section-56-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 57' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 57</title>
         <description></description>
@@ -520,8 +462,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-058-section-57-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 58' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 58</title>
         <description></description>
@@ -529,8 +470,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-059-section-58-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 59' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 59</title>
         <description></description>
@@ -538,8 +478,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-060-section-59-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 60' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 60</title>
         <description></description>
@@ -547,8 +486,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-061-section-60-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 61' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 61</title>
         <description></description>
@@ -556,8 +494,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-062-section-61-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 62' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 62</title>
         <description></description>
@@ -565,8 +502,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-063-section-62-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 63' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 63</title>
         <description></description>
@@ -574,8 +510,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-064-section-63-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 64' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 64</title>
         <description></description>
@@ -583,8 +518,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-065-section-64-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 65' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 65</title>
         <description></description>
@@ -592,8 +526,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-066-section-65-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 66' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 66</title>
         <description></description>
@@ -601,8 +534,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-067-section-66-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 67' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 67</title>
         <description></description>
@@ -610,8 +542,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-068-section-67-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 68' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 68</title>
         <description></description>
@@ -619,8 +550,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-069-section-68-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 69' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 69</title>
         <description></description>
@@ -628,8 +558,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-070-section-69-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 70' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 70</title>
         <description></description>
@@ -637,8 +566,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-071-section-70-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 71' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 71</title>
         <description></description>
@@ -646,8 +574,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-072-section-71-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 72' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 72</title>
         <description></description>
@@ -655,8 +582,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-073-section-72-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 73' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 73</title>
         <description></description>
@@ -664,8 +590,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-074-section-73-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 74' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 74</title>
         <description></description>
@@ -673,8 +598,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-075-section-74-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 75' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 75</title>
         <description></description>
@@ -682,8 +606,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-076-section-75-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 76' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 76</title>
         <description></description>
@@ -691,8 +614,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-077-section-76-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 77' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 77</title>
         <description></description>
@@ -700,8 +622,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-078-section-77-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 78' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 78</title>
         <description></description>
@@ -709,8 +630,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-079-section-78-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 79' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 79</title>
         <description></description>
@@ -718,8 +638,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-080-section-79-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 80' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 80</title>
         <description></description>
@@ -727,8 +646,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-081-section-80-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 81' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 81</title>
         <description></description>
@@ -736,8 +654,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-082-section-81-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 82' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 82</title>
         <description></description>
@@ -745,8 +662,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-083-section-82-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 83' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 83</title>
         <description></description>
@@ -754,8 +670,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-084-section-83-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 84' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 84</title>
         <description></description>
@@ -763,8 +678,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-085-section-84-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 85' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 85</title>
         <description></description>
@@ -772,8 +686,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-086-section-85-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 86' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 86</title>
         <description></description>
@@ -781,8 +694,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-087-section-86-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 87' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 87</title>
         <description></description>
@@ -790,8 +702,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-088-section-87-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 88' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 88</title>
         <description></description>
@@ -799,8 +710,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-089-section-88-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 89' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 89</title>
         <description></description>
@@ -808,8 +718,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-090-section-89-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 90' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 90</title>
         <description></description>
@@ -817,8 +726,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-091-section-90-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 91' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 91</title>
         <description></description>
@@ -826,8 +734,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-092-section-91-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 92' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 92</title>
         <description></description>
@@ -835,8 +742,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-093-section-92-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 93' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 93</title>
         <description></description>
@@ -844,8 +750,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-094-section-93-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 94' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 94</title>
         <description></description>
@@ -853,8 +758,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-095-section-94-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 95' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 95</title>
         <description></description>
@@ -862,8 +766,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-096-section-95-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 96' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 96</title>
         <description></description>
@@ -871,8 +774,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-097-section-96-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 97' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 97</title>
         <description></description>
@@ -880,8 +782,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-098-section-97-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 98' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 98</title>
         <description></description>
@@ -889,8 +790,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-099-section-98-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 99' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 99</title>
         <description></description>
@@ -898,8 +798,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-100-section-99-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 100' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 100</title>
         <description></description>
@@ -907,8 +806,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-101-section-100-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 101' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 101</title>
         <description></description>
@@ -916,8 +814,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-102-section-101-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 102' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 102</title>
         <description></description>
@@ -925,8 +822,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-103-section-102-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 103' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 103</title>
         <description></description>
@@ -934,8 +830,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-104-section-103-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 104' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 104</title>
         <description></description>
@@ -943,8 +838,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-105-section-104-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 105' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 105</title>
         <description></description>
@@ -952,8 +846,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-106-section-105-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 106' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 106</title>
         <description></description>
@@ -961,8 +854,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-107-section-106-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 107' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 107</title>
         <description></description>
@@ -970,8 +862,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-108-section-107-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 108' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 108</title>
         <description></description>
@@ -979,8 +870,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-109-section-108-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 109' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 109</title>
         <description></description>
@@ -988,8 +878,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-110-section-109-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 110' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 110</title>
         <description></description>
@@ -997,8 +886,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-111-section-110-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 111' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 111</title>
         <description></description>
@@ -1006,8 +894,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-112-section-111-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 112' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 112</title>
         <description></description>
@@ -1015,8 +902,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-113-section-112-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 113' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 113</title>
         <description></description>
@@ -1024,8 +910,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-114-section-113-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 114' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 114</title>
         <description></description>
@@ -1033,8 +918,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-115-section-114-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 115' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 115</title>
         <description></description>
@@ -1042,8 +926,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-116-section-115-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 116' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 116</title>
         <description></description>
@@ -1051,8 +934,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-117-section-116-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 117' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 117</title>
         <description></description>
@@ -1060,8 +942,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-118-section-117-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 118' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 118</title>
         <description></description>
@@ -1069,8 +950,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-119-section-118-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 119' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 119</title>
         <description></description>
@@ -1078,8 +958,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-120-section-119-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 120' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 120</title>
         <description></description>
@@ -1087,8 +966,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-121-section-120-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 121' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 121</title>
         <description></description>
@@ -1096,8 +974,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-122-section-121-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 122' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 122</title>
         <description></description>
@@ -1105,8 +982,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-123-section-122-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 123' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 123</title>
         <description></description>
@@ -1114,8 +990,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-124-section-123-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 124' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 124</title>
         <description></description>
@@ -1123,8 +998,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-125-section-124-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 125' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 125</title>
         <description></description>
@@ -1132,8 +1006,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-126-section-125-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 126' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 126</title>
         <description></description>
@@ -1141,8 +1014,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-127-section-126-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 127' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 127</title>
         <description></description>
@@ -1150,8 +1022,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-128-section-127-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 128' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 128</title>
         <description></description>
@@ -1159,8 +1030,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-129-section-128-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 129' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 129</title>
         <description></description>
@@ -1168,8 +1038,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-130-section-129-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 130' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 130</title>
         <description></description>
@@ -1177,8 +1046,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-131-section-130-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 131' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 131</title>
         <description></description>
@@ -1186,8 +1054,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-132-section-131-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 132' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 132</title>
         <description></description>
@@ -1195,8 +1062,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-133-section-132-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 133' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 133</title>
         <description></description>
@@ -1204,8 +1070,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-134-section-133-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 134' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 134</title>
         <description></description>
@@ -1213,8 +1078,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-135-section-134-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 135' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 135</title>
         <description></description>
@@ -1222,8 +1086,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-136-section-135-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 136' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 136</title>
         <description></description>
@@ -1231,8 +1094,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-137-section-136-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 137' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 137</title>
         <description></description>
@@ -1240,8 +1102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-138-section-137-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DyC 138' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DyC 138</title>
         <description></description>
@@ -1249,8 +1110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-139-section-138-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DO 1' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DO 1</title>
         <description></description>
@@ -1258,8 +1118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-140-official-declaration-1-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='DO 2' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>DO 2</title>
         <description></description>
@@ -1267,5 +1126,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2010-08-141-official-declaration-2-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

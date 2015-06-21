@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='portada' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>portada</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0020-title-page-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Introducción' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Introducción</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0030-introduction-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Reseña histórica' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Reseña histórica</title>
         <description></description>
@@ -25,248 +22,220 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0040-historical-summary-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La vida y el ministerio de Joseph Fielding Smith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La vida y el ministerio de Joseph Fielding Smith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/958931/73787ea07c6d4528b0b34c970e2c6bd8/320x280.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0050-biography-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 1: Nuestro Padre Celestial' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 1: Nuestro Padre Celestial</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/501465/d4e532b286884723b7b3cae29e9f8509/320x240.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0060-chapter-1-our-father-in-heaven-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 2: Nuestro Salvador, Jesucristo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 2: Nuestro Salvador, Jesucristo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/193938/625c011c35fb452ead9d2d4925c311a5/320x320.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0070-chapter-2-our-savior-jesus-christ-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 3: El plan de salvación' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 3: El plan de salvación</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/426697/02d67c8737014f239fd25294fd8201d2/320x211.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0080-chapter-3-the-plan-of-salvation-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 4: Fortalecer y preservar a la familia' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 4: Fortalecer y preservar a la familia</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1024616/12486e16299d408fa67ab6aabfd96c10/320x213.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0090-chapter-4-strengthening-and-preserving-the-family-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 5: La fe y el arrepentimiento' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 5: La fe y el arrepentimiento</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/308743/0d9cceee084f4843b60af9dfa091ac15/320x399.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0100-chapter-5-faith-and-repentance-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 6: La importancia de la Santa Cena' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 6: La importancia de la Santa Cena</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1094606/4850d20998be47da9a1f965ef837ce01/320x241.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0110-chapter-6-the-significance-of-the-sacrament-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 7: José y Hyrum Smith, testigos de Cristo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 7: José y Hyrum Smith, testigos de Cristo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/82823/c385d68304e84cf682ce20a9932c8708/320x420.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0120-chapter-7-joseph-and-hyrum-smith-witnesses-for-jesus-christ-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 8: La Iglesia y el reino de Dios' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 8: La Iglesia y el reino de Dios</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/320252/e1341a9a5e234269b9799ea0773305b4/320x480.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0130-chapter-8-the-church-and-kingdom-of-god-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 9: Testigos del Libro de Mormón' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 9: Testigos del Libro de Mormón</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/153742/a9815e0857e64bf2b85fa68532f73b94/320x447.png'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0140-chapter-9-witnesses-of-the-book-of-mormon-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 10: Nuestra búsqueda de la verdad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 10: Nuestra búsqueda de la verdad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1024631/45a2186b57e4442da4e36bbb3b436c6b/320x399.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0150-chapter-10-our-search-for-truth-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 11: Honremos las llaves del sacerdocio restauradas por medio de José Smith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 11: Honremos las llaves del sacerdocio restauradas por medio de José Smith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/192293/16afed1fbfe14737ad46269367dc8f69/320x477.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0160-chapter-11-honoring-the-priesthood-keys-restored-through-joseph-smith-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 12: El juramento y el convenio del sacerdocio' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 12: El juramento y el convenio del sacerdocio</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1024627/dca56ffb325a4d62a7a8519dc6c2974a/320x300.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0170-chapter-12-the-oath-and-covenant-of-the-priesthood-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 13: El bautismo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 13: El bautismo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/211465/11d3ad1ba8744ebd8a1c808f9c3f24b0/320x247.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0180-chapter-13-baptism-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 14: El don del Espíritu Santo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 14: El don del Espíritu Santo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/268511/03a8fcde04c9449a89f429f5ce65556a/320x365.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0190-chapter-14-the-gift-of-the-holy-ghost-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 15: El matrimonio eterno' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 15: El matrimonio eterno</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/390136/17452002aba247169a8566d47ff6265e/320x480.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0200-chapter-15-eternal-marriage-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 16: Criar a los hijos en luz y verdad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 16: Criar a los hijos en luz y verdad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1026341/8361cbfe38074925934e7e23bf39d04a/320x473.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0210-chapter-16-bringing-up-children-in-light-and-truth-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 17: El poder para sellar y las bendiciones del templo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 17: El poder para sellar y las bendiciones del templo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/296482/9babd8ce81054b81a8a23c2ed0b3a0b1/320x480.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0220-chapter-17-sealing-power-and-temple-blessings-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 18: Vivir de toda palabra que sale de la boca de Dios' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 18: Vivir de toda palabra que sale de la boca de Dios</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/451512/2e21bd5c7ffd4ed1aaa62fccb451397b/320x416.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0230-chapter-18-living-by-every-word-that-proceeds-from-the-mouth-of-god-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 19: Estar en el mundo sin ser del mundo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 19: Estar en el mundo sin ser del mundo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/219232/17f78dbd925f4eef8cb123a93ea24d11/320x479.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0240-chapter-19-in-the-world-but-not-of-the-world-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 20: Amor y preocupación por todos los hijos de nuestro Padre' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 20: Amor y preocupación por todos los hijos de nuestro Padre</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/212465/9c43ee8d317644ca838aaf56a7856f88/320x468.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0250-chapter-20-love-and-concern-for-all-our-fathers-children-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 21: Proclamar el Evangelio al mundo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 21: Proclamar el Evangelio al mundo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1024628/469a07fd8ca04b908b4fb69c6badcc0b/320x463.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0260-chapter-21-proclaiming-the-gospel-to-the-world-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 22: La oración: Un mandamiento y una bendición' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 22: La oración: Un mandamiento y una bendición</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/923272/0e6f569e3ced4a5f9a027ef22b419cb6/320x480.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0270-chapter-22-prayer-a-commandment-and-a-blessing-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 23: La responsabilidad individual' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 23: La responsabilidad individual</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/156556/61245b49c95f457e956d09914c0f6b2d/320x321.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0280-chapter-23-individual-responsibility-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 24: La obra de la mujer Santo de los Últimos Días: Una “dedicación desinteresada a esta causa gloriosa”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 24: La obra de la mujer Santo de los Últimos Días: Una “dedicación desinteresada a esta causa gloriosa”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/260678/fa40ae2e2f7c44329d9005e56b1fc6d1/320x240.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0290-chapter-24-the-work-of-latter-day-saint-women-unselfish-devotion-to-this-glorious-cause-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 25: El nacimiento de Jesucristo: Las “nuevas de gran gozo”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 25: El nacimiento de Jesucristo: Las “nuevas de gran gozo”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/329600/cacfb175142d407ca9e680dd41f25fb2/320x273.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0300-chapter-25-the-birth-of-jesus-christ-good-tidings-of-great-joy-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Capítulo 26: La preparación para la venida de nuestro Señor' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Capítulo 26: La preparación para la venida de nuestro Señor</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/153202/293df01b7d4c4fad9be02bc26bef6a6a/320x388.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/teachings-of-the-presidents-of-the-church-joseph-fielding-smith/2014-01-0310-chapter-26-preparing-for-the-coming-of-our-lord-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Stay in the Boat' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Stay in the Boat</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-02-stay-in-the-boat-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Practice Makes Perfect' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Practice Makes Perfect</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-03-practice-makes-perfect-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-05-friend-to-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sara’s Surprise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sara’s Surprise</title>
         <description></description>
@@ -34,26 +30,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-06-saras-surprise-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Jesus Christ Shows Us the Way' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Jesus Christ Shows Us the Way</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d5e.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-07-sharing-time-jesus-christ-shows-us-the-way-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d60.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-08-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Steven and Marilyn Pokere of Invercargill, New Zealand' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Steven and Marilyn Pokere of Invercargill, New Zealand</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-09-steven-and-marilyn-pokere-of-invercargill-new-zealand-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-10-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Robert—Mister Popular' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Robert—Mister Popular</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-11-robert-mister-popular-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Important Stuff' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Important Stuff</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-12-important-stuff-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Funstuf' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Funstuf</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d62.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-13-funstuf-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Do As I’m Doing' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Do As I’m Doing</title>
         <description></description>
@@ -106,17 +94,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-14-do-as-im-doing-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Christ’s Life on Earth' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christ’s Life on Earth</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d64.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-15-christs-life-on-earth-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Just One More' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Just One More</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-16-just-one-more-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Good Samaritan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Good Samaritan</title>
         <description></description>
@@ -133,17 +118,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-17-good-samaritan-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sister Simon’s Saints' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sister Simon’s Saints</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:1d66.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-18-sister-simons-saints-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus Christ</title>
         <description></description>
@@ -151,5 +134,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-march-1999/1999-03-19-trying-to-be-like-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

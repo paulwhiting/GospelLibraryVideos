@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='រស់នៅ​ដោយ​មាន​គោល​បំណង ៖ សារៈ​សំខាន់​នៃ «​បំណង​ស្មោះ​អស់​ពី​ចិត្ត​»' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>រស់នៅ​ដោយ​មាន​គោល​បំណង ៖ សារៈ​សំខាន់​នៃ «​បំណង​ស្មោះ​អស់​ពី​ចិត្ត​»</title>
         <description></description>
@@ -7,20 +6,14 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-64k-khm.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='ការភ្លក់​នូវ​ពន្លឺ' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>ការភ្លក់​នូវ​ពន្លឺ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1468996/f6b3dcd0e2724c159ab0ec5a515527c2/320x179.jpg'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-64k-khm.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/4225536640001/640/360/739767.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536640001/480/268/320817.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536640001/396/224/198161.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536640001/480/268/484992.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4225536640001/640/360/733035.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-360p-khm.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

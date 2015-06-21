@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Childviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Childviews</title>
         <description></description>
@@ -7,35 +6,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-02-childviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come Listen to a Prophet’s Voice: The Aaronic Priesthood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come Listen to a Prophet’s Voice: The Aaronic Priesthood</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:e8a.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-03-come-listen-to-a-prophets-voice-the-aaronic-priesthood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Winner!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Winner!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:cf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-04-winner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: Addiction or Freedom' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: Addiction or Freedom</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:a1.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-05-special-witness-addiction-or-freedom-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: Staying on Course' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: Staying on Course</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-06-friend-to-friend-staying-on-course-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Celebrate' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Celebrate</title>
         <description></description>
@@ -52,80 +46,71 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-07-i-celebrate-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Good Samaritan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Good Samaritan</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f64.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-08-the-good-samaritan-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Appearing in Glory: The Transfiguration' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Appearing in Glory: The Transfiguration</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f76.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-09-appearing-in-glory-the-transfiguration-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Service with a Song' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Service with a Song</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:81.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-10-service-with-a-song-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Body—a Temple' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Body—a Temple</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f80.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-11-my-body-a-temple-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From the Life of President Harold B. Lee' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From the Life of President Harold B. Lee</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f82.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-12-from-the-life-of-president-harold-b-lee-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Card for Mom' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Card for Mom</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f86.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-13-card-for-mom-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Baptism Sign' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Baptism Sign</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:df.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-16-baptism-sign-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Journal Page' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Journal Page</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f8e.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-17-journal-page-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus Christ</title>
         <description></description>
@@ -133,35 +118,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-18-trying-to-be-like-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f90.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-19-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Temple Cards' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Temple Cards</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:f92.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-21-temple-cards-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Ye Are the Temple of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Ye Are the Temple of God</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:fa4.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-23-sharing-time-ye-are-the-temple-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -169,5 +150,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2002-may/2002-05-24-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

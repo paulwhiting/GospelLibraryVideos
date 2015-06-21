@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Search for Truth' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Search for Truth</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257968581001_2010-07-02-a-search-for-truth-8000k-ukr.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257919634001_2010-07-02-a-search-for-truth-8000k-ukr-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Вартовий на башті' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Вартовий на башті</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253073597001_2010-07-23-watchmen-on-the-tower-8000k-ukr.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253056698001_2010-07-23-watchmen-on-the-tower-8000k-ukr-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Не бентежтеся' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Не бентежтеся</title>
         <description></description>
@@ -36,8 +33,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2697658940001_2010-07-038-be-not-troubled-8000k-ukr.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2697659566001_2010-07-038-be-not-troubled-8000k-ukr.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Ті, хто є мудрими' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ті, хто є мудрими</title>
         <description></description>
@@ -48,8 +44,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687245325001_2010-07-040-they-that-are-wise-8000k-ukr.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687241730001_2010-07-040-they-that-are-wise-8000k-ukr.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith—Prophet of the Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith—Prophet of the Restoration</title>
         <description></description>
@@ -61,5 +56,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253078474001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-ukr.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019294001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-ukr-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

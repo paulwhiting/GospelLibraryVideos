@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Behold the Man' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Behold the Man</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-02-behold-the-man-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Visitor' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Visitor</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-03-the-visitor-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Always My Father' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Always My Father</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-04-always-my-father-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='.net/results' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>.net/results</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-05-netresults-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Idea List: I’m Going There Someday' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Idea List: I’m Going There Someday</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-06-idea-list-im-going-there-someday-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
@@ -52,17 +46,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-07-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormonad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mormonad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:d6b.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-08-mormonad-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Following Wilford’s Way' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Following Wilford’s Way</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-09-following-wilfords-way-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Blind Faith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Blind Faith</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-10-blind-faith-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Coaching the Coach' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Coaching the Coach</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-11-coaching-the-coach-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Slow-Motion Miracle' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Slow-Motion Miracle</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-12-slow-motion-miracle-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Didn’t Fit In' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Didn’t Fit In</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-13-i-didnt-fit-in-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Of All Things' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Of All Things</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-14-of-all-things-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Knowing Where to Look' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Knowing Where to Look</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-15-knowing-where-to-look-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Scoutmaster' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Scoutmaster</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-16-the-scoutmaster-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='We’ve Got Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We’ve Got Mail</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-17-weve-got-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Following Mother’s Footsteps' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Following Mother’s Footsteps</title>
         <description></description>
@@ -151,5 +134,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-may-2000/2000-05-18-following-mothers-footsteps-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

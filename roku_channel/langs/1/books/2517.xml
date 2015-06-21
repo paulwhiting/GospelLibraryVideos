@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Words of the Prophet: Reach Out' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Words of the Prophet: Reach Out</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:4d.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-02-words-of-the-prophet-reach-out-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Going Dutch' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Going Dutch</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-03-going-dutch-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Light in the Darkness' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Light in the Darkness</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-04-a-light-in-the-darkness-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Do You Need a Miracle?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Do You Need a Miracle?</title>
         <description></description>
@@ -34,26 +30,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-05-do-you-need-a-miracle-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:449.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-06-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='New Era Poster' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>New Era Poster</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6cb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-07-new-era-poster-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Count on Maurice' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Count on Maurice</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-08-count-on-maurice-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='He Loves You More' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>He Loves You More</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-09-he-loves-you-more-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Idea List: Secret Service' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Idea List: Secret Service</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-10-idea-list-secret-service-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Birthday Temple Trip' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Birthday Temple Trip</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-11-birthday-temple-trip-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Angels May Quote from It' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Angels May Quote from It</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:57.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-12-the-angels-may-quote-from-it-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Of All Things' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Of All Things</title>
         <description></description>
@@ -106,17 +94,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-13-of-all-things-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Are You a Saint?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Are You a Saint?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6cd.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-14-are-you-a-saint-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Wake-Up Call' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Wake-Up Call</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-15-wake-up-call-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Locket in the Sand' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Locket in the Sand</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-16-locket-in-the-sand-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Worth the Wait' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Worth the Wait</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-17-worth-the-wait-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What’s in It for You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What’s in It for You</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-18-whats-in-it-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='We’ve Got Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We’ve Got Mail</title>
         <description></description>
@@ -160,8 +142,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-19-weve-got-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Snow' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Snow</title>
         <description></description>
@@ -169,5 +150,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-february-2003/2003-02-20-snow-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

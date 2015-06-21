@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Introduction' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Introduction' subtitle='Videos: 3, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Russell M Nelson Learn, Teach, and Apply Handbook Principles</title>
         <description></description>
@@ -35,8 +36,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310829783001/1280/720/1768000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310829783001/640/360/896000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Leadership Principles' subtitle='Videos: 18; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Leadership Principles' subtitle='Videos: 18, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Prepare Spiritually—Without Learning Helps</title>
         <description></description>
@@ -252,8 +254,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1287983350001/1280/720/1800010.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1287983350001/640/360/928010.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bishopric' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Bishopric' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Serving in the Bishopric</title>
         <description></description>
@@ -397,8 +400,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565219305001/1280/720/1799981.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565219305001/640/360/927981.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='High Priests' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='High Priests' subtitle='Videos: 9, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>High Priest Group Leadership—Without Learning Helps</title>
         <description></description>
@@ -506,8 +510,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565219299001/1280/720/1799974.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565219299001/640/360/927974.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Elders' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Elders' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Elders Quorum President: A Humble Servant</title>
         <description></description>
@@ -650,8 +655,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565221787001/1280/720/1799976.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565221787001/640/360/927976.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Aaronic Priesthood' subtitle='Videos: 10; Audio: 0'><category title='Strengthening Families' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Aaronic Priesthood' subtitle='Videos: 10, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Strengthening Families</title>
         <description></description>
@@ -663,8 +669,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310812285001/1280/720/1799955.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310812285001/640/360/927955.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Your Responsibility for Quorums' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Your Responsibility for Quorums</title>
         <description></description>
@@ -676,8 +681,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310812286001/1280/720/1799990.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310812286001/640/360/927990.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Your Responsibility for Quorums—Without Learning Helps' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Your Responsibility for Quorums—Without Learning Helps</title>
         <description></description>
@@ -689,8 +693,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565221484001/1280/720/1800000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565221484001/640/360/928000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Quorum President (Dayton&apos;s Legs)' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Quorum President (Dayton&apos;s Legs)</title>
         <description></description>
@@ -702,8 +705,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565219254001/1280/720/1796444.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565219254001/640/360/924444.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Home Teaching: Encouraging Aaronic Priesthood Holders' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Home Teaching: Encouraging Aaronic Priesthood Holders</title>
         <description></description>
@@ -715,8 +717,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310819865001/1280/720/1799009.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310819865001/640/360/927009.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Home Teaching: Encouraging Aaronic Priesthood Holders—Without Learning Helps' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Home Teaching: Encouraging Aaronic Priesthood Holders—Without Learning Helps</title>
         <description></description>
@@ -728,8 +729,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565221485001/1280/720/1799949.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565221485001/640/360/927949.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Inspiring Young Men to Serve' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Inspiring Young Men to Serve</title>
         <description></description>
@@ -741,8 +741,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1287983370001/1280/720/1772065.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1287983370001/640/360/900065.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Leading the Aaronic Priesthood' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Leading the Aaronic Priesthood</title>
         <description></description>
@@ -754,8 +753,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310826101001/1280/720/1764456.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310826101001/640/360/892456.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Henry B Eyring The Strength of Quorums' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Henry B Eyring The Strength of Quorums</title>
         <description></description>
@@ -767,8 +765,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310794964001/1280/720/1761537.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310794964001/640/360/889537.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Fulfilling Priesthood Duties' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Fulfilling Priesthood Duties</title>
         <description></description>
@@ -780,9 +777,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1310812287001/1280/720/1799974.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1310812287001/640/360/927974.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</category>
-<category title='Relief Society' subtitle='Videos: 19; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Relief Society' subtitle='Videos: 19, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Fulfilling the Purposes of Relief Society</title>
         <description></description>
@@ -1008,8 +1005,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565245212001/1280/720/1800082.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565245212001/640/360/928082.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Young Women' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Young Women' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Roles of Parents and Church Leaders</title>
         <description></description>
@@ -1153,8 +1151,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565219313001/1280/720/1799984.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565219313001/640/360/927984.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Primary' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Primary' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>The Theme and Purposes of Primary</title>
         <description></description>
@@ -1297,8 +1296,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1287989069001/1280/720/1799233.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1287989069001/640/360/927233.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sunday School' subtitle='Videos: 10; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Sunday School' subtitle='Videos: 10, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Serving in the Sunday School</title>
         <description></description>
@@ -1418,8 +1418,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1287983394001/1280/720/1798387.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1287983394001/640/360/926387.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mission Leader' subtitle='Videos: 10; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mission Leader' subtitle='Videos: 10, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Serving in the Ward Mission</title>
         <description></description>
@@ -1539,8 +1540,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1287991390001/1280/720/1800001.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1287991390001/640/360/928001.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Young Single Adults' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Young Single Adults' subtitle='Videos: 8, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Ministering to Young Single Adults—Without Learning Helps</title>
         <description></description>
@@ -1636,5 +1638,5 @@
 <content url='http://mediasrv.lds.org/media-services/size/1565218686001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1565218686001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

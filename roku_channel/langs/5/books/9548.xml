@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='ニーファイ第一書' subtitle='Videos: 0; Audio: 22'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='ニーファイ第一書' subtitle='Videos: 0, Audio: 22' >
+<rss><channel><item>
         <id></id>
         <title>ニーファイ第一書 1</title>
         <description></description>
@@ -175,8 +176,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-030-1-nephi-22-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='ニーファイ第二書' subtitle='Videos: 0; Audio: 33'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ニーファイ第二書' subtitle='Videos: 0, Audio: 33' >
+<rss><channel><item>
         <id></id>
         <title>ニーファイ第二書 1</title>
         <description></description>
@@ -440,8 +442,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-064-2-nephi-33-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='ヤコブ書​' subtitle='Videos: 0; Audio: 7'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ヤコブ書​' subtitle='Videos: 0, Audio: 7' >
+<rss><channel><item>
         <id></id>
         <title>ヤコブ書​ 1</title>
         <description></description>
@@ -497,8 +500,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-072-jacob-07-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='エノス書' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='エノス書' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>エノス書</title>
         <description></description>
@@ -506,8 +510,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-074-enos-01-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='ジェロム書' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ジェロム書' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>ジェロム書</title>
         <description></description>
@@ -515,8 +520,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-076-jarom-01-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='オムナイ書' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='オムナイ書' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>オムナイ書</title>
         <description></description>
@@ -524,8 +530,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-078-omni-01-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='モルモンの言葉' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='モルモンの言葉' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>モルモンの言葉</title>
         <description></description>
@@ -533,8 +540,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-080-words-of-mormon-01-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='モーサヤ書' subtitle='Videos: 0; Audio: 29'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='モーサヤ書' subtitle='Videos: 0, Audio: 29' >
+<rss><channel><item>
         <id></id>
         <title>モーサヤ書 1</title>
         <description></description>
@@ -766,8 +774,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-110-mosiah-29-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='アルマ書' subtitle='Videos: 0; Audio: 63'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='アルマ書' subtitle='Videos: 0, Audio: 63' >
+<rss><channel><item>
         <id></id>
         <title>アルマ書 1</title>
         <description></description>
@@ -1271,8 +1280,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-174-alma-63-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='ヒラマン書' subtitle='Videos: 0; Audio: 16'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='ヒラマン書' subtitle='Videos: 0, Audio: 16' >
+<rss><channel><item>
         <id></id>
         <title>ヒラマン書 1</title>
         <description></description>
@@ -1400,8 +1410,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-191-helaman-16-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='第三ニーファイ' subtitle='Videos: 0; Audio: 30'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='第三ニーファイ' subtitle='Videos: 0, Audio: 30' >
+<rss><channel><item>
         <id></id>
         <title>第三ニーファイ 1</title>
         <description></description>
@@ -1641,8 +1652,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-222-3-nephi-30-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='第四ニーファイ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='第四ニーファイ' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>第四ニーファイ</title>
         <description></description>
@@ -1650,8 +1662,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-224-4-nephi-01-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='モルモン書' subtitle='Videos: 0; Audio: 9'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='モルモン書' subtitle='Videos: 0, Audio: 9' >
+<rss><channel><item>
         <id></id>
         <title>モルモン書 1</title>
         <description></description>
@@ -1723,8 +1736,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-234-mormon-09-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='エテル書' subtitle='Videos: 0; Audio: 15'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='エテル書' subtitle='Videos: 0, Audio: 15' >
+<rss><channel><item>
         <id></id>
         <title>エテル書 1</title>
         <description></description>
@@ -1844,8 +1858,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-250-ether-15-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='モロナイ書' subtitle='Videos: 0; Audio: 10'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='モロナイ書' subtitle='Videos: 0, Audio: 10' >
+<rss><channel><item>
         <id></id>
         <title>モロナイ書 1</title>
         <description></description>
@@ -1925,5 +1940,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-261-moroni-10-64k-jpn.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

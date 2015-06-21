@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='The Prayer of Faith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='The Prayer of Faith' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255525/ddea4dc7d13149b5adcb7d6908cd12e3/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Prayer of Faith</title>
         <description></description>
@@ -7,8 +8,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-02-the-prayer-of-faith-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Divine Mission of Jesus Christ: Bread of Life' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Divine Mission of Jesus Christ: Bread of Life' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/924048/e6fdfcbf9b584a7a8287bdbc19f664b2/150x150.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Divine Mission of Jesus Christ: Bread of Life</title>
         <description></description>
@@ -16,8 +18,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-03-the-divine-mission-of-jesus-christ-bread-of-life-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Thank You, Brother Jay' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Thank You, Brother Jay' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Thank You, Brother Jay</title>
         <description></description>
@@ -25,8 +28,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-04-thank-you-brother-jay-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jeremiah' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jeremiah' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298026/765a13171f8848d7ac09f0d4c1190f79/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Jeremiah</title>
         <description></description>
@@ -34,8 +38,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-05-jeremiah-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Jadeite Cabbage' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Jadeite Cabbage' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298025/3c2c444fad5640c38fd3c45f4fa21677/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Jadeite Cabbage</title>
         <description></description>
@@ -43,8 +48,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-06-the-jadeite-cabbage-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lizochka’s Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Lizochka’s Heart' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298027/6142f2c4bd5047b9bcdd70bf2c5d49c2/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Lizochka’s Heart</title>
         <description></description>
@@ -52,8 +58,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-07-lizochkas-heart-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Missionary, Family History, and Temple Work' subtitle='Videos: 6; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Missionary, Family History, and Temple Work' subtitle='Videos: 6, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Missionary, Family History, and Temple Work</title>
         <description></description>
@@ -123,8 +130,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793177512001/1280/720/1305719' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793177512001/640/360/736060' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Upon the Top of the Waters' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Upon the Top of the Waters' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298024/e03674abfc574dfdb2df31bc0a59c447/320x153.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Upon the Top of the Waters</title>
         <description></description>
@@ -132,8 +140,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-10-upon-the-top-of-the-waters-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Conversion and Change in Chile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Conversion and Change in Chile' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298023/f2db5f507b344c64a6c20423f25e84c1/320x482.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Conversion and Change in Chile</title>
         <description></description>
@@ -141,8 +150,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-11-conversion-and-change-in-chile-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Courage to Choose Modesty' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Courage to Choose Modesty' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255554/907e1a6ae0a64f0581ed473dc5a66cbe/320x439.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Courage to Choose Modesty</title>
         <description></description>
@@ -150,8 +160,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-12-courage-to-choose-modesty-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Latter-day Saint Voices' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Latter-day Saint Voices' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298029/698326bfff6144efb940183b60106803/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Latter-day Saint Voices</title>
         <description></description>
@@ -159,8 +170,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-13-latter-day-saint-voices-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Standing Up for What We Believe' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Standing Up for What We Believe' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298151/f835b34ae7894c0a87e3e543a351aa85/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Standing Up for What We Believe</title>
         <description></description>
@@ -168,8 +180,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-14-standing-up-for-what-we-believe-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Intertwined Testimony' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='My Intertwined Testimony' subtitle='Videos: 0, Audio: 1'  img='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2014/10/ezra-taft-benson.jpg'>
+<rss><channel><item>
         <id></id>
         <title>My Intertwined Testimony</title>
         <description></description>
@@ -177,8 +190,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-15-my-intertwined-testimony-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Free Agency or Moral Agency?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Free Agency or Moral Agency?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298520/a5de1d79895949b7afb9440934f1fd03/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Free Agency or Moral Agency?</title>
         <description></description>
@@ -186,8 +200,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-16-free-agency-or-moral-agency-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Questions and Answers' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255555/7ee5b335a05b40c285acd5cecf1b704a/320x402.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Questions and Answers</title>
         <description></description>
@@ -195,8 +210,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-17-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How to Ask Questions That Matter' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How to Ask Questions That Matter' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298554/0b846085299845f69d5fc4584626dab6/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>How to Ask Questions That Matter</title>
         <description></description>
@@ -204,8 +220,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-18-how-to-ask-questions-that-matter-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How to Find Strength and Success' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How to Find Strength and Success' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255541/56dc3848affe4c9390b1ddded72e3d0f/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>How to Find Strength and Success</title>
         <description></description>
@@ -213,8 +230,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-19-how-to-find-strength-and-success-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Family History—I Am Doing It' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Family History—I Am Doing It' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298433/5e769aee15b6413a967e402667d300ff/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Family History—I Am Doing It</title>
         <description></description>
@@ -222,8 +240,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-20-family-history-i-am-doing-it-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Opposition to My Mission' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Opposition to My Mission' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298523/ec11220d5d4a4fbaa747205dab85e9ad/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Opposition to My Mission</title>
         <description></description>
@@ -231,8 +250,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-22-opposition-to-my-mission-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Learning More about What’s in Store' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learning More about What’s in Store' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298522/1f19c735cfce436baed28203e2bd01c8/320x206.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Learning More about What’s in Store</title>
         <description></description>
@@ -240,8 +260,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-23-learning-more-about-whats-in-store-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Serving Now to Serve Later' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Serving Now to Serve Later' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298908/be78299dd457433781d30ea96a5d9afe/320x207.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Serving Now to Serve Later</title>
         <description></description>
@@ -249,8 +270,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-24-serving-now-to-serve-later-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mathilde Gets Ready for Young Women' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mathilde Gets Ready for Young Women' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298907/ccf2520dd4054522ad46dfe49d513642/320x207.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Mathilde Gets Ready for Young Women</title>
         <description></description>
@@ -258,8 +280,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-25-mathilde-gets-ready-for-young-women-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How can I help with family history work?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I help with family history work?' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255509/9edc398376e3431788ceb62e046a5b32/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>How can I help with family history work?</title>
         <description></description>
@@ -267,8 +290,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-27-how-can-i-help-with-family-history-work-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“The Family: A Proclamation to the World” Came from God to Help My Family' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='“The Family: A Proclamation to the World” Came from God to Help My Family' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298880/afd62591ba2140058453b6065a8a1af4/320x207.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Family: A Proclamation to the World” Came from God to Help My Family</title>
         <description></description>
@@ -276,8 +300,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-28-the-family-a-proclamation-to-the-world-came-from-god-to-help-my-family-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I’m Bárbara from Chile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='I’m Bárbara from Chile' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298889/6cdea68e7f63451aa96b4575ea7e1fcd/320x207.jpg'>
+<rss><channel><item>
         <id></id>
         <title>I’m Bárbara from Chile</title>
         <description></description>
@@ -285,8 +310,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-29-im-barbara-from-chile-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Look Up' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Look Up' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255561/624571cff4654f35817853f29bff89e6/320x448.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Look Up</title>
         <description></description>
@@ -294,8 +320,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-31-look-up-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Family Team' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='A Family Team' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1298893/a2a48d593e63404fa22323cf9fd851a6/320x207.jpg'>
+<rss><channel><item>
         <id></id>
         <title>A Family Team</title>
         <description></description>
@@ -303,8 +330,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-32-a-family-team-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Deceptions' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Deceptions' subtitle='Videos: 0, Audio: 1'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255494/93ef8e080c9444cc9ff8f9a76aebdb9c/320x425.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Deceptions</title>
         <description></description>
@@ -312,5 +340,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-october-2014/2014-10-33-deceptions-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

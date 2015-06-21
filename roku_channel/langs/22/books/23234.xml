@@ -1,45 +1,28 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Velkommen til konference' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Velkommen til konference</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1010-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/480/268/613817' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/720/404/1201817' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/480/268/401817' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305517039001/640/360/901817' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/480/268/401817' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305517039001/1280/720/2101817' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/396/224/239900' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305517039001/1280/720/1773817' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305517039001/1280/720/2501817' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305517039001/480/268/401817' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1010-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dette ved jeg' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dette ved jeg</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1020-president-boyd-k-packer-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/720/404/1202527' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/396/224/235846' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/480/268/402527' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/480/268/402527' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/480/268/614527' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516214001/1280/720/2102527' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516214001/1280/720/1774527' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516214001/1280/720/2502527' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305516214001/640/360/902527' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305516214001/480/268/402527' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1020-president-boyd-k-packer-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='En sikker grundvold' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>En sikker grundvold</title>
         <description></description>
@@ -49,137 +32,81 @@
 <content url='http://mediasrv.lds.org/media-services/size/2305522402001/640/360/896000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522402001/1280/720/1768000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522402001/1280/720/2096000' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/480/268/396000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/720/404/1196000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/480/268/396000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/480/268/608000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522402001/1280/720/2496000' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/480/268/396000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522402001/396/224/229047' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1030-bishop-dean-m-davies-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vi er vor himmelske Faders døtre' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vi er vor himmelske Faders døtre</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1040-elaine-s-dalton-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/480/268/400688' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/480/268/400688' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522446001/1280/720/2100688' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522446001/1280/720/2500688' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/720/404/1200688' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522446001/640/360/900688' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/396/224/227612' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305522446001/1280/720/1772688' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/480/268/400688' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305522446001/480/268/612688' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1040-elaine-s-dalton-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Frelseren ønsker at tilgive' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Frelseren ønsker at tilgive</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1050-elder-craig-a-cardon-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/720/404/1201999' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529546001/1280/720/1773999' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/480/268/401999' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/396/224/232702' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529546001/1280/720/2501999' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/480/268/401999' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529546001/1280/720/2101999' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529546001/640/360/901999' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/480/268/401999' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529546001/480/268/613999' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1050-elder-craig-a-cardon-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='»Dette er min gerning og herlighed«' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>»Dette er min gerning og herlighed«</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1060-elder-m-russell-ballard-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/480/268/402727' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531065001/640/360/902727' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/480/268/614727' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/480/268/402727' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531065001/1280/720/2502727' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/720/404/1202727' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531065001/1280/720/1774727' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/396/224/231613' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305531065001/480/268/402727' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305531065001/1280/720/2102727' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1060-elder-m-russell-ballard-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='»Kom til mig«' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>»Kom til mig«</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1070-president-henry-b-eyring-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/480/268/400291' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529605001/1280/720/1772291' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529605001/640/360/900291' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/480/268/400291' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529605001/1280/720/2100291' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305529605001/1280/720/2500291' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/720/404/1200291' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/480/268/612291' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/396/224/236182' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305529605001/480/268/400291' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-1070-president-henry-b-eyring-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Rapport fra Kirkens Revisionsafdeling, 2012' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Rapport fra Kirkens Revisionsafdeling, 2012</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2020-church-auditing-department-report-2012-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/480/268/611049' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545411001/1280/720/1771049' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/480/268/399049' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545411001/640/360/899049' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/480/268/399049' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/396/224/214857' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/480/268/399049' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545411001/1280/720/2099049' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545411001/1280/720/2499049' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545411001/720/404/1199049' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2020-church-auditing-department-report-2012-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Statistisk rapport, 2012' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Statistisk rapport, 2012</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2030-statistical-report-2012-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/396/224/193942' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/480/268/608000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305538004001/640/360/896000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/720/404/1196000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/480/268/396000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/480/268/396000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305538004001/480/268/396000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305538004001/1280/720/1768000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305538004001/1280/720/2096000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305538004001/1280/720/2496000' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2030-statistical-report-2012-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Et fredfyldt hjem' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Et fredfyldt hjem</title>
         <description></description>
@@ -187,19 +114,11 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2040-elder-richard-g-scott-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545442001/640/360/903844' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/480/268/403844' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545442001/1280/720/2103844' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/480/268/403844' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/480/268/615844' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/396/224/234379' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545442001/1280/720/2503844' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/480/268/403844' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545442001/1280/720/1775844' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545442001/720/404/1203844' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2040-elder-richard-g-scott-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Personlig fred: Belønningen for retfærdighed' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Personlig fred: Belønningen for retfærdighed</title>
         <description></description>
@@ -208,18 +127,10 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2050-elder-quentin-l-cook-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545456001/640/360/900028' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545456001/1280/720/2100028' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/480/268/400028' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/480/268/612028' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/480/268/400028' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/480/268/400028' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545456001/1280/720/2500028' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/396/224/235604' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545456001/1280/720/1772028' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545456001/720/404/1200028' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2050-elder-quentin-l-cook-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Herrens måde' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Herrens måde</title>
         <description></description>
@@ -229,17 +140,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/2305545481001/1280/720/2099545' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545481001/640/360/899545' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545481001/1280/720/1771545' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/720/404/1199545' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/480/268/399545' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/480/268/611545' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305545481001/1280/720/2499545' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/480/268/399545' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/480/268/399545' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305545481001/396/224/222629' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2060-elder-stanley-g-ellis-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Evangeliet til hele verden' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Evangeliet til hele verden</title>
         <description></description>
@@ -248,38 +151,22 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2070-elder-john-b-dickson-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560138001/1280/720/2500864' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560138001/1280/720/2100864' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/480/268/400864' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/480/268/612864' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/720/404/1200864' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560138001/1280/720/1772864' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/480/268/400864' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560138001/640/360/900864' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/396/224/232206' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560138001/480/268/400864' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2070-elder-john-b-dickson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vi tror, at vi skal være kyske' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vi tror, at vi skal være kyske</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/396/224/223982' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555950001/1280/720/1773125' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/480/268/401125' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/720/404/1201125' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/480/268/401125' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555950001/640/360/901125' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/480/268/401125' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305555950001/480/268/613125' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555950001/1280/720/2501125' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305555950001/1280/720/2101125' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hop med på bølgen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hop med på bølgen</title>
         <description></description>
@@ -289,17 +176,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/2305560168001/640/360/904768' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560168001/1280/720/1776768' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560168001/1280/720/2104768' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/480/268/404768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/480/268/404768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/396/224/244241' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305560168001/1280/720/2504768' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/720/404/1204768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/480/268/616768' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305560168001/480/268/404768' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2090-elder-russell-m-nelson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Stå fast på hellige steder' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Stå fast på hellige steder</title>
         <description></description>
@@ -307,59 +186,35 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3010-elder-robert-d-hales-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577712001/1280/720/2501251' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/396/224/214032' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577712001/640/360/901251' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/480/268/401251' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577712001/1280/720/2101251' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/480/268/401251' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305577712001/1280/720/1773251' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/480/268/613251' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/720/404/1201251' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305577712001/480/268/401251' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3010-elder-robert-d-hales-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Præstedømmets kraft i drengen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Præstedømmets kraft i drengen</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3020-elder-tad-r-callister-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/480/268/399559' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/480/268/399559' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/480/268/399559' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305578844001/640/360/899559' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/480/268/611559' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305578844001/1280/720/1771559' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/396/224/220105' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305578844001/1280/720/2099559' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305578844001/720/404/1199559' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305578844001/1280/720/2499559' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3020-elder-tad-r-callister-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jeres hellige pligt til at tjene' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jeres hellige pligt til at tjene</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3030-david-l-beck-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/480/268/401855' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/480/268/401855' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/720/404/1201855' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305584175001/640/360/901855' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/396/224/225447' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/480/268/401855' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305584175001/1280/720/1773855' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305584175001/480/268/613855' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305584175001/1280/720/2501855' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305584175001/1280/720/2101855' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3030-david-l-beck-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Fire titler' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Fire titler</title>
         <description></description>
@@ -367,19 +222,11 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3040-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589805001/1280/720/2102862' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/480/268/614862' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/720/404/1202862' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589805001/1280/720/1774862' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/480/268/402862' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/396/224/243695' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589805001/640/360/902862' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305589805001/1280/720/2502862' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/480/268/402862' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305589805001/480/268/402862' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3040-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vi er ét' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vi er ét</title>
         <description></description>
@@ -388,188 +235,172 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3050-president-henry-b-eyring-64k-dan.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585158001/640/360/899427' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585158001/1280/720/2499427' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/480/268/399427' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/396/224/224425' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585158001/1280/720/1771427' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/720/404/1199427' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305585158001/1280/720/2099427' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/480/268/399427' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/480/268/611427' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305585158001/480/268/399427' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3050-president-henry-b-eyring-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kom, alle I Guds mænd' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kom, alle I Guds mænd</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3060-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/396/224/231825' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596327001/640/360/906005' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596327001/1280/720/2506005' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/480/268/406005' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596327001/1280/720/2106005' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2305596327001/1280/720/1778005' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/480/268/406005' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/480/268/618005' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/480/268/406005' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/2305596327001/720/404/1206005' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3060-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Håbet om Guds lys' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Håbet om Guds lys</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4010-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Det er et mirakel.' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Det er et mirakel.</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4020-elder-neil-l-andersen-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='De ord, vi taler' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>De ord, vi taler</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4030-rosemary-m-wixom-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ægteskab: Se og lær' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ægteskab: Se og lær</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4040-elder-l-whitney-clayton-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Lydighed mod loven er frihed' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lydighed mod loven er frihed</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4050-elder-l-tom-perry-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Lydighed medfører velsignelser' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lydighed medfører velsignelser</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-4060-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='»Jeg tror«' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>»Jeg tror«</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5010-elder-jeffrey-r-holland-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kristi tilhængere' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kristi tilhængere</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5020-elder-dallin-h-oaks-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Faderen og Sønnen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Faderen og Sønnen</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5030-elder-christoffel-golden-jr-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hjemmet: Livets skole' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hjemmet: Livets skole</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bliv accepteret af Herren' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bliv accepteret af Herren</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vidunderlige morgenstunder' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vidunderlige morgenstunder</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5060-elder-bruce-d-porter-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Forløsning' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Forløsning</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5070-elder-d-todd-christofferson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Til vi ses igen' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Til vi ses igen</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5080-president-thomas-s-monson-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jeres hellige steder' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jeres hellige steder</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0010-ann-m-dibb-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0010-ann-m-dibb-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0010-ann-m-dibb-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Når man redder en pige, redder man generationer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Når man redder en pige, redder man generationer</title>
         <description></description>
@@ -577,25 +408,24 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0020-mary-n-cook-64k-dan.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lad jer ikke flytte!' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lad jer ikke flytte!</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0040-elaine-s-dalton-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0040-elaine-s-dalton-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0040-elaine-s-dalton-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jeres vidunderlige rejse hjem' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jeres vidunderlige rejse hjem</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0050-president-dieter-f-uchtdorf-64k-dan.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0050-president-dieter-f-uchtdorf-64k-dan.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0050-president-dieter-f-uchtdorf-360p-dan.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

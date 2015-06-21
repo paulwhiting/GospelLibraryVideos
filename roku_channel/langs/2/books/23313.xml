@@ -1,68 +1,60 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Bienvenidos a la conferencia' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Bienvenidos a la conferencia</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-02-welcome-to-conference-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Estas cosas sí sé' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Estas cosas sí sé</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/boyd-k-packer.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-03-these-things-i-know-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Un fundamento seguro' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Un fundamento seguro</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/dean-m-davies.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-04-a-sure-foundation-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Somos hijas de un Padre Celestial' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Somos hijas de un Padre Celestial</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/elaine-s-dalton.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-05-we-are-daughters-of-our-heavenly-father-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El Salvador desea perdonar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El Salvador desea perdonar</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/craig-a-cardon.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-06-the-savior-wants-to-forgive-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Ésta es mi obra y gloria”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Ésta es mi obra y gloria”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/m-russell-ballard.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-07-this-is-my-work-and-glory-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Venid a mí”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Venid a mí”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/henry-b-eyring.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-08-come-unto-me-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El sostenimiento de los Oficiales de la Iglesia' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El sostenimiento de los Oficiales de la Iglesia</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-09-the-sustaining-of-church-officers-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Informe del Departamento de Auditorías de la Iglesia, 2012' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Informe del Departamento de Auditorías de la Iglesia, 2012</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-10-church-auditing-department-report-2012-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Informe estadístico, 2012' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Informe estadístico, 2012</title>
         <description></description>
@@ -88,275 +78,244 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-11-statistical-report-2012-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La paz en el hogar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La paz en el hogar</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/richard-g-scott.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-12-for-peace-at-home-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Paz personal: La recompensa a la rectitud' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Paz personal: La recompensa a la rectitud</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/quentin-l-cook.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-13-personal-peace-the-reward-of-righteousness-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La manera del Señor' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La manera del Señor</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/stanley-g-ellis.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-14-the-lords-way-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El Evangelio a todo el mundo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El Evangelio a todo el mundo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/john-b-dickson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-15-the-gospel-to-all-the-world-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Creemos en ser castos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Creemos en ser castos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/david-a-bednar.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-16-we-believe-in-being-chaste-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Súbanse a la ola' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Súbanse a la ola</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/russell-m-nelson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-17-catch-the-wave-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Permaneced firmes en lugares santos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Permaneced firmes en lugares santos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/robert-d-hales.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-18-stand-strong-in-holy-places-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El poder del sacerdocio en el joven' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El poder del sacerdocio en el joven</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/tad-r-callister.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-19-the-power-of-the-priesthood-in-the-boy-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Tu sagrado deber de ministrar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tu sagrado deber de ministrar</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/david-l-beck.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-20-your-sacred-duty-to-minister-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Cuatro títulos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cuatro títulos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/dieter-f-uchtdorf.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-21-four-titles-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Somos uno' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Somos uno</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/henry-b-eyring.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-22-we-are-one-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Venid, los que tenéis de Dios el sacerdocio' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Venid, los que tenéis de Dios el sacerdocio</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-23-come-all-ye-sons-of-god-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La esperanza de la luz de Dios' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La esperanza de la luz de Dios</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/dieter-f-uchtdorf.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-24-the-hope-of-gods-light-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Es un milagro' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Es un milagro</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/neil-l-andersen.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-25-its-a-miracle-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Las palabras que expresamos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Las palabras que expresamos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/rosemary-m-wixom.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-26-the-words-we-speak-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El matrimonio: Observen y aprendan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El matrimonio: Observen y aprendan</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/l-whitney-clayton.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-27-marriage-watch-and-learn-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La obediencia a la ley es libertad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La obediencia a la ley es libertad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/l-tom-perry.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-28-obedience-to-law-is-liberty-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='La obediencia trae bendiciones' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>La obediencia trae bendiciones</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-29-obedience-brings-blessings-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='“Creo”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Creo”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/jeffrey-r-holland.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-30-lord-i-believe-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Seguidores de Cristo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Seguidores de Cristo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/dallin-h-oaks.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-31-followers-of-christ-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El Padre y el Hijo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El Padre y el Hijo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/christoffel-golden-jr.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-32-the-father-and-the-son-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='El hogar, la escuela de la vida' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>El hogar, la escuela de la vida</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/enrique-r-falabella.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-33-the-home-the-school-of-life-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ser aceptados por el Señor' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ser aceptados por el Señor</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/erich-w-kopischke.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-34-being-accepted-of-the-lord-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Hermosas mañanas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hermosas mañanas</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/bruce-d-porter.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-35-beautiful-mornings-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Redención' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Redención</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/d-todd-christofferson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-36-redemption-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Hasta que nos volvamos a ver' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hasta que nos volvamos a ver</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-37-until-we-meet-again-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sus lugares santos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sus lugares santos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/ann-m-dibb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-38-your-holy-places-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Cuando se salva a una niña, se salva a generaciones' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cuando se salva a una niña, se salva a generaciones</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/mary-n-cook.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-39-when-you-save-a-girl-you-save-generations-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='¡No seáis movidas!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>¡No seáis movidas!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/elaine-s-dalton.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-40-be-not-moved-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Su maravillosa travesía a casa' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Su maravillosa travesía a casa</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/05/dieter-f-uchtdorf.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-may-2013/2013-05-41-your-wonderful-journey-home-64k-spa.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

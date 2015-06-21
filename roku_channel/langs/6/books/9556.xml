@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='간단한 해설' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='간단한 해설' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>간단한 해설</title>
         <description></description>
@@ -7,8 +8,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-006-a-brief-explanation-about-the-book-of-mormon-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='니파이전서' subtitle='Videos: 0; Audio: 22'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='니파이전서' subtitle='Videos: 0, Audio: 22' >
+<rss><channel><item>
         <id></id>
         <title>니파이전서 1</title>
         <description></description>
@@ -184,8 +186,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-030-1-nephi-22-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='니파이후서' subtitle='Videos: 0; Audio: 33'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='니파이후서' subtitle='Videos: 0, Audio: 33' >
+<rss><channel><item>
         <id></id>
         <title>니파이후서 1</title>
         <description></description>
@@ -449,8 +452,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-064-2-nephi-33-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='야곱서' subtitle='Videos: 0; Audio: 7'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='야곱서' subtitle='Videos: 0, Audio: 7' >
+<rss><channel><item>
         <id></id>
         <title>야곱서 1</title>
         <description></description>
@@ -506,8 +510,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-072-jacob-07-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='이노스서' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='이노스서' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>이노스서</title>
         <description></description>
@@ -515,8 +520,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-074-enos-01-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='예이롬서' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='예이롬서' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>예이롬서</title>
         <description></description>
@@ -524,8 +530,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-076-jarom-01-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='옴나이서' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='옴나이서' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>옴나이서</title>
         <description></description>
@@ -533,8 +540,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-078-omni-01-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='몰몬의 말씀' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='몰몬의 말씀' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>몰몬의 말씀</title>
         <description></description>
@@ -542,8 +550,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-080-words-of-mormon-01-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='모사이야서' subtitle='Videos: 0; Audio: 29'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='모사이야서' subtitle='Videos: 0, Audio: 29' >
+<rss><channel><item>
         <id></id>
         <title>모사이야서 1</title>
         <description></description>
@@ -775,8 +784,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-110-mosiah-29-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='앨마서' subtitle='Videos: 0; Audio: 63'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='앨마서' subtitle='Videos: 0, Audio: 63' >
+<rss><channel><item>
         <id></id>
         <title>앨마서 1</title>
         <description></description>
@@ -1280,8 +1290,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-174-alma-63-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='힐라맨서' subtitle='Videos: 0; Audio: 16'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='힐라맨서' subtitle='Videos: 0, Audio: 16' >
+<rss><channel><item>
         <id></id>
         <title>힐라맨서 1</title>
         <description></description>
@@ -1409,8 +1420,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-191-helaman-16-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='제3니파이' subtitle='Videos: 0; Audio: 30'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='제3니파이' subtitle='Videos: 0, Audio: 30' >
+<rss><channel><item>
         <id></id>
         <title>제3니파이 1</title>
         <description></description>
@@ -1650,8 +1662,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-222-3-nephi-30-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='제4니파이' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='제4니파이' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>제4니파이</title>
         <description></description>
@@ -1659,8 +1672,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-224-4-nephi-01-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='몰몬서' subtitle='Videos: 0; Audio: 9'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='몰몬서' subtitle='Videos: 0, Audio: 9' >
+<rss><channel><item>
         <id></id>
         <title>몰몬서 1</title>
         <description></description>
@@ -1732,8 +1746,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-234-mormon-09-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='이더서' subtitle='Videos: 0; Audio: 15'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='이더서' subtitle='Videos: 0, Audio: 15' >
+<rss><channel><item>
         <id></id>
         <title>이더서 1</title>
         <description></description>
@@ -1853,8 +1868,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-250-ether-15-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='모로나이서' subtitle='Videos: 0; Audio: 10'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='모로나이서' subtitle='Videos: 0, Audio: 10' >
+<rss><channel><item>
         <id></id>
         <title>모로나이서 1</title>
         <description></description>
@@ -1934,5 +1950,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ//2013-06-261-moroni-10-64k-kor.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

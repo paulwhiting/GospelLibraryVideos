@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Enseñar a la manera del Salvador' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Enseñar a la manera del Salvador' subtitle='Videos: 6, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Enseñar el Evangelio a la manera del Salvador</title>
         <description></description>
@@ -71,8 +72,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2000519830001_2012-06-009-let-us-teach-8000k-spa.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2000483223001_2012-06-009-let-us-teach-8000k-spa-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Principios de la enseñanza a los jóvenes' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Principios de la enseñanza a los jóvenes' subtitle='Videos: 2, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Fortalezca a nuestra familia</title>
         <description></description>
@@ -96,8 +98,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2026712840001_2012-06-001-help-us-discover-the-gospel-8000k-spa.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2026693711001_2012-06-001-help-us-discover-the-gospel-8000k-spa-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Determinar qué enseñar' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Determinar qué enseñar' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Decida qué enseñar</title>
         <description></description>
@@ -109,5 +112,5 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2020831656001_2012-06-002-determine-what-to-teach-8000k-spa.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2020740493001_2012-06-002-determine-what-to-teach-8000k-spa-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Dia Hidup - Rayakan Paskah Karena Yesus Kristus Hidup' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Dia Hidup - Rayakan Paskah Karena Yesus Kristus Hidup</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/4098114626001/640/360/754733.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Karena Dia ada' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Karena Dia ada</title>
         <description></description>
@@ -19,8 +17,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905666001/1280/720/1446741.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905666001/640/360/784352.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dia Adalah Karunia' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dia Adalah Karunia</title>
         <description></description>
@@ -31,5 +28,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900402314001/1280/720/1442439.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900402314001/640/360/786395.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

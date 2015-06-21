@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='專注於聖殿' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>專注於聖殿</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904660917001_2011-09-18-focus-on-the-temple-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904657688001_2011-09-18-focus-on-the-temple-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='蒙得與你的召喚並駕齊驅的能力' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>蒙得與你的召喚並駕齊驅的能力</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2381715798001_2013-01-01-rise-to-your-call-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2381715800001_2013-01-01-rise-to-your-call-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──積極主動' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──積極主動</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904645772001_2011-09-28-springfield-leaders-be-proactive-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904646076001_2011-09-28-springfield-leaders-be-proactive-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──透過家譜祝福生命' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──透過家譜祝福生命</title>
         <description></description>
@@ -46,8 +42,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904651712001_2011-09-23-springfield-leaders-bless-lives-through-family-history-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904649163001_2011-09-23-springfield-leaders-bless-lives-through-family-history-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──召喚更多顧問' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──召喚更多顧問</title>
         <description></description>
@@ -58,8 +53,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904649528001_2011-09-26-springfield-leaders-call-more-consultants-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904649870001_2011-09-26-springfield-leaders-call-more-consultants-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──專注於聖殿' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──專注於聖殿</title>
         <description></description>
@@ -70,8 +64,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904648799001_2011-09-19-springfield-leaders-focus-on-the-temple-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904649572001_2011-09-19-springfield-leaders-focus-on-the-temple-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──跟隨聖靈' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──跟隨聖靈</title>
         <description></description>
@@ -82,8 +75,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904648745001_2011-09-21-springfield-leaders-follow-the-spirit-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904649117001_2011-09-21-springfield-leaders-follow-the-spirit-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──讓青少年參與' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──讓青少年參與</title>
         <description></description>
@@ -94,8 +86,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652560001_2011-09-25-springfield-leaders-involve-the-youth-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904654483001_2011-09-25-springfield-leaders-involve-the-youth-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──計劃時要有目的' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──計劃時要有目的</title>
         <description></description>
@@ -106,8 +97,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904654537001_2011-09-20-springfield-leaders-plan-with-purpose-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652576001_2011-09-20-springfield-leaders-plan-with-purpose-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──教導、見證及溝通' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──教導、見證及溝通</title>
         <description></description>
@@ -118,8 +108,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652445001_2011-09-24-springfield-leaders-teach-testify-and-communicate-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652454001_2011-09-24-springfield-leaders-teach-testify-and-communicate-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──運用主日學課程' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──運用主日學課程</title>
         <description></description>
@@ -130,8 +119,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904653823001_2011-09-27-springfield-leaders-use-the-sunday-school-class-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904654493001_2011-09-27-springfield-leaders-use-the-sunday-school-class-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='春田領袖──以議會型態合作' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>春田領袖──以議會型態合作</title>
         <description></description>
@@ -142,8 +130,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652654001_2011-09-22-springfield-leaders-work-in-councils-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904652574001_2011-09-22-springfield-leaders-work-in-councils-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='鞏固青年' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>鞏固青年</title>
         <description></description>
@@ -154,5 +141,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904671704001_2011-09-17-strengthen-youth-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1904683012001_2011-09-17-strengthen-youth-8000k-cmn.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

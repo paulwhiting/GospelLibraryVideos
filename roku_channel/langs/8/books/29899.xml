@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Il lavoro relativo all’opera missionaria, alla storia familiare e al tempio' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Il lavoro relativo all’opera missionaria, alla storia familiare e al tempio' subtitle='Videos: 6, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Il lavoro relativo all’opera missionaria, alla storia familiare e al tempio</title>
         <description></description>
@@ -65,5 +66,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793194685001/1280/720/1875983' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793194685001/1280/720/1599514' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

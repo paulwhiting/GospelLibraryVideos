@@ -1,19 +1,13 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Sammelan mein Swaagat' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Sammelan mein Swaagat</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282516001/396/224/196977.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282516001/480/268/520691.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282516001/480/268/334003.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837282516001/640/360/751818.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Humare Aasha ki Vaja' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Humare Aasha ki Vaja</title>
         <description></description>
@@ -21,27 +15,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837281729001/640/360/736564.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281729001/396/224/191867.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281729001/480/268/522831.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281729001/480/268/317144.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Tum Kis Taraf Ho?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tum Kis Taraf Ho?</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837277714001/480/268/328159.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837277714001/480/268/519062.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837277714001/396/224/190068.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837277714001/640/360/727261.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Prabhubhoj—Aatma ke liye Nawikaran' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prabhubhoj—Aatma ke liye Nawikaran</title>
         <description></description>
@@ -49,13 +33,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837282548001/640/360/740221.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282548001/396/224/185726.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282548001/480/268/317779.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837282548001/480/268/513959.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Saath Milkar Bachaao' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Saath Milkar Bachaao</title>
         <description></description>
@@ -63,69 +42,44 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837281768001/640/360/721201.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281768001/480/268/327633.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281768001/480/268/517627.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837281768001/396/224/190539.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hamesha Swatantra, Swanye Karam Karne ke Liye' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hamesha Swatantra, Swanye Karam Karne ke Liye</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298507001/480/268/522326.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837298507001/640/360/744035.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298507001/396/224/192044.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298507001/480/268/331905.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Raushni aur Sachchaai ke Gawahi ko Prapt Karna' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Raushni aur Sachchaai ke Gawahi ko Prapt Karna</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298519001/396/224/199524.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837298519001/640/360/756413.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298519001/480/268/524132.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837298519001/480/268/336250.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Girjaghar Afsaron ka Samarthan' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Girjaghar Afsaron ka Samarthan</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310151001/480/268/297365.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310151001/396/224/178545.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837310151001/480/268/481086.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837310151001/640/360/687438.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bhedbhaao ke Bajaaye Dusron se Prem Karna Aur Saath Jeena' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bhedbhaao ke Bajaaye Dusron se Prem Karna Aur Saath Jeena</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312573001/396/224/195413.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312573001/480/268/527888.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837312573001/640/360/751021.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837312573001/480/268/329296.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith</title>
         <description></description>
@@ -133,41 +87,26 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837322922001/640/360/745343.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322922001/396/224/190845.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322922001/480/268/511128.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322922001/480/268/330368.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Maata-Pita: Apne Bachchon ke Mukhye Susamachaar Shikshaken' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Maata-Pita: Apne Bachchon ke Mukhye Susamachaar Shikshaken</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322439001/480/268/320829.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322439001/396/224/187282.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837322439001/640/360/735728.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837322439001/480/268/506571.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Saahas ke saath Parmeshwar ke Singhaasan ki or Badna' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Saahas ke saath Parmeshwar ke Singhaasan ki or Badna</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837323281001/396/224/197665.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837323281001/480/268/517145.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837323281001/640/360/752883.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837323281001/480/268/336776.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='“Haan, Prabhu, Main Aapke Piche Ho Lunga”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Haan, Prabhu, Main Aapke Piche Ho Lunga”</title>
         <description></description>
@@ -175,97 +114,62 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837326582001/640/360/750321.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837326582001/480/268/524500.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837326582001/396/224/191854.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837326582001/480/268/332412.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kya Hum Sab Bhikhaari Nahin Hai?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kya Hum Sab Bhikhaari Nahin Hai?</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329383001/480/268/523867.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329383001/396/224/194685.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837329383001/640/360/742940.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329383001/480/268/335357.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Gehri Shaanti Paana aur Anant Parivaarein Banana' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Gehri Shaanti Paana aur Anant Parivaarein Banana</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329410001/396/224/195791.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837329410001/640/360/759913.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329410001/480/268/516053.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837329410001/480/268/330024.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Bhudimaani se Chunniye' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bhudimaani se Chunniye</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837342960001/480/268/524049.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837342960001/396/224/191730.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837342960001/640/360/733858.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837342960001/480/268/332059.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='In Baaton ko Main Swaye hi Jaanta Hoon' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>In Baaton ko Main Swaye hi Jaanta Hoon</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353018001/396/224/197023.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837353018001/640/360/746120.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353018001/480/268/529393.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353018001/480/268/336705.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Upwaas ka Niyam: Ek Vyaktigat Zimmedari Gareeb aur Zarooratmand ki Dekhbhaal ke Liye' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Upwaas ka Niyam: Ek Vyaktigat Zimmedari Gareeb aur Zarooratmand ki Dekhbhaal ke Liye</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353049001/480/268/518022.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837353049001/640/360/731625.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353049001/396/224/188252.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837353049001/480/268/328205.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='“Prabhu, Kya Woh Mai Hoon?”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“Prabhu, Kya Woh Mai Hoon?”</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837357043001/396/224/195831.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837357043001/480/268/525704.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837357043001/640/360/747537.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837357043001/480/268/331810.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Taeyaari Purohiti ki' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Taeyaari Purohiti ki</title>
         <description></description>
@@ -273,13 +177,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837355875001/640/360/748237.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837355875001/396/224/196200.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837355875001/480/268/536591.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837355875001/480/268/333768.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Surakhchit Maargdarshan se Ghar Pahunche' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Surakhchit Maargdarshan se Ghar Pahunche</title>
         <description></description>
@@ -287,74 +186,41 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-hif.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3837360390001/640/360/746685.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837360390001/396/224/200974.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837360390001/480/268/522492.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3837360390001/480/268/340669.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Is Dhang se Taeyaar Jis ki Jaankaari Kabhi Nahi Thi' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Is Dhang se Taeyaar Jis ki Jaankaari Kabhi Nahi Thi</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810924216001/396/224/194639.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810924216001/480/268/338620.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810924216001/480/268/338620.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3810924216001/640/360/762656.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810924216001/480/268/533109.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810924216001/480/268/338620.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0010-linda-k-burton-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Parmeshwar ki Vachanbadh Putriyaan' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Parmeshwar ki Vachanbadh Putriyaan</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932015001/396/224/194776.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932015001/480/268/510289.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932015001/480/268/510289.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932015001/480/268/326714.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3810932015001/640/360/734848.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932015001/480/268/510289.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Apne Gyaan ko Baatna' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Apne Gyaan ko Baatna</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932053001/480/268/515048.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932053001/396/224/193136.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3810932053001/640/360/746884.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932053001/480/268/327259.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932053001/480/268/327259.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810932053001/480/268/327259.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0040-neill-f-marriott-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Khushi se Susamachaar ko Jiyo' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Khushi se Susamachaar ko Jiyo</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-64k-hif.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931639001/480/268/336987.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931639001/480/268/336987.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931639001/480/268/524032.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3810931639001/640/360/773246.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931639001/396/224/199487.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3810931639001/480/268/336987.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0050-president-dieter-f-uchtdorf-360p-hif.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

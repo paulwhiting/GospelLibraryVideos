@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Good Tidings of Great Joy: The Birth of Jesus Christ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Good Tidings of Great Joy: The Birth of Jesus Christ</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3984619401001/1280/720/66395.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3984619401001/640/360/50083.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Young Jesus Teaches in the Temple' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Young Jesus Teaches in the Temple</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680957691001/1280/720/66526.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680957691001/640/360/49363.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sermon on the Mount: The Beatitudes' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sermon on the Mount: The Beatitudes</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202620028001/1280/720/1322814.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202620028001/640/360/723639.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Forgives Sins and Heals a Man Stricken with Palsy' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Forgives Sins and Heals a Man Stricken with Palsy</title>
         <description></description>
@@ -46,8 +42,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3875277853001/1280/720/66820.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3875277853001/640/360/49406.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Forgive 70 Times 7' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Forgive 70 Times 7</title>
         <description></description>
@@ -58,8 +53,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202620059001/1280/720/1589973.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202620059001/640/360/823773.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='De gelijkenis van de barmhartige Samaritaan' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>De gelijkenis van de barmhartige Samaritaan</title>
         <description></description>
@@ -70,8 +64,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2659948168001/1280/720/1443561.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2659948168001/640/360/773643.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Prodigal Son' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Prodigal Son</title>
         <description></description>
@@ -82,8 +75,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202620056001/1280/720/66539.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202620056001/640/360/48423.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Savior Suffers in Gethsemane' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Savior Suffers in Gethsemane</title>
         <description></description>
@@ -91,5 +83,4 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/2215148912001/720/360/1228000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

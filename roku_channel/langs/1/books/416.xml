@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Three Bridges' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Three Bridges</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_96_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-03-three-bridges-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Seeing a Child of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Seeing a Child of God</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HinckleyGB_95-99.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-04-seeing-a-child-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='God’s Wonderful Creation' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>God’s Wonderful Creation</title>
         <description></description>
@@ -34,26 +30,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-05-gods-wonderful-creation-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='All Can Give' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>All Can Give</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EllisSG_06.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-06-all-can-give-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Same-Size Service' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Same-Size Service</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/PerryLT_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-07-same-size-service-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -61,36 +54,34 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-08-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Every Blessing that I Enjoy Here' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Every Blessing that I Enjoy Here</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr08nov14_sharing_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-09-every-blessing-that-i-enjoy-here-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr08nov17_matt_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-10-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-10-matt-and-mandy-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-10-matt-and-mandy-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-10-matt-and-mandy-360p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Buzzing Bees and Baby Birds' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Buzzing Bees and Baby Birds</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EyringHB_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-11-buzzing-bees-and-baby-birds-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -98,8 +89,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-13-book-reviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -107,45 +97,42 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-17-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr08nov33_thanks_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-18-for-little-friends-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-18-for-little-friends-64k-eng.mp3' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-18-for-little-friends-360p-eng.wmv' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-18-for-little-friends-360p-eng.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Yellow Dress' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Yellow Dress</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BallardMR_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-19-the-yellow-dress-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: What can I do to have the Holy Ghost with me?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: What can I do to have the Holy Ghost with me?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HalesRD_03.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-20-special-witness-what-can-i-do-to-have-the-holy-ghost-with-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Burning Testimony' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Burning Testimony</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr08nov40_map.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-21-a-burning-testimony-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -153,17 +140,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-23-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The City of Joseph' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The City of Joseph</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr08nov44_prophets_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-24-the-city-of-joseph-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -171,8 +156,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-25-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -180,5 +164,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2008/2008-11-27-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

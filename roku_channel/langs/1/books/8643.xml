@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Birthday Wish Fulfilled' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Birthday Wish Fulfilled</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_08_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-03-a-birthday-wish-fulfilled-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Missionary Named Wilford: Part One—Without Purse or Scrip' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Missionary Named Wilford: Part One—Without Purse or Scrip</title>
         <description></description>
@@ -25,35 +22,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-04-a-missionary-named-wilford-part-one-without-purse-or-scrip-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug06-poster.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-05-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What can I learn from the scriptures?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What can I learn from the scriptures?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ChristoffersonDT_08.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-06-what-can-i-learn-from-the-scriptures-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Faithful Finish' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Faithful Finish</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/CookMN_08.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-07-a-faithful-finish-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Taking Care of Me!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Taking Care of Me!</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-08-taking-care-of-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Blesses Children' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Blesses Children</title>
         <description></description>
@@ -79,17 +70,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-11-jesus-blesses-children-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends and Best Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends and Best Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/EyringHB_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-12-friends-and-best-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Helping in the Country' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Helping in the Country</title>
         <description></description>
@@ -97,53 +86,47 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-13-helping-in-the-country-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Loving My Neighbor Cynthia' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Loving My Neighbor Cynthia</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/MonsonTS_08.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-14-loving-my-neighbor-cynthia-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Article of Faith 8' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Article of Faith 8</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug22-article-of-faith.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-15-article-of-faith-8-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Crafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Crafts</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug23-snack.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-16-veggie-bugs-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Summer with the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Summer with the Friend</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug24-25-friend.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-17-summer-with-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Music for the Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Music for the Heart</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ChoiYH_09.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-19-music-for-the-heart-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Along Came Forrester' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Along Came Forrester</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-20-along-came-forrester-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -160,17 +142,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-21-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug34-tithing.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-22-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Presents for Princesses' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Presents for Princesses</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-23-presents-for-princesses-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -187,35 +166,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-24-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Body Is a Temple of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Body Is a Temple of God</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug41-maze.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-25-my-body-is-a-temple-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug42-matt.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-26-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Reflections' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Reflections</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/MonsonTS_08.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-28-reflections-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -223,8 +198,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-30-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -232,14 +206,12 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-31-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nephi' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nephi</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2011/08/fr11aug49-poster.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2011/2011-08-32-nephi-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

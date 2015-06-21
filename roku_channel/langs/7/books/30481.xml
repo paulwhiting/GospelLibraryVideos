@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Guide du dirigeant' subtitle='Videos: 11; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Guide du dirigeant' subtitle='Videos: 11, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Aider le conseil de paroisse</title>
         <description></description>
@@ -120,8 +121,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032702001/640/360/815450' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032702001/1280/720/2044931' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ma fondation' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ma fondation' subtitle='Videos: 12, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Une foi pure et simple</title>
         <description></description>
@@ -252,8 +254,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035493001/1280/720/1417503' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035493001/640/360/762287' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Lancer mon entreprise et la développer' subtitle='Videos: 39; Audio: 0'><category title='Samuel   : Réparation de matériel informatique' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Lancer mon entreprise et la développer' subtitle='Videos: 39, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Samuel   : Réparation de matériel informatique</title>
         <description></description>
@@ -264,8 +267,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043879001/1280/720/1468472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043879001/640/360/808698' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Action et engagement' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Action et engagement</title>
         <description></description>
@@ -276,8 +278,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032708001/1280/720/1625036' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032708001/1280/720/1828852' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Des affaires sur un pic' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Des affaires sur un pic</title>
         <description></description>
@@ -286,8 +287,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035540001/1280/720/565954' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035540001/640/360/404422' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Choisir la bonne entreprise' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Choisir la bonne entreprise</title>
         <description></description>
@@ -298,8 +298,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032709001/1280/720/1892685' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032709001/1280/720/1387138' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Parler à des chefs d’entreprise.' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Parler à des chefs d’entreprise.</title>
         <description></description>
@@ -310,8 +309,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032711001/1280/720/1488322' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032711001/1280/720/1754266' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph et John   : Produits thérapeutiques' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph et John   : Produits thérapeutiques</title>
         <description></description>
@@ -322,8 +320,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043882001/1280/720/2066063' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043882001/1280/720/1420263' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Parler à des clients' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Parler à des clients</title>
         <description></description>
@@ -334,8 +331,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032713001/1280/720/2035378' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032713001/640/360/775567' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Une plus grande camionnette   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Une plus grande camionnette   ?</title>
         <description></description>
@@ -346,8 +342,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035001001/1280/720/754536' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035001001/1280/720/648336' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ne fermez pas votre entreprise   : première partie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ne fermez pas votre entreprise   : première partie</title>
         <description></description>
@@ -358,8 +353,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034999001/640/360/765385' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034999001/1280/720/1618157' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ne fermez pas votre entreprise   : deuxième partie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ne fermez pas votre entreprise   : deuxième partie</title>
         <description></description>
@@ -370,8 +364,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032718001/1280/720/1373128' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744032718001/1280/720/2000784' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Discuter avec les fournisseurs' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Discuter avec les fournisseurs</title>
         <description></description>
@@ -382,8 +375,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034997001/1280/720/2059558' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034997001/640/360/796444' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Je ne sais pas' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Je ne sais pas</title>
         <description></description>
@@ -394,8 +386,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042834001/640/360/781323' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042834001/1280/720/2048292' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vangelis   : Magicien de rue' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vangelis   : Magicien de rue</title>
         <description></description>
@@ -406,8 +397,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042877001/1280/720/1459055' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042877001/1280/720/2132197' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ne tuez pas les poulets   : première partie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ne tuez pas les poulets   : première partie</title>
         <description></description>
@@ -418,8 +408,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3747871419001/640/360/779960' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3747871419001/1280/720/1405020' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ne tuez pas les poulets   : deuxième partie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ne tuez pas les poulets   : deuxième partie</title>
         <description></description>
@@ -428,8 +417,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042839001/640/360/386235' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042839001/1280/720/550348' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ne tuez pas les poulets   :  troisième partie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ne tuez pas les poulets   :  troisième partie</title>
         <description></description>
@@ -440,8 +428,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3747871421001/1280/720/1467388' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3747871421001/640/360/806386' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Votre affaire de vente d’eau' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Votre affaire de vente d’eau</title>
         <description></description>
@@ -452,8 +439,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042844001/1280/720/729895' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042844001/1280/720/649437' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Daniel &amp; Christiana   : Alimentation générale' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Daniel &amp; Christiana   : Alimentation générale</title>
         <description></description>
@@ -464,8 +450,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047685001/640/360/816468' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047685001/1280/720/1765321' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Feliz   : Pièces détachées de systèmes réfrigérants.' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Feliz   : Pièces détachées de systèmes réfrigérants.</title>
         <description></description>
@@ -476,8 +461,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035053001/1280/720/2003970' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035053001/1280/720/1683566' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Une bicyclette ou des poules   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Une bicyclette ou des poules   ?</title>
         <description></description>
@@ -488,8 +472,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035014001/1280/720/1900433' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035014001/1280/720/1390677' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Susy   : Bus scolaire privé' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Susy   : Bus scolaire privé</title>
         <description></description>
@@ -500,8 +483,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043872001/1280/720/1449086' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043872001/640/360/792123' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Attention aux coûts fixes' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Attention aux coûts fixes</title>
         <description></description>
@@ -512,8 +494,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035016001/1280/720/1921603' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035016001/640/360/780202' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Puis-je me permettre d’acquérir plus d’actifs   ? (Première partie)' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Puis-je me permettre d’acquérir plus d’actifs   ? (Première partie)</title>
         <description></description>
@@ -524,8 +505,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042847001/1280/720/1612538' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042847001/640/360/786100' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Rosanny   : Plats chauds' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Rosanny   : Plats chauds</title>
         <description></description>
@@ -536,8 +516,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043867001/1280/720/1399289' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043867001/640/360/775973' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='De combien de liquidité dispose-t-elle   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>De combien de liquidité dispose-t-elle   ?</title>
         <description></description>
@@ -548,8 +527,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045561001/1280/720/472152' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045561001/1280/720/402136' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Puis-je me permettre d’acquérir plus d’actifs   ? (Deuxième partie)' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Puis-je me permettre d’acquérir plus d’actifs   ? (Deuxième partie)</title>
         <description></description>
@@ -560,8 +538,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035019001/1280/720/1788199' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035019001/1280/720/1499933' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Obtenir un prêt   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Obtenir un prêt   ?</title>
         <description></description>
@@ -572,8 +549,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043842001/640/360/774402' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043842001/1280/720/1428557' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Une bonne raison   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Une bonne raison   ?</title>
         <description></description>
@@ -584,8 +560,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043845001/1280/720/1399304' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043845001/1280/720/2012695' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Le bon moment   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Le bon moment   ?</title>
         <description></description>
@@ -596,8 +571,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045569001/640/360/816081' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045569001/1280/720/1932792' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Les bons termes   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Les bons termes   ?</title>
         <description></description>
@@ -608,8 +582,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043843001/1280/720/1385192' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043843001/1280/720/2009874' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Le bon montant   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Le bon montant   ?</title>
         <description></description>
@@ -620,8 +593,21 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035024001/640/360/787899' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035024001/1280/720/1372553' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Marketing   ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
+        <id></id>
+        <title>Vendre, vendre, vendre (première partie)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+</item>
+<item>
+        <id></id>
+        <title>Vendre, vendre, vendre (deuxième partie)</title>
+        <description></description>
+        <duration></duration>
+        <thumbnail url=''/>
+</item>
+<item>
         <id></id>
         <title>Marketing   ?</title>
         <description></description>
@@ -632,8 +618,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042852001/640/360/798663' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042852001/1280/720/1754170' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='S’il-vous plait, achetez quelque chose   !' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>S’il-vous plait, achetez quelque chose   !</title>
         <description></description>
@@ -644,8 +629,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045574001/1280/720/1473491' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045574001/1280/720/1764104' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Demander, écouter, conseiller' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Demander, écouter, conseiller</title>
         <description></description>
@@ -656,8 +640,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043853001/1280/720/1484984' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043853001/640/360/797905' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vente réussie, vente ratée   !' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vente réussie, vente ratée   !</title>
         <description></description>
@@ -668,8 +651,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035034001/1280/720/1475506' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035034001/1280/720/1990483' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vente incitative' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vente incitative</title>
         <description></description>
@@ -680,8 +662,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045579001/1280/720/2061326' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045579001/1280/720/1738127' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Écouler le stock rapidement' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Écouler le stock rapidement</title>
         <description></description>
@@ -692,8 +673,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045580001/1280/720/1696249' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045580001/1280/720/1420785' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Nous pouvons y arriver   !' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nous pouvons y arriver   !</title>
         <description></description>
@@ -704,8 +684,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042857001/1280/720/1973798' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042857001/1280/720/1660255' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mon entreprise en cinq minutes' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mon entreprise en cinq minutes</title>
         <description></description>
@@ -716,9 +695,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045582001/640/360/805621' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045582001/1280/720/1394557' height='720p'/>
 </item>
- </channel> </rss></category>
-</category>
-<category title='Ma recherche d’emploi' subtitle='Videos: 14; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ma recherche d’emploi' subtitle='Videos: 14, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Action et engagement</title>
         <description></description>
@@ -914,8 +893,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035516001/1280/720/1639668' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035516001/1280/720/1386015' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Des études pour un meilleur emploi' subtitle='Videos: 13; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Des études pour un meilleur emploi' subtitle='Videos: 13, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Faire des études pour devenir autonome</title>
         <description></description>
@@ -1056,8 +1036,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035462001/1280/720/1686159' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035462001/640/360/756977' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Antar   : Exercice physique et forme' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Antar   : Exercice physique et forme' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Antar   : Exercice physique et forme</title>
         <description></description>
@@ -1068,8 +1049,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045599001/1280/720/2012787' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744045599001/640/360/795590' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='FRÈRE DIAZ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='FRÈRE DIAZ' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>FRÈRE DIAZ</title>
         <description></description>
@@ -1080,8 +1062,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047690001/640/360/804675' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047690001/1280/720/2007207' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Daniel &amp; Christiana   : Alimentation générale' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Daniel &amp;amp; Christiana   : Alimentation générale' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Daniel &amp; Christiana   : Alimentation générale</title>
         <description></description>
@@ -1092,8 +1075,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047685001/640/360/816468' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047685001/1280/720/1765321' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Dorothy   : De la pâte d’arachide' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Dorothy   : De la pâte d’arachide' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Dorothy   : De la pâte d’arachide</title>
         <description></description>
@@ -1104,8 +1088,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047682001/1280/720/2095757' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744047682001/1280/720/1698550' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Feliz   : Pièces détachées de systèmes réfrigérants.' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Feliz   : Pièces détachées de systèmes réfrigérants.' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Feliz   : Pièces détachées de systèmes réfrigérants.</title>
         <description></description>
@@ -1116,8 +1101,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035053001/1280/720/2003970' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035053001/1280/720/1683566' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Irene   : Couturière à domicile' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Irene   : Couturière à domicile' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Irene   : Couturière à domicile</title>
         <description></description>
@@ -1128,8 +1114,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043865001/1280/720/1702253' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043865001/1280/720/1423055' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph et John   : Produits thérapeutiques' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joseph et John   : Produits thérapeutiques' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Joseph et John   : Produits thérapeutiques</title>
         <description></description>
@@ -1140,8 +1127,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043882001/1280/720/2066063' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043882001/1280/720/1420263' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph   : restauration rapide' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joseph   : restauration rapide' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Joseph   : restauration rapide</title>
         <description></description>
@@ -1152,8 +1140,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043884001/1280/720/2073551' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043884001/640/360/812099' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Rafael   : Un emploi en six jours   !' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Rafael   : Un emploi en six jours   !' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Rafael   : Un emploi en six jours   !</title>
         <description></description>
@@ -1164,8 +1153,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042873001/1280/720/1439597' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042873001/1280/720/1703731' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Rosanny   : Plats chauds' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Rosanny   : Plats chauds' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Rosanny   : Plats chauds</title>
         <description></description>
@@ -1176,8 +1166,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043867001/1280/720/1399289' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043867001/640/360/775973' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Samuel   : Réparation matériel informatique' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Samuel   : Réparation matériel informatique' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Samuel   : Réparation matériel informatique</title>
         <description></description>
@@ -1188,8 +1179,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043879001/1280/720/1468472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043879001/640/360/808698' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Stanley   : Maçonnerie et construction' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Stanley   : Maçonnerie et construction' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Stanley   : Maçonnerie et construction</title>
         <description></description>
@@ -1200,8 +1192,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042879001/1280/720/1665676' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042879001/640/360/766645' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Susy   : Bus scolaire privé' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Susy   : Bus scolaire privé' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Susy   : Bus scolaire privé</title>
         <description></description>
@@ -1212,8 +1205,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043872001/1280/720/1449086' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744043872001/640/360/792123' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vangelis   : Magicien de rue' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vangelis   : Magicien de rue' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Vangelis   : Magicien de rue</title>
         <description></description>
@@ -1224,5 +1218,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042877001/1280/720/1459055' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744042877001/1280/720/2132197' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

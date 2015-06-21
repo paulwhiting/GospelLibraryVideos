@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Search for Truth' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Search for Truth</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257919620001_2010-07-02-a-search-for-truth-8000k-ind-copy.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257965347001_2010-07-02-a-search-for-truth-8000k-ind.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Watchmen on the Tower' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Watchmen on the Tower</title>
         <description></description>
@@ -23,8 +21,7 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/12/60/66852713001_2976937074001_2010-07-23-watchmen-on-the-tower-8000k-ind.mp4' height='720p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/12/1668/66852713001_2976949971001_2010-07-23-watchmen-on-the-tower-8000k-ind.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Be Not Troubled' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Be Not Troubled</title>
         <description></description>
@@ -35,8 +32,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695487699001_2010-07-038-be-not-troubled-8000k-ind.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2695483102001_2010-07-038-be-not-troubled-8000k-ind.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='They that are Wise' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They that are Wise</title>
         <description></description>
@@ -47,8 +43,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687173607001_2010-07-040-they-that-are-wise-8000k-ind.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687173169001_2010-07-040-they-that-are-wise-8000k-ind.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith—Prophet of the Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith—Prophet of the Restoration</title>
         <description></description>
@@ -58,5 +53,4 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2014/01/3338/66852713001_3054948770001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-ind.mp4' height='360p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2014/01/1618/66852713001_3054933703001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-ind.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

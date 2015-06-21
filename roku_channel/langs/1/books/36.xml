@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Helps for the Teacher' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Helps for the Teacher</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-03-helps-for-the-teacher-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 1: Becoming Familiar with the New Testament' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 1: Becoming Familiar with the New Testament</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-04-lesson-1-becoming-familiar-with-the-new-testament-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 2: Jesus Christ Volunteered to Be Our Savior' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 2: Jesus Christ Volunteered to Be Our Savior</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-05-lesson-2-jesus-christ-volunteered-to-be-our-savior-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 3: John the Baptist Prepared the Way for Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 3: John the Baptist Prepared the Way for Jesus Christ</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-06-lesson-3-john-the-baptist-prepared-the-way-for-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 4: Jesus Christ Is the Son of Heavenly Father' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 4: Jesus Christ Is the Son of Heavenly Father</title>
         <description></description>
@@ -43,17 +38,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-07-lesson-4-jesus-christ-is-the-son-of-heavenly-father-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 5: The Childhood of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 5: The Childhood of Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_all_007_01-map.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-08-lesson-5-the-childhood-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 6: The Baptism of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 6: The Baptism of Jesus Christ</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-09-lesson-6-the-baptism-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 7: Jesus Christ Was Tempted by Satan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 7: Jesus Christ Was Tempted by Satan</title>
         <description></description>
@@ -70,17 +62,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-10-lesson-7-jesus-christ-was-tempted-by-satan-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 8: Jesus Christ Cleanses the Temple' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 8: Jesus Christ Cleanses the Temple</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_000_010_01-respect.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-11-lesson-8-jesus-christ-cleanses-the-temple-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 9: Jesus Christ Calls His Apostles' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 9: Jesus Christ Calls His Apostles</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-12-lesson-9-jesus-christ-calls-his-apostles-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 10: The Sermon on the Mount' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 10: The Sermon on the Mount</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-13-lesson-10-the-sermon-on-the-mount-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 11: Jesus Christ Teaches about Prayer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 11: Jesus Christ Teaches about Prayer</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-14-lesson-11-jesus-christ-teaches-about-prayer-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 12: The House Built on a Rock' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 12: The House Built on a Rock</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-15-lesson-12-the-house-built-on-a-rock-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 13: Jesus Christ Heals the Sick' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 13: Jesus Christ Heals the Sick</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-16-lesson-13-jesus-christ-heals-the-sick-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 14: Jesus Christ and the Sabbath Day' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 14: Jesus Christ and the Sabbath Day</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-17-lesson-14-jesus-christ-and-the-sabbath-day-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 15: Jesus Christ Used His Priesthood Power to Bless Others' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 15: Jesus Christ Used His Priesthood Power to Bless Others</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-18-lesson-15-jesus-christ-used-his-priesthood-power-to-bless-others-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 16: Jesus Christ Performed Miracles' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 16: Jesus Christ Performed Miracles</title>
         <description></description>
@@ -151,17 +134,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-19-lesson-16-jesus-christ-performed-miracles-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 17: The Parables of the Sower and the Wheat and Tares' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 17: The Parables of the Sower and the Wheat and Tares</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_000_019_01-hidden.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-20-lesson-17-the-parables-of-the-sower-and-the-wheat-and-tares-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 18: Jesus Christ Heals a Man Born Blind' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 18: Jesus Christ Heals a Man Born Blind</title>
         <description></description>
@@ -169,8 +150,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-21-lesson-18-jesus-christ-heals-a-man-born-blind-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 19: The Lost Sheep, the Lost Coin, and the Prodigal Son' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 19: The Lost Sheep, the Lost Coin, and the Prodigal Son</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-22-lesson-19-the-lost-sheep-the-lost-coin-and-the-prodigal-son-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 20: Parable of the Good Samaritan' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 20: Parable of the Good Samaritan</title>
         <description></description>
@@ -187,8 +166,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-23-lesson-20-parable-of-the-good-samaritan-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 21: Jesus Christ Heals Ten Lepers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 21: Jesus Christ Heals Ten Lepers</title>
         <description></description>
@@ -196,8 +174,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-24-lesson-21-jesus-christ-heals-ten-lepers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 22: The Unmerciful Servant' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 22: The Unmerciful Servant</title>
         <description></description>
@@ -205,8 +182,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-25-lesson-22-the-unmerciful-servant-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 23: The Good Shepherd' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 23: The Good Shepherd</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-26-lesson-23-the-good-shepherd-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 24: The Widow’s Mite' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 24: The Widow’s Mite</title>
         <description></description>
@@ -223,17 +198,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-27-lesson-24-the-widows-mite-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 25: Parable of the Ten Virgins' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 25: Parable of the Ten Virgins</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_all_027_01-lamp.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-28-lesson-25-parable-of-the-ten-virgins-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 26: Parable of the Talents' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 26: Parable of the Talents</title>
         <description></description>
@@ -241,8 +214,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-29-lesson-26-parable-of-the-talents-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 27: Parable of the Sheep and the Goats' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 27: Parable of the Sheep and the Goats</title>
         <description></description>
@@ -250,8 +222,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-30-lesson-27-parable-of-the-sheep-and-the-goats-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 28: Jesus Christ Raises Lazarus from the Dead' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 28: Jesus Christ Raises Lazarus from the Dead</title>
         <description></description>
@@ -259,8 +230,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-31-lesson-28-jesus-christ-raises-lazarus-from-the-dead-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 29: Jesus Christ’s Triumphal Entry and the Last Supper' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 29: Jesus Christ’s Triumphal Entry and the Last Supper</title>
         <description></description>
@@ -268,17 +238,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-32-lesson-29-jesus-christs-triumphal-entry-and-the-last-supper-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 30: Jesus Christ in Gethsemane' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 30: Jesus Christ in Gethsemane</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_all_032_01-man.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-33-lesson-30-jesus-christ-in-gethsemane-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 31: Jesus Christ’s Betrayal, Arrest, and Trial' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 31: Jesus Christ’s Betrayal, Arrest, and Trial</title>
         <description></description>
@@ -286,8 +254,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-34-lesson-31-jesus-christs-betrayal-arrest-and-trial-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 32: The Crucifixion and Burial of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 32: The Crucifixion and Burial of Jesus Christ</title>
         <description></description>
@@ -295,8 +262,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-35-lesson-32-the-crucifixion-and-burial-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 33: The Resurrection of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 33: The Resurrection of Jesus Christ</title>
         <description></description>
@@ -304,17 +270,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-36-lesson-33-the-resurrection-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 34: Feed My Sheep' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 34: Feed My Sheep</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_all_036_01-sheep.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-37-lesson-34-feed-my-sheep-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 35: The Mission of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 35: The Mission of Jesus Christ</title>
         <description></description>
@@ -322,8 +286,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-38-lesson-35-the-mission-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 36: The Day of Pentecost' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 36: The Day of Pentecost</title>
         <description></description>
@@ -331,8 +294,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-39-lesson-36-the-day-of-pentecost-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 37: Peter the Apostle' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 37: Peter the Apostle</title>
         <description></description>
@@ -340,8 +302,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-40-lesson-37-peter-the-apostle-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 38: Barnabas, Ananias, and Sapphira' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 38: Barnabas, Ananias, and Sapphira</title>
         <description></description>
@@ -349,8 +310,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-41-lesson-38-barnabas-ananias-and-sapphira-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 39: Stephen, the Martyr' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 39: Stephen, the Martyr</title>
         <description></description>
@@ -358,8 +318,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-42-lesson-39-stephen-the-martyr-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 40: Peter and Cornelius' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 40: Peter and Cornelius</title>
         <description></description>
@@ -367,17 +326,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-43-lesson-40-peter-and-cornelius-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 41: James Teaches Us to Control Our Tongues' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 41: James Teaches Us to Control Our Tongues</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_000_043_01-words.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-44-lesson-41-james-teaches-us-to-control-our-tongues-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 42: The Conversion of Saul' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 42: The Conversion of Saul</title>
         <description></description>
@@ -385,26 +342,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-45-lesson-42-the-conversion-of-saul-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 43: Paul Testifies of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 43: Paul Testifies of Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_000_045_01-puzzle.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-46-lesson-43-paul-testifies-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 44: Paul the Missionary' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 44: Paul the Missionary</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_000_046_01-stairs.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-47-lesson-44-paul-the-missionary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 45: Paul’s Journey to Rome' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 45: Paul’s Journey to Rome</title>
         <description></description>
@@ -412,14 +366,12 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-48-lesson-45-pauls-journey-to-rome-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lesson 46: Jesus Christ Will Come Again' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Lesson 46: Jesus Christ Will Come Again</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/34604/34604_all_048_01-leaf.gif'/>
 <content url='http://broadcast2.lds.org/manuals/primary-7/2011-06-49-lesson-46-jesus-christ-will-come-again-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

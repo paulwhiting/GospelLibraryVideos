@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Janeiro: A Trindade' subtitle='Videos: 20; Audio: 0'><category title='O que sabemos sobre a natureza da Trindade?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que sabemos sobre a natureza da Trindade?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+    <categories><category title='Janeiro: A Trindade' subtitle='Videos: 20, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<category title='O que sabemos sobre a natureza da Trindade?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“A Restauração”</title>
         <description></description>
@@ -42,15 +37,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867175001/1280/720/2127902' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867175001/1280/720/1799902' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso conhecer meu Pai Celestial?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso conhecer meu Pai Celestial?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso conhecer meu Pai Celestial?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/heavenly-father/images/How can I know my Heavenly Father - AV110331_cah109-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ele Me Conhece“</title>
         <description></description>
@@ -86,15 +75,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830342001/1280/720/2527960' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830342001/1920/1080/7951000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que Jesus Cristo é importante em minha vida?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que Jesus Cristo é importante em minha vida?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que Jesus Cristo é importante em minha vida?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/important/images/godhead-why-is-jesus-christ-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“Ele Irá Lhe Ajudar”,</title>
         <description></description>
@@ -189,15 +172,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1419622' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1265416' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Quais são as funções do Espírito Santo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quais são as funções do Espírito Santo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quais são as funções do Espírito Santo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/roles/images/What are the roles of the Holy Ghost - AV120607_cah0016-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Voz do Espírito”</title>
         <description></description>
@@ -209,8 +186,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824533001/1280/720/1799968' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028824533001/640/360/927968' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Quem sou eu e o que posso me tornar?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Quem sou eu e o que posso me tornar?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/become/images/Who am I and who can I become - L1008_de_006-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“De Grande 
 Valor em Todos os Aspectos”,</title>
@@ -258,16 +236,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423545001/1280/720/1582224' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423545001/1280/720/1289485' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Fevereiro: O Plano de Salvação' subtitle='Videos: 16; Audio: 0'><category title='O que é o plano de salvação?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que é o plano de salvação?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Fevereiro: O Plano de Salvação' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<category title='O que é o plano de salvação?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>“O Coração dos Homens Falhará”</title>
         <description></description>
@@ -303,8 +276,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836490001/1920/1080/8588000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836490001/1280/720/1797598' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Qual é o propósito da vida?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Qual é o propósito da vida?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/purpose/images/plan-what-is-the-purpose-copy1.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ensinar Uns aos Outros por Meio das Escrituras”</title>
         <description></description>
@@ -315,8 +289,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/1280/720/1632234' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/640/360/656239' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que minhas escolhas são importantes?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Por que minhas escolhas são importantes?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/choices/images/plan-why-do-the-choices-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sem Arrependimentos”</title>
         <description></description>
@@ -352,8 +327,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028816868001/1280/720/2124846' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028816868001/640/360/924846' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que temos adversidades?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Por que temos adversidades?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/adversity/images/plan-why-do-we-have-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Deus Nos Dará Apoio”,</title>
         <description></description>
@@ -387,8 +363,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133781083001/1280/720/1339305' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133781083001/1280/720/1898563' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso ser consolada quando alguém com quem me importo morrer?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso ser consolada quando alguém com quem me importo morrer?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/comfort/images/AV121105_cah0246-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Até Voltarmos a Nos Encontrar”</title>
         <description></description>
@@ -442,15 +419,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830349001/1280/720/8378000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830349001/640/360/927416' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que devo tratar meu corpo como um templo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que devo tratar meu corpo como um templo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que devo tratar meu corpo como um templo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/sacred/images/plan-why-should-i-treat-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Castidade: Quais São os Limites?</title>
         <description></description>
@@ -476,16 +447,11 @@ Valor em Todos os Aspectos”,</title>
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Março: A Expiação de Jesus Cristo' subtitle='Videos: 18; Audio: 0'><category title='O que é a Expiação de Jesus Cristo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que é a Expiação de Jesus Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Março: A Expiação de Jesus Cristo' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<category title='O que é a Expiação de Jesus Cristo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Os Pensamentos de Um Apóstolo sobre Jesus Cristo por Ocasião da Páscoa”</title>
         <description></description>
@@ -494,8 +460,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830332001/640/360/883462' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830332001/1280/720/8529000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O que significa ter fé em Jesus Cristo?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O que significa ter fé em Jesus Cristo?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/faith/images/AV071211cah019-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fé Simples e Pura”,</title>
         <description></description>
@@ -553,15 +520,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028878025001/1920/1080/8050000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028878025001/1280/720/2127488' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como o arrependimento pode me ajudar diariamente?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como o arrependimento pode me ajudar diariamente?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como o arrependimento pode me ajudar diariamente?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/repentance/images/Atonement - How can repentance help me every day CWD_9d7be10f-3163-436f-82b2-a6358971f2ca-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Expiação - Aplicação Contínua”</title>
         <description></description>
@@ -597,15 +558,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028810722001/1920/1080/8169000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028810722001/1280/720/1799908' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O que é graça?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que é graça?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O que é graça?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/grace/images/AV081231cah249-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Nós Aprendemos”</title>
         <description></description>
@@ -617,8 +572,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717458001/1920/1080/7804000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717458001/640/360/923692' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que preciso perdoar as pessoas?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Por que preciso perdoar as pessoas?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/forgive/images/refuges.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Perdoar Setenta Vezes Sete”</title>
         <description></description>
@@ -667,8 +623,9 @@ Valor em Todos os Aspectos”,</title>
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='O que é a ressurreição?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O que é a ressurreição?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/resurrection/images/Resurrection-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ele Ressuscitou”</title>
         <description></description>
@@ -692,8 +649,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737226001/1280/720/1796583' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737226001/640/360/924583' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Como a Expiação pode ajudar-me durante as provações?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como a Expiação pode ajudar-me durante as provações?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/trials/images/AV120822_cah0008-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Deus Nos Dará Apoio”,</title>
         <description></description>
@@ -728,16 +686,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1834610876001/1280/720/2527375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1834610876001/1280/720/2127375' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Abril: A Apostasia e a Restauração' subtitle='Videos: 9; Audio: 0'><category title='Por que foi necessário haver uma restauração?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que foi necessário haver uma restauração?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Abril: A Apostasia e a Restauração' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<category title='Por que foi necessário haver uma restauração?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Procura da Verdade”,</title>
         <description></description>
@@ -761,15 +714,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291593683001/640/480/2527479' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291593683001/640/480/1799479' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que precisamos do Livro de Mórmon?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que precisamos do Livro de Mórmon?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que precisamos do Livro de Mórmon?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/book-of-mormon/images/apostasy-why-do-we-need-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Estudar o Livro de Mórmon”</title>
         <description></description>
@@ -781,15 +728,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240481722001/1920/1080/7332000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240481722001/1280/720/1760713' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como o sacerdócio foi restaurado?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como o sacerdócio foi restaurado?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/beliefs-practices/priesthood-blessing-307866-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como o sacerdócio foi restaurado?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restored/images/how-was-the-priesthood-restore.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Restauração do Sacerdócio”</title>
         <description></description>
@@ -813,15 +754,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240481720001/640/360/1800000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240481720001/640/360/1228000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Qual foi o papel de Joseph Smith na Restauração?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Qual foi o papel de Joseph Smith na Restauração?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Qual foi o papel de Joseph Smith na Restauração?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/joseph-smith/images/joseph-smith-role.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “Joseph Smith: O Profeta da Restauração”</title>
         <description></description>
@@ -845,15 +780,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1852052936001/640/480/1799990' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1852052936001/640/480/2527990' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que a Primeira Visão é importante?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que a Primeira Visão é importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-teaching-nephites-39665-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que a Primeira Visão é importante?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/first-vision/images/first-vision-important.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Restauração”</title>
         <description></description>
@@ -877,9 +806,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867175001/1280/720/2127902' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028867175001/1280/720/1799902' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Maio: Os Profetas e a Revelação' subtitle='Videos: 15; Audio: 0'><category title='Por que é importante ouvir e seguir os profetas vivos?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Maio: Os Profetas e a Revelação' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<category title='Por que é importante ouvir e seguir os profetas vivos?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Precisamos de Profetas Vivos”</title>
         <description></description>
@@ -914,15 +845,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839752001/1280/720/1790342' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839752001/1280/720/1520984' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso receber revelação pessoal?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso receber revelação pessoal?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso receber revelação pessoal?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/receive/images/prophets-how-do-i-receive-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Padrões de Luz: O Espírito de Revelação”,</title>
         <description></description>
@@ -981,15 +906,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421711001/1280/720/1660773' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421711001/1280/720/1413020' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso tornar minhas orações mais significativas?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso tornar minhas orações mais significativas?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso tornar minhas orações mais significativas?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/meaningful/images/prophets-how-can-i-make-my-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Pão de Cada Dia”: Experiência”</title>
         <description></description>
@@ -1017,15 +936,9 @@ Valor em Todos os Aspectos”,</title>
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282356001/480/268/44873' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que é importante estudar as escrituras?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que é importante estudar as escrituras?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que é importante estudar as escrituras?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/study/images/scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”O Livro de Mórmon: Mensagens do Céu</title>
         <description></description>
@@ -1056,8 +969,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/1280/720/1632234' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/640/360/656239' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso fortalecer meu testemunho?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso fortalecer meu testemunho?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/gain/images/testimony.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Convide-nos a Testificar”</title>
         <description></description>
@@ -1069,16 +983,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725011001/1280/720/2524591' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725011001/1920/1080/7888000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Julho: As Ordenanças e os Convênios' subtitle='Videos: 16; Audio: 0'><category title='Por que as ordenanças são importantes em minha vida?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que as ordenanças são importantes em minha vida?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Julho: As Ordenanças e os Convênios' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<category title='Por que as ordenanças são importantes em minha vida?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fé no Poder do Sacerdócio”</title>
         <description></description>
@@ -1112,15 +1021,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291423363001/1280/720/1897303' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291423363001/1280/720/1351138' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que os convênios são importantes em minha vida?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que os convênios são importantes em minha vida?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/anti-nephi-lehies-bury-weapons-39657-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que os convênios são importantes em minha vida?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/essential/images/0001284s.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Andar na Luz”</title>
         <description></description>
@@ -1153,15 +1056,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1419622' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1265416' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Quais convênios fiz no batismo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Quais convênios fiz no batismo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Quais convênios fiz no batismo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/baptism/images/AV060503_cah3944.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Mesmo Uniforme”,</title>
         <description></description>
@@ -1195,15 +1092,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416857001/1280/720/1207631' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416857001/1280/720/1407657' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como recebo o dom do Espírito Santo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como recebo o dom do Espírito Santo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como recebo o dom do Espírito Santo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/gift/images/av051208_jrn051alt.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ Determine o Que Ensinar”</title>
         <description></description>
@@ -1215,15 +1106,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686997001/1920/1080/7619000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686997001/1280/720/1798477' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que as ordenanças do templo são importantes?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que as ordenanças do templo são importantes?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que as ordenanças do templo são importantes?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/temple/images/Why are temple ordinances important - -AV081208cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Os Templos São um Farol</title>
         <description></description>
@@ -1257,8 +1142,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133781079001/1280/720/1652217' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133781079001/1280/720/2028577' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O que significa tomar sobre mim o nome de Jesus Cristo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O que significa tomar sobre mim o nome de Jesus Cristo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/myself/images/AV061026_cah0028.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ouse Ficar Sozinho</title>
         <description></description>
@@ -1293,16 +1179,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421711001/1280/720/1660773' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421711001/1280/720/1413020' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Agosto: O Casamento e a Família' subtitle='Videos: 25; Audio: 0'><category title='Por que a família é importante?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que a família é importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Agosto: O Casamento e a Família' subtitle='Videos: 25, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<category title='Por que a família é importante?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“As Famílias Poderão Ser Eternas”</title>
         <description></description>
@@ -1346,15 +1227,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/1280/720/1632234' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428184001/640/360/656239' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que o casamento no templo é importante?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que o casamento no templo é importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/laie-hawaii-temple-wedding-243957-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que o casamento no templo é importante?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/marriage/images/Why is temple marriage important - AV090511cah004-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faça-nos Perguntas”</title>
         <description></description>
@@ -1366,15 +1241,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728399001/1280/720/2124256' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728399001/640/360/924256' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que a castidade é importante?' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que a castidade é importante?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que a castidade é importante?' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/chastity/images/Why is chastity important - AV060224_cah069alt2-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Eu Escolhi Ser Puro”,</title>
         <description></description>
@@ -1469,8 +1338,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550606001/1280/720/2127176' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550606001/1920/1080/7302000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso preparar-me agora para me tornar uma esposa e mãe digna?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso preparar-me agora para me tornar uma esposa e mãe digna?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/prepare/images/How can I prepare now to be a righteous wife and mother - matt-5101-cirlce.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Mães e Filhas”</title>
         <description></description>
@@ -1538,8 +1408,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418877001/1280/720/1189145' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418877001/1280/720/1384103' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como o papel do homem e da mulher complementam um ao outro na família?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como o papel do homem e da mulher complementam um ao outro na família?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/roles/images/How do the roles of fathers and mothers complement each other - AV110125cah0024-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“As Mulheres em Nossa Vida”</title>
         <description></description>
@@ -1566,15 +1437,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423545001/1280/720/1582224' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423545001/1280/720/1289485' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso fortalecer minha família?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso fortalecer minha família?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso fortalecer minha família?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/strengthen/images/How can I strengthen my family AV100408cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Por Meio de Coisas Pequenas”</title>
         <description></description>
@@ -1610,9 +1475,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550602001/1280/720/1798610' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550602001/1920/1080/8125000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Setembro: Os Mandamentos' subtitle='Videos: 22; Audio: 0'><category title='Como posso estar no mundo, sem ser do mundo?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Setembro: Os Mandamentos' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<category title='Como posso estar no mundo, sem ser do mundo?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Dar Frutos Onde Quer Que Esteja”</title>
         <description></description>
@@ -1671,15 +1538,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839745001/1280/720/1305865' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839745001/640/360/734926' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Como protejo minha virtude?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como protejo minha virtude?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como protejo minha virtude?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/virtue/images/How do I guard my virtue-CWD_13b27bad-9827-457d-839f-a6249eafc096-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Olhe Onde Pisa</title>
         <description></description>
@@ -1736,8 +1597,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2606113345001/1280/720/1791659' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2606113345001/1280/720/2192121' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como as coisas que digo afetam a mim e aqueles ao meu redor?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como as coisas que digo afetam a mim e aqueles ao meu redor?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/affect/images/AV1008024cmb0033.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Clube Boca Limpa”</title>
         <description></description>
@@ -1794,8 +1656,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839747001/1280/720/1089445' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839747001/1280/720/1286316' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que jejuamos?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Por que jejuamos?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/fast/images/What are the blessings of a meaningful fast - AV090126cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Nós Compartilhamos”</title>
         <description></description>
@@ -1807,15 +1670,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729232001/1280/720/2124497' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729232001/1280/720/1796497' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que temos o mandamento de guardar o Dia do Senhor?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que temos o mandamento de guardar o Dia do Senhor?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que temos o mandamento de guardar o Dia do Senhor?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/sabbath/images/AV060802_cah2716.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Desenvolveu Compaixão em Sua Juventude”</title>
         <description></description>
@@ -1849,15 +1706,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620087001/640/360/36371' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620087001/1280/720/65133' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que é importante ser honesta?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que é importante ser honesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que é importante ser honesta?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/honest/images/Why is it important to be hones - AV110413_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Honestidade: É Melhor Acreditar Nela!</title>
         <description></description>
@@ -1881,15 +1732,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518528001/640/360/908509' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518528001/1920/1080/20585000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que pagamos o dízimo?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que pagamos o dízimo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que pagamos o dízimo?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/tithing/images/Why do we pay tithing - AV070116_cah025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Convidar a Agir”</title>
         <description></description>
@@ -1900,16 +1745,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839751001/1280/720/1310411' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839751001/640/360/658775' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Outubro: Tornar-se Mais Semelhante a Cristo' subtitle='Videos: 26; Audio: 0'><category title='Como posso me tornar mais semelhante a Cristo?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso me tornar mais semelhante a Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Outubro: Tornar-se Mais Semelhante a Cristo' subtitle='Videos: 26, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<category title='Como posso me tornar mais semelhante a Cristo?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Pão de Cada Dia: Mudança”</title>
         <description></description>
@@ -1964,8 +1804,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553515083001/1280/720/1160284' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553515083001/1280/720/1592520' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso desenvolver amor cristão?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso desenvolver amor cristão?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/develop/images/How can I develop Christlike love - CWD_4e861973-622f-4451-9e59-e6d773f2a759-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Torcendo Juntas”</title>
         <description></description>
@@ -2033,15 +1874,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680957723001/640/360/36336' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680957723001/1280/720/66739' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso ser mais semelhante a Cristo em meu serviço ao próximo?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso ser mais semelhante a Cristo em meu serviço ao próximo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso ser mais semelhante a Cristo em meu serviço ao próximo?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/service/images/How can I be more Christlike in my service to others - AV080325_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Parábola do Bom Samaritano”</title>
         <description></description>
@@ -2140,8 +1975,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2515802458001/640/360/680538' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2515802458001/1280/720/1217541' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso aprender a ser mais paciente?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso aprender a ser mais paciente?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/patient/images/How can I learn to be more patient - AV091209cah208-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Prosseguir com Paciência</title>
         <description></description>
@@ -2175,8 +2011,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181242001/640/360/803275' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181242001/1280/720/1702613' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que é importante ser grata?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Por que é importante ser grata?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/grateful/images/Why is it important to be gratefu - AV100730cah0025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ser Grato”</title>
         <description></description>
@@ -2209,16 +2046,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2515802460001/1280/720/1460611' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2515802460001/1280/720/1217637' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Novembro: Autossuficiência Espiritual e Material' subtitle='Videos: 12; Audio: 0'><category title='O que significa ser autossuficiente?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que significa ser autossuficiente?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Novembro: Autossuficiência Espiritual e Material' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<category title='O que significa ser autossuficiente?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Convide-nos a Agir”</title>
         <description></description>
@@ -2230,15 +2062,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737241001/1280/720/2524083' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737241001/1920/1080/7719000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que é importante para mim adquirir instrução e desenvolver habilidades?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que é importante para mim adquirir instrução e desenvolver habilidades?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que é importante para mim adquirir instrução e desenvolver habilidades?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/develop/images/Why is it important for me to gain an education and develop skillsCWD_879eb746-d0c8-41f6-a7e0-41924797dee8-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Encontrar Respostas em um Discurso de Conferência”</title>
         <description></description>
@@ -2249,8 +2075,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421687001/640/360/629244' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421687001/1280/720/1093167' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso saber se estou me tornando convertida?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso saber se estou me tornando convertida?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/converted/images/new-youth-curriculum-yw-How-do-I-know-if-I-am-becoming-converted-1216157.jpg'>
+<rss><channel><item>
         <id></id>
         <title>À Espera, na Estrada para Damasco”</title>
         <description></description>
@@ -2273,15 +2100,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680733110001/640/360/755234' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680733110001/1280/720/1385379' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que o trabalho é um princípio importante do evangelho?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que o trabalho é um princípio importante do evangelho?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que o trabalho é um princípio importante do evangelho?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/work/images/E06J_T2Z7843.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Guiada com Facilidade”</title>
         <description></description>
@@ -2315,15 +2136,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667864766001/1280/720/1493942' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667864766001/1280/720/1812463' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Por que o Senhor deseja que eu seja saudável?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Por que o Senhor deseja que eu seja saudável?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Por que o Senhor deseja que eu seja saudável?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/healthy/images/Why does the Lord want me to be healthy - AV0706012_cah207-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>2010 Um Ano Novo: Saúde Física</title>
         <description></description>
@@ -2350,8 +2165,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421740001/1280/720/1298777' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421740001/1280/720/1896616' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Qual é a maneira do Senhor de cuidar dos pobres e necessitados?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Qual é a maneira do Senhor de cuidar dos pobres e necessitados?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needy AV091029cah072-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Deixe-nos Ensinar”</title>
         <description></description>
@@ -2363,8 +2179,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728355001/1280/720/1796274' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728355001/1280/720/2524274' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso encontrar soluções para meus desafios e problemas?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso encontrar soluções para meus desafios e problemas?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/solutions/images/av050825_jrn049.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sessão de Perguntas”</title>
         <description></description>
@@ -2375,16 +2192,11 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839752001/1280/720/1790342' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839752001/1280/720/1520984' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Dezembro: A Edificação do Reino de Deus nos Últimos Dias' subtitle='Videos: 22; Audio: 0'><category title='Como posso convidar outras pessoas a vir a Cristo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso convidar outras pessoas a vir a Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Dezembro: A Edificação do Reino de Deus nos Últimos Dias' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<category title='Como posso convidar outras pessoas a vir a Cristo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Eu Devo Partilhar”</title>
         <description></description>
@@ -2417,15 +2229,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1419622' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418884001/1280/720/1265416' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como o Pai Celestial quer que eu use meus dons espirituais?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como o Pai Celestial quer que eu use meus dons espirituais?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como o Pai Celestial quer que eu use meus dons espirituais?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts- AV120906_cah0042-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Dom Extraordinário”</title>
         <description></description>
@@ -2459,15 +2265,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885575001/1280/720/1686022' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885575001/1280/720/1427568' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso me preparar para criar um lar centralizado em Cristo?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Como posso me preparar para criar um lar centralizado em Cristo?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Como posso me preparar para criar um lar centralizado em Cristo?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-AV100114cah002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Maternidade: Uma Parceria Eterna com Deus</title>
         <description></description>
@@ -2501,15 +2301,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724997001/1920/1080/7724000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724997001/1280/720/2122636' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O que posso fazer para ajudar os membros novos da Igreja?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O que posso fazer para ajudar os membros novos da Igreja?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O que posso fazer para ajudar os membros novos da Igreja?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/help/images/What can I do to help new members of the Church-AV060212_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Trabalho Missionário e Retenção: Georgia Elias</title>
         <description></description>
@@ -2568,8 +2362,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839747001/1280/720/1089445' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839747001/1280/720/1286316' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Como posso ajudar meus amigos menos ativos a voltarem à Igreja?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Como posso ajudar meus amigos menos ativos a voltarem à Igreja?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/friends/images/AV090107cah386.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Beterrabas e o Valor de Uma Alma”</title>
         <description></description>
@@ -2649,8 +2444,9 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839755001/1280/720/1461073' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2600839755001/640/360/682475' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='O que é Sião?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O que é Sião?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Nós Agimos</title>
         <description></description>
@@ -2662,6 +2458,6 @@ Valor em Todos os Aspectos”,</title>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725056001/1280/720/2120551' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725056001/640/360/920551' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

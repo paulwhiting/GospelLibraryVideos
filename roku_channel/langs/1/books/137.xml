@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Gospel Is for Everyone' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Gospel Is for Everyone</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/UchtdorfDF_06_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-03-the-gospel-is-for-everyone-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Envelope' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Envelope</title>
         <description></description>
@@ -25,18 +22,18 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-04-the-envelope-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Family History Library' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Family History Library</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-05-family-history-library-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-05-family-history-library-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-05-family-history-library-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-05-family-history-library-360p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Golden Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Golden Friend</title>
         <description></description>
@@ -44,26 +41,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-06-a-golden-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friendship Challenge' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friendship Challenge</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep10_color_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-07-friendship-challenge-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What is a priesthood quorum?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What is a priesthood quorum?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ChristoffersonDT_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-08-what-is-a-priesthood-quorum-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
@@ -71,17 +65,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-09-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jehovah Saves Faithful Daniel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jehovah Saves Faithful Daniel</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep14_map.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-10-jehovah-saves-faithful-daniel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='After-School Mini Pizzas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>After-School Mini Pizzas</title>
         <description></description>
@@ -89,8 +81,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-11-after-school-mini-pizzas-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Making Friends of Many Faiths' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Making Friends of Many Faiths</title>
         <description></description>
@@ -98,17 +89,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-13-making-friends-of-many-faiths-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='He Will Answer' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>He Will Answer</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ScottRG_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-14-he-will-answer-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Conference Time' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Conference Time</title>
         <description></description>
@@ -116,18 +105,18 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-15-conference-time-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Build an Ark' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Build an Ark</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep23_song_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-16-build-an-ark-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-16-build-an-ark-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-16-build-an-ark-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-16-build-an-ark-360p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Family History 1-2-3' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Family History 1-2-3</title>
         <description></description>
@@ -135,26 +124,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-17-family-history-1-2-3-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep27_poster_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-19-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Faithful Girl Named Emma' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Faithful Girl Named Emma</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep29_emma_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-20-a-faithful-girl-named-emma-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -162,27 +148,26 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-21-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep34_maze_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-22-for-little-friends-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-22-for-little-friends-64k-eng.mp3' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-22-for-little-friends-360p-eng.wmv' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-22-for-little-friends-360p-eng.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Garbage Can Graffiti' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Garbage Can Graffiti</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HalesRD_03.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-23-garbage-can-graffiti-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -190,36 +175,34 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-24-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Obey Jesus Christ Because I Love Him' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Obey Jesus Christ Because I Love Him</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep41_sharing_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-25-i-obey-jesus-christ-because-i-love-him-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr10sep42_matt_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-26-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-26-matt-and-mandy-64k-eng.mp3' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-26-matt-and-mandy-360p-eng.wmv' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-26-matt-and-mandy-360p-eng.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Most Precious Gift' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Most Precious Gift</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BallardMR_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-28-the-most-precious-gift-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -227,8 +210,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-30-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -236,14 +218,12 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-31-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Savior, Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Savior, Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='fr10sep49_poster_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-september-2010/2010-09-32-our-savior-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

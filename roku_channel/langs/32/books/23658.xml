@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Дөрөвдүгээр сар: Урвалт ба сэргээлт' subtitle='Videos: 3; Audio: 0'><category title='Иосеф Смитийн жишээ нь сайн мэдээнээс суралцах талаар надад юу заадаг вэ?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Иосеф Смитийн жишээ нь сайн мэдээнээс суралцах талаар надад юу заадаг вэ?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+    <categories><category title='Дөрөвдүгээр сар: Урвалт ба сэргээлт' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/N0905_rmr001-circle.jpg'>
+<category title='Иосеф Смитийн жишээ нь сайн мэдээнээс суралцах талаар надад юу заадаг вэ?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/N0905_rmr001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Origin”</title>
         <description></description>
@@ -40,6 +35,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1758211' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Sossegai' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Sossegai</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/thomas-s-monson.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-02-peace-be-still-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ativação' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ativação</title>
         <description></description>
@@ -16,17 +14,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-03-activation-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Caderno da Conferência de Outubro' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Caderno da Conferência de Outubro</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-04-october-conference-notebook-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Como Criar Filhos Resilientes' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Como Criar Filhos Resilientes</title>
         <description></description>
@@ -34,17 +30,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-05-raising-resilient-children-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Você É Livre' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Você É Livre</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/d-todd-christofferson.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-06-you-are-free-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Viver os Princípios da Autossuficiência' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Viver os Princípios da Autossuficiência</title>
         <description></description>
@@ -52,17 +46,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-07-living-the-principles-of-self-reliance-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Poder da Palavra de Deus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Poder da Palavra de Deus</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/michael-john-u-teh.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-08-the-power-of-the-word-of-god-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='As Bênçãos do Dízimo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>As Bênçãos do Dízimo</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-09-the-blessings-of-tithing-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Criar Tradições de Páscoa Centradas em Cristo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Criar Tradições de Páscoa Centradas em Cristo</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-10-creating-christ-centered-easter-traditions-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Importância da Família' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Importância da Família</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-11-the-importance-of-family-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Vozes da Igreja' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vozes da Igreja</title>
         <description></description>
@@ -97,80 +86,71 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-12-latter-day-saint-voices-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Hora Certa para Casar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Hora Certa para Casar</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/earl-c-tingey.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-13-the-right-time-to-marry-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Direto ao Ponto' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Direto ao Ponto</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/ne13mar41-ALL-to-the-point-AV070307_cah026alt2.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-14-to-the-point-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Que Acontece Depois da Morte?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Que Acontece Depois da Morte?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/ne13mar30-ALL-what-happens-after-we-die-L13MIM47.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-15-what-happens-after-we-die-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Não Usem Máscaras' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Não Usem Máscaras</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/quentin-l-cook.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-16-dont-wear-masks-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Meu Irmão Acreditou em Mim' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Meu Irmão Acreditou em Mim</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/ne13mar13-ALL-my-brother-believed-in-me-L13MenCA51Aalt.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-17-my-brother-believed-in-me-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Tenho um Testemunho da Família' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tenho um Testemunho da Família</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/ann-m-dibb.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-18-i-have-a-testimony-of-the-family-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Perigos Ocultos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Perigos Ocultos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/ne13mar24-25-ALL-hidden-dangers-L13M_IMG_0785-L12impg55.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-19-hidden-dangers-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Tocada por um Testemunho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Tocada por um Testemunho</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/ne13mar42-ALL-touched-by-a-testimony-L13MCA_57.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-20-touched-by-a-testimony-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Onde Foi Publicado o Livro de Mórmon' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Onde Foi Publicado o Livro de Mórmon</title>
         <description></description>
@@ -178,17 +158,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-21-where-the-book-of-mormon-was-published-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Livro Novo de Ricardo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Livro Novo de Ricardo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/mary-n-cook.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-22-rics-new-book-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Os Cordeiros de Márcia' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Os Cordeiros de Márcia</title>
         <description></description>
@@ -196,17 +174,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-23-megans-lambs-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Por que Jesus Cristo é tão importante para nós?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Por que Jesus Cristo é tão importante para nós?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/03/dallin-h-oaks.jpg'/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-24-why-is-jesus-christ-so-important-to-us-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Porque Ele Vive' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Porque Ele Vive</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-25-because-he-lives-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Cristo É Nosso Salvador' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Cristo É Nosso Salvador</title>
         <description></description>
@@ -223,8 +198,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-26-jesus-christ-is-our-savior-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Um Presente do Pai Celestial' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Um Presente do Pai Celestial</title>
         <description></description>
@@ -232,8 +206,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-28-a-gift-from-heavenly-father-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Líderes Incentivam os Membros a Unir a História da Família e o Templo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Líderes Incentivam os Membros a Unir a História da Família e o Templo</title>
         <description></description>
@@ -241,8 +214,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-29-leaders-encourage-members-to-tie-family-history-to-the-temple-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Profissionais de Mídia Necessários para Trabalhar em Projetos da Igreja' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Profissionais de Mídia Necessários para Trabalhar em Projetos da Igreja</title>
         <description></description>
@@ -250,8 +222,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-30-media-professionals-needed-to-work-on-church-projects-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Presença da Igreja Cresce na América do Sul, Relatam os Élderes Oaks e Bednar' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Presença da Igreja Cresce na América do Sul, Relatam os Élderes Oaks e Bednar</title>
         <description></description>
@@ -259,8 +230,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-31-church-presence-growing-in-south-america-elders-oaks-and-bednar-report-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Presidente Monson Rededica o Templo de Boise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Presidente Monson Rededica o Templo de Boise</title>
         <description></description>
@@ -268,8 +238,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-32-president-monson-rededicates-boise-temple-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Comentários' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Comentários</title>
         <description></description>
@@ -277,8 +246,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-33-church-preparing-online-resources-for-youth-activities-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Igreja no Mundo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Igreja no Mundo</title>
         <description></description>
@@ -286,8 +254,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-34-around-the-church-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Resgate no Campo Minado' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Resgate no Campo Minado</title>
         <description></description>
@@ -295,5 +262,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/liahona/2013-march/2013-03-35-the-minefield-rescue-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

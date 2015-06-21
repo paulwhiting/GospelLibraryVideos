@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Introduction' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Introduction' subtitle='Videos: 2, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/921418/f163abd178c54e24ad660edfc832e5c9/320x213.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Introduction</title>
         <description></description>
@@ -18,8 +19,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1679060396001/1440/1080/8462000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='The Objective of Seminaries and Institutes of Religion' subtitle='Videos: 15; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='The Objective of Seminaries and Institutes of Religion' subtitle='Videos: 15, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1134549/9d890303190a4ffa88a3d17c139db4ed/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>The Objective of Seminaries and Institutes of Religion</title>
         <description></description>
@@ -186,8 +188,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935615859001/640/360/835110' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935615859001/1280/720/2107607' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Fundamentals of Gospel Teaching and Learning' subtitle='Videos: 27; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Fundamentals of Gospel Teaching and Learning' subtitle='Videos: 27, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1136680/ed39dde463d94d5f8b39dcbde319a9e8/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Fundamentals of Gospel Teaching and Learning</title>
         <description></description>
@@ -487,8 +490,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3930261317001/1280/720/1559536' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3930261317001/640/360/744295' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Teaching the Scriptures in Seminaries and Institutes' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Teaching the Scriptures in Seminaries and Institutes' subtitle='Videos: 5, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/623070/4c060995b821423580b3945352c45d81/320x436.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Teaching the Scriptures in Seminaries and Institutes</title>
         <description></description>
@@ -546,8 +550,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240187100001/1920/1080/8242000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2240187100001/1280/720/2496000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Preparing to Teach' subtitle='Videos: 12; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Preparing to Teach' subtitle='Videos: 12, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/425405/67ca427d9ace48ae911abc2e7ffa2544/320x240.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Preparing to Teach</title>
         <description></description>
@@ -683,8 +688,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935615847001/640/360/839033' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935615847001/1280/720/1487255' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Teaching Methods, Skills, and Approaches' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Teaching Methods, Skills, and Approaches' subtitle='Videos: 9, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1116915/7030050aeb10489c942afad90a6b0cc6/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Teaching Methods, Skills, and Approaches</title>
         <description></description>
@@ -784,8 +790,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3930249711001/480/360/809386' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3930249711001/640/480/2016657' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Continuing to Improve as a Teacher' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Continuing to Improve as a Teacher' subtitle='Videos: 1, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1171254/3c49ba17f0ce44c7b75eb2d9e4917da4/320x426.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Continuing to Improve as a Teacher</title>
         <description></description>
@@ -796,5 +803,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935120571001/1280/720/1571659' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3935120571001/640/360/752048' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-02-friends-by-mail-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Wonderful Time of Year' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Wonderful Time of Year</title>
         <description></description>
@@ -16,17 +14,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-03-a-wonderful-time-of-year-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Cabbage for Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Cabbage for Christmas</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:626.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-04-a-cabbage-for-christmas-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Nativity' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Nativity</title>
         <description></description>
@@ -34,26 +30,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-05-the-nativity-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: A Beautiful World' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: A Beautiful World</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:628.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-06-friend-to-friend-a-beautiful-world-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='This Is Christmas!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>This Is Christmas!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:63.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-07-this-is-christmas-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='They Spoke to Us' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They Spoke to Us</title>
         <description></description>
@@ -61,17 +54,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-08-they-spoke-to-us-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Grew Up in a Righteous Family' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Grew Up in a Righteous Family</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:62a.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-09-jesus-grew-up-in-a-righteous-family-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Christmas in the Americas: A Christmas Program' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christmas in the Americas: A Christmas Program</title>
         <description></description>
@@ -79,44 +70,39 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-10-christmas-in-the-americas-a-christmas-program-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Christmas Workshop' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christmas Workshop</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:62c.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-11-christmas-workshop-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Tree for Nana' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Tree for Nana</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:91.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-14-a-tree-for-nana-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: Keep the Commandments' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: Keep the Commandments</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:45.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-15-special-witness-keep-the-commandments-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Christmas Gifts All Year' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Christmas Gifts All Year</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:638.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-16-sharing-time-christmas-gifts-all-year-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -124,26 +110,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-17-trying-to-be-like-jesus-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From the Life of President Heber J. Grant' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From the Life of President Heber J. Grant</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:63a.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-18-from-the-life-of-president-heber-j-grant-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:63e.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-19-for-little-friends-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -151,5 +134,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2004-december/2004-12-20-guide-to-the-friend-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

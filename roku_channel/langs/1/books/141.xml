@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Returning Safely to Heavenly Father' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Returning Safely to Heavenly Father</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/UchtdorfDF_06_rgb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-03-returning-safely-to-heavenly-father-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Brother and the Resurrection' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Brother and the Resurrection</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BeckJB_03.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-04-my-brother-and-the-resurrection-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Garden' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Garden</title>
         <description></description>
@@ -34,63 +30,58 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-05-the-garden-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Promises of a Prophet' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Promises of a Prophet</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/TenorioO_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-06-the-promises-of-a-prophet-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Christ Is My Savior' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Christ Is My Savior</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09apr10_sharing_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-07-jesus-christ-is-my-savior-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09apr13_matt_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-08-matt-and-mandy-64k-eng.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-08-matt-and-mandy-64k-eng.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-08-matt-and-mandy-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-08-matt-and-mandy-360p-eng.wmv' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Excited to Learn' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Excited to Learn</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EyringHB_07.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-09-excited-to-learn-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How can I learn more when I read the scriptures?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How can I learn more when I read the scriptures?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BednarDA_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-10-how-can-i-learn-more-when-i-read-the-scriptures-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Best of Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Best of Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09apr20_map.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-11-the-best-of-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -98,8 +89,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-12-kitchen-krafts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Our Creative Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Our Creative Friends</title>
         <description></description>
@@ -107,26 +97,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-13-our-creative-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Broken Trust' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Broken Trust</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BednarDA_04.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-15-broken-trust-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09apr32_maze_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-17-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friends in the News' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friends in the News</title>
         <description></description>
@@ -134,17 +121,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-19-friends-in-the-news-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Grumbling Peter' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Grumbling Peter</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/KikuchiY_86-99.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-20-grumbling-peter-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The First Vision' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The First Vision</title>
         <description></description>
@@ -152,26 +137,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-21-the-first-vision-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Questions and Answers about the Organization of the Church' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Questions and Answers about the Organization of the Church</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/SmithJ_c1836_painting.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-22-questions-and-answers-about-the-organization-of-the-church-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Making Peace with His Enemies' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Making Peace with His Enemies</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr09apr44_prophets_tmb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-25-making-peace-with-his-enemies-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -179,8 +161,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-26-trying-to-be-like-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -188,5 +169,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-april-2009/2009-04-28-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

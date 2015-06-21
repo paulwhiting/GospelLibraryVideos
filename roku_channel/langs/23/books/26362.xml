@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Leadership Principles' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Leadership Principles' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Seek, and Ye shall Find</title>
         <description></description>
@@ -10,8 +11,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500436758001_2013-06-022-seek-and-ye-shall-find-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500436726001_2013-06-022-seek-and-ye-shall-find-8000k-nor.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mission Leader' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mission Leader' subtitle='Videos: 2, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Serving in the Ward Mission</title>
         <description></description>
@@ -33,5 +35,5 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500549240001_2013-06-024-inviting-all-to-come-unto-christ-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2500550295001_2013-06-024-inviting-all-to-come-unto-christ-8000k-nor.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

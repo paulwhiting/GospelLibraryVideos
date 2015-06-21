@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='January: The Godhead' subtitle='Videos: 11; Audio: 0'><category title='How does the Holy Ghost help me learn?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='January: The Godhead' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/learn/images/godhead-HG-learn.jpg'>
+<category title='How does the Holy Ghost help me learn?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/learn/images/godhead-HG-learn.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Preparing Youth to Discuss”</title>
         <description></description>
@@ -11,8 +13,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654943001/1920/1080/6502000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654943001/1280/720/2118495' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can studying the scriptures help me learn about Heavenly Father?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can studying the scriptures help me learn about Heavenly Father?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/godhead-how-scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Blessings of Scripture”</title>
         <description></description>
@@ -35,8 +38,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919057001/1920/1080/6952000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919057001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I help others learn about Heavenly Father?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I help others learn about Heavenly Father?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/help/images/godhead-how-can-i-help.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Prepare to Teach”</title>
         <description></description>
@@ -48,8 +52,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686978001/1280/720/1796956' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686978001/1920/1080/7944000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I learn to see Heavenly Father’s hand in all things?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I learn to see Heavenly Father’s hand in all things?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/hand/images/godhead-hand-in-all-things.jpg'>
+<rss><channel><item>
         <id></id>
         <title>O Remember, Remember</title>
         <description></description>
@@ -118,8 +123,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717436001/1280/720/2527995' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717436001/1280/720/1799995' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How does the Holy Ghost help me teach the gospel?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How does the Holy Ghost help me teach the gospel?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/teach/images/SS-godhead-hg-teach.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Teaching Each Other”</title>
         <description></description>
@@ -131,9 +137,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654945001/640/360/915640' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654945001/1920/1080/6343000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='February: The Plan of Salvation' subtitle='Videos: 11; Audio: 0'><category title='Why is learning an important part of Heavenly Father’s plan?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='February: The Plan of Salvation' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<category title='Why is learning an important part of Heavenly Father’s plan?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“You Know Enough”</title>
         <description></description>
@@ -166,8 +174,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633629001/1280/720/1454237' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633629001/640/360/725171' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Why is teaching the gospel important in the plan of salvation?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Why is teaching the gospel important in the plan of salvation?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/teaching/images/plan-why-is-teaching-the-gospel.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Young Jesus Teaches in the Temple”</title>
         <description></description>
@@ -219,8 +228,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028816849001/640/360/872000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028816849001/1280/720/2472000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='What is the role of agency in learning the gospel?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What is the role of agency in learning the gospel?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/role/images/plan-role-of-agency.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Searching for Words in the Scriptures”</title>
         <description></description>
@@ -232,8 +242,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654953001/640/360/912847' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654953001/1280/720/2112847' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I help others participate in learning?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I help others participate in learning?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/participate/images/plan-how-can-I-help-others.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Watching a Video”</title>
         <description></description>
@@ -245,8 +256,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654948001/1280/720/2113443' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654948001/1920/1080/6495000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I use Church music to learn about the plan of salvation?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I use Church music to learn about the plan of salvation?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/others/images/Unknown-29.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Strengthen Our Families”</title>
         <description></description>
@@ -258,9 +270,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673847001/1280/720/1795822' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673847001/640/360/923822' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='March: The Atonement of Jesus Christ' subtitle='Videos: 10; Audio: 0'><category title='How can I use the words of living prophets and apostles to strengthen my faith in the Atonement of Jesus Christ?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='March: The Atonement of Jesus Christ' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/atonement-how-can-I-use.jpg'>
+<category title='How can I use the words of living prophets and apostles to strengthen my faith in the Atonement of Jesus Christ?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/atonement-how-can-I-use.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Lifting Burdens”</title>
         <description></description>
@@ -283,15 +297,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686977001/1280/720/2524107' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686977001/640/360/924107' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='What can the scriptures teach me about the Atonement of Jesus Christ?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>What can the scriptures teach me about the Atonement of Jesus Christ?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='What can the scriptures teach me about the Atonement of Jesus Christ?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/scriptures/images/atonement-what-can-the-scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Use the Scriptures”</title>
         <description></description>
@@ -303,8 +311,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686974001/640/360/925038' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686974001/1280/720/2125038' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can the Book of Mormon help me strengthen my faith in the Atonement of Jesus Christ?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can the Book of Mormon help me strengthen my faith in the Atonement of Jesus Christ?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/strengthen/images/atonement-how-can-the-book.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Book of Mormon Introduction”</title>
         <description></description>
@@ -337,8 +346,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648697001/1280/720/2115850' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648697001/1280/720/1787850' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can relying on the Savior’s grace help me become a better teacher?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can relying on the Savior’s grace help me become a better teacher?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/learn/images/atonement-how-can-relying.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Using Familiar Objects to Teach Gospel Truths”</title>
         <description></description>
@@ -350,8 +360,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633622001/1280/720/2496000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633622001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I use comparisons to teach others about the Atonement?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I use comparisons to teach others about the Atonement?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/teach/images/atonement-how-can-i-use-comparisons.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Mediator”;</title>
         <description></description>
@@ -387,9 +398,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288064336001/640/480/1911919' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288064336001/480/360/609125' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='April: The Apostasy and the Restoration' subtitle='Videos: 13; Audio: 0'><category title='Easter: How can I share my testimony of Jesus Christ’s Resurrection?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='April: The Apostasy and the Restoration' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<category title='Easter: How can I share my testimony of Jesus Christ’s Resurrection?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Because of Him,”</title>
         <description></description>
@@ -411,8 +424,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267076766001/1280/720/1468656' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267076766001/1280/720/2067862' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='What does Joseph Smith’s example teach me about learning the gospel?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What does Joseph Smith’s example teach me about learning the gospel?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/apostasy-what-does-joseph.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Origin”</title>
         <description></description>
@@ -446,8 +460,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1758211' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I recognize the difference between truth and error?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I recognize the difference between truth and error?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/difference/images/apostasy-how-can-i-recognize.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“You Will Be Freed”</title>
         <description></description>
@@ -481,8 +496,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267082909001/640/360/807378' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267082909001/1280/720/1762166' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Why is it important to teach pure doctrine?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Why is it important to teach pure doctrine?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/pure-doctrine/images/apostasy-why-is-it-important.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Identifying Key Points in a Conference Talk”</title>
         <description></description>
@@ -494,8 +510,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648700001/1280/720/1786895' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648700001/640/360/914895' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I liken the events of the Apostasy and the Restoration to my life?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I liken the events of the Apostasy and the Restoration to my life?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/learn-more/images/apostasy-how-can-i-liken-events.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“What the Restoration Means for Me”</title>
         <description></description>
@@ -531,8 +548,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634695001/1280/720/2087196' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634695001/640/360/887196' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I explain the Apostasy and the Restoration to others?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I explain the Apostasy and the Restoration to others?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/teach-others/images/apostasy-how-can-i-explain.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“We Share”</title>
         <description></description>
@@ -544,9 +562,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673846001/640/360/924542' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673846001/1280/720/1796542' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='May: Prophets and Revelation' subtitle='Videos: 11; Audio: 0'><category title='What can I learn from living prophets and apostles?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='May: Prophets and Revelation' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/prophets-what-can-i-learn.jpg'>
+<category title='What can I learn from living prophets and apostles?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/prophets-what-can-i-learn.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Know and Love Us”</title>
         <description></description>
@@ -558,15 +578,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676978001/1920/1080/8001000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676978001/1280/720/1796302' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I improve my scripture study?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I improve my scripture study?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I improve my scripture study?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/scripture/images/AV051128_cah010-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ask Us Questions”</title>
         <description></description>
@@ -578,8 +592,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686976001/640/360/924266' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686976001/1280/720/2524266' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How does reverence help me receive revelation?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How does reverence help me receive revelation?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/reverent/images/prophets-how-does-reverence-help.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Inviting to Act”</title>
         <description></description>
@@ -591,8 +606,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631146001/1280/720/1788720' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631146001/640/360/916720' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='What does it mean to bear testimony?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What does it mean to bear testimony?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/testimony/images/prophets-what-does-it-mean.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Man without Eloquence,”</title>
         <description></description>
@@ -650,8 +666,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288105017001/640/480/1911984' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288105017001/480/360/1111984' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='What can I learn from President Monson about following the Spirit?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What can I learn from President Monson about following the Spirit?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/more/images/prophets-what-can-i-learn-from.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Following the Promptings of the Spirit,”</title>
         <description></description>
@@ -685,9 +702,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654951001/1280/720/2114254' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654951001/1280/720/1786254' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='June: Priesthood and Priesthood Keys' subtitle='Videos: 11; Audio: 0'><category title='How can I participate effectively in councils in the Church?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='June: Priesthood and Priesthood Keys' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/priesthood-how-can-i-participate.jpg'>
+<category title='How can I participate effectively in councils in the Church?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/priesthood-how-can-i-participate.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Participate in Councils,”</title>
         <description></description>
@@ -723,8 +742,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1287989090001/1280/720/2128001' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1287989090001/1280/720/2528001' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How do women and priesthood holders work together to build the kingdom of God?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How do women and priesthood holders work together to build the kingdom of God?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/together/images/priesthood-how-do-women-and-priesthood.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Errand of Angels,”</title>
         <description></description>
@@ -760,8 +780,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633622001/1280/720/2496000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633622001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Why is it important to follow the counsel given by priesthood leaders?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Why is it important to follow the counsel given by priesthood leaders?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/counsel/images/priesthood-why-is-it-important.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“We Become”</title>
         <description></description>
@@ -773,8 +794,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676979001/1280/720/2524584' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676979001/1280/720/2124584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can using scripture study skills help me learn more about the priesthood?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can using scripture study skills help me learn more about the priesthood?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/learn/images/priesthood-how-can-using-scripture.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Answering a Class Members Question”</title>
         <description></description>
@@ -786,8 +808,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221653885001/1280/720/1788079' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221653885001/1920/1080/6431000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I use stories to teach others about the priesthood?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I use stories to teach others about the priesthood?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/teach/images/priesthood-how-can-i-use-stories.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sanctify Yourselves,”</title>
         <description></description>
@@ -822,9 +845,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676977001/640/360/922757' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676977001/1280/720/1794757' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='July: Ordinances and Covenants' subtitle='Videos: 8; Audio: 0'><category title='What spiritual truths can I learn from the ordinances of the gospel?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='July: Ordinances and Covenants' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<category title='What spiritual truths can I learn from the ordinances of the gospel?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Help Us Discover the Gospel”</title>
         <description></description>
@@ -836,8 +861,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919057001/1920/1080/6952000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919057001/640/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I deepen my understanding of covenants?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I deepen my understanding of covenants?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/learn/images/How can I learn more about ordinances and covenants - L06FOFC-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Teaching Each Other”</title>
         <description></description>
@@ -849,15 +875,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654945001/640/360/915640' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654945001/1920/1080/6343000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I make the sacrament more meaningful to me?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I make the sacrament more meaningful to me?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I make the sacrament more meaningful to me?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/teach/images/050804_jrn043.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Sacrament Helps Us Draw Closer to Jesus Christ”</title>
         <description></description>
@@ -881,15 +901,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634695001/1280/720/2087196' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634695001/640/360/887196' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How do I keep my covenant to always remember the Savior?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How do I keep my covenant to always remember the Savior?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How do I keep my covenant to always remember the Savior?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/remember/images/How do I keep my covenant to always remember the Savior1-circle.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Invite Us to Testify”</title>
         <description></description>
@@ -901,8 +915,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717436001/1280/720/2527995' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717436001/1280/720/1799995' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I prepare to receive temple ordinances?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I prepare to receive temple ordinances?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/prepare/images/How can I prepare to receive temple ordinances - CWD_521645e9-4515-4683-b07f-1ba1f3cd9c7a-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Always in Our Sights”</title>
         <description></description>
@@ -938,9 +953,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550592001/1280/720/1799182' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235550592001/1280/720/2527182' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='August: Marriage and Family' subtitle='Videos: 11; Audio: 0'><category title='How will keeping a personal journal bless me and my family?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='August: Marriage and Family' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<category title='How will keeping a personal journal bless me and my family?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Remember, Remember”</title>
         <description></description>
@@ -974,15 +991,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633917001/1920/1080/6824000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633917001/1280/720/1768000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Why is it important to learn about my family history?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Why is it important to learn about my family history?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Why is it important to learn about my family history?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/history/images/AV120727_cah0035.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Elder Bednar Addresses Youth,”</title>
         <description></description>
@@ -1030,8 +1041,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686977001/1280/720/2524107' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686977001/640/360/924107' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I teach others how to do family history work?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I teach others how to do family history work?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/teach/images/AV100226cah005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Finding Answers in a Conference Talk”</title>
         <description></description>
@@ -1042,8 +1054,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648697001/1280/720/2115850' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648697001/1280/720/1787850' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I explain the importance of marriage and family to others?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I explain the importance of marriage and family to others?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/importance/images/AV121003_cah0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Let Us Teach” </title>
         <description></description>
@@ -1055,8 +1068,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717437001/640/360/924317' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717437001/1280/720/1796317' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='What opportunities are there for learning and teaching in the home?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What opportunities are there for learning and teaching in the home?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/opportunities/images/What opportunities are there for learning and teaching in the home - AV061023_yv0052-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Heaven-Inspired Program”</title>
         <description></description>
@@ -1080,9 +1094,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673848001/1280/720/2523801' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673848001/640/360/923801' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='September: Commandments' subtitle='Videos: 13; Audio: 0'><category title='How do the commandments help me learn to be more like Heavenly Father?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='September: Commandments' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<category title='How do the commandments help me learn to be more like Heavenly Father?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Discussing Questions”</title>
         <description></description>
@@ -1093,8 +1109,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633629001/1280/720/1454237' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633629001/640/360/725171' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I help others understand my standards?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I help others understand my standards?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/standards/images/How can I help others understand my standards - AV120223_cah0029alt-CIRCLE'>
+<rss><channel><item>
         <id></id>
         <title>“Answering a Class Member&apos;s Question”</title>
         <description></description>
@@ -1106,8 +1123,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221653885001/1280/720/1788079' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221653885001/1920/1080/6431000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How does keeping the commandments affect my ability to learn the gospel?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How does keeping the commandments affect my ability to learn the gospel?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/ability/images/CU120426_People_Madrid52.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“God Gave Them Knowledge”</title>
         <description></description>
@@ -1144,8 +1162,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631505001/640/360/888808' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631505001/1280/720/1760808' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I inspire others to obey the commandments?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I inspire others to obey the commandments?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/inspire/images/How can I inspire others to obey the commandments - AV070307_cah054-cirecle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Let Your Light So Shine,”</title>
         <description></description>
@@ -1201,8 +1220,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3569577098001/640/360/795908' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3569577098001/1280/720/1785517' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='What blessings does Heavenly Father promise if I obey the commandments?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What blessings does Heavenly Father promise if I obey the commandments?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/blessings/images/What blessings does Heavenly Father promise if I obey the commandments - CWD_998fb89e-db4c-4a5c-8f6e-963c96fc57a7-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Secure Anchor”</title>
         <description></description>
@@ -1236,9 +1256,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2589134838001/1280/720/1630324' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2589134838001/1280/720/2288737' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='October: Becoming More Christlike' subtitle='Videos: 16; Audio: 0'><category title='How can I invite others to become more like the Savior?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='October: Becoming More Christlike' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<category title='How can I invite others to become more like the Savior?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Inviting All to Come unto Christ: Sharing the Gospel,”</title>
         <description></description>
@@ -1297,15 +1319,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654948001/1280/720/2113443' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654948001/1920/1080/6495000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I show love for those I teach?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I show love for those I teach?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/ammon-defending-kings-sheep-39656-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I show love for those I teach?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/love/images/N11GIM43B-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Love Those You Teach”</title>
         <description></description>
@@ -1335,8 +1351,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633615001/1280/720/1765757' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223633615001/1280/720/2093757' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How did the Savior compare gospel truths to familiar objects and experiences?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How did the Savior compare gospel truths to familiar objects and experiences?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/familiar/images/livingwater_altLessRed.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Prodigal Son”</title>
         <description></description>
@@ -1364,8 +1381,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/2096000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1920/1080/7879000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I use the scriptures to help others become more Christlike?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I use the scriptures to help others become more Christlike?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/others/images/AV060509_cah1009.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Determine What To Teach”</title>
         <description></description>
@@ -1377,8 +1395,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1668000921001/640/360/923998' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1668000921001/1280/720/2123998' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I use questions effectively as I teach?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I use questions effectively as I teach?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/questions/images/AV0812010cah001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Things as They Really Are”</title>
         <description></description>
@@ -1413,8 +1432,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634692001/1280/720/1390068' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223634692001/1280/720/1685900' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='What can I learn about gospel learning from the Savior’s example?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What can I learn about gospel learning from the Savior’s example?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/example/images/0001394PL.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Share Stories and Examples”</title>
         <description></description>
@@ -1426,9 +1446,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1939235178001/1280/720/2524618' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1939235178001/640/360/924618' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='November: Spiritual and Temporal Self-Reliance' subtitle='Videos: 16; Audio: 0'><category title='How can I become spiritually self-reliant?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='November: Spiritual and Temporal Self-Reliance' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<category title='How can I become spiritually self-reliant?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“They That Are Wise”</title>
         <description></description>
@@ -1462,8 +1484,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288085824001/640/480/1716657' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288085824001/480/360/911976' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I find answers to my own gospel questions?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I find answers to my own gospel questions?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/answers/images/AV121011_cah0006-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>video of the address</title>
         <description></description>
@@ -1487,8 +1510,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686976001/640/360/924266' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686976001/1280/720/2524266' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I learn to make my own decisions?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I learn to make my own decisions?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/decisions/images/How can I learn to make my own decisionsV090107cah379-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Wrong Roads”</title>
         <description></description>
@@ -1522,8 +1546,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648700001/1280/720/1786895' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648700001/640/360/914895' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can setting goals help me become self-reliant?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can setting goals help me become self-reliant?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/goals/images/How can setting goals help me become self-reliantAV090107cah331-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Work in Progress”</title>
         <description></description>
@@ -1559,15 +1584,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631146001/1280/720/1788720' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631146001/640/360/916720' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I prepare to be financially self-reliant?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I prepare to be financially self-reliant?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I prepare to be financially self-reliant?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/financially/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Becoming Provident Providers”</title>
         <description></description>
@@ -1601,8 +1620,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267086013001/640/360/876095' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1267086013001/1280/720/1628111' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I stand as a witness of God?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I stand as a witness of God?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/witness/images/new-youth-curriculum-ss-How-can-I-stand-as-a-witness-of-God-1200973.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“No Cussing Club”</title>
         <description></description>
@@ -1626,9 +1646,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288148720001/1280/720/2532000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288148720001/1280/720/1800024' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='December: Building the Kingdom of God in the Latter Days' subtitle='Videos: 16; Audio: 0'><category title='How can I learn to serve more effectively in the Church?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='December: Building the Kingdom of God in the Latter Days' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<category title='How can I learn to serve more effectively in the Church?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“We Become”</title>
         <description></description>
@@ -1640,8 +1662,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676979001/1280/720/2524584' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676979001/1280/720/2124584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I become a better leader?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='How can I become a better leader?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/leader/images/AV050901_cah051.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Using Pictures”</title>
         <description></description>
@@ -1651,15 +1674,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648695001/1280/720/2519207' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221648695001/640/360/919207' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I become a better teacher?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I become a better teacher?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I become a better teacher?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/teacher/images/AV110518_cah013.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Teach Each Other from the Scriptures”</title>
         <description></description>
@@ -1671,8 +1688,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631503001/1280/720/2090200' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223631503001/1920/1080/6219000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='What are effective ways to share the gospel with others?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What are effective ways to share the gospel with others?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/share/images/What are effective ways to share the gospel with others-AV0808025_cah021-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sharing Your Beliefs,”</title>
         <description></description>
@@ -1728,15 +1746,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654943001/1920/1080/6502000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2221654943001/1280/720/2118495' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='How can I understand the symbols used to teach about the Second Coming?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>How can I understand the symbols used to teach about the Second Coming?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='How can I understand the symbols used to teach about the Second Coming?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/symobls/images/How can I understand the symbols used to teach about the Second Coming0001238-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“They That Are Wise”</title>
         <description></description>
@@ -1792,8 +1804,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288105019001/640/480/1767940' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1288105019001/640/480/1603949' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='What can I learn from the scriptures to help me prepare for the Second Coming?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='What can I learn from the scriptures to help me prepare for the Second Coming?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/learn/images/What can I learn from the scriptures to help me prepare for the Second Coming-AV091221cah050-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“We Learn”</title>
         <description></description>
@@ -1805,8 +1818,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676976001/640/360/923749' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676976001/1920/1080/7720000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Christmas: How can I share my testimony that Jesus Christ is the Son of God?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Christmas: How can I share my testimony that Jesus Christ is the Son of God?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/christmas/images/nativity-1168845-gallery.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“He Is the Gift,”</title>
         <description></description>
@@ -1825,6 +1839,6 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2366108195001/720/360/1227770' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

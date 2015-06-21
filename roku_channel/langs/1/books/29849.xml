@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Commit' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Commit' subtitle='Videos: 1, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265386/3d58429027504373aa04c16d8c74e971/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Commit</title>
         <description></description>
@@ -10,8 +11,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034990001/640/360/735845' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034990001/1280/720/1562346' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Resources' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Resources' subtitle='Videos: 5, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Resources</title>
         <description></description>
@@ -64,8 +66,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034964001/640/360/433773' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034964001/1280/720/699812' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Learn' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learn' subtitle='Videos: 1, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265465/1ff44847136c480988b7b7e60b4c14b6/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Learn</title>
         <description></description>
@@ -76,8 +79,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035494001/1280/720/1749928' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035494001/1280/720/2021596' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Learn' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learn' subtitle='Videos: 3, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265463/0c0cd0a69ae145239c3572e80764406c/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Learn</title>
         <description></description>
@@ -110,8 +114,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744033199001/640/360/781170' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744033199001/1280/720/1960765' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Learn' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learn' subtitle='Videos: 2, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265462/f47782e2844a4c449d91e132ed1f4ef3/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Learn</title>
         <description></description>
@@ -133,8 +138,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035506001/640/360/779731' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035506001/1280/720/1443851' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Learn' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learn' subtitle='Videos: 5, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265464/82c62e0f853e4090969e8bd0295e6d9a/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Learn</title>
         <description></description>
@@ -187,8 +193,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034964001/640/360/433773' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744034964001/1280/720/699812' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Learn' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Learn' subtitle='Videos: 3, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/mobile/images/1265461/d876d3f12bb6458799fa873fe5f469c7/320x320.png'>
+<rss><channel><item>
         <id></id>
         <title>Learn</title>
         <description></description>
@@ -221,5 +228,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035515001/1280/720/1374661' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3744035515001/640/360/783112' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

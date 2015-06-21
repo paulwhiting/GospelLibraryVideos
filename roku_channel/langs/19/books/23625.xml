@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Januari: Gudomen' subtitle='Videos: 20; Audio: 0'><category title='Vad känner vi till om gudomens natur?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad känner vi till om gudomens natur?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+    <categories><category title='Januari: Gudomen' subtitle='Videos: 20, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<category title='Vad känner vi till om gudomens natur?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/know/images/godhead-what-do-we-know-about-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>”Återställelsen”</title>
         <description></description>
@@ -44,15 +39,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148925001/640/360/2365324' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148925001/640/360/900324' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag lära känna min himmelske Fader?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag lära känna min himmelske Fader?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag lära känna min himmelske Fader?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/heavenly-father/images/How can I know my Heavenly Father - AV110331_cah109-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Bönen”</title>
         <description></description>
@@ -71,15 +60,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Varför är Jesus Kristus viktig i mitt liv?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är Jesus Kristus viktig i mitt liv?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är Jesus Kristus viktig i mitt liv?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/important/images/godhead-why-is-jesus-christ-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>”Han hjälper dig”</title>
         <description></description>
@@ -186,15 +169,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1225414' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1425844' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilka uppgifter har den Helige Anden?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilka uppgifter har den Helige Anden?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilka uppgifter har den Helige Anden?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/roles/images/What are the roles of the Holy Ghost - AV120607_cah0016-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Andens röst”</title>
         <description></description>
@@ -218,15 +195,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585653001/1280/720/1799828' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585653001/1280/720/2127828' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vem är jag, och vem kan jag bli?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vem är jag, och vem kan jag bli?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vem är jag, och vem kan jag bli?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/godhead/become/images/Who am I and who can I become - L1008_de_006-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Betydelsefull på alla sätt”</title>
         <description></description>
@@ -285,16 +256,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428161001/1280/720/1299434' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428161001/1280/720/1809684' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Februari: Frälsningsplanen' subtitle='Videos: 16; Audio: 0'><category title='Vad är frälsningsplanen?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är frälsningsplanen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Februari: Frälsningsplanen' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<category title='Vad är frälsningsplanen?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/what/images/plan-what-is-the-plan-copy.gif'>
+<rss><channel><item>
         <id></id>
         <title>”Människor skall ge upp andan av skräck”</title>
         <description></description>
@@ -328,15 +294,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681073001/1280/720/1547215' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681073001/640/360/793369' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad är livets mening?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är livets mening?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vad är livets mening?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/purpose/images/plan-what-is-the-purpose-copy1.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Undervisa varandra ur skrifterna”</title>
         <description></description>
@@ -347,15 +307,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1216913' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1415840' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför spelar det någon roll vad jag väljer?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför spelar det någon roll vad jag väljer?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför spelar det någon roll vad jag väljer?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/choices/images/plan-why-do-the-choices-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ångrar inget”</title>
         <description></description>
@@ -389,8 +343,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202513240001/1280/720/1814094' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202513240001/1280/720/2158031' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför får vi motgångar?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Varför får vi motgångar?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/adversity/images/plan-why-do-we-have-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Gud lyfter oss”</title>
         <description></description>
@@ -424,8 +379,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715055001/1280/720/1577691' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715055001/640/360/738703' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag finna tröst när någon jag älskar går bort?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hur kan jag finna tröst när någon jag älskar går bort?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/comfort/images/AV121105_cah0246-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Tills vi möts igen”</title>
         <description></description>
@@ -484,15 +440,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341222001/1920/1080/6843000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341222001/1280/720/2127938' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför ska jag behandla min kropp som ett tempel?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför ska jag behandla min kropp som ett tempel?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför ska jag behandla min kropp som ett tempel?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/plan-of-salvation/sacred/images/plan-why-should-i-treat-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Kyskhet: Var går gränsen?”</title>
         <description></description>
@@ -518,16 +468,11 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Mars: Jesu Kristi försoning' subtitle='Videos: 19; Audio: 0'><category title='Vad är Jesu Kristi försoning?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är Jesu Kristi försoning?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Mars: Jesu Kristi försoning' subtitle='Videos: 19, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<category title='Vad är Jesu Kristi försoning?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/what/images/AV050803_cah017s-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Frälsaren lider i Getsemane</title>
         <description></description>
@@ -547,15 +492,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481874001/1280/720/2527983' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481874001/1280/720/1799983' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad innebär det att ha tro på Jesus Kristus?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad innebär det att ha tro på Jesus Kristus?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vad innebär det att ha tro på Jesus Kristus?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/faith/images/AV071211cah019-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”En ren och enkel tro”</title>
         <description></description>
@@ -613,15 +552,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191176248001/1280/720/1799520' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191176248001/1920/1080/8025000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan omvändelse hjälpa mig varje dag?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan omvändelse hjälpa mig varje dag?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan omvändelse hjälpa mig varje dag?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/repentance/images/Atonement - How can repentance help me every day CWD_9d7be10f-3163-436f-82b2-a6358971f2ca-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Något man gör om och om igen,”</title>
         <description></description>
@@ -656,15 +589,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191175045001/1280/720/1799984' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191175045001/640/360/927984' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad är nåden?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är nåden?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vad är nåden?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/grace/images/AV081231cah249-circles.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vi lär”</title>
         <description></description>
@@ -675,8 +602,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687005001/1280/720/702669' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031687005001/640/360/384314' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför behöver jag förlåta andra?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Varför behöver jag förlåta andra?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/forgive/images/refuges.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Förlåt 70 gånger 7”</title>
         <description></description>
@@ -725,8 +653,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Vad är uppståndelsen?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vad är uppståndelsen?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/resurrection/images/Resurrection-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Han har uppstått”</title>
         <description></description>
@@ -750,8 +679,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737227001/1920/1080/7801000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737227001/1280/720/2524581' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan försoningen hjälpa mig under mina prövningar?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hur kan försoningen hjälpa mig under mina prövningar?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/atonement/trials/images/AV120822_cah0008-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Gud lyfter oss”</title>
         <description></description>
@@ -786,16 +716,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150468001/1280/720/1800002' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150468001/1280/720/2528002' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='April: Avfallet och återställelsen' subtitle='Videos: 10; Audio: 0'><category title='Varför var återställelsen nödvändig?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför var återställelsen nödvändig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='April: Avfallet och återställelsen' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<category title='Varför var återställelsen nödvändig?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restoration/images/why-was-a-restoration.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ett sökande efter sanningen”,</title>
         <description></description>
@@ -819,15 +744,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2245681754001/1280/720/1799985' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2245681754001/1280/720/2527985' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför behöver vi Mormons bok?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför behöver vi Mormons bok?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför behöver vi Mormons bok?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/book-of-mormon/images/apostasy-why-do-we-need-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Studera Mormons bok” </title>
         <description></description>
@@ -839,15 +758,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396726029001/1280/720/1753983' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396726029001/1920/1080/7364000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur återställdes prästadömet?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur återställdes prästadömet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/beliefs-practices/priesthood-blessing-307866-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur återställdes prästadömet?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/restored/images/how-was-the-priesthood-restore.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Prästadömets återställelse”</title>
         <description></description>
@@ -871,15 +784,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291623445001/640/360/1800000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291623445001/640/360/1228000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilken roll hade Joseph Smith under återställelsen?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilken roll hade Joseph Smith under återställelsen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilken roll hade Joseph Smith under återställelsen?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/joseph-smith/images/joseph-smith-role.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Joseph Smith: Återställelsens profet”</title>
         <description></description>
@@ -915,15 +822,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264488721001/640/480/2527990' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264488721001/640/480/2127990' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är den första synen viktig?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är den första synen viktig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/christ-teaching-nephites-39665-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är den första synen viktig?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/apostasy-restoration/first-vision/images/first-vision-important.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Återställelsen”</title>
         <description></description>
@@ -949,16 +850,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148925001/640/360/2365324' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148925001/640/360/900324' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Maj: Profeter och uppenbarelse' subtitle='Videos: 15; Audio: 0'><category title='Varför är det viktigt att lyssna till och följa de levande profeterna?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är det viktigt att lyssna till och följa de levande profeterna?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Maj: Profeter och uppenbarelse' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<category title='Varför är det viktigt att lyssna till och följa de levande profeterna?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/listen/images/whyisitimportant.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vi behöver levande profeter”</title>
         <description></description>
@@ -993,15 +889,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434719001/1280/720/1784626' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434719001/1280/720/1501854' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur får jag personlig uppenbarelse?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur får jag personlig uppenbarelse?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur får jag personlig uppenbarelse?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/receive/images/prophets-how-do-i-receive-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ljusets mönster: Uppenbarelsens ande”</title>
         <description></description>
@@ -1058,15 +948,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416853001/1280/720/1458218' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416853001/1280/720/1714076' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag göra mina böner mer meningsfulla?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag göra mina böner mer meningsfulla?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag göra mina böner mer meningsfulla?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/meaningful/images/prophets-how-can-i-make-my-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Dagligt bröd: Erfarenhet”</title>
         <description></description>
@@ -1100,15 +984,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282361001/1280/720/1679285' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335282361001/1280/720/1985233' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är det viktigt att studera skrifterna?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är det viktigt att studera skrifterna?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är det viktigt att studera skrifterna?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/study/images/scriptures.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Mormons bok: Budskap från himlen”,</title>
         <description></description>
@@ -1142,8 +1020,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1216913' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1415840' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag stärka mitt vittnesbörd?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hur kan jag stärka mitt vittnesbörd?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/prophets-revelation/gain/images/testimony.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Inbjud oss att vittna”</title>
         <description></description>
@@ -1155,16 +1034,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725014001/640/360/924618' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725014001/1280/720/1796618' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Juni: Prästadömet och prästadömsnycklar' subtitle='Videos: 13; Audio: 0'><category title='Vad är prästadömet?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är prästadömet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Juni: Prästadömet och prästadömsnycklar' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/new-youth-curriculum-yw-what-is-the-priesthood-994008.jpg'>
+<category title='Vad är prästadömet?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/what/images/new-youth-curriculum-yw-what-is-the-priesthood-994008.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Prästadömets välsignelser är tillgängliga för alla”</title>
         <description></description>
@@ -1197,8 +1071,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417407001/1280/720/1436795' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417407001/640/360/676361' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad innebär det att stödja mina ledare i kyrkan?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vad innebär det att stödja mina ledare i kyrkan?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/honor/images/new-youth-curriculum-yw-sustain-my-church-leaders-1196047.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Låt oss få undervisa”</title>
         <description></description>
@@ -1210,15 +1085,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728356001/1280/720/2524270' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728356001/1280/720/1796270' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilka ansvar har jag inom prästadömets verk?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilka ansvar har jag inom prästadömets verk?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilka ansvar har jag inom prästadömets verk?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/duties/images/new-youth-curriculum-yw-my-responsibilities-in-the-priesthood-1190698.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Arbete ger glädje”</title>
         <description></description>
@@ -1251,8 +1120,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434714001/1280/720/1736757' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434714001/1280/720/1431905' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad menas med prästadömsnycklar?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vad menas med prästadömsnycklar?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/keys/images/priesthood-what-are-the-keys-copy.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Återställelsen av prästadömets nycklar”</title>
         <description></description>
@@ -1285,15 +1155,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293973764001/1280/720/2528010' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2293973764001/1280/720/1800010' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur får jag del av prästadömets kraft och välsignelser i mitt liv?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur får jag del av prästadömets kraft och välsignelser i mitt liv?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur får jag del av prästadömets kraft och välsignelser i mitt liv?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/priesthood-keys/bless/images/bless-me.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Prästadömets välsignelser”</title>
         <description></description>
@@ -1329,16 +1193,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127558465001/1280/720/1800000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127558465001/1920/1080/7770000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Juli: Förrättningar och förbund' subtitle='Videos: 16; Audio: 0'><category title='Varför är förrättningar viktiga i mitt liv?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är förrättningar viktiga i mitt liv?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Juli: Förrättningar och förbund' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<category title='Varför är förrättningar viktiga i mitt liv?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/sacrament/images/AV120905_cah1165.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Tro på prästadömets kraft”</title>
         <description></description>
@@ -1372,15 +1231,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402234001/1280/720/1834642' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402234001/1280/720/1292227' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är förbund viktiga i mitt liv?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är förbund viktiga i mitt liv?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/anti-nephi-lehies-bury-weapons-39657-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är förbund viktiga i mitt liv?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/essential/images/0001284s.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vandra i hans ljus”</title>
         <description></description>
@@ -1413,15 +1266,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1225414' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1425844' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilka förbund ingick jag vid dopet?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilka förbund ingick jag vid dopet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilka förbund ingick jag vid dopet?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/baptism/images/AV060503_cah3944.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Samma lagtröja”,</title>
         <description></description>
@@ -1454,15 +1301,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423506001/1280/720/1399465' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423506001/1280/720/1205904' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag ta emot den Helige Andens gåva?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag ta emot den Helige Andens gåva?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag ta emot den Helige Andens gåva?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/gift/images/av051208_jrn051alt.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Bestäm vad du ska undervisa om”</title>
         <description></description>
@@ -1474,15 +1315,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686998001/1280/720/2492324' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686998001/1280/720/2092324' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är templets förrättningar så viktiga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är templets förrättningar så viktiga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är templets förrättningar så viktiga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/temple/images/Why are temple ordinances important - -AV081208cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Templet är en ledstjärna”</title>
         <description></description>
@@ -1516,8 +1351,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681094001/1280/720/2061677' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681094001/640/360/800039' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad betyder det att jag tar på mig Jesu Kristi namn?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Vad betyder det att jag tar på mig Jesu Kristi namn?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/ordinances-covenants/myself/images/AV061026_cah0028.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Våga stå ensam”</title>
         <description></description>
@@ -1552,16 +1388,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416853001/1280/720/1458218' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416853001/1280/720/1714076' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Augusti: Äktenskap och familj' subtitle='Videos: 27; Audio: 0'><category title='Varför är familjen viktig?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är familjen viktig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Augusti: Äktenskap och familj' subtitle='Videos: 27, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<category title='Varför är familjen viktig?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/family/images/Why is family important - AV080617_cah043-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Familjer kan vara tillsammans för evigt”</title>
         <description></description>
@@ -1605,15 +1436,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1216913' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428186001/1280/720/1415840' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är tempelvigseln viktig?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är tempelvigseln viktig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/gospel-in-action/laie-hawaii-temple-wedding-243957-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är tempelvigseln viktig?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/marriage/images/Why is temple marriage important - AV090511cah004-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ställ frågor till oss”</title>
         <description></description>
@@ -1625,15 +1450,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725067001/1280/720/2124256' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725067001/640/360/924256' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är kyskheten viktig?' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är kyskheten viktig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är kyskheten viktig?' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/chastity/images/Why is chastity important - AV060224_cah069alt2-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Jag väljer att vara ren”</title>
         <description></description>
@@ -1724,15 +1543,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240666001/1280/720/1772051' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240666001/1280/720/1501441' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilka är kyrkans normer om dejting?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilka är kyrkans normer om dejting?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilka är kyrkans normer om dejting?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/standards/images/AV091030cah042.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ett nytt år: Dejting”</title>
         <description></description>
@@ -1754,15 +1567,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536303560001/1280/720/1763634' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536303560001/640/360/781200' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag förbereda mig i dag för att bli en rättfärdig hustru och mor?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag förbereda mig i dag för att bli en rättfärdig hustru och mor?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag förbereda mig i dag för att bli en rättfärdig hustru och mor?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/prepare/images/How can I prepare now to be a righteous wife and mother - matt-5101-cirlce.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Mödrar och döttrar”</title>
         <description></description>
@@ -1828,15 +1635,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406297001/1280/720/1450186' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406297001/1280/720/1721256' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kompletterar mannens och kvinnans roller i familjen varandra?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kompletterar mannens och kvinnans roller i familjen varandra?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kompletterar mannens och kvinnans roller i familjen varandra?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/roles/images/How do the roles of fathers and mothers complement each other - AV110125cah0024-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Kvinnorna i vårt liv”</title>
         <description></description>
@@ -1869,15 +1670,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428161001/1280/720/1809684' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428161001/1280/720/1299434' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag stärka min familj?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag stärka min familj?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag stärka min familj?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/marriage-and-family/strengthen/images/How can I strengthen my family AV100408cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Genom små medel”</title>
         <description></description>
@@ -1911,16 +1706,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240624001/1280/720/1640479' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240624001/1280/720/2307093' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='September: Buden' subtitle='Videos: 22; Audio: 0'><category title='Hur kan jag vara i världen men inte av världen?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag vara i världen men inte av världen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='September: Buden' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<category title='Hur kan jag vara i världen men inte av världen?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/world/images/AV130117_kat0297.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Blomstra där du står”,</title>
         <description></description>
@@ -1977,15 +1767,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423556001/1280/720/1290376' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423556001/640/360/729562' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag skydda min dygd?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag skydda min dygd?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag skydda min dygd?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/virtue/images/How do I guard my virtue-CWD_13b27bad-9827-457d-839f-a6249eafc096-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Se upp med första steget”</title>
         <description></description>
@@ -2041,15 +1825,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611668350001/1280/720/1682177' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2611668350001/640/360/813555' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur påverkas jag och min omgivning av det jag säger?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur påverkas jag och min omgivning av det jag säger?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur påverkas jag och min omgivning av det jag säger?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/affect/images/AV1008024cmb0033.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”No Cussing Club”</title>
         <description></description>
@@ -2104,8 +1882,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416867001/1280/720/1112715' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416867001/1280/720/1275149' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför fastar vi?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Varför fastar vi?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/fast/images/What are the blessings of a meaningful fast - AV090126cah006-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vi berättar”</title>
         <description></description>
@@ -2117,15 +1896,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729233001/1280/720/1796500' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729233001/1280/720/2524500' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför har vi fått befallningen att helga sabbatsdagen?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför har vi fått befallningen att helga sabbatsdagen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför har vi fått befallningen att helga sabbatsdagen?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/sabbath/images/AV060802_cah2716.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Han lärde sig medkänsla när han var ung”</title>
         <description></description>
@@ -2159,15 +1932,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620083001/640/360/35272' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620083001/1280/720/55571' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är det viktigt att vara ärlig?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är det viktigt att vara ärlig?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är det viktigt att vara ärlig?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/honest/images/Why is it important to be hones - AV110413_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ärlighet: Det kan ni lita på”</title>
         <description></description>
@@ -2189,15 +1956,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416411729001/1280/720/1818552' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416411729001/640/360/826804' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför betalar vi tionde?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför betalar vi tionde?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför betalar vi tionde?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/commandments/tithing/images/Why do we pay tithing - AV070116_cah025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Uppmana till handling”</title>
         <description></description>
@@ -2208,16 +1969,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421708001/640/360/664566' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421708001/1280/720/1357803' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Oktober: Bli mer kristuslik' subtitle='Videos: 26; Audio: 0'><category title='Hur kan jag bli mer kristuslik?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag bli mer kristuslik?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Oktober: Bli mer kristuslik' subtitle='Videos: 26, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<category title='Hur kan jag bli mer kristuslik?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/more/images/CU0503017-001lg.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Dagligt bröd: Förändring”</title>
         <description></description>
@@ -2272,15 +2028,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421728001/1280/720/1338032' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421728001/1280/720/1612138' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag utveckla kristuslik kärlek?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag utveckla kristuslik kärlek?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag utveckla kristuslik kärlek?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/develop/images/How can I develop Christlike love - CWD_4e861973-622f-4451-9e59-e6d773f2a759-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Heja på varandra”</title>
         <description></description>
@@ -2347,15 +2097,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964855001/1280/720/55760' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964855001/1280/720/55487' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag bli mer kristuslik i mitt tjänande av andra?' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag bli mer kristuslik i mitt tjänande av andra?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag bli mer kristuslik i mitt tjänande av andra?' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/service/images/How can I be more Christlike in my service to others - AV080325_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Liknelsen om den barmhärtige samariten”</title>
         <description></description>
@@ -2454,8 +2198,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416924001/1280/720/1230035' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416924001/1280/720/1469506' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag lära mig att bli mer tålmodig?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hur kan jag lära mig att bli mer tålmodig?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/patient/images/How can I learn to be more patient - AV091209cah208-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Fortsätt i tålamod”</title>
         <description></description>
@@ -2489,15 +2234,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654183891001/1280/720/1546591' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654183891001/640/360/845646' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är det viktigt att vara tacksam?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är det viktigt att vara tacksam?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är det viktigt att vara tacksam?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/becoming-more-christlike/grateful/images/Why is it important to be gratefu - AV100730cah0025-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Tacka”</title>
         <description></description>
@@ -2530,16 +2269,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417407001/1280/720/1436795' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417407001/1280/720/1228768' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='November: Andligt och timligt oberoende' subtitle='Videos: 12; Audio: 0'><category title='Vad menas med att vara oberoende?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad menas med att vara oberoende?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='November: Andligt och timligt oberoende' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<category title='Vad menas med att vara oberoende?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/reliant/images/N3NIM07A.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Inbjud oss att handla”</title>
         <description></description>
@@ -2551,15 +2285,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729302001/640/360/924084' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729302001/1280/720/2124084' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är det viktigt att jag skaffar mig en utbildning och lär mig färdigheter?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är det viktigt att jag skaffar mig en utbildning och lär mig färdigheter?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är det viktigt att jag skaffar mig en utbildning och lär mig färdigheter?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/develop/images/Why is it important for me to gain an education and develop skillsCWD_879eb746-d0c8-41f6-a7e0-41924797dee8-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Hitta svar i konferenstal”</title>
         <description></description>
@@ -2570,15 +2298,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418915001/640/360/635786' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418915001/1280/720/1296024' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur vet jag om jag håller på att bli omvänd?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur vet jag om jag håller på att bli omvänd?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur vet jag om jag håller på att bli omvänd?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/converted/images/new-youth-curriculum-yw-How-do-I-know-if-I-am-becoming-converted-1216157.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Att stå på vägen till Damaskus och vänta”</title>
         <description></description>
@@ -2601,15 +2323,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722187001/1280/720/1976203' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722187001/640/360/754438' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför är arbete en viktig princip i evangeliet?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför är arbete en viktig princip i evangeliet?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför är arbete en viktig princip i evangeliet?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/work/images/E06J_T2Z7843.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Lätt att leda”</title>
         <description></description>
@@ -2643,15 +2359,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867494001/1280/720/1770118' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867494001/640/360/819086' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Varför vill Herren att jag ska hålla mig frisk?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Varför vill Herren att jag ska hålla mig frisk?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Varför vill Herren att jag ska hålla mig frisk?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/healthy/images/Why does the Lord want me to be healthy - AV0706012_cah207-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ett nytt år: Fysisk hälsa”</title>
         <description></description>
@@ -2684,15 +2394,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421742001/1280/720/1587507' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421742001/640/360/722345' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vilket är Herrens sätt att sörja för de fattiga och behövande?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vilket är Herrens sätt att sörja för de fattiga och behövande?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vilket är Herrens sätt att sörja för de fattiga och behövande?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needy AV091029cah072-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Låt oss få undervisa”</title>
         <description></description>
@@ -2704,15 +2408,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728356001/1280/720/2524270' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728356001/1280/720/1796270' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur hittar jag lösningar på mina utmaningar och problem?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur hittar jag lösningar på mina utmaningar och problem?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur hittar jag lösningar på mina utmaningar och problem?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/self-reliance/solutions/images/av050825_jrn049.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Använda frågor”</title>
         <description></description>
@@ -2723,16 +2421,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434719001/1280/720/1784626' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434719001/640/360/723607' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='December: Bygga upp Guds rike i de sista dagarna' subtitle='Videos: 22; Audio: 0'><category title='Hur kan jag inbjuda andra att komma till Kristus?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag inbjuda andra att komma till Kristus?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='December: Bygga upp Guds rike i de sista dagarna' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<category title='Hur kan jag inbjuda andra att komma till Kristus?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/witnesses/images/What does it mean to stand as witnesses of God-AV121001_cah0005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Så rikt har du välsignat mig”</title>
         <description></description>
@@ -2765,15 +2458,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1225414' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418888001/1280/720/1723496' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur vill min himmelske Fader att jag ska använda mina andliga gåvor?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur vill min himmelske Fader att jag ska använda mina andliga gåvor?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur vill min himmelske Fader att jag ska använda mina andliga gåvor?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts- AV120906_cah0042-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”En enastående gåva”</title>
         <description></description>
@@ -2807,15 +2494,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738992001/1280/720/55484' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738992001/1280/720/55863' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag förbereda mig för att skapa ett hem med Kristus i centrum?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag förbereda mig för att skapa ett hem med Kristus i centrum?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag förbereda mig för att skapa ett hem med Kristus i centrum?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-AV100114cah002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Moderskap: Ett evigt partnerskap med Gud”</title>
         <description></description>
@@ -2849,15 +2530,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724998001/1280/720/1794636' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724998001/1280/720/2522636' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad kan jag göra för att hjälpa nya medlemmar i kyrkan?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad kan jag göra för att hjälpa nya medlemmar i kyrkan?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vad kan jag göra för att hjälpa nya medlemmar i kyrkan?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/help/images/What can I do to help new members of the Church-AV060212_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Missionsarbete och hur vi behåller nya medlemmar: Georgia Elias”</title>
         <description></description>
@@ -2912,15 +2587,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416867001/1280/720/1112715' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416867001/1280/720/1275149' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Hur kan jag hjälpa mina mindre aktiva vänner att komma tillbaka till kyrkan?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Hur kan jag hjälpa mina mindre aktiva vänner att komma tillbaka till kyrkan?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Hur kan jag hjälpa mina mindre aktiva vänner att komma tillbaka till kyrkan?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/friends/images/AV090107cah386.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Sockerbetor och en själs värde”</title>
         <description></description>
@@ -2997,15 +2666,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421697001/1280/720/1623301' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421697001/1280/720/1219174' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Vad är Sion?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Vad är Sion?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Vad är Sion?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/yw/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vi handlar”</title>
         <description></description>
@@ -3017,6 +2680,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728383001/1280/720/2120554' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728383001/1280/720/1792554' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

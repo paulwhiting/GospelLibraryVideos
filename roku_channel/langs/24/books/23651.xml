@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Sānualí: Ko e Toluʻi ʻOtuá' subtitle='Videos: 15; Audio: 0'><category title='Ko e hā ha founga te u lava ʻo ʻiloʻi ai ʻeku Tamai Hēvaní?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ha founga te u lava ʻo ʻiloʻi ai ʻeku Tamai Hēvaní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+    <categories><category title='Sānualí: Ko e Toluʻi ʻOtuá' subtitle='Videos: 15, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<category title='Ko e hā ha founga te u lava ʻo ʻiloʻi ai ʻeku Tamai Hēvaní?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”He Knows Me“</title>
         <description></description>
@@ -53,15 +48,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240634001/1280/720/1792783' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536240634001/640/360/920783' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku tau ʻilo fekauʻaki mo e natula ʻo e Toluʻi ʻOtuá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku tau ʻilo fekauʻaki mo e natula ʻo e Toluʻi ʻOtuá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/church-history/the-first-vision-82823-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku tau ʻilo fekauʻaki mo e natula ʻo e Toluʻi ʻOtuá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/nature/images/What do we believe about the nature of the Godhead - AV120607_cah0067-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Fakafoki mai ʻo e Ongoongoleleí”</title>
         <description></description>
@@ -99,15 +88,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215155074001/640/360/1799809' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215155074001/640/360/2127809' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e ngaahi fatongia ʻo e Laumālie Māʻonʻoní?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e ngaahi fatongia ʻo e Laumālie Māʻonʻoní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e ngaahi fatongia ʻo e Laumālie Māʻonʻoní?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/roles/images/What are the roles of the Holy Ghost - L1008_de_001-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Leʻo ʻo e Laumālié”</title>
         <description></description>
@@ -131,15 +114,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738924001/1280/720/2525913' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738924001/1920/1080/7697000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko hai au, pea ko hai te u lava ʻo hoko ʻo tatau mo iá?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko hai au, pea ko hai te u lava ʻo hoko ʻo tatau mo iá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko hai au, pea ko hai te u lava ʻo hoko ʻo tatau mo iá?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/become/images/Who am I and who can I become - L1209_ourspace_cedric-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “Ho Lelei Tahá, Ho Faingamālié”</title>
         <description></description>
@@ -211,16 +188,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423547001/640/360/641207' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423547001/1280/720/1296309' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Fēpueli: Ko e Palani ʻo e Fakamoʻuí' subtitle='Videos: 21; Audio: 0'><category title='Ko e hā hoku fatongia ʻi hono fakahoko e palani ʻa e Tamai Hēvaní?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā hoku fatongia ʻi hono fakahoko e palani ʻa e Tamai Hēvaní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+<category title='Fēpueli: Ko e Palani ʻo e Fakamoʻuí' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<category title='Ko e hā hoku fatongia ʻi hono fakahoko e palani ʻa e Tamai Hēvaní?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Hono Fakaafeʻi ʻo e Taha Kotoa ke Haʻu kia Kalaisí”</title>
         <description></description>
@@ -244,15 +216,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874227147001/1280/720/2526653' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874227147001/1920/1080/8083000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e palani ʻo e fakamoʻuí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e palani ʻo e fakamoʻuí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e palani ʻo e fakamoʻuí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/what/images/Unknown-18.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Men’s Hearts Shall Fail Them”</title>
         <description></description>
@@ -288,15 +254,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681071001/1280/720/1780241' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681071001/640/360/908241' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā naʻe hoko ʻi he maama fakalaumālié?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā naʻe hoko ʻi he maama fakalaumālié?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā naʻe hoko ʻi he maama fakalaumālié?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/premortal/images/Unknown-20.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Palani ʻo e Fakamoʻuí”</title>
         <description></description>
@@ -308,15 +268,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504684001/640/480/2087000' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504684001/640/480/1959952' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e taumuʻa ʻo e moʻuí?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e taumuʻa ʻo e moʻuí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e taumuʻa ʻo e moʻuí?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/purpose/images/Unknown-21.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Feakoʻiʻaki mei he Folofolá”</title>
         <description></description>
@@ -327,15 +281,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/1280/720/1217472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/640/360/668587' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fili ʻoku ou faí?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fili ʻoku ou faí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fili ʻoku ou faí?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/choices/images/plan-why-do-the-choices-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Nofomaʻu ʻi loto he Ngaahi Lainí”</title>
         <description></description>
@@ -382,15 +330,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729260001/1920/1080/7933000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729260001/1280/720/2124581' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku tau fepaki ai mo e faingataʻá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku tau fepaki ai mo e faingataʻá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku tau fepaki ai mo e faingataʻá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/adversity/images/plan-why-do-we-have-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻE Hiki Hake Kitautolu ʻe he ʻOtuá,”</title>
         <description></description>
@@ -425,15 +367,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715053001/1280/720/1404472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715053001/1280/720/1931238' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u lava fēfē ʻo maʻu ha fiemālie he taimi ʻoku pekia ai ha taha ʻoku ou ʻofa ai?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u lava fēfē ʻo maʻu ha fiemālie he taimi ʻoku pekia ai ha taha ʻoku ou ʻofa ai?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u lava fēfē ʻo maʻu ha fiemālie he taimi ʻoku pekia ai ha taha ʻoku ou ʻofa ai?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/comfort/images/Unknown-23.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Kae ʻOua Ke Tau Toe Feʻiloaki”</title>
         <description></description>
@@ -486,15 +422,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341223001/1280/720/8349000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341223001/640/360/928000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku totonu ai ke u tauhi hoku sinó ke hangē ha temipalé?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku totonu ai ke u tauhi hoku sinó ke hangē ha temipalé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku totonu ai ke u tauhi hoku sinó ke hangē ha temipalé?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/body/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Mormon Mustang,”</title>
         <description></description>
@@ -517,16 +447,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536293335001/1280/720/2109521' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536293335001/1280/720/2509521' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Māʻasi: Ko e Fakalelei ʻa Sīsū Kalaisí' subtitle='Videos: 18; Audio: 0'><category title='Te u tokoniʻi fēfē ʻa e niʻihi kehé ke nau maʻu e ngaahi tāpuaki ʻo e Fakaleleí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u tokoniʻi fēfē ʻa e niʻihi kehé ke nau maʻu e ngaahi tāpuaki ʻo e Fakaleleí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://www.lds.org/gospellibrary/artbook/images/ArtBook__054_054__TheLastSupper_Sm___.jpg'/>
-</item>
-<item>
+<category title='Māʻasi: Ko e Fakalelei ʻa Sīsū Kalaisí' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<category title='Te u tokoniʻi fēfē ʻa e niʻihi kehé ke nau maʻu e ngaahi tāpuaki ʻo e Fakaleleí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Lakanga Fakataulaʻeiki Fakaʻeiʻeikí,”</title>
         <description></description>
@@ -550,15 +475,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642156001/1280/720/2125559' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642156001/640/360/925559' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e Fakalelei ʻa Sīsū Kalaisí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e Fakalelei ʻa Sīsū Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e Fakalelei ʻa Sīsū Kalaisí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/atonement/images/AV050901_cah064-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ngaahi vitiō ʻo e Tohi Tapú</title>
         <description></description>
@@ -575,15 +494,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481871001/1280/720/8581000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481871001/640/360/927749' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā hono ʻuhinga ʻo e tui kia Sīsū Kalaisí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā hono ʻuhinga ʻo e tui kia Sīsū Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā hono ʻuhinga ʻo e tui kia Sīsū Kalaisí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/faith/images/AV060911_cah2776-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Tui Haohaoa mo Faingofuá”</title>
         <description></description>
@@ -619,15 +532,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191164054001/1280/720/1800000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2191164054001/1920/1080/7985000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻOku ʻuhinga ki he hā ʻa e fakatomalá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku ʻuhinga ki he hā ʻa e fakatomalá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻOku ʻuhinga ki he hā ʻa e fakatomalá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/repent/images/AV080801_cah008alt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Not a One-Time Thing,”</title>
         <description></description>
@@ -662,15 +569,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585680001/1280/720/1794352' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585680001/640/360/922352' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e ʻaloʻofa?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e ʻaloʻofa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e ʻaloʻofa?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/grace/images/AV090107cah457-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻOku Tau Ako”</title>
         <description></description>
@@ -682,15 +583,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673879001/1280/720/1795704' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673879001/1920/1080/7804000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku fie maʻu ai ke u fakamolemoleʻi e niʻihi kehé?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku fie maʻu ai ke u fakamolemoleʻi e niʻihi kehé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku fie maʻu ai ke u fakamolemoleʻi e niʻihi kehé?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/forgive/images/AV090107cah465-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “Fakamolemoleʻi Tuʻo Fitungofulu Lau ʻe Fitu”</title>
         <description></description>
@@ -739,15 +634,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e toetuʻu?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e toetuʻu?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e toetuʻu?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/AV090218cah017alt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Kuó Ne Toe Tuʻu</title>
         <description></description>
@@ -759,15 +648,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223829093001/1280/720/2102630' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223829093001/640/360/902630' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻE lava fēfē ʻe he Fakaleleí ʻo tokoniʻi au lolotonga hoku ngaahi faingataʻaʻiá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻE lava fēfē ʻe he Fakaleleí ʻo tokoniʻi au lolotonga hoku ngaahi faingataʻaʻiá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻE lava fēfē ʻe he Fakaleleí ʻo tokoniʻi au lolotonga hoku ngaahi faingataʻaʻiá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/trials/images/AV091228cah222-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻE Hiki Hake Kitautolu ʻE he ʻOtuá,”</title>
         <description></description>
@@ -802,16 +685,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151122001/1280/720/2127952' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151122001/640/360/927952' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='ʻEpeleli: Ko e Hē mei he Moʻoní mo e Toe Fakafoki Mai ʻo e Ongoongoleleí' subtitle='Videos: 17; Audio: 0'><category title='‘E fēfē haʻaku fakaafeʻi ‘a e kakai kotoa pē ke nau haʻu kia Kalaisí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>‘E fēfē haʻaku fakaafeʻi ‘a e kakai kotoa pē ke nau haʻu kia Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='ʻEpeleli: Ko e Hē mei he Moʻoní mo e Toe Fakafoki Mai ʻo e Ongoongoleleí' subtitle='Videos: 17, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<category title='‘E fēfē haʻaku fakaafeʻi ‘a e kakai kotoa pē ke nau haʻu kia Kalaisí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakaafeʻi Kotoa ke Haʻu kia Kalaisi”</title>
         <description></description>
@@ -835,15 +713,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151106001/1280/720/1762320' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163151106001/640/360/890320' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā naʻe fie maʻu ai ke toe fakafoki mai ‘a e ongoongoleleí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā naʻe fie maʻu ai ke toe fakafoki mai ‘a e ongoongoleleí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā naʻe fie maʻu ai ke toe fakafoki mai ‘a e ongoongoleleí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/necessary/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“ A Search for Truth”</title>
         <description></description>
@@ -867,15 +739,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291593653001/640/480/2527988' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291593653001/640/480/2127988' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Naʻe anga fēfē hono toe fakafoki mai ‘o e lakanga fakataulaʻeikí?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Naʻe anga fēfē hono toe fakafoki mai ‘o e lakanga fakataulaʻeikí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Naʻe anga fēfē hono toe fakafoki mai ‘o e lakanga fakataulaʻeikí?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/restored/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>Ko e Mafai mo e Mālohi ʻo e Lakanga Fakataulaʻeikí</title>
         <description></description>
@@ -947,15 +813,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291518989001/1280/720/2498397' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291518989001/1920/1080/8039000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā e fatongia ‘o Siosefa Sāmita ‘i hono Toe Fakafoki Mai ‘o e Ongoongoleleí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā e fatongia ‘o Siosefa Sāmita ‘i hono Toe Fakafoki Mai ‘o e Ongoongoleleí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā e fatongia ‘o Siosefa Sāmita ‘i hono Toe Fakafoki Mai ‘o e Ongoongoleleí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/joseph-smith/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Siosefa Sāmita: Ko e Palōfita ʻo e Ongoongolelei Kuo Toe Fakafoki Maí” </title>
         <description></description>
@@ -990,15 +850,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264488722001/640/480/2812000' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264488722001/640/480/2117484' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ‘oku mahuʻinga ai ‘a e ‘Uluaki Mata-Meʻa-Hā-Maí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ‘oku mahuʻinga ai ‘a e ‘Uluaki Mata-Meʻa-Hā-Maí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ‘oku mahuʻinga ai ‘a e ‘Uluaki Mata-Meʻa-Hā-Maí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/first-vision/images/AV070604_cah109-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“The Restoration”</title>
         <description></description>
@@ -1024,15 +878,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215155074001/640/360/1799809' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215155074001/640/360/2127809' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ‘oku tau fie maʻu ai ‘a e Tohi ‘a Molomoná?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ‘oku tau fie maʻu ai ‘a e Tohi ‘a Molomoná?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ‘oku tau fie maʻu ai ‘a e Tohi ‘a Molomoná?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/book-of-mormon/images/Unknown.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>The Book of Mormon: An Apostle’s Introduction</title>
         <description></description>
@@ -1056,16 +904,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642096001/640/360/928000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642096001/1920/1080/8303000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Mē: Kau Palōfitá mo e Fakahaá' subtitle='Videos: 19; Audio: 0'><category title='Ko e hā ʻoku mahuʻinga ai ke ako e folofolá?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ke ako e folofolá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Mē: Kau Palōfitá mo e Fakahaá' subtitle='Videos: 19, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<category title='Ko e hā ʻoku mahuʻinga ai ke ako e folofolá?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Hono Fakahoko Ho Fatongia ki he ʻOtuá,”</title>
         <description></description>
@@ -1111,15 +954,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/1280/720/1217472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/640/360/668587' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ke fakafanongo mo muimui ʻi he kau palōfita moʻuí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ke fakafanongo mo muimui ʻi he kau palōfita moʻuí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ke fakafanongo mo muimui ʻi he kau palōfita moʻuí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/listen/images/_P9Q4219-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Tangata Leʻo he Tauá”</title>
         <description></description>
@@ -1154,15 +991,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428204001/1280/720/1850706' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428204001/1280/720/1342915' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u maʻu fēfē ha fakahā fakataautaha?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u maʻu fēfē ha fakahā fakataautaha?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u maʻu fēfē ha fakahā fakataautaha?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/receive/images/AV110928_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Ngaahi Sīpinga ʻo e Māmá: Laumālie ʻo e Fakahaá,”</title>
         <description></description>
@@ -1219,15 +1050,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418937001/1280/720/1426777' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418937001/1280/720/1808709' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u lava fēfē ʻo ʻai ke mahuʻingamālie ange ʻeku lotú?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u lava fēfē ʻo ʻai ke mahuʻingamālie ange ʻeku lotú?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u lava fēfē ʻo ʻai ke mahuʻingamālie ange ʻeku lotú?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/meaningful/images/AV120106_cah551-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Daily Bread: Experience”</title>
         <description></description>
@@ -1261,15 +1086,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3569589365001/1280/720/93499' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3569589365001/1280/720/89104' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u fakamālohia fēfē ʻeku fakamoʻoní?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u fakamālohia fēfē ʻeku fakamoʻoní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u fakamālohia fēfē ʻeku fakamoʻoní?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/testimony/images/AV110922_cah001-circle-jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ko e Tatali ʻi Hotau Hala ki Tāmasikusí</title>
         <description></description>
@@ -1293,15 +1112,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717473001/1280/720/1796612' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717473001/640/360/924612' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā e meʻa ne akoʻi ʻe Palesiteni Monisoni ki he kau maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā e meʻa ne akoʻi ʻe Palesiteni Monisoni ki he kau maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā e meʻa ne akoʻi ʻe Palesiteni Monisoni ki he kau maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/holders/images/codybellcodybell-9975-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ngāue Fakafaifekaú: Ko ha Fatongia ʻo e Lakanga Fakataulaʻeikí,”</title>
         <description></description>
@@ -1325,16 +1138,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346568794001/1920/1080/8288000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346568794001/1280/720/1798650' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Sune: Lakanga Fakataulaʻeikí mo e Ngaahi Kī ʻo e Lakanga Fakataulaʻeikí' subtitle='Videos: 24; Audio: 0'><category title='ʻOku tokoni fēfē ʻa e moʻui tāú ki he mālohi ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku tokoni fēfē ʻa e moʻui tāú ki he mālohi ʻo e lakanga fakataulaʻeikí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Sune: Lakanga Fakataulaʻeikí mo e Ngaahi Kī ʻo e Lakanga Fakataulaʻeikí' subtitle='Videos: 24, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<category title='ʻOku tokoni fēfē ʻa e moʻui tāú ki he mālohi ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakamāʻoniʻoniʻi Kimoutolu”</title>
         <description></description>
@@ -1378,15 +1186,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030839001/1280/720/2507324' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030839001/1280/720/1779324' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e lakanga fakataulaʻeiki?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e lakanga fakataulaʻeiki?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e lakanga fakataulaʻeiki?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/what/images/priesthood-what-is-the-priesthood-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻAtā e Ngaahi Tāpuaki ʻo e Lakanga Fakataulaʻeikí ki he Taha Kotoa,”</title>
         <description></description>
@@ -1438,15 +1240,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417408001/640/360/677493' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417408001/1280/720/1439911' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e ngaahi kī ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e ngaahi kī ʻo e lakanga fakataulaʻeikí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e ngaahi kī ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/keys/images/priesthood-what-are-the-keys-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ako Ho Fatongiá”</title>
         <description></description>
@@ -1551,15 +1347,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642059001/1280/720/1768000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642059001/1280/720/2496000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā hoku ngaahi fatongia ʻi heʻeku hoko ko e taha maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā hoku ngaahi fatongia ʻi heʻeku hoko ko e taha maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā hoku ngaahi fatongia ʻi heʻeku hoko ko e taha maʻu Lakanga Taulaʻeiki Faka-ʻĒloné?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/duties/images/What are my duties as an AP holder - AV100312cah008ALT-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Hono Fakahoko Ho Fatongia ki he ʻOtuá,</title>
         <description></description>
@@ -1604,15 +1394,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428194001/1280/720/1442620' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428194001/1280/720/1710003' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku totonu ai ke u ngāue fakafaifekaú?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku totonu ai ke u ngāue fakafaifekaú?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku totonu ai ke u ngāue fakafaifekaú?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/mission/images/Why should I server a Mission - AV1008012cah0007-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Ho ʻAho ke Ngāue Fakafaifekaú”</title>
         <description></description>
@@ -1660,16 +1444,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681111001/640/360/928000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681111001/1280/720/1800000' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Siulai: Ngaahi Ouaú mo e Fuakavá' subtitle='Videos: 17; Audio: 0'><category title='Te u tokoniʻi fēfē ʻa e niʻihi kehé ke mahuʻingamālie ange meʻa ʻoku nau aʻusia he sākalamēnití?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u tokoniʻi fēfē ʻa e niʻihi kehé ke mahuʻingamālie ange meʻa ʻoku nau aʻusia he sākalamēnití?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Siulai: Ngaahi Ouaú mo e Fuakavá' subtitle='Videos: 17, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<category title='Te u tokoniʻi fēfē ʻa e niʻihi kehé ke mahuʻingamālie ange meʻa ʻoku nau aʻusia he sākalamēnití?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Manatu Ma&apos;u Ai Pē Kiate Ia.”</title>
         <description></description>
@@ -1680,15 +1459,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964884001/1280/720/1481755' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964884001/1280/720/1753891' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouaú ʻi heʻeku moʻuí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouaú ʻi heʻeku moʻuí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouaú ʻi heʻeku moʻuí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/sacrament/images/How can I make the sacrament more meaningful to me - AV080801_cah005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Tui ʻi he Mālohi ʻo e Lakanga Fakataulaʻeikí”</title>
         <description></description>
@@ -1722,15 +1495,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402236001/1280/720/1546223' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402236001/1280/720/1857223' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fuakavá ʻi heʻeku moʻuí?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fuakavá ʻi heʻeku moʻuí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/captain-moroni-title-liberty-39658-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi fuakavá ʻi heʻeku moʻuí?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/what/images/What are ordinances and covenants, and why are they essential - AV080111cah043-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakaʻaongaʻi e Fakatātā”</title>
         <description></description>
@@ -1741,15 +1508,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418889001/1280/720/1270623' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418889001/1280/720/1441139' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e ngaahi fuakava naʻá ku fai ʻi he papitaisó?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e ngaahi fuakava naʻá ku fai ʻi he papitaisó?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e ngaahi fuakava naʻá ku fai ʻi he papitaisó?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/baptism/images/What covenants did I make at baptism - AV090212cah022-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Falani Vaʻinga Tatau”</title>
         <description></description>
@@ -1782,15 +1543,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423508001/640/360/699214' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423508001/1280/720/1659084' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u maʻu fēfē ʻa e meʻafoaki ʻo e Laumālie Māʻoniʻoní?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u maʻu fēfē ʻa e meʻafoaki ʻo e Laumālie Māʻoniʻoní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u maʻu fēfē ʻa e meʻafoaki ʻo e Laumālie Māʻoniʻoní?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/gift/images/How do I receive the gift of the Holy Ghost - AV090218cah017-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakapapauʻi e Meʻa ke Akoʻí”</title>
         <description></description>
@@ -1802,15 +1557,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686999001/1280/720/1798484' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686999001/1920/1080/7618000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouau fakatemipalé?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouau fakatemipalé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ʻa e ngaahi ouau fakatemipalé?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/temple-main-salt-lake-279x279.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Ha Maama ʻa e Ngaahi Temipalé”</title>
         <description></description>
@@ -1832,15 +1581,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681092001/1280/720/1529456' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681092001/1280/720/1793779' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa e fakapapau mo e fuakava ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa e fakapapau mo e fuakava ʻo e lakanga fakataulaʻeikí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa e fakapapau mo e fuakava ʻo e lakanga fakataulaʻeikí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/covenant/images/What is the oath and covenant of the priesthood - AV091028cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakamāʻoniʻoniʻi Kimoutolu”</title>
         <description></description>
@@ -1876,15 +1619,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642156001/1280/720/2125559' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642156001/640/360/925559' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻOku ʻuhinga ki he hā ke toʻo kiate au ʻa e huafa ʻo Sīsū Kalaisí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku ʻuhinga ki he hā ke toʻo kiate au ʻa e huafa ʻo Sīsū Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻOku ʻuhinga ki he hā ke toʻo kiate au ʻa e huafa ʻo Sīsū Kalaisí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/myself/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Pole ke Tuʻu Toko Taha”</title>
         <description></description>
@@ -1919,16 +1656,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418937001/1280/720/1426777' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418937001/1280/720/1808709' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='ʻAokosi: Nofomalí mo e Fāmilí' subtitle='Videos: 25; Audio: 0'><category title='Te u fakamālohia fēfē hoku fāmilí?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u fakamālohia fēfē hoku fāmilí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='ʻAokosi: Nofomalí mo e Fāmilí' subtitle='Videos: 25, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<category title='Te u fakamālohia fēfē hoku fāmilí?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ Ngaahi Tamaí mo e Fohá”</title>
         <description></description>
@@ -1992,15 +1724,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725045001/1280/720/2128006' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725045001/1280/720/2528006' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai e angamaʻá?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai e angamaʻá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai e angamaʻá?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/chastity/images/Why is chastity important - AV050803_cah060-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻOku ou Fili ke u Maʻa,”</title>
         <description></description>
@@ -2058,15 +1784,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536293335001/1280/720/2109521' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536293335001/1280/720/2509521' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai e mali temipalé?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai e mali temipalé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai e mali temipalé?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/CU120426_LDSBuilding_Madrid07.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ask Us Questions”</title>
         <description></description>
@@ -2078,15 +1798,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729293001/1280/720/1796254' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729293001/640/360/924254' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai e fāmilí?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai e fāmilí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai e fāmilí?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/family/images/AV130117_kat0202.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Families Can Be Together Forever”</title>
         <description></description>
@@ -2127,15 +1841,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/1280/720/1217472' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423573001/640/360/668587' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u teuteu fēfē he taimí ni ke u hoko ko ha husepāniti mo ha tamai angatonu?' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u teuteu fēfē he taimí ni ke u hoko ko ha husepāniti mo ha tamai angatonu?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u teuteu fēfē he taimí ni ke u hoko ko ha husepāniti mo ha tamai angatonu?' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/prepare/images/How can I prepare now to become a righteous husband and father.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“A Work in Progress”</title>
         <description></description>
@@ -2201,15 +1909,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407314001/1280/720/1262238' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407314001/1280/720/1720911' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻOku fengāueʻaki fakataha fēfē e ngaahi fatongia ʻo e houʻeiki tangata mo fafine ʻi he fāmilí?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku fengāueʻaki fakataha fēfē e ngaahi fatongia ʻo e houʻeiki tangata mo fafine ʻi he fāmilí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻOku fengāueʻaki fakataha fēfē e ngaahi fatongia ʻo e houʻeiki tangata mo fafine ʻi he fāmilí?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/roles/images/AV110125cah0024-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ke Tau Tuʻu ʻo Ngali Tangata,”</title>
         <description></description>
@@ -2258,16 +1960,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423547001/640/360/641207' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423547001/1280/720/1296309' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Sepitema: Ngaahi Fekaú' subtitle='Videos: 21; Audio: 0'><category title='Te u lava fēfē ke ʻi māmani kae ʻikai ʻo māmani?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u lava fēfē ke ʻi māmani kae ʻikai ʻo māmani?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Sepitema: Ngaahi Fekaú' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<category title='Te u lava fēfē ke ʻi māmani kae ʻikai ʻo māmani?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Pole ke Tuʻu Toko Taha”</title>
         <description></description>
@@ -2312,15 +2009,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428167001/1280/720/1300401' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428167001/1280/720/1512065' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻOku uesia fēfē ʻe he meʻa ʻoku ou lea ʻakí ʻa kinautolu ʻoku mau feohí pea mo au?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku uesia fēfē ʻe he meʻa ʻoku ou lea ʻakí ʻa kinautolu ʻoku mau feohí pea mo au?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻOku uesia fēfē ʻe he meʻa ʻoku ou lea ʻakí ʻa kinautolu ʻoku mau feohí pea mo au?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/say/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Kalapu Tapu Kapekape”</title>
         <description></description>
@@ -2375,15 +2066,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416868001/1280/720/1233060' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416868001/640/360/628240' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u lava fēfē ʻo taʻofi ʻa e ponokalafí?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u lava fēfē ʻo taʻofi ʻa e ponokalafí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u lava fēfē ʻo taʻofi ʻa e ponokalafí?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/pornography/images/AV130116_kat0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sio Ki Ho Halá”</title>
         <description></description>
@@ -2439,15 +2124,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616635366001/1280/720/1925850' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616635366001/640/360/795601' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku tau ʻaukai aí?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku tau ʻaukai aí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku tau ʻaukai aí?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/fast/images/What%20does%20it%20mean%20to%20fast%20%20-%20AV0802019cah018-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Tau Feʻinasiʻaki”</title>
         <description></description>
@@ -2459,15 +2138,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729234001/1280/720/2124499' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729234001/1280/720/2524499' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku fekauʻi ai ke tau tauhi e ʻaho Sāpaté ke māʻoniʻoní?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku fekauʻi ai ke tau tauhi e ʻaho Sāpaté ke māʻoniʻoní?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku fekauʻi ai ke tau tauhi e ʻaho Sāpaté ke māʻoniʻoní?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/holy/images/AV120109_law002.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“He Learned Compassion in His Youth”</title>
         <description></description>
@@ -2501,15 +2174,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620081001/640/360/36867' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620081001/1280/720/87542' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku tau totongi vahehongofulu aí?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku tau totongi vahehongofulu aí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku tau totongi vahehongofulu aí?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/tithing/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Fakaafeʻi ke Ngāue”</title>
         <description></description>
@@ -2520,15 +2187,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418932001/1280/720/1327525' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418932001/1280/720/1624952' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ke faitotonú?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ke faitotonú?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ke faitotonú?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/honest/images/Why is it important to be honest - AV100730cah0011-Circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faitotonú: Tui Leva Ki ai”</title>
         <description></description>
@@ -2550,16 +2211,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416403263001/1280/720/1927508' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2416403263001/1280/720/1484839' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='ʻOkatopa: Hoko ʻo Anga Faka-Kalaisi Ange' subtitle='Videos: 21; Audio: 0'><category title='Te u tokoni fēfē ki he niʻihi kehé?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u tokoni fēfē ki he niʻihi kehé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='ʻOkatopa: Hoko ʻo Anga Faka-Kalaisi Ange' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<category title='Te u tokoni fēfē ki he niʻihi kehé?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fakahaofi Kinautolu ʻOku Faingataʻaʻiá,”</title>
         <description></description>
@@ -2603,15 +2259,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620104001/640/360/839424' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620104001/1280/720/2130259' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u hoko fēfē ʻo anga faka-Kalaisi ange?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u hoko fēfē ʻo anga faka-Kalaisi ange?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u hoko fēfē ʻo anga faka-Kalaisi ange?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/become/images/How can I become more Christlike AV060419_cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Meʻakai Fakaʻahó: Liliu,”</title>
         <description></description>
@@ -2663,15 +2313,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421729001/1280/720/1353086' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421729001/640/360/666936' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u fakatupulaki fēfē ʻa e ʻofa faka-Kalaisí?' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u fakatupulaki fēfē ʻa e ʻofa faka-Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u fakatupulaki fēfē ʻa e ʻofa faka-Kalaisí?' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/develop/images/How can I develop Christlike love AV0802025ke001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Talanoa Fakatātā ʻo e Samēlia Leleí”</title>
         <description></description>
@@ -2748,15 +2392,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676993001/640/360/811465' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676993001/1280/720/1771723' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u ako fēfē ke lahi ange ʻeku kātakí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u ako fēfē ke lahi ange ʻeku kātakí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u ako fēfē ke lahi ange ʻeku kātakí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/patient/images/How can I learn to be more patient AV081208cah082-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Hoko Atu ʻi he Faʻa Kātaki”</title>
         <description></description>
@@ -2790,15 +2428,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181244001/1280/720/1497071' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654181244001/1280/720/1679826' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku mahuʻinga ai ke loto houngaʻiá?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ke loto houngaʻiá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku mahuʻinga ai ke loto houngaʻiá?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/grateful/images/Why is it important to be grateful LeslieNilsson_dsc2340-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fai ha Fakamālō”</title>
         <description></description>
@@ -2820,16 +2452,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417408001/640/360/677493' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417408001/1280/720/1439911' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Nōvema: Moʻui Fakafalala Fakalaumālie mo Fakatuʻasino pē Kiate Kita' subtitle='Videos: 18; Audio: 0'><category title='Ko e hā ʻoku mahuʻinga ai ke maʻu ha ako fakaʻatamai mo fakatupulaki e ngaahi pōtoʻi ngāué?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku mahuʻinga ai ke maʻu ha ako fakaʻatamai mo fakatupulaki e ngaahi pōtoʻi ngāué?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Nōvema: Moʻui Fakafalala Fakalaumālie mo Fakatuʻasino pē Kiate Kita' subtitle='Videos: 18, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<category title='Ko e hā ʻoku mahuʻinga ai ke maʻu ha ako fakaʻatamai mo fakatupulaki e ngaahi pōtoʻi ngāué?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Kumi ha Tali ʻi he Konifelenisi Lahí”</title>
         <description></description>
@@ -2840,15 +2467,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417422001/1280/720/1330358' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417422001/640/360/643245' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='ʻOku ʻuhinga ki he hā ke moʻui fakafalala pē kiate kitá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>ʻOku ʻuhinga ki he hā ke moʻui fakafalala pē kiate kitá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='ʻOku ʻuhinga ki he hā ke moʻui fakafalala pē kiate kitá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/reliant/images/What does it mean to be self-reliantN07JIMOFC-CIRCLE.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Hoko ko ha Kau Tauhi Fakapotopoto”</title>
         <description></description>
@@ -2882,15 +2503,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729305001/1920/1080/7719000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729305001/1280/720/1796082' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku hoko ai e ngāué ko ha tefitoʻi moʻoni mahuʻinga ʻo e ongoongoleleí?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku hoko ai e ngāué ko ha tefitoʻi moʻoni mahuʻinga ʻo e ongoongoleleí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku hoko ai e ngāué ko ha tefitoʻi moʻoni mahuʻinga ʻo e ongoongoleleí?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/work/images/Why is work an important gospel principleAV100611cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko ha Ngāue ʻOku Lolotonga Fai”</title>
         <description></description>
@@ -2924,15 +2539,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536317996001/1280/720/1969896' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536317996001/1280/720/1451938' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u ʻilo fēfē pe ʻoku ou ului?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u ʻilo fēfē pe ʻoku ou ului?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u ʻilo fēfē pe ʻoku ou ului?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/converted/images/new-youth-curriculum-ap-How-do-I-know-if-I-am-becoming-converted-1216195.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko e Tatali ʻi he Hala ki Tāmasikusí”</title>
         <description></description>
@@ -2955,15 +2564,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3786155109001/1280/720/87341' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3786155109001/1280/720/92197' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻoku finangalo ai e ʻEikí ke u moʻui leleí?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻoku finangalo ai e ʻEikí ke u moʻui leleí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻoku finangalo ai e ʻEikí ke u moʻui leleí?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/healthy/images/AV1008011cah0060.jpg'>
+<rss><channel><item>
         <id></id>
         <title>ʻʻʻE Fakatauʻatāinaʻi Koe”</title>
         <description></description>
@@ -3018,15 +2621,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423534001/1280/720/1789988' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423534001/1280/720/1524800' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā e founga ʻa e ʻEikí ki he tokoniʻi e masivá mo e faingataʻaʻiá?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā e founga ʻa e ʻEikí ki he tokoniʻi e masivá mo e faingataʻaʻiá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā e founga ʻa e ʻEikí ki he tokoniʻi e masivá mo e faingataʻaʻiá?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needyAV100308cah014-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Hono Vahevahe ʻo e Maama ʻo Kalaisí,”</title>
         <description></description>
@@ -3060,15 +2657,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654341249001/1280/720/1472069' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654341249001/640/360/812619' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u ʻilo fēfē nai ha ngaahi meʻa ke fakaleleiʻi ʻaki hoku ngaahi faingataʻaʻiá mo e palopalemá?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u ʻilo fēfē nai ha ngaahi meʻa ke fakaleleiʻi ʻaki hoku ngaahi faingataʻaʻiá mo e palopalemá?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u ʻilo fēfē nai ha ngaahi meʻa ke fakaleleiʻi ʻaki hoku ngaahi faingataʻaʻiá mo e palopalemá?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/solutions/images/AV070822_cah031.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Aleaʻi e Ngaahi Fehuʻí”</title>
         <description></description>
@@ -3079,16 +2670,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428204001/1280/720/1850706' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428204001/1280/720/1342915' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Tīsema: Ko Hono Langa e Puleʻanga ʻo e ʻOtuá ʻi he Ngaahi ʻAho Kimui Ní' subtitle='Videos: 24; Audio: 0'><category title='Te u hoko fēfē ko ha faifekau he taimí ni?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u hoko fēfē ko ha faifekau he taimí ni?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Tīsema: Ko Hono Langa e Puleʻanga ʻo e ʻOtuá ʻi he Ngaahi ʻAho Kimui Ní' subtitle='Videos: 24, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<category title='Te u hoko fēfē ko ha faifekau he taimí ni?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title> “Ko hono Fakahoko Ho Fatongia ki he ʻOtuá,”</title>
         <description></description>
@@ -3122,15 +2708,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2534749169001/1280/720/2080005' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2534749169001/1280/720/1471803' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u lava fēfē ʻo hoko ko ha faiako fakaʻapi lelei angé?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u lava fēfē ʻo hoko ko ha faiako fakaʻapi lelei angé?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u lava fēfē ʻo hoko ko ha faiako fakaʻapi lelei angé?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home-teacher/images/How can I become a better home teacher-AV100315cah067-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faiako Fakaʻapí: Ko Hono Poupouʻi ʻo e Kau Maʻu Lakanga Taulaʻeiki Faka-ʻĒloné” </title>
         <description></description>
@@ -3163,15 +2743,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407330001/1280/720/1264058' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407330001/1280/720/1426938' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā e finangalo ʻo e Tamai Hēvaní ki he anga hono ngāue ʻaki ʻeku ngaahi meʻafoaki fakalaumālié?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā e finangalo ʻo e Tamai Hēvaní ki he anga hono ngāue ʻaki ʻeku ngaahi meʻafoaki fakalaumālié?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā e finangalo ʻo e Tamai Hēvaní ki he anga hono ngāue ʻaki ʻeku ngaahi meʻafoaki fakalaumālié?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts-AV070307_cah034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Meʻaʻofa Mātuʻaki Makehe”</title>
         <description></description>
@@ -3205,15 +2779,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738994001/1280/720/92546' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133738994001/640/360/37256' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u teuteu fēfē ke fokotuʻu maʻu ha ʻapi ʻoku fakatefito ʻia Kalaisí?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u teuteu fēfē ke fokotuʻu maʻu ha ʻapi ʻoku fakatefito ʻia Kalaisí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u teuteu fēfē ke fokotuʻu maʻu ha ʻapi ʻoku fakatefito ʻia Kalaisí?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-VRL_105861_0188906-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ko Ha Tamai Moʻoni</title>
         <description></description>
@@ -3233,15 +2801,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728325001/1280/720/2122649' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728325001/640/360/922649' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā te u lava ʻo fai ke tokoniʻi ai e kāingalotu foʻou ʻo e Siasí?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā te u lava ʻo fai ke tokoniʻi ai e kāingalotu foʻou ʻo e Siasí?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā te u lava ʻo fai ke tokoniʻi ai e kāingalotu foʻou ʻo e Siasí?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/new-members/images/What can I do to help new members of the Church-CU070305_bkf013-circle.JPG'>
+<rss><channel><item>
         <id></id>
         <title>“Ngāue Fakafaifekaú mo e Pukepuké: Georgia Elias”</title>
         <description></description>
@@ -3296,15 +2858,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416868001/1280/720/1233060' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416868001/640/360/628240' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Te u tokoni fēfē ki hoku kaungāmeʻa māmālohí ke nau foki mai ki he lotú?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Te u tokoni fēfē ki hoku kaungāmeʻa māmālohí ke nau foki mai ki he lotú?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Te u tokoni fēfē ki hoku kaungāmeʻa māmālohí ke nau foki mai ki he lotú?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/friends/images/How can I help my less-active friends return to church-AV080806_cah013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ʻIkai Ha Taha Kehe Te Ne Lava ʻo Fai Ia—Fakahaofi ʻo Kolí”</title>
         <description></description>
@@ -3359,15 +2915,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421699001/1280/720/1416257' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421699001/1280/720/1705127' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ko e hā ʻa Saione?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Ko e hā ʻa Saione?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Ko e hā ʻa Saione?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Vaʻe ʻo Teitoní,”</title>
         <description></description>
@@ -3401,6 +2951,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729281001/1280/720/2520553' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729281001/640/360/920553' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

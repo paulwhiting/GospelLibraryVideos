@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,44 +6,39 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Getting Ready for Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Getting Ready for Christmas</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-03-getting-ready-for-christmas-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Gift to Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Gift to Jesus</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/russell-m-nelson.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-04-my-gift-to-jesus-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec06-come-unto-Christ-poster-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-05-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Silent Night' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Silent Night</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec07-music-silent-night-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-06-silent-night-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Following Christ at Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Following Christ at Christmas</title>
         <description></description>
@@ -52,26 +46,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-07-following-christ-at-christmas-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Serving Mrs. Burrows' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Serving Mrs. Burrows</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/michael-t-ringwood.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-09-serving-mrs-burrows-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/henry-b-eyring.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Brother of Jared Sees Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Brother of Jared Sees Jesus Christ</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-11-the-brother-of-jared-sees-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mom’s Christmas Surprise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mom’s Christmas Surprise</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-12-moms-christmas-surprise-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Christmas Workshop' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christmas Workshop</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-13-christmas-workshop-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Know that Jesus Loves Me' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Know that Jesus Loves Me</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-14-i-know-that-jesus-loves-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trading for a Smile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trading for a Smile</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-15-trading-for-a-smile-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Prophet Is Born' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Prophet Is Born</title>
         <description></description>
@@ -124,26 +110,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-16-a-prophet-is-born-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Best Christmas Gifts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Best Christmas Gifts</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec24-25-best-Christmas-gifts-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-17-the-best-christmas-gifts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How to Become a Witness of Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How to Become a Witness of Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec26-puzzles-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-18-how-to-become-a-witness-of-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Christmas at the Hospital' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christmas at the Hospital</title>
         <description></description>
@@ -151,26 +134,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-21-christmas-at-the-hospital-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec30-matt-and-mandy-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-22-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec34-playground-activity-2012-11-08.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-24-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Yummy Flower Garden' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Yummy Flower Garden</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-25-a-yummy-flower-garden-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -187,35 +166,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-26-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Christ Is the Son of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Christ Is the Son of God</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/fr12dec40-symbols-activity-2012-11-12.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-27-jesus-christ-is-the-son-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Christmas Prayer Answered' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Christmas Prayer Answered</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/richard-g-scott.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-28-a-christmas-prayer-answered-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Older Kids' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Older Kids</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/12/dallin-h-oaks.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-29-for-older-kids-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -223,5 +198,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-december/2012-12-30-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

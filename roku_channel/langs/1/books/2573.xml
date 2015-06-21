@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Glorious Season' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Glorious Season</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='HinckleyGB_95-99.ob.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-02-a-glorious-season-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Prophet on the Earth' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Prophet on the Earth</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-03-a-prophet-on-the-earth-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Christmas</title>
         <description></description>
@@ -25,17 +22,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-04-sharing-christmas-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From Father’s Arms to Mother’s Arms' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From Father’s Arms to Mother’s Arms</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ne07dec09_song.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-05-from-fathers-arms-to-mothers-arms-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What Joseph Taught' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What Joseph Taught</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-06-what-joseph-taught-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Good Question, Trent' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Good Question, Trent</title>
         <description></description>
@@ -52,35 +46,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-08-good-question-trent-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/WirthlinJB_04.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-09-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='New Era Poster' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>New Era Poster</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ne07dec17_poster.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-10-new-era-poster-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Best Christmas Gifts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Best Christmas Gifts</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MonsonTS_86-99.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-11-the-best-christmas-gifts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Six Dollars and Change' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Six Dollars and Change</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-12-six-dollars-and-change-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Extra Smile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Extra Smile</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-13-the-extra-smile-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Light of Truth' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Light of Truth</title>
         <description></description>
@@ -106,17 +94,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-14-the-light-of-truth-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Finding Faith in the Lord Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Finding Faith in the Lord Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HalesRD_03.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-15-finding-faith-in-the-lord-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='In a Word: Light of Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>In a Word: Light of Christ</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-16-in-a-word-light-of-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What’s Up?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What’s Up?</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-17-whats-up-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Giving Christmas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Giving Christmas</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-18-a-giving-christmas-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='First Snowfall' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>First Snowfall</title>
         <description></description>
@@ -151,5 +134,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2007-december/2007-12-19-first-snowfall-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

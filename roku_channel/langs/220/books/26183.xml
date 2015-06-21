@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='追尋真理' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>追尋真理</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168229789001_2010-07-02-a-search-for-truth-8000k-yue-copy.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168304096001_2010-07-02-a-search-for-truth-8000k-yue.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='塔上的守望人' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>塔上的守望人</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253082617001_2010-07-23-watchmen-on-the-tower-8000k-yue.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019300001_2010-07-23-watchmen-on-the-tower-8000k-yue-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='They that are Wise' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They that are Wise</title>
         <description></description>
@@ -36,8 +33,7 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/09/926/66852713001_2679373118001_2010-07-040-they-that-are-wise-8000k-yue.mp4' height='480p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/09/2354/66852713001_2679375172001_2010-07-040-they-that-are-wise-8000k-yue.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='約瑟‧斯密──復興福音的先知' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>約瑟‧斯密──復興福音的先知</title>
         <description></description>
@@ -49,5 +45,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253082551001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-yue.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253056700001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-yue-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

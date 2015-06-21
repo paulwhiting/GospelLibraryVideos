@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Climb High' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Climb High</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-02-climb-high-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Batch of Love' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Batch of Love</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-03-a-batch-of-love-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Cool-Aid' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cool-Aid</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-04-cool-aid-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Own Emergency Team' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Own Emergency Team</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-05-my-own-emergency-team-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
@@ -43,17 +38,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-06-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormonad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mormonad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:1139.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-07-mormonad-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trail of Faith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trail of Faith</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-08-trail-of-faith-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Breakthrough' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Breakthrough</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-09-breakthrough-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friendly Light' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friendly Light</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-10-friendly-light-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='FYI: For Your Info' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>FYI: For Your Info</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-11-fyi-for-your-info-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='It’s Not Just Alex' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>It’s Not Just Alex</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-12-its-not-just-alex-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What I Was Searching For' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What I Was Searching For</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-14-what-i-was-searching-for-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Feedback' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Feedback</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-15-feedback-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Calico Trail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Calico Trail</title>
         <description></description>
@@ -124,5 +110,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-june-1997/1997-06-16-calico-trail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

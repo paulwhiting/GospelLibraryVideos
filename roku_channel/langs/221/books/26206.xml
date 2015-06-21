@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='追尋真理' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>追尋真理</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168203585001_2010-07-02-a-search-for-truth-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168189335001_2010-07-02-a-search-for-truth-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='The Great Apostasy' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Great Apostasy</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050149113001_2010-07-003-the-great-apostasy-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050108968001_2010-07-003-the-great-apostasy-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='塔上的守望人' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>塔上的守望人</title>
         <description></description>
@@ -37,8 +34,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253130374001_2010-07-23-watchmen-on-the-tower-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019290001_2010-07-23-watchmen-on-the-tower-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Be Not Troubled' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Be Not Troubled</title>
         <description></description>
@@ -50,8 +46,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050133268001_2010-07-038-be-not-troubled-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050108980001_2010-07-038-be-not-troubled-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='They that are Wise' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They that are Wise</title>
         <description></description>
@@ -63,8 +58,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050142198001_2010-07-040-they-that-are-wise-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2050108986001_2010-07-040-they-that-are-wise-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='約瑟‧斯密──復興福音的先知' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>約瑟‧斯密──復興福音的先知</title>
         <description></description>
@@ -76,5 +70,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2264494116001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-cmn.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2264466469001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-cmn-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

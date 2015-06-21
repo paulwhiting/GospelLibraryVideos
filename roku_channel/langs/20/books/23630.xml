@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Tammikuu: Jumaluus' subtitle='Videos: 6; Audio: 0'><category title='Kuinka pyhien kirjoitusten tutkiminen auttaa minua saamaan tietoa taivaallisesta Isästä?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Tammikuu: Jumaluus' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<category title='Kuinka pyhien kirjoitusten tutkiminen auttaa minua saamaan tietoa taivaallisesta Isästä?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Pyhien kirjoitusten siunaukset”</title>
         <description></description>
@@ -11,8 +13,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396740345001/1280/720/2127922' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396740345001/640/360/927922' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin oppia näkemään taivaallisen Isän käden jäljen kaikessa?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka voin oppia näkemään taivaallisen Isän käden jäljen kaikessa?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/hand/images/How can I see God%E2%80%99s hand in all things-AV110112cah0011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Oi muistakaa, muistakaa</title>
         <description></description>
@@ -71,16 +74,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714995001/640/360/754559' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714995001/1280/720/1506268' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Helmikuu: Pelastussuunnitelma' subtitle='Videos: 8; Audio: 0'><category title='Miksi oppiminen on tärkeä osa taivaallisen Isän suunnitelmaa?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miksi oppiminen on tärkeä osa taivaallisen Isän suunnitelmaa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Helmikuu: Pelastussuunnitelma' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<category title='Miksi oppiminen on tärkeä osa taivaallisen Isän suunnitelmaa?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>”Sinä tiedät tarpeeksi”</title>
         <description></description>
@@ -115,15 +113,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428197001/1280/720/1762963' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428197001/1280/720/1335922' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miksi evankeliumin opettaminen on tärkeää pelastussuunnitelmassa?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Miksi evankeliumin opettaminen on tärkeää pelastussuunnitelmassa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Miksi evankeliumin opettaminen on tärkeää pelastussuunnitelmassa?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/teaching/images/Unknown-26.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>”Nuori Jeesus opettaa temppelissä”</title>
         <description></description>
@@ -181,16 +173,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150504001/1280/720/1776607' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163150504001/1280/720/2104607' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Maaliskuu: Jeesuksen Kristuksen sovitus' subtitle='Videos: 6; Audio: 0'><category title='Kuinka voin käyttää elävien profeettojen ja apostolien sanoja vahvistamaan uskoani Jeesuksen Kristuksen sovitukseen?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin käyttää elävien profeettojen ja apostolien sanoja vahvistamaan uskoani Jeesuksen Kristuksen sovitukseen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Maaliskuu: Jeesuksen Kristuksen sovitus' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<category title='Kuinka voin käyttää elävien profeettojen ja apostolien sanoja vahvistamaan uskoani Jeesuksen Kristuksen sovitukseen?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Taakat kevenevät”</title>
         <description></description>
@@ -202,15 +189,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829118819001/1920/1080/7817000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829118819001/1280/720/2527979' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä pyhät kirjoitukset voivat opettaa minulle Jeesuksen Kristuksen sovituksesta?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä pyhät kirjoitukset voivat opettaa minulle Jeesuksen Kristuksen sovituksesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä pyhät kirjoitukset voivat opettaa minulle Jeesuksen Kristuksen sovituksesta?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/scriptures/images/AV110614_cah052-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Käytä pyhiä kirjoituksia”</title>
         <description></description>
@@ -222,8 +203,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729266001/640/360/924807' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729266001/1280/720/2524807' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka Mormonin kirja voi auttaa minua vahvistamaan uskoani Jeesuksen Kristuksen sovitukseen?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka Mormonin kirja voi auttaa minua vahvistamaan uskoani Jeesuksen Kristuksen sovitukseen?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/strengthen/images/CU100407_bkf01-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Mormonin kirja: johdanto”</title>
         <description></description>
@@ -247,15 +229,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642102001/1280/720/2128000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642102001/1280/720/2528000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin käyttää vertauksia opettaakseni muille sovitusta?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin käyttää vertauksia opettaakseni muille sovitusta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin käyttää vertauksia opettaakseni muille sovitusta?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/teach/images/N1009_England3_jt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Välimies”</title>
         <description></description>
@@ -279,16 +255,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223845879001/640/480/2096000' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223845879001/480/360/896000' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Huhtikuu: Luopumus ja palautus' subtitle='Videos: 10; Audio: 0'><category title='Pääsiäinen: Kuinka voin esittää todistukseni Jeesuksen Kristuksen ylösnousemuksesta?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Pääsiäinen: Kuinka voin esittää todistukseni Jeesuksen Kristuksen ylösnousemuksesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Huhtikuu: Luopumus ja palautus' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<category title='Pääsiäinen: Kuinka voin esittää todistukseni Jeesuksen Kristuksen ylösnousemuksesta?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Hänen ansiostaan”</title>
         <description></description>
@@ -310,15 +281,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680769012001/1280/720/68023' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680769012001/1280/720/64581' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä Joseph Smithin esimerkki opettaa minulle evankeliumin oppimisesta?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä Joseph Smithin esimerkki opettaa minulle evankeliumin oppimisesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä Joseph Smithin esimerkki opettaa minulle evankeliumin oppimisesta?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/N0905_rmr001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Alkulähde”</title>
         <description></description>
@@ -352,8 +317,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649373001/1280/720/1531290' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649373001/640/360/844814' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin tunnistaa totuuden ja erheen välisen eron?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka voin tunnistaa totuuden ja erheen välisen eron?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/difference/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>”Te pääsette vapaiksi”</title>
         <description></description>
@@ -387,15 +353,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667848092001/1280/720/2091590' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667848092001/640/360/811730' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin soveltaa luopumuksen ja palautuksen tapahtumia elämääni?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin soveltaa luopumuksen ja palautuksen tapahtumia elämääni?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin soveltaa luopumuksen ja palautuksen tapahtumia elämääni?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/learn-more/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>Mitä palautus merkitsee minulle</title>
         <description></description>
@@ -417,16 +377,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550106001/1280/720/2125381' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550106001/1280/720/2525381' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Toukokuu: Profeetat ja ilmoitus' subtitle='Videos: 9; Audio: 0'><category title='Mitä voin oppia eläviltä profeetoilta ja apostoleilta?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä voin oppia eläviltä profeetoilta ja apostoleilta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Toukokuu: Profeetat ja ilmoitus' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<category title='Mitä voin oppia eläviltä profeetoilta ja apostoleilta?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Tunne meidät ja rakasta meitä”</title>
         <description></description>
@@ -438,15 +393,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729248001/1280/720/1796282' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729248001/1920/1080/8064000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä todistuksen lausuminen tarkoittaa?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä todistuksen lausuminen tarkoittaa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä todistuksen lausuminen tarkoittaa?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/testimony/images/AV110112cah0002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Mies vailla kaunopuheisuutta”</title>
         <description></description>
@@ -502,8 +451,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585620001/640/480/2127978' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585620001/640/480/2527978' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä voin oppia presidentti Monsonilta Hengen mukaan toimimisesta?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mitä voin oppia presidentti Monsonilta Hengen mukaan toimimisesta?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/more/images/AV110701_cah095-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Hengen kehotusten noudattaminen”</title>
         <description></description>
@@ -536,9 +486,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416862001/1280/720/1094829' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416862001/1280/720/1453317' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Kesäkuu: Pappeus ja pappeuden avaimet' subtitle='Videos: 7; Audio: 0'><category title='Kuinka voin osallistua tehokkaasti kirkon neuvostoihin?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Kesäkuu: Pappeus ja pappeuden avaimet' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<category title='Kuinka voin osallistua tehokkaasti kirkon neuvostoihin?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Osallistu neuvostoihin”</title>
         <description></description>
@@ -560,15 +512,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396739085001/1280/720/2521411' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396739085001/1280/720/2121411' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka pappeudenhaltijat ja naiset työskentelevät yhdessä Jumalan valtakunnan rakentamiseksi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka pappeudenhaltijat ja naiset työskentelevät yhdessä Jumalan valtakunnan rakentamiseksi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka pappeudenhaltijat ja naiset työskentelevät yhdessä Jumalan valtakunnan rakentamiseksi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/together/images/AV120106_cah338-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Enkelten tehtävä”</title>
         <description></description>
@@ -601,15 +547,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642122001/1280/720/1415793' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642122001/640/360/736951' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin käyttää kertomuksia opettaakseni muille pappeutta koskevia asioita?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin käyttää kertomuksia opettaakseni muille pappeutta koskevia asioita?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin käyttää kertomuksia opettaakseni muille pappeutta koskevia asioita?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/teach/images/How can I teach others about the priesthood and priesthood keys - AV120404_cah0013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Pyhittäytykää”</title>
         <description></description>
@@ -633,16 +573,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715009001/1280/720/2499230' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715009001/1920/1080/7949000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Heinäkuu: Toimitukset ja liitot' subtitle='Videos: 8; Audio: 0'><category title='Mitä hengellisiä totuuksia voin oppia evankeliumin toimituksista?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä hengellisiä totuuksia voin oppia evankeliumin toimituksista?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Heinäkuu: Toimitukset ja liitot' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<category title='Mitä hengellisiä totuuksia voin oppia evankeliumin toimituksista?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Auta meitä löytämään evankeliumi”</title>
         <description></description>
@@ -654,15 +589,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676990001/1280/720/2496000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676990001/1920/1080/6957000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin syventää ymmärrystäni liitoista?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin syventää ymmärrystäni liitoista?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin syventää ymmärrystäni liitoista?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/learn/images/How can I learn more about ordinances and covenants - L06FOFC-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Opettakaa toisianne”</title>
         <description></description>
@@ -673,15 +602,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407333001/1280/720/1462393' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407333001/1280/720/1242640' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin tehdä sakramentista itselleni merkityksellisemmän?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin tehdä sakramentista itselleni merkityksellisemmän?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin tehdä sakramentista itselleni merkityksellisemmän?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/teach/images/050804_jrn043.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Sakramentti auttaa meitä lähestymään Jeesusta Kristusta”</title>
         <description></description>
@@ -704,15 +627,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421762001/1280/720/1465192' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421762001/1280/720/1332509' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka pidän lupaukseni muistaa Vapahtajan aina?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka pidän lupaukseni muistaa Vapahtajan aina?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka pidän lupaukseni muistaa Vapahtajan aina?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/remember/images/How do I keep my covenant to always remember the Savior1-circle.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>”Kutsu meitä todistamaan”</title>
         <description></description>
@@ -724,15 +641,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728334001/1920/1080/7894000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728334001/1280/720/2124616' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin valmistautua ottamaan vastaan temppelitoimituksia?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin valmistautua ottamaan vastaan temppelitoimituksia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin valmistautua ottamaan vastaan temppelitoimituksia?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/prepare/images/How can I prepare to receive temple ordinances - CWD_521645e9-4515-4683-b07f-1ba1f3cd9c7a-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Aina näkyvissämme”</title>
         <description></description>
@@ -766,9 +677,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553550359001/1280/720/2193242' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553550359001/640/360/815510' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Elokuu: Avioliitto ja perhe' subtitle='Videos: 11; Audio: 0'><category title='Kuinka henkilökohtaisen päiväkirjan pitäminen siunaa minua ja perhettäni?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Elokuu: Avioliitto ja perhe' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<category title='Kuinka henkilökohtaisen päiväkirjan pitäminen siunaa minua ja perhettäni?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Oi muistakaa, muistakaa</title>
         <description></description>
@@ -803,8 +716,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416880001/1280/720/1341378' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416880001/1280/720/1570611' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Miksi minun on tärkeää etsiä tietoja suvustani?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Miksi minun on tärkeää etsiä tietoja suvustani?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/history/images/AV120727_cah0035.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vanhin Bednar puhuu nuorille”</title>
         <description></description>
@@ -849,8 +763,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725069001/1920/1080/7720000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725069001/1280/720/2524090' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin opettaa muita tekemään sukututkimustyötä?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka voin opettaa muita tekemään sukututkimustyötä?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/teach/images/AV100226cah005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Etsikää vastauksia konferenssipuheista”</title>
         <description></description>
@@ -861,15 +776,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406321001/640/360/641608' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406321001/1280/720/1343426' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin selittää avioliiton ja perheen tärkeyttä muille?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin selittää avioliiton ja perheen tärkeyttä muille?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin selittää avioliiton ja perheen tärkeyttä muille?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/importance/images/AV121003_cah0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Anna meidän opettaa”</title>
         <description></description>
@@ -881,15 +790,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717488001/1280/720/2124275' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717488001/1280/720/2524275' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä tilaisuuksia oppimiseen ja opettamiseen on kotona?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä tilaisuuksia oppimiseen ja opettamiseen on kotona?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä tilaisuuksia oppimiseen ja opettamiseen on kotona?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/opportunities/images/What opportunities are there for learning and teaching in the home - AV061023_yv0052-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Taivaan innoittama ohjelma”</title>
         <description></description>
@@ -912,16 +815,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728412001/1280/720/2123726' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728412001/1920/1080/7816000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Syyskuu: Käskyt' subtitle='Videos: 12; Audio: 0'><category title='Kuinka käskyt auttavat minua oppimaan, kuinka voin olla enemmän taivaallisen Isän kaltainen?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka käskyt auttavat minua oppimaan, kuinka voin olla enemmän taivaallisen Isän kaltainen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Syyskuu: Käskyt' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<category title='Kuinka käskyt auttavat minua oppimaan, kuinka voin olla enemmän taivaallisen Isän kaltainen?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Keskustelkaa kysymyksistä”</title>
         <description></description>
@@ -932,15 +830,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428197001/1280/720/1762963' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428197001/1280/720/1335922' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin auttaa muita ymmärtämään tasovaatimuksiani?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin auttaa muita ymmärtämään tasovaatimuksiani?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin auttaa muita ymmärtämään tasovaatimuksiani?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/standards/images/How can I help others understand my standards - AV120223_cah0029alt-CIRCLE'>
+<rss><channel><item>
         <id></id>
         <title>”Vastaa luokan jäsenen kysymykseen”</title>
         <description></description>
@@ -951,8 +843,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421690001/1280/720/1246186' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421690001/640/360/694681' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka käskyjen pitäminen vaikuttaa kykyyni oppia evankeliumia?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka käskyjen pitäminen vaikuttaa kykyyni oppia evankeliumia?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/ability/images/CU120426_People_Madrid52.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Jumala antoi heille tietoa”</title>
         <description></description>
@@ -985,15 +878,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428190001/640/360/698207' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428190001/1280/720/1439096' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin innoittaa muita noudattamaan käskyjä?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin innoittaa muita noudattamaan käskyjä?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin innoittaa muita noudattamaan käskyjä?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/inspire/images/How can I inspire others to obey the commandments - AV070307_cah054-cirecle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Näin loistakoon teidänkin valonne”</title>
         <description></description>
@@ -1038,15 +925,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665164719001/1280/720/1428901' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665164719001/1280/720/2009192' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä siunauksia taivaallinen Isä lupaa, jos noudatan käskyjä?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä siunauksia taivaallinen Isä lupaa, jos noudatan käskyjä?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä siunauksia taivaallinen Isä lupaa, jos noudatan käskyjä?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/blessings/images/What blessings does Heavenly Father promise if I obey the commandments - CWD_998fb89e-db4c-4a5c-8f6e-963c96fc57a7-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Varma ankkuri”</title>
         <description></description>
@@ -1080,16 +961,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649392001/640/360/48419' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649392001/1280/720/67837' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Lokakuu: Kuinka tulla enemmän Kristuksen kaltaiseksi' subtitle='Videos: 13; Audio: 0'><category title='Kuinka voin kutsua muita tulemaan enemmän Vapahtajan kaltaisiksi?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin kutsua muita tulemaan enemmän Vapahtajan kaltaisiksi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Lokakuu: Kuinka tulla enemmän Kristuksen kaltaiseksi' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<category title='Kuinka voin kutsua muita tulemaan enemmän Vapahtajan kaltaisiksi?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Esimerkkejä palvelemisesta”</title>
         <description></description>
@@ -1111,15 +987,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423498001/1280/720/1666957' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423498001/1280/720/1202315' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin osoittaa rakastavani niitä, joita opetan?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin osoittaa rakastavani niitä, joita opetan?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/ammon-defending-kings-sheep-39656-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin osoittaa rakastavani niitä, joita opetan?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/love/images/N11GIM43B-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Rakasta niitä, joita opetat”</title>
         <description></description>
@@ -1152,15 +1022,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421736001/1280/720/1460003' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421736001/640/360/715912' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka Vapahtaja vertasi evankeliumin totuuksia tuttuihin esineisiin ja kokemuksiin?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka Vapahtaja vertasi evankeliumin totuuksia tuttuihin esineisiin ja kokemuksiin?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka Vapahtaja vertasi evankeliumin totuuksia tuttuihin esineisiin ja kokemuksiin?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/familiar/images/livingwater_altLessRed.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Tuhlaajapoika”</title>
         <description></description>
@@ -1194,15 +1058,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079251001/1920/1080/7880000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079251001/1280/720/1768000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin käyttää pyhiä kirjoituksia auttaakseni muita tulemaan enemmän Kristuksen kaltaisiksi?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin käyttää pyhiä kirjoituksia auttaakseni muita tulemaan enemmän Kristuksen kaltaisiksi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin käyttää pyhiä kirjoituksia auttaakseni muita tulemaan enemmän Kristuksen kaltaisiksi?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/others/images/AV060509_cah1009.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Päätä, mitä opetat”</title>
         <description></description>
@@ -1214,15 +1072,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676995001/640/360/891565' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031676995001/1280/720/1763565' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin käyttää kysymyksiä tehokkaasti, kun opetan?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin käyttää kysymyksiä tehokkaasti, kun opetan?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin käyttää kysymyksiä tehokkaasti, kun opetan?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/questions/images/AV0812010cah001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Asiat niin kuin ne todella ovat”</title>
         <description></description>
@@ -1255,15 +1107,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423550001/1280/720/1302889' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423550001/640/360/729859' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä voin oppia Vapahtajan esimerkin avulla evankeliumin oppimisesta?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä voin oppia Vapahtajan esimerkin avulla evankeliumin oppimisesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä voin oppia Vapahtajan esimerkin avulla evankeliumin oppimisesta?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/example/images/0001394PL.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Käytä kertomuksia ja esimerkkejä”</title>
         <description></description>
@@ -1275,9 +1121,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728359001/1920/1080/7934000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728359001/1280/720/2524578' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Marraskuu: Hengellinen ja ajallinen omavaraisuus' subtitle='Videos: 16; Audio: 0'><category title='Kuinka voin tulla hengellisesti omavaraiseksi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Marraskuu: Hengellinen ja ajallinen omavaraisuus' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<category title='Kuinka voin tulla hengellisesti omavaraiseksi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ne, jotka ovat ymmärtäväisiä”</title>
         <description></description>
@@ -1311,8 +1159,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667932514001/640/480/1541926' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667932514001/640/480/2163419' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin olla Jumalan todistajana?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka voin olla Jumalan todistajana?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/witness/images/new-youth-curriculum-ss-How-can-I-stand-as-a-witness-of-God-1200973.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ei kiroilla -kerho”</title>
         <description></description>
@@ -1334,15 +1183,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616754581001/1280/720/1857877' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616754581001/640/360/824125' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin löytää vastauksia omiin evankeliumia koskeviin kysymyksiini?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin löytää vastauksia omiin evankeliumia koskeviin kysymyksiini?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin löytää vastauksia omiin evankeliumia koskeviin kysymyksiini?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/answers/images/AV121011_cah0006-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>video puheesta</title>
         <description></description>
@@ -1366,8 +1209,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728394001/1280/720/2124253' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728394001/1920/1080/7796000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin oppia tekemään omat päätökseni?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Kuinka voin oppia tekemään omat päätökseni?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/decisions/images/How can I learn to make my own decisionsV090107cah379-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Vääriä teitä”</title>
         <description></description>
@@ -1400,15 +1244,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418939001/1280/720/1654674' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418939001/640/360/694621' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka  tavoitteiden asettaminen voi auttaa minua tulemaan omavaraiseksi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka  tavoitteiden asettaminen voi auttaa minua tulemaan omavaraiseksi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka  tavoitteiden asettaminen voi auttaa minua tulemaan omavaraiseksi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/goals/images/How can setting goals help me become self-reliantAV090107cah331-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Työtä, joka etenee”</title>
         <description></description>
@@ -1441,15 +1279,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421703001/1280/720/1290864' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421703001/1280/720/1519983' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin valmistautua olemaan taloudellisesti omavarainen?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin valmistautua olemaan taloudellisesti omavarainen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin valmistautua olemaan taloudellisesti omavarainen?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/financially/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Kaukonäköinen huolehtiminen”</title>
         <description></description>
@@ -1483,16 +1315,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867431001/1280/720/1678654' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667867431001/640/360/809341' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Joulukuu: Jumalan valtakunnan rakentaminen myöhempinä aikoina' subtitle='Videos: 14; Audio: 0'><category title='Kuinka voin oppia palvelemaan tehokkaammin kirkossa?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin oppia palvelemaan tehokkaammin kirkossa?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Joulukuu: Jumalan valtakunnan rakentaminen myöhempinä aikoina' subtitle='Videos: 14, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<category title='Kuinka voin oppia palvelemaan tehokkaammin kirkossa?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Me koemme kääntymyksen”</title>
         <description></description>
@@ -1504,15 +1331,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729284001/1280/720/2524580' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729284001/1280/720/1796580' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka minusta voi tulla parempi johtaja?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka minusta voi tulla parempi johtaja?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka minusta voi tulla parempi johtaja?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/leader/images/AV050901_cah051.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Käytä kuvia”</title>
         <description></description>
@@ -1523,15 +1344,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417386001/1280/720/1263638' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417386001/640/360/701738' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka minusta voi tulla parempi opettaja?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka minusta voi tulla parempi opettaja?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka minusta voi tulla parempi opettaja?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/teacher/images/AV110518_cah013.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Opettakaa toisianne pyhien kirjoitusten avulla”</title>
         <description></description>
@@ -1542,8 +1357,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423568001/640/360/639223' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423568001/1280/720/1198921' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä tehokkaita tapoja on kertoa evankeliumista muille?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mitä tehokkaita tapoja on kertoa evankeliumista muille?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/share/images/What are effective ways to share the gospel with others-AV0808025_cah021-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Kerro uskonkäsityksistäsi”</title>
         <description></description>
@@ -1576,15 +1392,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406292001/1280/720/1663457' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406292001/640/360/691219' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kuinka voin ymmärtää vertauskuvia, joilla kerrotaan toisesta tulemisesta?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kuinka voin ymmärtää vertauskuvia, joilla kerrotaan toisesta tulemisesta?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kuinka voin ymmärtää vertauskuvia, joilla kerrotaan toisesta tulemisesta?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/symobls/images/How can I understand the symbols used to teach about the Second Coming0001238-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Ne, jotka ovat ymmärtäväisiä”</title>
         <description></description>
@@ -1640,15 +1450,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874483962001/640/480/2093221' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874483962001/640/480/1493789' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Mitä sellaista voin oppia pyhistä kirjoituksista, mikä auttaa minua valmistautumaan toiseen tulemiseen?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Mitä sellaista voin oppia pyhistä kirjoituksista, mikä auttaa minua valmistautumaan toiseen tulemiseen?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Mitä sellaista voin oppia pyhistä kirjoituksista, mikä auttaa minua valmistautumaan toiseen tulemiseen?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/learn/images/What can I learn from the scriptures to help me prepare for the Second Coming-AV091221cah050-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Me opimme”</title>
         <description></description>
@@ -1660,15 +1464,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724990001/1280/720/1795695' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031724990001/640/360/923695' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Joulu: Kuinka voin esittää todistukseni siitä, että Jeesus Kristus on Jumalan Poika?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Joulu: Kuinka voin esittää todistukseni siitä, että Jeesus Kristus on Jumalan Poika?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Joulu: Kuinka voin esittää todistukseni siitä, että Jeesus Kristus on Jumalan Poika?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/christmas/images/nativity-1168845-gallery.jpg'>
+<rss><channel><item>
         <id></id>
         <title>”Hän on Lahja”</title>
         <description></description>
@@ -1690,6 +1488,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619378001/1280/720/67859' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619378001/640/360/42927' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

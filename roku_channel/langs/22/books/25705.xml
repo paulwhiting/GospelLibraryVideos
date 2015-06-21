@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='God Gave Them Knowledge' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>God Gave Them Knowledge</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/10/3334/66852713001_2746609583001_2011-03-10-god-gave-them-knowledge-8000k-dan.mp4' height='720p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/10/1334/66852713001_2746609589001_2011-03-10-god-gave-them-knowledge-8000k-dan.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='To Look Upon' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>To Look Upon</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/10/2918/66852713001_2746573135001_2011-03-20-to-look-upon-8000k-dan.mp4' height='720p'/>
 <content url='http://brightcove.lds.com.edgesuite.net/2/66852713001/2013/10/1642/66852713001_2746576529001_2011-03-20-to-look-upon-8000k-dan.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='I Am a Son of God' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Am a Son of God</title>
         <description></description>
@@ -35,5 +32,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2048261744001_2011-03-50-i-am-a-son-of-god-8000k-dan.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2048192720001_2011-03-50-i-am-a-son-of-god-8000k-dan-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

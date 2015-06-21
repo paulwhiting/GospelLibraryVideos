@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='항상 그를 기억하고' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>항상 그를 기억하고</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680964467001/1280/720/1486976.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680964467001/640/360/785389.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='그리스도와 같은 성품' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>그리스도와 같은 성품</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202695586001/1280/720/1452553.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202695586001/640/360/773821.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='기원' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>기원</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649367001/1280/720/58669.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649367001/640/360/57150.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='안전한 닻' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>안전한 닻</title>
         <description></description>
@@ -46,8 +42,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649386001/1280/720/58550.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649386001/640/360/58247.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='특별한 선물' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>특별한 선물</title>
         <description></description>
@@ -58,8 +53,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892885573001/1280/720/1455363.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892885573001/640/360/784953.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='아마존에 있는 우리 성전' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>아마존에 있는 우리 성전</title>
         <description></description>
@@ -70,8 +64,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892884274001/1280/720/1452348.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892884274001/640/360/794717.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2013년 청소년의 힘 미디어' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>2013년 청소년의 힘 미디어</title>
         <description></description>
@@ -79,8 +72,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/2553557153001/1920/1080/6180000.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='선지자와 계시 - 그분의 목소리를 들으십시오' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>선지자와 계시 - 그분의 목소리를 들으십시오</title>
         <description></description>
@@ -92,8 +84,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546283001/1280/720/1796228.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546283001/640/360/924228.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='신권 및 신권 열쇠 – 우리는 형제입니다' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>신권 및 신권 열쇠 – 우리는 형제입니다</title>
         <description></description>
@@ -105,8 +96,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556452001/1280/720/1794827.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556452001/640/360/922827.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='성전 – 언제나 우리 시야에' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>성전 – 언제나 우리 시야에</title>
         <description></description>
@@ -118,8 +108,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559149001/1280/720/1799177.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559149001/640/360/927177.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='의식과 성약 – 엘리야의 영' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>의식과 성약 – 엘리야의 영</title>
         <description></description>
@@ -131,8 +120,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550597001/1280/720/1799230.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550597001/640/360/927230.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='가정과 가족 – 작은 일을 통해' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>가정과 가족 – 작은 일을 통해</title>
         <description></description>
@@ -144,8 +132,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550601001/1280/720/1798606.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550601001/640/360/926606.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='표준: 성적 순결과 정숙함  – 진정한 자신감' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>표준: 성적 순결과 정숙함  – 진정한 자신감</title>
         <description></description>
@@ -157,8 +144,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556461001/1280/720/1799177.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556461001/640/360/927177.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='표준: 봉사 – 자신을 잊는다면' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>표준: 봉사 – 자신을 잊는다면</title>
         <description></description>
@@ -169,8 +155,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550608001/1280/720/1534594.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550608001/640/360/838025.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='표준: 교육 – 하나님의 영광은 예지니라' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>표준: 교육 – 하나님의 영광은 예지니라</title>
         <description></description>
@@ -182,8 +167,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550610001/1280/720/1798705.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550610001/640/360/926705.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='거룩한 곳에 서십시오 – 심은 만큼 얻으리' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>거룩한 곳에 서십시오 – 심은 만큼 얻으리</title>
         <description></description>
@@ -195,8 +179,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556470001/1280/720/1795597.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556470001/640/360/923597.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2013년 주제가 - 일어서라' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>2013년 주제가 - 일어서라</title>
         <description></description>
@@ -208,8 +191,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550614001/1280/720/1799984.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550614001/640/360/927984.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Seminary Can Change Lives' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Seminary Can Change Lives</title>
         <description></description>
@@ -221,8 +203,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2180291011001/1280/720/1800027.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2180291011001/640/360/928027.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='재생' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>재생</title>
         <description></description>
@@ -234,8 +215,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028847703001/1280/720/1777525.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028847703001/640/360/905525.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Stay within the Lines' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Stay within the Lines</title>
         <description></description>
@@ -247,8 +227,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133738946001/1280/720/1798798.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133738946001/640/360/926798.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='우리가 복음을 발견하도록 도와준다' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>우리가 복음을 발견하도록 도와준다</title>
         <description></description>
@@ -260,8 +239,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079266001/1280/720/1797087.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079266001/640/360/925087.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='가르칠 내용을 결정한다' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>가르칠 내용을 결정한다</title>
         <description></description>
@@ -273,8 +251,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079278001/1280/720/1798483.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079278001/640/360/926483.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='구주께서 보여주신 방법으로 복음을 가르침' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>구주께서 보여주신 방법으로 복음을 가르침</title>
         <description></description>
@@ -286,8 +263,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079247001/1280/720/1797261.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079247001/640/360/925261.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='적진' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>적진</title>
         <description></description>
@@ -299,8 +275,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133738931001/1280/720/1799960.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133738931001/640/360/927960.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='용감하게 홀로 서라' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>용감하게 홀로 서라</title>
         <description></description>
@@ -311,8 +286,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2346570552001/1280/720/1482581.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2346570552001/640/360/814928.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='하나님에 대한 의무 완수' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>하나님에 대한 의무 완수</title>
         <description></description>
@@ -324,8 +298,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028824567001/1280/720/1768000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028824567001/640/360/896000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='God Will Lift Us Up' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>God Will Lift Us Up</title>
         <description></description>
@@ -337,8 +310,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2163151118001/1280/720/1800005.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2163151118001/640/360/928005.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='내면의 아름다움' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>내면의 아름다움</title>
         <description></description>
@@ -349,8 +321,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616643882001/1280/720/1375631.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616643882001/640/360/770623.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='선교 사업을 위한 날' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>선교 사업을 위한 날</title>
         <description></description>
@@ -362,8 +333,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133681118001/1280/720/1799824.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133681118001/640/360/927824.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='순수하고 단순한 신앙' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>순수하고 단순한 신앙</title>
         <description></description>
@@ -375,8 +345,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028867149001/1280/720/1799488.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028867149001/640/360/927488.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='여섯 형제들' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>여섯 형제들</title>
         <description></description>
@@ -388,8 +357,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1808801166001/1280/720/1799301.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1808801166001/640/360/927301.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='사물을 있는 그대로' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>사물을 있는 그대로</title>
         <description></description>
@@ -401,8 +369,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2659929523001/1280/720/1798629.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2659929523001/640/360/926629.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='잃어버린 지갑' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>잃어버린 지갑</title>
         <description></description>
@@ -414,8 +381,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616643894001/1280/720/1799939.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616643894001/640/360/927939.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='“너희는 자신을 성결하게 하라' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>“너희는 자신을 성결하게 하라</title>
         <description></description>
@@ -427,8 +393,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028845379001/1280/720/1798185.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028845379001/640/360/926185.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='다른 사람들이 교회로 돌아올 수 있도록 돕기' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>다른 사람들이 교회로 돌아올 수 있도록 돕기</title>
         <description></description>
@@ -440,8 +405,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945264001/1280/720/1778145.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945264001/640/360/906145.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='다른 사람이 가계도에 사진과 문서 등을 추가할 수 있도록 돕기' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>다른 사람이 가계도에 사진과 문서 등을 추가할 수 있도록 돕기</title>
         <description></description>
@@ -453,8 +417,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945258001/1280/720/1773360.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945258001/640/360/901360.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='저는 순결하기로 선택하였어요' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>저는 순결하기로 선택하였어요</title>
         <description></description>
@@ -466,8 +429,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536293342001/1280/720/1800013.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536293342001/640/360/928013.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='가정 복음 교육 대상 가족을 돕기' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>가정 복음 교육 대상 가족을 돕기</title>
         <description></description>
@@ -479,8 +441,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945286001/1280/720/1780053.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945286001/640/360/908053.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='순결: 어디까지 허용됩니까?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>순결: 어디까지 허용됩니까?</title>
         <description></description>
@@ -492,8 +453,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661512001/1280/720/1798520.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661512001/640/360/926520.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='마음의 변화' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>마음의 변화</title>
         <description></description>
@@ -505,8 +465,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028824502001/1280/720/1799989.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028824502001/640/360/927989.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='195벌의 드레스' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>195벌의 드레스</title>
         <description></description>
@@ -518,8 +477,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761063001/1280/720/1774473.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761063001/640/360/902473.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='하나님에 대한 나의 의무' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>하나님에 대한 나의 의무</title>
         <description></description>
@@ -531,8 +489,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661496001/1280/720/1794823.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661496001/640/360/922823.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='개인 발전 프로그램이 가져다 준 기적' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>개인 발전 프로그램이 가져다 준 기적</title>
         <description></description>
@@ -544,8 +501,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533104156001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533104156001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='데이튼의 다리' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>데이튼의 다리</title>
         <description></description>
@@ -557,8 +513,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533105648001/1280/720/1799077.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533105648001/640/360/927077.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='같은 유니폼' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>같은 유니폼</title>
         <description></description>
@@ -570,8 +525,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761081001/1280/720/1799015.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761081001/640/360/927015.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='그분은 도와 주실 거예요' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>그분은 도와 주실 거예요</title>
         <description></description>
@@ -583,8 +537,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028810713001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028810713001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='신권 의무' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>신권 의무</title>
         <description></description>
@@ -596,8 +549,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532998142001/1280/720/1794312.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532998142001/640/360/922312.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='경계 내에서' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>경계 내에서</title>
         <description></description>
@@ -609,8 +561,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133585687001/1280/720/1797244.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133585687001/640/360/925244.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='아직 끝나지 않은 발전의 여정' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>아직 끝나지 않은 발전의 여정</title>
         <description></description>
@@ -622,8 +573,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536318174001/1280/720/1790830.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536318174001/640/360/918830.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='힐라 밸리 성전 문화 행사' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>힐라 밸리 성전 문화 행사</title>
         <description></description>
@@ -635,8 +585,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761089001/1280/720/1799988.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761089001/640/360/927988.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='실천하는 청소년' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>실천하는 청소년</title>
         <description></description>
@@ -647,8 +596,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654467003001/1280/720/1503240.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654467003001/640/360/803174.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Inviting All to Come unto Christ:  Sharing the Gospel' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Inviting All to Come unto Christ:  Sharing the Gospel</title>
         <description></description>
@@ -660,8 +608,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028867136001/1280/720/1761709.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028867136001/640/360/889709.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Mighty Change:  Conversion' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Mighty Change:  Conversion</title>
         <description></description>
@@ -672,8 +619,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3875277062001/1280/720/1411209.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3875277062001/640/360/754957.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='몰몬 무스탕' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>몰몬 무스탕</title>
         <description></description>
@@ -685,8 +631,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028810687001/1280/720/1799954.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028810687001/640/360/927954.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='욕 안하기 동아리' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>욕 안하기 동아리</title>
         <description></description>
@@ -697,8 +642,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616744815001/1280/720/1436808.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616744815001/640/360/799230.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='그리스도의 빛을 나누며' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>그리스도의 빛을 나누며</title>
         <description></description>
@@ -710,8 +654,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654336200001/1280/720/1798012.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654336200001/640/360/926012.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='메디슨을 위해' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>메디슨을 위해</title>
         <description></description>
@@ -722,8 +665,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654258097001/1280/720/1443187.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654258097001/640/360/823802.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='소원한 두 형제' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>소원한 두 형제</title>
         <description></description>
@@ -734,8 +676,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536240652001/1280/720/1442857.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536240652001/640/360/866809.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='후회 없는 선택' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>후회 없는 선택</title>
         <description></description>
@@ -747,8 +688,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133504668001/1280/720/1798181.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133504668001/640/360/926181.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='쉽게 인도됨' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>쉽게 인도됨</title>
         <description></description>
@@ -759,8 +699,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2667869296001/1280/720/1562200.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2667869296001/640/360/819113.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='아버지와 아들' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>아버지와 아들</title>
         <description></description>
@@ -772,8 +711,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532995940001/1280/720/1793422.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532995940001/640/360/921422.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='어머니와 딸' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>어머니와 딸</title>
         <description></description>
@@ -785,8 +723,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532998134001/1280/720/1799447.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532998134001/640/360/927447.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='위대한 신권' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>위대한 신권</title>
         <description></description>
@@ -798,8 +735,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533003253001/1280/720/1795423.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003253001/640/360/923423.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='사랑: 믿는 자에게 본이 되어' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>사랑: 믿는 자에게 본이 되어</title>
         <description></description>
@@ -810,8 +746,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654149479001/1280/720/1510380.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654149479001/640/360/827918.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='나는 중요한 존재다' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>나는 중요한 존재다</title>
         <description></description>
@@ -823,8 +758,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3127593064001/1280/720/1796891.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3127593064001/640/360/924891.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='우리의 진정한 정체성' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>우리의 진정한 정체성</title>
         <description></description>
@@ -836,8 +770,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532995945001/1280/720/1795849.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532995945001/640/360/923849.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='덕으로의 회귀' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>덕으로의 회귀</title>
         <description></description>
@@ -845,5 +778,4 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003262001/1920/1080/7744000.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

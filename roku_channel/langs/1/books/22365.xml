@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,44 +6,39 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Lesson in Respect' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Lesson in Respect</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/thomas-s-monson.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-03-a-lesson-in-respect-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Song of the Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Song of the Heart</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/dallin-h-oaks.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-04-the-song-of-the-heart-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Why is it important that I follow Jesus Christ faithfully, no matter where I am?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Why is it important that I follow Jesus Christ faithfully, no matter where I am?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/dallin-h-oaks.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-05-why-is-it-important-that-i-follow-jesus-christ-faithfully-no-matter-where-i-am-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct07-000-be-of-good-cheer-bright-idea-poster.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-06-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Abby’s Scripture Rock' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Abby’s Scripture Rock</title>
         <description></description>
@@ -52,26 +46,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-07-abbys-scripture-rock-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Love to See the Temple' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Love to See the Temple</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct11-000-i-love-to-see-the-temple-music.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-09-i-love-to-see-the-temple-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Administers the Sacrament' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Administers the Sacrament</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-11-jesus-administers-the-sacrament-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Question Corner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Question Corner</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-12-question-corner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Farm Visit' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Farm Visit</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-13-farm-visit-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Twice the Blessings' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Twice the Blessings</title>
         <description></description>
@@ -106,71 +94,63 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-14-twice-the-blessings-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Can’t I Be Baptized Too?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Can’t I Be Baptized Too?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-15-cant-i-be-baptized-too-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='My Special Books' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>My Special Books</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/kent-f-richards.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-17-my-special-books-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Moving On from Primary' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Moving On from Primary</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/david-l-beck.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-18-moving-on-from-primary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Know the Prophet’s Voice' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Know the Prophet’s Voice</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/l-tom-perry.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-19-i-know-the-prophets-voice-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Macaroni and Cheese Soup' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Macaroni and Cheese Soup</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct28-000-macaroni-and-cheese-kitchen-crafts.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-20-macaroni-and-cheese-soup-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct30-000-matt-and-mandy.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-23-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct34-000-hidden-pictures.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-25-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Winning Together' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Winning Together</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-26-winning-together-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -187,17 +166,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-27-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Blessings of the Priesthood Are Available to All' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Blessings of the Priesthood Are Available to All</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/10/fr12oct41-000-the-priesthood-helps-people-bringing-primary-home.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-28-blessings-of-the-priesthood-are-available-to-all-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Patrick and the Priesthood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Patrick and the Priesthood</title>
         <description></description>
@@ -205,8 +182,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-29-patrick-and-the-priesthood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Older Kids' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Older Kids</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-30-for-older-kids-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -223,5 +198,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2012-october/2012-10-31-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

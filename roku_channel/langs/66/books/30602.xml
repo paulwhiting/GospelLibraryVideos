@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='The Gospel Answers Life’s Problems and Challenges' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>The Gospel Answers Life’s Problems and Challenges</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514567001/1280/720/1774312.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514567001/640/360/902312.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='February 2012 Worldwide Leadership Training' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>February 2012 Worldwide Leadership Training</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514566001/1280/720/1771851.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514566001/640/360/899851.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Strengthening Quorums and Members' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Strengthening Quorums and Members</title>
         <description></description>
@@ -37,8 +34,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514570001/1280/720/1771619.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514570001/640/360/899619.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Priesthood Power in the Home' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Priesthood Power in the Home</title>
         <description></description>
@@ -50,8 +46,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514569001/1280/720/1774198.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514569001/640/360/902198.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Doctrinal Importance of Marriage and Children' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Doctrinal Importance of Marriage and Children</title>
         <description></description>
@@ -63,8 +58,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514568001/1280/720/1773170.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514568001/640/360/901170.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Acting on the Truths of the Gospel of Jesus Christ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Acting on the Truths of the Gospel of Jesus Christ</title>
         <description></description>
@@ -76,5 +70,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514546001/1280/720/1771425.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514546001/640/360/899425.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

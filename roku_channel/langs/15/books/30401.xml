@@ -1,27 +1,21 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Жити з метою: важливість “справжнього наміру”' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Жити з метою: важливість “справжнього наміру”</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-64k-ukr.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-64k-ukr.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-360p-ukr.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Смак світла' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Смак світла</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1468996/f6b3dcd0e2724c159ab0ec5a515527c2/320x179.jpg'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-64k-ukr.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536629001/396/224/195300.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4225536629001/640/360/739606.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4225536629001/640/360/733539.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536629001/480/268/496011.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4225536629001/480/268/320707.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-360p-ukr.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

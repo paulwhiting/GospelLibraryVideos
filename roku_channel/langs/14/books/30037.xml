@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='พระองค์ทรงพระชนม์-เฉลิมฉลองเทศกาลอีสเตอร์เพราะพระเยซูคริสต์ทรงพระชนม์' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>พระองค์ทรงพระชนม์-เฉลิมฉลองเทศกาลอีสเตอร์เพราะพระเยซูคริสต์ทรงพระชนม์</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/4098117646001/640/360/772372.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='เพราะพระองค์' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>เพราะพระองค์</title>
         <description></description>
@@ -19,8 +17,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905661001/1280/720/1528151.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905661001/640/360/815849.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='พระองค์คือของขวัญ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>พระองค์คือของขวัญ</title>
         <description></description>
@@ -31,5 +28,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900402316001/1280/720/1382949.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900402316001/640/360/762321.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

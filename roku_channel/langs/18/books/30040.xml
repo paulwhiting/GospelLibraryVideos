@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Hij leeft — vier Pasen omdat Jezus Christus leeft' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Hij leeft — vier Pasen omdat Jezus Christus leeft</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/4098116191001/640/360/771196.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dankzij Hem' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dankzij Hem</title>
         <description></description>
@@ -19,8 +17,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905656001/1280/720/1444711.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905656001/640/360/777727.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hij is het geschenk' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hij is het geschenk</title>
         <description></description>
@@ -31,5 +28,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900210979001/1280/720/1454750.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900210979001/640/360/796366.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

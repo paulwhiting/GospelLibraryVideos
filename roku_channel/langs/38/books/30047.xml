@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Նա ապրում է – Տոնեք Զատիկը, որովհետև Հիսուս Քրիստոսն ապրում է:' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Նա ապրում է – Տոնեք Զատիկը, որովհետև Հիսուս Քրիստոսն ապրում է:</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4098116185001/640/360/934761.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4098116185001/640/360/784855.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Զատիկ – Նրա շնորհիվ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Զատիկ – Նրա շնորհիվ</title>
         <description></description>
@@ -23,8 +21,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905660001/1280/720/1422949.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905660001/640/360/776518.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Նա է Ընծան' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Նա է Ընծան</title>
         <description></description>
@@ -35,5 +32,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900210978001/1280/720/1449599.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900210978001/640/360/795186.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

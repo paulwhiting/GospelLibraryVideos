@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='General Conference Is for You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>General Conference Is for You</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/new-era/2011/11/MonsonTS_08.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-02-general-conference-is-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Do You Believe in God?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Do You Believe in God?</title>
         <description></description>
@@ -16,35 +14,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-03-do-you-believe-in-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mormonad: You Can Conquer Giant Problems' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mormonad: You Can Conquer Giant Problems</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/new-era/2011/11/ne11nov23-mormonad-giant-problems.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-04-mormonad-you-can-conquer-giant-problems-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Running Together' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Running Together</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/new-era/2011/11/MonsonTS_08.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-05-running-together-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Questions and Answers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/new-era/2011/11/HalesRD_05.jpg'/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-06-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bees, Beehives, and You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bees, Beehives, and You</title>
         <description></description>
@@ -52,8 +46,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-07-bees-beehives-and-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Extra Smile' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Extra Smile</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-08-the-extra-smile-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Alex’s Great Example' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Alex’s Great Example</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-09-alexs-great-example-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Change of Plans' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Change of Plans</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-10-change-of-plans-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Be of Good Courage' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Be of Good Courage</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-11-be-of-good-courage-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='It Started with a Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>It Started with a Friend</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-12-it-started-with-a-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Building Bubble Ball' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Building Bubble Ball</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-13-building-bubble-ball-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Instant Messages' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Instant Messages</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-14-instant-messages-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='We’ve Got Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We’ve Got Mail</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-15-weve-got-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Forgiveness' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Forgiveness</title>
         <description></description>
@@ -133,5 +118,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/new-era/2011-november/2011-11-16-forgiveness-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Hän elää – juhli pääsiäistä, koska Jeesus Kristus elää' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Hän elää – juhli pääsiäistä, koska Jeesus Kristus elää</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/4124802429001/640/360/747457.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hänen Ansiostaan' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hänen Ansiostaan</title>
         <description></description>
@@ -19,8 +17,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680966389001/1280/720/1394802.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680966389001/640/360/759512.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hän on Lahja' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hän on Lahja</title>
         <description></description>
@@ -31,5 +28,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900210981001/1280/720/1396418.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900210981001/640/360/791448.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

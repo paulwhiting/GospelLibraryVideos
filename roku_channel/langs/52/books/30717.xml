@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='我是摩爾門教徒、台灣的旅遊記者' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>我是摩爾門教徒、台灣的旅遊記者</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2750923461001/1280/720/1795618.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2750923461001/640/360/923618.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我是摩爾門教徒、是個父親，也是旅遊百科' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>我是摩爾門教徒、是個父親，也是旅遊百科</title>
         <description></description>
@@ -24,5 +22,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4089138666001/1280/720/1799973.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4089138666001/640/360/927973.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

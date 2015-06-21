@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='わたしはモルモンで、チーズ製造者で、父親です' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>わたしはモルモンで、チーズ製造者で、父親です</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2748231531001/1280/720/1795306.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2748231531001/640/360/923306.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，父親で，いつも笑顔です' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，父親で，いつも笑顔です</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2748235357001/1280/720/1794572.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2748235357001/640/360/922572.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，家族を優先するコンピューターきちがいです。' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，家族を優先するコンピューターきちがいです。</title>
         <description></description>
@@ -37,8 +34,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4088791439001/1280/720/1794732.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4088791439001/640/360/922732.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，剣道の師範です' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，剣道の師範です</title>
         <description></description>
@@ -50,8 +46,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4088882682001/1280/720/1795522.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4088882682001/640/360/923522.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，東京に住む女の子です。' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，東京に住む女の子です。</title>
         <description></description>
@@ -63,8 +58,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4088878139001/1280/720/1795640.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4088878139001/640/360/923640.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，陶芸家で，バランスの師匠です' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，陶芸家で，バランスの師匠です</title>
         <description></description>
@@ -76,8 +70,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4088886854001/1280/720/1794898.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4088886854001/640/360/922898.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='わたしはモルモンで，音楽好きの母親です。' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>わたしはモルモンで，音楽好きの母親です。</title>
         <description></description>
@@ -89,5 +82,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4088882683001/1280/720/1764287.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4088882683001/640/360/892287.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

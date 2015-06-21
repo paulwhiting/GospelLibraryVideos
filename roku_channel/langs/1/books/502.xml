@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Childviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Childviews</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-02-childviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come Listen to a Prophet’s Voice: Honesty: A Moral Compass' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come Listen to a Prophet’s Voice: Honesty: A Moral Compass</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:91.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-03-come-listen-to-a-prophets-voice-honesty-a-moral-compass-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Challenge Just for You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Challenge Just for You</title>
         <description></description>
@@ -25,17 +22,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-04-a-challenge-just-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From Latter-day Prophets: Brigham Young' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From Latter-day Prophets: Brigham Young</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15c6.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-05-from-latter-day-prophets-brigham-young-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: “Follow the Prophet”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: “Follow the Prophet”</title>
         <description></description>
@@ -43,17 +38,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-06-friend-to-friend-follow-the-prophet-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Walks on the Water' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Walks on the Water</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15c8.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-07-jesus-walks-on-the-water-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Blessings Everywhere' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Blessings Everywhere</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-09-blessings-everywhere-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jason and Stephen Taylor of Moncton, New Brunswick, Canada' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jason and Stephen Taylor of Moncton, New Brunswick, Canada</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-10-jason-and-stephen-taylor-of-moncton-new-brunswick-canada-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Missionaries to Dinner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Missionaries to Dinner</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-11-missionaries-to-dinner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For You!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For You!</title>
         <description></description>
@@ -88,44 +78,39 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-12-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Buddies' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Buddies</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:63.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-14-book-buddies-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: The Prophet Will Tell Us' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: The Prophet Will Tell Us</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15e0.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-15-sharing-time-the-prophet-will-tell-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15e2.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-16-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Howard W. Hunter Learns to Work' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Howard W. Hunter Learns to Work</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15e6.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-17-howard-w-hunter-learns-to-work-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus Christ</title>
         <description></description>
@@ -133,17 +118,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-18-trying-to-be-like-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prophets Prophesy of the Future' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prophets Prophesy of the Future</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:15ea.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-19-prophets-prophesy-of-the-future-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prayer in the Storm' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prayer in the Storm</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-20-prayer-in-the-storm-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -160,5 +142,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-november-2001/2001-11-21-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

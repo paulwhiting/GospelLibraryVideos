@@ -1,26 +1,17 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='O žaljenju i odlukama' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>O žaljenju i odlukama</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-1070-president-dieter-f-uchtdorf-64k-hrv.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/480/270/403654' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/480/270/615654' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963995231001/1280/720/2503654' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963995231001/1280/720/2103654' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963995231001/640/360/903654' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963995231001/1920/1080/8276984' height='1080p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/400/224/239971' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963995231001/1280/720/1775654' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/480/270/403654' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/480/270/403654' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963995231001/720/405/1203654' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-1070-president-dieter-f-uchtdorf-360p-hrv.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Razmislite o blagoslovima' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Razmislite o blagoslovima</title>
         <description></description>
@@ -28,17 +19,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-4060-president-thomas-s-monson-64k-hrv.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963993111001/640/360/899986' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/396/224/234153' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/480/268/611986' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/480/268/399986' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/480/268/399986' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963993111001/1280/720/2099986' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963993111001/1280/720/2499986' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/720/404/1199986' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1963993111001/480/268/399986' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963993111001/1280/720/1771986' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1963993111001/1920/1080/8282000' height='1080p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-4060-president-thomas-s-monson-360p-hrv.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

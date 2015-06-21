@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Dagiti Bantay nga Ulien' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Dagiti Bantay nga Ulien</title>
         <description></description>
@@ -8,16 +7,8 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-64k-ilo.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/1667894539001/1280/720/1775347' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1667894539001/1280/720/2503347' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/396/224/233706' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1667894539001/1920/1080/8279000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1667894539001/640/360/903347' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/720/404/1203347' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/480/268/403347' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/480/268/403347' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/480/268/615347' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1667894539001/1280/720/2103347' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/1667894539001/480/268/403347' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-1070-president-henry-b-eyring-360p-ilo.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

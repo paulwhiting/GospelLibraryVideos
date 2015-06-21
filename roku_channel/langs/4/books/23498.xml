@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ensinar e Aprender o Evangelho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Ensinar e Aprender o Evangelho</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/relief-society-seal.png'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-03-teaching-and-learning-the-gospel-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Caderno da Conferência de Abril de 2013' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Caderno da Conferência de Abril de 2013</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-04-april-2013-conference-notebook-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Senhor Qualifica Aqueles a Quem Ele Chama' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Senhor Qualifica Aqueles a Quem Ele Chama</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-05-whom-the-lord-calls-he-qualifies-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Uma Televisão e um Espírito Elevado' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Uma Televisão e um Espírito Elevado</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-06-a-television-and-a-spirit-lifted-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Honestidade e Integridade' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Honestidade e Integridade</title>
         <description></description>
@@ -43,35 +38,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-07-honesty-and-integrity-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Para Deus Nada É Impossível' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Para Deus Nada É Impossível</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/dallin-h-oaks.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-08-with-god-nothing-shall-be-impossible-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Fé e a Força dos Pioneiros — Ontem e Hoje' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Fé e a Força dos Pioneiros — Ontem e Hoje</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/m-russell-ballard.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-09-pioneer-faith-and-fortitude-then-and-now-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Um Deus de Milagres: Os Santos Eslovacos em Sheffield' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Um Deus de Milagres: Os Santos Eslovacos em Sheffield</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/erich-w-kopischke.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-10-a-god-of-miracles-the-slovak-saints-in-sheffield-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Vozes da Igreja' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vozes da Igreja</title>
         <description></description>
@@ -79,98 +70,87 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-11-latter-day-saint-voices-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Viver para as Eternidades' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Viver para as Eternidades</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/keith-k-hilbig.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-12-living-for-the-eternities-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Experiências Pessoais ao Confiar Profundamente' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Experiências Pessoais ao Confiar Profundamente</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/richard-g-scott.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-13-experiences-in-profound-trust-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Convicção com Compaixão' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Convicção com Compaixão</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/jeffrey-r-holland.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-14-conviction-with-compassion-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Perdoar a Pessoa do Espelho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Perdoar a Pessoa do Espelho</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/ne13jul36-girl-looking-in-mirror-1105605.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-15-forgiving-the-one-in-the-mirror-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Honestidade e Integridade' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Honestidade e Integridade</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/christoffel-golden-jr.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-16-honesty-and-integrity-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Devolvido com Honra' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Devolvido com Honra</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/ne13jul13-girl-in-galoshes-1105611.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-17-returned-with-honor-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Poder nos Convênios' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Poder nos Convênios</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/ne13jul28-baptism-1073489.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-18-power-in-covenants-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Noites Familiares Favoritas' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Noites Familiares Favoritas</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/ne13jul34-boy-in-costume-1105656.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-19-favorite-family-home-evenings-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Meus Verões no Templo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Meus Verões no Templo</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/ne13jul22-Stockholm-Sweden-Temple-82668.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-20-my-summers-by-the-temple-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Salve-a!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Salve-a!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-22-save-her-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='As Famílias São Parte do Plano do Pai Celestial' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>As Famílias São Parte do Plano do Pai Celestial</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-23-families-are-part-of-heavenly-fathers-plan-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Desafios no Missouri' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Desafios no Missouri</title>
         <description></description>
@@ -187,8 +166,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-24-challenges-in-missouri-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nossa Página' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nossa Página</title>
         <description></description>
@@ -196,17 +174,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-25-our-page-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Por que o trabalho de história da família é tão importante?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Por que o trabalho de história da família é tão importante?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/david-a-bednar.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-26-why-is-family-history-work-so-important-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Tapete de Histórias' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Tapete de Histórias</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-27-the-story-rug-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trocas da História da Família' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trocas da História da Família</title>
         <description></description>
@@ -223,8 +198,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-28-family-story-swap-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Olá, Sou Erika, de El Salvador' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Olá, Sou Erika, de El Salvador</title>
         <description></description>
@@ -232,17 +206,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-29-hi-im-erika-from-el-salvador-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Chama Seus Discípulos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Chama Seus Discípulos</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/fr13jul35-coloring-page.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-30-jesus-calls-his-disciples-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Novos Presidentes de Missão Chamados a Servir' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Novos Presidentes de Missão Chamados a Servir</title>
         <description></description>
@@ -250,8 +222,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-31-new-mission-presidents-called-to-serve-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='O Élder Cook Reúne-se com Membros e Pesquisadores na Costa do Marfim' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>O Élder Cook Reúne-se com Membros e Pesquisadores na Costa do Marfim</title>
         <description></description>
@@ -259,8 +230,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-32-elder-cook-addresses-members-and-investigators-in-ivory-coast-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Recente Falecimento de Frances   J. Monson' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Recente Falecimento de Frances   J. Monson</title>
         <description></description>
@@ -268,8 +238,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-33-recent-passing-of-frances-j-monson-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Igreja no Mundo' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Igreja no Mundo</title>
         <description></description>
@@ -277,8 +246,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-34-around-the-church-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Comentários' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Comentários</title>
         <description></description>
@@ -286,8 +254,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-35-comment-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Caminhar pela Trilha da Esperança — Juntos' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Caminhar pela Trilha da Esperança — Juntos</title>
         <description></description>
@@ -295,14 +262,12 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-36-walking-the-trail-of-hope-together-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph F. Smith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph F. Smith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/liahona/2013/07/fr13jun49-Joseph-F-Smith.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/liahona-july-2013/2013-07-37-prophet-portrait-joseph-f-smith-64k-por.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

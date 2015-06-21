@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='協助新成員將名單提交到聖殿' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>協助新成員將名單提交到聖殿</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1557834075001_2011-06-02-youth-serve-new-member-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1557375711001_2011-06-02-youth-serve-new-member-8000k-cmn-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='協助他人藉由索引編製找到紀錄' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>協助他人藉由索引編製找到紀錄</title>
         <description></description>
@@ -24,5 +22,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1557882992001_2011-08-03-youth-serve-indexing-8000k-cmn.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_1557375729001_2011-08-03-youth-serve-indexing-8000k-cmn-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

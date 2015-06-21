@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Munca misionară, munca de întocmire a istoriei familiei şi munca în templu' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Munca misionară, munca de întocmire a istoriei familiei şi munca în templu' subtitle='Videos: 6, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Munca misionară, munca de întocmire a istoriei familiei şi munca în templu</title>
         <description></description>
@@ -65,5 +66,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793198319001/1280/720/1631545' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793198319001/640/360/763485' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

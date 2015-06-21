@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='2013' subtitle='Videos: 37; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='2013' subtitle='Videos: 37, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Prestedømmets velsignelser i alle hjem</title>
         <description></description>
@@ -416,8 +417,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2537006376001_2013-06-1000-the-work-of-salvation-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2537192870001_2013-06-1000-the-work-of-salvation-8000k-nor.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='2012' subtitle='Videos: 6; Audio: 0'><category title='Handle i samsvar med sannhetene i Jesu Kristi evangelium' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2012' subtitle='Videos: 6, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Handle i samsvar med sannhetene i Jesu Kristi evangelium</title>
         <description></description>
@@ -429,8 +431,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1428665592001_2012-02-1050-acting-on-the-truths-of-the-gospel-of-jesus-christ-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1428422914001_2012-02-1050-acting-on-the-truths-of-the-gospel-of-jesus-christ-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='February 2012 Worldwide Leadership Training' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>February 2012 Worldwide Leadership Training</title>
         <description></description>
@@ -442,8 +443,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1432615344001_2012-02-1000-february-2012-worldwide-leadership-training-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1432014374001_2012-02-1000-february-2012-worldwide-leadership-training-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Prestedømmets kraft i hjemmet' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prestedømmets kraft i hjemmet</title>
         <description></description>
@@ -455,8 +455,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1428452025001_2012-02-1030-priesthood-power-in-the-home-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1428021798001_2012-02-1030-priesthood-power-in-the-home-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Hvordan styrke quorumer og medlemmer' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hvordan styrke quorumer og medlemmer</title>
         <description></description>
@@ -468,8 +467,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1430273558001_2012-02-1040-strengthening-quorums-and-members-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1429761086001_2012-02-1040-strengthening-quorums-and-members-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Den doktrinære betydning av ekteskap og barn' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Den doktrinære betydning av ekteskap og barn</title>
         <description></description>
@@ -481,8 +479,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1426316376001_2012-02-1020-the-doctrinal-importance-of-marriage-and-children-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1425792143001_2012-02-1020-the-doctrinal-importance-of-marriage-and-children-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='The Gospel Answers Life&apos;s Problems and Challenges' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Gospel Answers Life&apos;s Problems and Challenges</title>
         <description></description>
@@ -494,9 +491,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1426025706001_2012-02-1010-the-gospel-answers-lifes-problems-and-challenges-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_1425732850001_2012-02-1010-the-gospel-answers-lifes-problems-and-challenges-8000k-nor-copy.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-</category>
-<category title='2011' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2011' subtitle='Videos: 3, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Verdensomspennende opplæring for ledere, februar 2011</title>
         <description></description>
@@ -526,8 +523,9 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2469719622001_2011-02-1030-introduction-to-handbook-2-and-related-principles-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2469568704001_2011-02-1030-introduction-to-handbook-2-and-related-principles-8000k-nor.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='2010' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2010' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>2010</title>
         <description></description>
@@ -538,5 +536,5 @@
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2426376230001_2010-11-040-ward-council-model-8000k-nor.mp4' height='720p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/1257553577001/1257553577001_2426047485001_2010-11-040-ward-council-model-8000k-nor.mp4' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

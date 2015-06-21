@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='February 2013' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='February 2013' subtitle='Videos: 8, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>How to Use This Training</title>
         <description></description>
@@ -95,8 +96,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/2149719695001/1280/720/1800000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2149719695001/640/360/928000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='June 2013' subtitle='Videos: 11; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='June 2013' subtitle='Videos: 11, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>The Work of Salvation</title>
         <description></description>
@@ -217,8 +219,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/2503289759001/1280/720/1573915.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2503289759001/640/360/815624.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2012' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2012' subtitle='Videos: 6, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>February 2012 Worldwide Leadership Training</title>
         <description></description>
@@ -290,8 +293,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/1445514546001/1280/720/1771425.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1445514546001/640/360/899425.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2011' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2011' subtitle='Videos: 3, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>February 2011 Worldwide Leadership Training</title>
         <description></description>
@@ -324,8 +328,9 @@
 <content url='http://mediasrv.lds.org/media-services/size/2473618715001/1280/720/1660909.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2473618715001/640/360/923974.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2010' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2010' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>2010</title>
         <description></description>
@@ -336,5 +341,5 @@
 <content url='http://mediasrv.lds.org/media-services/size/2434482627001/1280/720/1632651.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2434482627001/640/360/896000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

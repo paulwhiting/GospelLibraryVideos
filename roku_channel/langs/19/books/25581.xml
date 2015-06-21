@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='A Search for Truth' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>A Search for Truth</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257947055001_2010-07-02-a-search-for-truth-8000k-swe.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257919630001_2010-07-02-a-search-for-truth-8000k-swe-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Väktare på tornet' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Väktare på tornet</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253062854001_2010-07-23-watchmen-on-the-tower-8000k-swe.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019298001_2010-07-23-watchmen-on-the-tower-8000k-swe-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Var inte oroliga' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Var inte oroliga</title>
         <description></description>
@@ -36,8 +33,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2871181028001_2010-07-038-be-not-troubled-8000k-swe.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2871173320001_2010-07-038-be-not-troubled-8000k-swe.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='De som är visa' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>De som är visa</title>
         <description></description>
@@ -48,8 +44,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687175763001_2010-07-040-they-that-are-wise-8000k-swe.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2687174801001_2010-07-040-they-that-are-wise-8000k-swe.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith—Prophet of the Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith—Prophet of the Restoration</title>
         <description></description>
@@ -61,5 +56,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253084771001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-swe.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253059419001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-swe-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

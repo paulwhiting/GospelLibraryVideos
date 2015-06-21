@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Inspirational Thoughts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Inspirational Thoughts</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-02-inspirational-thoughts-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Insights from My Life' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Insights from My Life</title>
         <description></description>
@@ -16,8 +14,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-03-insights-from-my-life-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A History of the Latter-day Seventy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A History of the Latter-day Seventy</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-04-a-history-of-the-latter-day-seventy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='No Name Tag Needed' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>No Name Tag Needed</title>
         <description></description>
@@ -34,8 +30,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-05-no-name-tag-needed-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Four Principles of a Joyous Marriage' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Four Principles of a Joyous Marriage</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-06-four-principles-of-a-joyous-marriage-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Coming Back for Joey' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Coming Back for Joey</title>
         <description></description>
@@ -52,8 +46,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-07-coming-back-for-joey-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Walking in Pathways of Happiness' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Walking in Pathways of Happiness</title>
         <description></description>
@@ -61,26 +54,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-08-walking-in-pathways-of-happiness-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Book of Mormon: A Worldwide View' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Book of Mormon: A Worldwide View</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:1791.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-09-the-book-of-mormon-a-worldwide-view-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Foundation of Strength in Germany' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Foundation of Strength in Germany</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:17a5.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-10-a-foundation-of-strength-in-germany-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Purity in Thought and Deed' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Purity in Thought and Deed</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-11-purity-in-thought-and-deed-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Latter-day Saint Perspective on Muhammad' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Latter-day Saint Perspective on Muhammad</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:17a7.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-12-a-latter-day-saint-perspective-on-muhammad-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Longed to Be a Mother' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Longed to Be a Mother</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-13-i-longed-to-be-a-mother-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Being Sensitive to Couples without Children' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Being Sensitive to Couples without Children</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-14-being-sensitive-to-couples-without-children-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Latter-day Saint Voices' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Latter-day Saint Voices</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-15-latter-day-saint-voices-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Random Sampler' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Random Sampler</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-16-random-sampler-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Perspectives' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Perspectives</title>
         <description></description>
@@ -142,8 +126,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-17-perspectives-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='News of the Church' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>News of the Church</title>
         <description></description>
@@ -151,5 +134,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/ensign-august-2000/2000-08-18-news-of-the-church-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

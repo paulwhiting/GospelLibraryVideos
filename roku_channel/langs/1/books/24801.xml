@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Finding Faith in Christ' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Finding Faith in Christ</title>
         <description></description>
@@ -13,8 +12,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288104373001/640/360/892910.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288104373001/640/360/624910.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith: The Prophet of the Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith: The Prophet of the Restoration</title>
         <description></description>
@@ -28,8 +26,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288104375001/640/360/864000.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288104375001/640/360/596000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='On the Lord&apos;s Errand: The Life of Thomas S. Monson' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>On the Lord&apos;s Errand: The Life of Thomas S. Monson</title>
         <description></description>
@@ -41,8 +38,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288104376001/1280/720/1799891.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288104376001/640/360/927891.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='The Restoration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Restoration</title>
         <description></description>
@@ -53,5 +49,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/1288104377001/1280/720/1799987.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1288104377001/640/360/927987.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

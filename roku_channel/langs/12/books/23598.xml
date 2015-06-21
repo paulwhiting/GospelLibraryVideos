@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ianuari: O Le Aiga Atua' subtitle='Videos: 6; Audio: 0'><category title='E mafai faapefea e le suesueina o tusitusiga paia ona fesoasoani ia te au e aoao e uiga i le Tama Faalelagi?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Ianuari: O Le Aiga Atua' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<category title='E mafai faapefea e le suesueina o tusitusiga paia ona fesoasoani ia te au e aoao e uiga i le Tama Faalelagi?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/studying/images/How can studying the scriptures deepen my understanding of the nature of God -AV081118cah186-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Faamanuiaga o Tusitusiga Paia”</title>
         <description></description>
@@ -11,8 +13,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396740353001/1280/720/1797096' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396740353001/1280/720/2125096' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou aoao ia iloa le aao o le Tama Faalelagi i mea uma?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou aoao ia iloa le aao o le Tama Faalelagi i mea uma?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/godhead/hand/images/How can I see God%E2%80%99s hand in all things-AV110112cah0011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ia Manatua, Ia Manatua Lava</title>
         <description></description>
@@ -69,16 +72,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714984001/640/360/821848' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133714984001/1280/720/2119820' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Fepuari: O Le Ata o le Faaolataga' subtitle='Videos: 6; Audio: 0'><category title='Aisea ua avea ai le aoaoina o se vaega taua o le fuafuaga a le Tama Faalelagi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Aisea ua avea ai le aoaoina o se vaega taua o le fuafuaga a le Tama Faalelagi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Fepuari: O Le Ata o le Faaolataga' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<category title='Aisea ua avea ai le aoaoina o se vaega taua o le fuafuaga a le Tama Faalelagi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/important/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“You Know Enough”</title>
         <description></description>
@@ -113,15 +111,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428202001/640/360/720166' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428202001/1280/720/1285575' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Aisea e taua ai le aoao atu o le talalelei i le ata o le faaolataga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Aisea e taua ai le aoao atu o le talalelei i le ata o le faaolataga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Aisea e taua ai le aoao atu o le talalelei i le ata o le faaolataga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/plan-of-salvation/teaching/images/Unknown-26.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“O Le A&apos;oa&apos;o Atu e Fesoasoani e Laveai ai Olaga”</title>
         <description></description>
@@ -157,9 +149,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163168097001/1280/720/2096000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2163168097001/1920/1080/7923000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Mati: O Le Togiola a Iesu Keriso' subtitle='Videos: 6; Audio: 0'><category title='E faapefea ona ou faaaogaina upu a perofeta ma aposetolo soifua e faamalosia ai lo’u faatuatua i le Togiola a Iesu Keriso?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Mati: O Le Togiola a Iesu Keriso' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<category title='E faapefea ona ou faaaogaina upu a perofeta ma aposetolo soifua e faamalosia ai lo’u faatuatua i le Togiola a Iesu Keriso?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/words/images/AV100804cah0034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Siitia Avega”</title>
         <description></description>
@@ -168,15 +162,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829118827001/1280/720/8566000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2829118827001/640/360/927979' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='O a mea e mafai e tusitusiga paia ona aoaoina ai au e uiga i le Togiola a Iesu Keriso?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O a mea e mafai e tusitusiga paia ona aoaoina ai au e uiga i le Togiola a Iesu Keriso?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/noah-and-animals-39461-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O a mea e mafai e tusitusiga paia ona aoaoina ai au e uiga i le Togiola a Iesu Keriso?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/scriptures/images/AV110614_cah052-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faaaoga ia Tusitusiga Paia”</title>
         <description></description>
@@ -188,8 +176,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725052001/1280/720/2124805' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725052001/1920/1080/7919000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea ona fesoasoani le Tusi a Mamona e faamalosia lou faatuatua i le Togiola a Iesu Keriso?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E faapefea ona fesoasoani le Tusi a Mamona e faamalosia lou faatuatua i le Togiola a Iesu Keriso?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/strengthen/images/CU100407_bkf01-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faatomuaga i le Tusi a Mamona”</title>
         <description></description>
@@ -213,15 +202,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642100001/1920/1080/8289000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642100001/1280/720/2126523' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea ona ou faaaogaina faatusatusaga e aoao ai isi e uiga i le Togiola?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E faapefea ona ou faaaogaina faatusatusaga e aoao ai isi e uiga i le Togiola?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E faapefea ona ou faaaogaina faatusatusaga e aoao ai isi e uiga i le Togiola?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/atonement/teach/images/N1009_England3_jt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O le Puluvaga”;</title>
         <description></description>
@@ -237,16 +220,11 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2223841151001/400/360/928005' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Aperila: O Le Liliuese ma le Toefuataiga' subtitle='Videos: 10; Audio: 0'><category title='Eseta: E mafai faapefea ona ou faasoa atu lau molimau i le Toetu a Iesu Keriso?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Eseta: E mafai faapefea ona ou faasoa atu lau molimau i le Toetu a Iesu Keriso?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Aperila: O Le Liliuese ma le Toefuataiga' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<category title='Eseta: E mafai faapefea ona ou faasoa atu lau molimau i le Toetu a Iesu Keriso?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ona O Ia,”</title>
         <description></description>
@@ -268,15 +246,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680769014001/640/360/28139' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680769014001/1280/720/69103' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O le a se mea ua aoao mai e le faataitaiga a Iosefa Samita ia te a’u e uiga i le aoaoina o le talalelei?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O le a se mea ua aoao mai e le faataitaiga a Iosefa Samita ia te a’u e uiga i le aoaoina o le talalelei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O le a se mea ua aoao mai e le faataitaiga a Iosefa Samita ia te a’u e uiga i le aoaoina o le talalelei?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/example/images/N0905_rmr001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Origin”</title>
         <description></description>
@@ -310,8 +282,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649363001/1280/720/70622' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649363001/1280/720/69593' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou iloa le eseesega i le va o le mea moni ma le mea sese?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou iloa le eseesega i le va o le mea moni ma le mea sese?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/difference/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“O Le A Faasaolotoina Oe</title>
         <description></description>
@@ -345,15 +318,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667848097001/1280/720/2034390' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667848097001/1280/720/1458264' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faatatauina mea na tutupu i le Liliuese ma le Toefuataiga i lo’u olaga?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faatatauina mea na tutupu i le Liliuese ma le Toefuataiga i lo’u olaga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faatatauina mea na tutupu i le Liliuese ma le Toefuataiga i lo’u olaga?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/apostasy-restoration/learn-more/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“O le Uiga o le Toefuataiga Mo A&apos;u”</title>
         <description></description>
@@ -375,16 +342,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550101001/1280/720/2525381' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2228550101001/640/360/925381' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Me: Perofeta ma Faaaliga' subtitle='Videos: 6; Audio: 0'><category title='O a mea e mafai ona ou aoao mai i perofeta ma aposetolo soifua?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O a mea e mafai ona ou aoao mai i perofeta ma aposetolo soifua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Me: Perofeta ma Faaaliga' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<category title='O a mea e mafai ona ou aoao mai i perofeta ma aposetolo soifua?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/living/images/what-can-I-learn-from-living-prophets-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Iloa ma Alofa ia i Matou”</title>
         <description></description>
@@ -396,15 +358,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728347001/1280/720/1796281' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728347001/1280/720/2124281' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O le a le uiga o le faasoa atu o le molimau?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O le a le uiga o le faasoa atu o le molimau?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O le a le uiga o le faasoa atu o le molimau?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/testimony/images/AV110112cah0002-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O se Tasi e le o iai le Taleni o le Failauga,”</title>
         <description></description>
@@ -438,8 +394,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585613001/640/480/2527454' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585613001/640/480/1799454' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='O a mea e mafai ona ou aoao mai ia Peresitene Monson e uiga i le mulimuli i le Agaga?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O a mea e mafai ona ou aoao mai ia Peresitene Monson e uiga i le mulimuli i le Agaga?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/prophets-revelation/more/images/AV110701_cah095-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Mulimuli i Uunaiga a le Agaga,”</title>
         <description></description>
@@ -461,9 +418,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423514001/1280/720/1099722' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423514001/1280/720/1297588' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Iuni: Perisitua ma Ki o le Perisitua' subtitle='Videos: 7; Audio: 0'><category title='E mafai faapefea ona ou saofaga lelei i aufono i le Ekalesia?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Iuni: Perisitua ma Ki o le Perisitua' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<category title='E mafai faapefea ona ou saofaga lelei i aufono i le Ekalesia?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/councils/images/How do priesthood leaders direct councils in the Church - AV070816_cah076-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Auai i Aufono,”</title>
         <description></description>
@@ -485,15 +444,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396757902001/1280/720/2523356' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396757902001/1280/720/1795356' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea ona galulue faatasi i latou e umia le perisitua ma tamaitai e fausia le malo o le Atua?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E faapefea ona galulue faatasi i latou e umia le perisitua ma tamaitai e fausia le malo o le Atua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E faapefea ona galulue faatasi i latou e umia le perisitua ma tamaitai e fausia le malo o le Atua?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/together/images/AV120106_cah338-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Galuega a Agelu,”</title>
         <description></description>
@@ -526,15 +479,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642129001/640/360/778403' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133642129001/1280/720/2006141' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea ona ou faaaogaina tala e aoao ai isi e uiga i le perisitua?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E faapefea ona ou faaaogaina tala e aoao ai isi e uiga i le perisitua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E faapefea ona ou faaaogaina tala e aoao ai isi e uiga i le perisitua?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/priesthood-keys/teach/images/How can I teach others about the priesthood and priesthood keys - AV120404_cah0013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faapaiaina Outou Lava,”</title>
         <description></description>
@@ -558,16 +505,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715001001/1280/720/1772242' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715001001/1280/720/2500242' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Iulai: Sauniga ma Feagaiga' subtitle='Videos: 8; Audio: 0'><category title='O a upumoni faaleagaga e mafai ona ou aoaoina mai sauniga o le talalelei?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O a upumoni faaleagaga e mafai ona ou aoaoina mai sauniga o le talalelei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Iulai: Sauniga ma Feagaiga' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<category title='O a upumoni faaleagaga e mafai ona ou aoaoina mai sauniga o le talalelei?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/truths/images/N5NCA9.jpg'>
+<rss><channel><item>
         <id></id>
         <title> Fesoasoani Mai ia Matou Iloa le Talalelei </title>
         <description></description>
@@ -579,15 +521,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673860001/1280/720/2527986' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673860001/1280/720/1799986' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona faateleina lou malamalama i feagaiga?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona faateleina lou malamalama i feagaiga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona faateleina lou malamalama i feagaiga?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/learn/images/How can I learn more about ordinances and covenants - L06FOFC-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Aoao Atu o le Tasi i le Tasi”</title>
         <description></description>
@@ -598,15 +534,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406318001/1280/720/1183008' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406318001/640/360/672554' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faia ia sili atu le taua o le faamanatuga ia te au?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faia ia sili atu le taua o le faamanatuga ia te au?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faia ia sili atu le taua o le faamanatuga ia te au?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/teach/images/050804_jrn043.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“E Fesoasoani le Faamanatuga Ia I Tatou e Faalatalata Atili ia Iesu Keriso”</title>
         <description></description>
@@ -629,15 +559,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423567001/640/360/679483' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423567001/1280/720/1407559' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea ona ou tausia lau feagaiga ia manatua pea le Faaola?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E faapefea ona ou tausia lau feagaiga ia manatua pea le Faaola?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-last-supper-82803-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E faapefea ona ou tausia lau feagaiga ia manatua pea le Faaola?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/remember/images/How do I keep my covenant to always remember the Savior1-circle.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>“Valaaulia i Matou e Molimau Atu”</title>
         <description></description>
@@ -649,15 +573,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725012001/1920/1080/7893000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725012001/1280/720/2124612' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou saunia ia maua sauniga o le malumalu?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou saunia ia maua sauniga o le malumalu?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou saunia ia maua sauniga o le malumalu?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/ordinances-covenants/prepare/images/How can I prepare to receive temple ordinances - CWD_521645e9-4515-4683-b07f-1ba1f3cd9c7a-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“E I La Tatou Vaaiga E Le Aunoa”</title>
         <description></description>
@@ -690,9 +608,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553557187001/1280/720/2309001' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2553557187001/640/360/874650' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Aokuso: Faaipoipoga ma le Aiga' subtitle='Videos: 11; Audio: 0'><category title='O le a faapefea ona fesoasoani ia te au ma lo’u aiga le tausia o se api talaaga patino?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Aokuso: Faaipoipoga ma le Aiga' subtitle='Videos: 11, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<category title='O le a faapefea ona fesoasoani ia te au ma lo’u aiga le tausia o se api talaaga patino?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/journal/images/How will keeping a personal journal bless me and my family - AV080807_cah011-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Ia Manatua, Ia Manatua Lava,</title>
         <description></description>
@@ -725,8 +645,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421727001/1280/720/1347202' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421727001/1280/720/1579649' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Aisea e taua ai le aoao e uiga i lo’u talafaasolopito o aiga?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Aisea e taua ai le aoao e uiga i lo’u talafaasolopito o aiga?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/history/images/AV120727_cah0035.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ua Saunoa Atu Elder Bednar i le Autalavou,”</title>
         <description></description>
@@ -771,8 +692,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737242001/1280/720/2524083' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737242001/1280/720/2124083' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou aoao atu i isi le auala e faatino ai le galuega o talafaasolopito o aiga?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou aoao atu i isi le auala e faatino ai le galuega o talafaasolopito o aiga?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/teach/images/AV100226cah005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Sueina o Tali i Lauga o le Konafesi”</title>
         <description></description>
@@ -783,15 +705,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418912001/1280/720/1136603' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418912001/640/360/656216' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faamalamalama atu i isi le taua o le faaipoipoga ma le aiga?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faamalamalama atu i isi le taua o le faaipoipoga ma le aiga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faamalamalama atu i isi le taua o le faaipoipoga ma le aiga?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/importance/images/AV121003_cah0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Tuu Mai Matou te Aoao Atu” </title>
         <description></description>
@@ -803,8 +719,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729257001/1280/720/2524273' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729257001/640/360/924273' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='O a ni avanoa o i ai iina mo le aoao mai ma le aoao atu i totonu o le aiga?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O a ni avanoa o i ai iina mo le aoao mai ma le aoao atu i totonu o le aiga?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/opportunities/images/What opportunities are there for learning and teaching in the home - AV061023_yv0052-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Se Polokalama Musuia-mai le Lagi”</title>
         <description></description>
@@ -827,16 +744,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728416001/640/360/923719' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728416001/1280/720/2523719' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Setema: Poloaiga' subtitle='Videos: 12; Audio: 0'><category title='E faapefea ona fesoasoani poloaiga ia te au ina ia aoao ia faapei atili o le Tama Faalelagi?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E faapefea ona fesoasoani poloaiga ia te au ina ia aoao ia faapei atili o le Tama Faalelagi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Setema: Poloaiga' subtitle='Videos: 12, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<category title='E faapefea ona fesoasoani poloaiga ia te au ina ia aoao ia faapei atili o le Tama Faalelagi?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/learn/images/How do the commandments help me learn to be more like Heavenly Father - AV060621_cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Talanoaina o Fesili”</title>
         <description></description>
@@ -847,15 +759,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428202001/640/360/720166' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428202001/1280/720/1285575' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou fesoasoani atu i isi ina ia malamalama i o’u tulaga faatonuina?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou fesoasoani atu i isi ina ia malamalama i o’u tulaga faatonuina?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou fesoasoani atu i isi ina ia malamalama i o’u tulaga faatonuina?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/standards/images/How can I help others understand my standards - AV120223_cah0029alt-CIRCLE'>
+<rss><channel><item>
         <id></id>
         <title>“Taliina o se Fesili a se Tagata o le Vasega”</title>
         <description></description>
@@ -866,8 +772,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416842001/1280/720/1191859' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416842001/1280/720/1410602' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E faapefea e le tausia o poloaiga ona aafia ai lou tomai e aoao le talalelei?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E faapefea e le tausia o poloaiga ona aafia ai lou tomai e aoao le talalelei?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/ability/images/CU120426_People_Madrid52.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Na Tuu Atu e le Atua ia i Latou le Poto”</title>
         <description></description>
@@ -900,15 +807,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434713001/1280/720/1745904' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434713001/640/360/699119' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou uunaia isi e usiusitai i poloaiga?' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou uunaia isi e usiusitai i poloaiga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou uunaia isi e usiusitai i poloaiga?' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/inspire/images/How can I inspire others to obey the commandments - AV070307_cah054-cirecle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Ia Faasusulu Atu lo Outou Malamalama,”</title>
         <description></description>
@@ -953,15 +854,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665173280001/1280/720/1478860' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2665173280001/1280/720/2090697' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O a famanuiaga o folafola mai e le Tama Faalelagi pe a ou usiusitai i poloaiga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O a famanuiaga o folafola mai e le Tama Faalelagi pe a ou usiusitai i poloaiga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O a famanuiaga o folafola mai e le Tama Faalelagi pe a ou usiusitai i poloaiga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/commandments/blessings/images/What blessings does Heavenly Father promise if I obey the commandments - CWD_998fb89e-db4c-4a5c-8f6e-963c96fc57a7-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Se Taula Mausali”</title>
         <description></description>
@@ -995,16 +890,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649382001/1280/720/67177' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202649382001/1280/720/69835' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Oketopa: Avea Atili e Faapei o Keriso' subtitle='Videos: 16; Audio: 0'><category title='E mafai faapefea ona ou valaaulia isi ina ia avea atili faapei o le Faaola?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou valaaulia isi ina ia avea atili faapei o le Faaola?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='Oketopa: Avea Atili e Faapei o Keriso' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<category title='E mafai faapefea ona ou valaaulia isi ina ia avea atili faapei o le Faaola?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/invite/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Inviting All to Come unto Christ: Sharing the Gospel,”</title>
         <description></description>
@@ -1062,15 +952,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418935001/1280/720/1710453' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418935001/1280/720/1421147' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faaalia le alofa mo i latou ou te aoaoina?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faaalia le alofa mo i latou ou te aoaoina?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/ammon-defending-kings-sheep-39656-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faaalia le alofa mo i latou ou te aoaoina?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/love/images/N11GIM43B-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Alofa Ia I Latou E Te Aoaoina”</title>
         <description></description>
@@ -1103,15 +987,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416894001/1280/720/1287471' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416894001/640/360/761249' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Na faapefea ona faatusaina e le Faaola ia upumoni o le talalelei i mea faitino masani ma aafiaga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Na faapefea ona faatusaina e le Faaola ia upumoni o le talalelei i mea faitino masani ma aafiaga?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Na faapefea ona faatusaina e le Faaola ia upumoni o le talalelei i mea faitino masani ma aafiaga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/familiar/images/livingwater_altLessRed.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Le Atalii Faamaumau Oa”</title>
         <description></description>
@@ -1145,15 +1023,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079262001/640/360/928000' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079262001/1280/720/1800000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faaaogaina ia tusitusiga paia e fesoasoani ai i isi ia avea atili e faapei o Keriso?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faaaogaina ia tusitusiga paia e fesoasoani ai i isi ia avea atili e faapei o Keriso?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faaaogaina ia tusitusiga paia e fesoasoani ai i isi ia avea atili e faapei o Keriso?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/others/images/AV060509_cah1009.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Filifili po o le a le Mea e Aoao Mai”</title>
         <description></description>
@@ -1165,15 +1037,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031677001001/1280/720/2526453' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031677001001/1280/720/2126453' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou faaaogaina ma le anoa fesili ao ou aoao atu?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou faaaogaina ma le anoa fesili ao ou aoao atu?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou faaaogaina ma le anoa fesili ao ou aoao atu?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/questions/images/AV0812010cah001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Mea E Pei Ona I Ai Lava”</title>
         <description></description>
@@ -1206,15 +1072,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423555001/1280/720/1245660' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423555001/640/360/700461' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='O le a se mea e mafai ona ou aoao mai e uiga i le aoaoina o le talalelei mai le faataitaiga a le Faaola?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O le a se mea e mafai ona ou aoao mai e uiga i le aoaoina o le talalelei mai le faataitaiga a le Faaola?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O le a se mea e mafai ona ou aoao mai e uiga i le aoaoina o le talalelei mai le faataitaiga a le Faaola?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/becoming-more-christlike/example/images/0001394PL.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Fefaasoaai Tala ma Faataitaiga”</title>
         <description></description>
@@ -1226,9 +1086,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725035001/1280/720/2124578' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725035001/1920/1080/7932000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Novema: Ola Tutoatasi Faaleagaga ma le Faaletino' subtitle='Videos: 16; Audio: 0'><category title='E mafai faapefea ona ou ola tutoatasi faaleagaga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<category title='Novema: Ola Tutoatasi Faaleagaga ma le Faaletino' subtitle='Videos: 16, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<category title='E mafai faapefea ona ou ola tutoatasi faaleagaga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/spiritually/images/How can I become spiritually self-reliantAV081231cah235-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ O I Latou O E Atamamai”</title>
         <description></description>
@@ -1262,8 +1124,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667932516001/480/360/839061' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667932516001/640/480/1529465' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou tu o se molimau o le Atua?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou tu o se molimau o le Atua?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/witness/images/new-youth-curriculum-ss-How-can-I-stand-as-a-witness-of-God-1200973.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Kalapu a le Au Le Palauvavale”</title>
         <description></description>
@@ -1285,15 +1148,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2647304244001/1280/720/1826408' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2647304244001/1280/720/2106610' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou mauaina tali i au lava fesili faaletalalelei?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou mauaina tali i au lava fesili faaletalalelei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou mauaina tali i au lava fesili faaletalalelei?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/answers/images/AV121011_cah0006-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>vitio o le lauga</title>
         <description></description>
@@ -1317,8 +1174,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729292001/1280/720/2524259' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729292001/1920/1080/7796000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou aoao e fai au lava filifiliga?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou aoao e fai au lava filifiliga?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/decisions/images/How can I learn to make my own decisionsV090107cah379-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Auala Sese”</title>
         <description></description>
@@ -1351,15 +1209,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416859001/1280/720/1206911' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416859001/1280/720/1406893' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea e le setiina o ni sini ona fesoasoani ia te au ina ia ola tutoatasi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea e le setiina o ni sini ona fesoasoani ia te au ina ia ola tutoatasi?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea e le setiina o ni sini ona fesoasoani ia te au ina ia ola tutoatasi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/goals/images/How can setting goals help me become self-reliantAV090107cah331-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“ O Se Galuega o loo Faagasolo”</title>
         <description></description>
@@ -1392,15 +1244,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421707001/1280/720/1364321' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421707001/640/360/673813' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou saunia ina ia ola tutoatasi i mea tautupe?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou saunia ina ia ola tutoatasi i mea tautupe?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou saunia ina ia ola tutoatasi i mea tautupe?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/self-reliance/financially/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Avea ma E Saunia Mea Tatau Uma”</title>
         <description></description>
@@ -1434,16 +1280,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667850458001/1280/720/1894206' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2667850458001/1280/720/1435076' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='Tesema: Fausiaina o le Malo o le Atua i Aso e Gata Ai' subtitle='Videos: 14; Audio: 0'><category title='E mafai faapefea ona ou aoao e auauna ia sili atu ona lelei i le Ekalesia?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou aoao e auauna ia sili atu ona lelei i le Ekalesia?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/moses-gives-aaron-priesthood-39465-print.jpg'/>
-</item>
-<item>
+<category title='Tesema: Fausiaina o le Malo o le Atua i Aso e Gata Ai' subtitle='Videos: 14, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<category title='E mafai faapefea ona ou aoao e auauna ia sili atu ona lelei i le Ekalesia?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/serve/images/AV120514_cah0098.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Matou te Avea ai”</title>
         <description></description>
@@ -1455,15 +1296,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725061001/1280/720/2524575' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725061001/640/360/924575' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ana avea a’u ma se taitai e sili atu ona lelei?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ana avea a’u ma se taitai e sili atu ona lelei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ana avea a’u ma se taitai e sili atu ona lelei?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/leader/images/AV050901_cah051.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faaaogaina o Ata”</title>
         <description></description>
@@ -1474,15 +1309,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417392001/1280/720/1420452' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417392001/1280/720/1267833' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou avea ma se faiaoga e sili atu ona lelei?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou avea ma se faiaoga e sili atu ona lelei?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou avea ma se faiaoga e sili atu ona lelei?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/teacher/images/AV110518_cah013.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Aoao Atu Isi mai Tusitusiga Paia”</title>
         <description></description>
@@ -1493,8 +1322,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416931001/640/360/648102' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416931001/1280/720/1391184' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='O a ni auala lelei e faasoa atu ai le talalelei i isi?' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='O a ni auala lelei e faasoa atu ai le talalelei i isi?' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/share/images/What are effective ways to share the gospel with others-AV0808025_cah021-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Faasoa Atu Ou Talitonuga”</title>
         <description></description>
@@ -1527,15 +1357,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407312001/1280/720/1252408' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630407312001/1280/720/1714749' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='E mafai faapefea ona ou malamalama i faatusa o loo faaaoga e aoao atu ai le Afio Mai Faalua?' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>E mafai faapefea ona ou malamalama i faatusa o loo faaaoga e aoao atu ai le Afio Mai Faalua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='E mafai faapefea ona ou malamalama i faatusa o loo faaaoga e aoao atu ai le Afio Mai Faalua?' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/symobls/images/How can I understand the symbols used to teach about the Second Coming0001238-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O E Popoto”</title>
         <description></description>
@@ -1591,15 +1415,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874487091001/480/360/837430' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2874487091001/640/480/1816429' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='O a ni mea e mafai ona ou aoao mai tusitusiga paia e fesoasoani ia te au e saunia ai mo le Afio Mai Faalua?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>O a ni mea e mafai ona ou aoao mai tusitusiga paia e fesoasoani ia te au e saunia ai mo le Afio Mai Faalua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/moses-gives-aaron-priesthood-39465-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='O a ni mea e mafai ona ou aoao mai tusitusiga paia e fesoasoani ia te au e saunia ai mo le Afio Mai Faalua?' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/learn/images/What can I learn from the scriptures to help me prepare for the Second Coming-AV091221cah050-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“Matou te Aoao Atu”</title>
         <description></description>
@@ -1611,15 +1429,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673876001/1920/1080/7808000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673876001/1280/720/2123699' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Kerisimasi: E mafai faapefea ona ou faasoa atu la&apos;u molimau o Iesu Keriso o le Alo o le Atua?' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>Kerisimasi: E mafai faapefea ona ou faasoa atu la&apos;u molimau o Iesu Keriso o le Alo o le Atua?</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='Kerisimasi: E mafai faapefea ona ou faasoa atu la&amp;apos;u molimau o Iesu Keriso o le Alo o le Atua?' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ss/building-up-the-church/christmas/images/nativity-1168845-gallery.jpg'>
+<rss><channel><item>
         <id></id>
         <title>“O Ia o le Meaalofa,”</title>
         <description></description>
@@ -1641,6 +1453,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619414001/1280/720/68969' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3984619414001/1280/720/70464' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

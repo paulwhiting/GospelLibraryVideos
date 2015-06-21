@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Remember the Forget-Me-Not' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Remember the Forget-Me-Not</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-03-remember-the-forget-me-not-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Megan’s Lambs' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Megan’s Lambs</title>
         <description></description>
@@ -25,8 +22,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-04-megans-lambs-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Because He Lives' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Because He Lives</title>
         <description></description>
@@ -34,35 +30,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-05-because-he-lives-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='If the Savior Stood Beside Me' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>If the Savior Stood Beside Me</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar07-if-the-savior-stood-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-06-if-the-savior-stood-beside-me-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Doll Dilemma' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Doll Dilemma</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/dieter-f-uchtdorf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-07-the-doll-dilemma-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar11-the-book-of-mormon-is-a-great-book-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-09-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
@@ -70,17 +62,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Where the Book of Mormon Was Published' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Where the Book of Mormon Was Published</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar14-15-where-the-book-of-mormon-was-published-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-11-where-the-book-of-mormon-was-published-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Printing the Words of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Printing the Words of Jesus Christ</title>
         <description></description>
@@ -88,26 +78,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-12-printing-the-words-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Why is Jesus Christ so important to us?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Why is Jesus Christ so important to us?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/dallin-h-oaks.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-13-why-is-jesus-christ-so-important-to-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ric’s New Book' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ric’s New Book</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/mary-n-cook.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-14-rics-new-book-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Alex from California and Katie from Oregon' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Alex from California and Katie from Oregon</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-15-alex-from-california-and-katie-from-oregon-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Easter Activities' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Easter Activities</title>
         <description></description>
@@ -124,17 +110,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-17-easter-activities-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Picturing Easter' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Picturing Easter</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar24-25-picturing-easter-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-18-picturing-easter-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Painting a Testimony' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Painting a Testimony</title>
         <description></description>
@@ -142,17 +126,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-19-painting-a-testimony-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Book Was True' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Book Was True</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/leaders/kevin-r-duncan.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-20-the-book-was-true-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Hidden Message' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Hidden Message</title>
         <description></description>
@@ -160,17 +142,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-21-the-hidden-message-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Gift from Heavenly Father' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Gift from Heavenly Father</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar35-jesus-christ-lives-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-24-a-gift-from-heavenly-father-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Hope They Call Me on a Mission' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Hope They Call Me on a Mission</title>
         <description></description>
@@ -178,17 +158,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-25-i-hope-they-call-me-on-a-mission-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The New Adventures of Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The New Adventures of Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar37-matt-and-mandy-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-26-the-new-adventures-of-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -196,17 +174,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-27-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jesus Christ Is Our Savior' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jesus Christ Is Our Savior</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar41-prophets-activity-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-28-jesus-christ-is-our-savior-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Firecracker Charlie' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Firecracker Charlie</title>
         <description></description>
@@ -214,8 +190,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-29-firecracker-charlie-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Message for Michael' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Message for Michael</title>
         <description></description>
@@ -223,8 +198,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-30-a-message-for-michael-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Question Corner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Question Corner</title>
         <description></description>
@@ -232,8 +206,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-31-question-corner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Feelings' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Feelings</title>
         <description></description>
@@ -241,8 +214,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-32-feelings-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -250,14 +222,12 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-33-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prophet Portrait: John Taylor' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prophet Portrait: John Taylor</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2013/03/fr13mar49-john-taylor-2013-02-05.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2013-march/2013-03-34-prophet-portrait-john-taylor-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

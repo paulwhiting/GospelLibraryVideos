@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Always Remember Him' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Always Remember Him</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680964463001/1280/720/1445951.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680964463001/640/360/780155.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Christliche Eigenschaften' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Christliche Eigenschaften</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202695590001/1280/720/1489209.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202695590001/640/360/766581.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Unsere Quelle' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Unsere Quelle</title>
         <description></description>
@@ -34,8 +31,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649374001/1280/720/72151.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649374001/640/360/33899.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ein sicherer Anker' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ein sicherer Anker</title>
         <description></description>
@@ -46,8 +42,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3202649393001/1280/720/71765.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3202649393001/640/360/31997.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Eine außergewöhnliche Gabe' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Eine außergewöhnliche Gabe</title>
         <description></description>
@@ -58,8 +53,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892885571001/1280/720/1443741.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892885571001/640/360/788581.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Unser Tempel in Amazonas' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Unser Tempel in Amazonas</title>
         <description></description>
@@ -70,8 +64,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2892888994001/1280/720/1528750.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2892888994001/640/360/791099.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Für eine starke Jugend 2013' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Für eine starke Jugend 2013</title>
         <description></description>
@@ -79,8 +72,7 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/size/2553557151001/1920/1080/6211000.mp4' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='Propheten und Offenbarung – seine Stimme vernehmen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Propheten und Offenbarung – seine Stimme vernehmen</title>
         <description></description>
@@ -92,8 +84,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550584001/1280/720/1796228.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550584001/640/360/924228.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='das Priestertum und die Schlüssel des Priestertums – Wir sind Brüder' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>das Priestertum und die Schlüssel des Priestertums – Wir sind Brüder</title>
         <description></description>
@@ -105,8 +96,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235529955001/1280/720/1794833.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235529955001/640/360/922833.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='der Tempel – Immer im Blick' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>der Tempel – Immer im Blick</title>
         <description></description>
@@ -118,8 +108,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546292001/1280/720/1799180.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546292001/640/360/927180.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='heilige Handlungen und Bündnisse – Der Geist Elijas' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>heilige Handlungen und Bündnisse – Der Geist Elijas</title>
         <description></description>
@@ -131,8 +120,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235550595001/1280/720/1799239.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235550595001/640/360/927239.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='das Zuhause und die Familie – Durch Kleines …' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>das Zuhause und die Familie – Durch Kleines …</title>
         <description></description>
@@ -144,8 +132,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559155001/1280/720/1798603.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559155001/640/360/926603.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Grundsätze: Sexuelle Reinheit und Anstand – Wahres Selbstvertrauen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Grundsätze: Sexuelle Reinheit und Anstand – Wahres Selbstvertrauen</title>
         <description></description>
@@ -157,8 +144,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556459001/1280/720/1799176.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556459001/640/360/927176.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Grundsätze: Dienst am Nächsten – Wenn wir uns selbst vergessen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Grundsätze: Dienst am Nächsten – Wenn wir uns selbst vergessen</title>
         <description></description>
@@ -170,8 +156,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235556463001/1280/720/1798638.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235556463001/640/360/926638.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Grundsätze: Bildung – Die Herrlichkeit Gottes ist Intelligenz' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Grundsätze: Bildung – Die Herrlichkeit Gottes ist Intelligenz</title>
         <description></description>
@@ -183,8 +168,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235559166001/1280/720/1798711.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235559166001/640/360/926711.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='steht an heiligen Stätten – Blühe, wo du gepflanzt wurdest' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>steht an heiligen Stätten – Blühe, wo du gepflanzt wurdest</title>
         <description></description>
@@ -196,8 +180,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546314001/1280/720/1795590.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546314001/640/360/923590.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Das Mottolied zum Leitgedanken 2013 – Steht' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Das Mottolied zum Leitgedanken 2013 – Steht</title>
         <description></description>
@@ -209,8 +192,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2235546318001/1280/720/1799987.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2235546318001/640/360/927987.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Seminary Can Change Lives' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Seminary Can Change Lives</title>
         <description></description>
@@ -222,8 +204,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2180441575001/1280/720/1800027.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2180441575001/640/360/928027.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Wiedergewonnen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Wiedergewonnen</title>
         <description></description>
@@ -235,8 +216,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028830397001/1280/720/1777526.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028830397001/640/360/905526.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Überschreitet nicht die Linie' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Überschreitet nicht die Linie</title>
         <description></description>
@@ -248,8 +228,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028830392001/1280/720/1798795.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028830392001/640/360/926795.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Helfen Sie uns, das Evangelium zu entdecken' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Helfen Sie uns, das Evangelium zu entdecken</title>
         <description></description>
@@ -261,8 +240,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2031673856001/1280/720/1799971.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2031673856001/640/360/927971.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Festlegen, was gelehrt werden soll' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Festlegen, was gelehrt werden soll</title>
         <description></description>
@@ -274,8 +252,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2031673861001/1280/720/1798646.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2031673861001/640/360/926646.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Das Evangelium auf die Weise des Erretters lehren' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Das Evangelium auf die Weise des Erretters lehren</title>
         <description></description>
@@ -287,8 +264,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1871079256001/1280/720/1799997.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1871079256001/640/360/927997.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='In Feindesland' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>In Feindesland</title>
         <description></description>
@@ -300,8 +276,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028845389001/1280/720/1799965.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028845389001/640/360/927965.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Trauen Sie sich, allein dazustehen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trauen Sie sich, allein dazustehen</title>
         <description></description>
@@ -312,8 +287,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2346568784001/1280/720/1799764.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2346568784001/640/360/927764.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Meine Pflicht vor Gott erfüllen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Meine Pflicht vor Gott erfüllen</title>
         <description></description>
@@ -325,8 +299,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028830382001/1280/720/1768000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028830382001/640/360/896000.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Gott wird uns aufrichten' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Gott wird uns aufrichten</title>
         <description></description>
@@ -338,8 +311,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028836518001/1280/720/1800003.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028836518001/640/360/928003.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Innere Schönheit' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Innere Schönheit</title>
         <description></description>
@@ -350,8 +322,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616624965001/1280/720/1554663.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616624965001/640/360/843882.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dies ist eure Zeit für eine Mission' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dies ist eure Zeit für eine Mission</title>
         <description></description>
@@ -363,8 +334,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133681124001/1280/720/1799726.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133681124001/640/360/927726.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Reiner, schlichter Glaube' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Reiner, schlichter Glaube</title>
         <description></description>
@@ -376,8 +346,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028861993001/1280/720/1799488.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028861993001/640/360/927488.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sechs Brüder' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sechs Brüder</title>
         <description></description>
@@ -389,8 +358,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1808802752001/1280/720/1799301.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1808802752001/640/360/927301.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dinge, wie sie wirklich sind' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dinge, wie sie wirklich sind</title>
         <description></description>
@@ -402,8 +370,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2659945501001/1280/720/1798629.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2659945501001/640/360/926629.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Die verlorene Handtasche' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Die verlorene Handtasche</title>
         <description></description>
@@ -415,8 +382,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616643892001/1280/720/1799939.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616643892001/640/360/927939.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Heiligt euch' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Heiligt euch</title>
         <description></description>
@@ -428,8 +394,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028824672001/1280/720/1798185.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028824672001/640/360/926185.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Anderen helfen, zur Kirche zurückzukommen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Anderen helfen, zur Kirche zurückzukommen</title>
         <description></description>
@@ -441,8 +406,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945274001/1280/720/1800003.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945274001/640/360/928003.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Anderen helfen, ihrem Stammbaum Fotos und Dokumente hinzuzufügen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Anderen helfen, ihrem Stammbaum Fotos und Dokumente hinzuzufügen</title>
         <description></description>
@@ -454,8 +418,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945250001/1280/720/1799906.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945250001/640/360/927906.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ich bleibe rein!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ich bleibe rein!</title>
         <description></description>
@@ -467,8 +430,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536284509001/1280/720/1800013.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536284509001/640/360/928013.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Den Familien helfen, die man als Heimlehrer besucht' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Den Familien helfen, die man als Heimlehrer besucht</title>
         <description></description>
@@ -480,8 +442,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1558945278001/1280/720/1799875.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1558945278001/640/360/927875.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Keuschheit: Wo ist die Grenze?' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Keuschheit: Wo ist die Grenze?</title>
         <description></description>
@@ -493,8 +454,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661504001/1280/720/1797180.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661504001/640/360/925180.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Eine Wandlung im Herzen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Eine Wandlung im Herzen</title>
         <description></description>
@@ -506,8 +466,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1497677076001/1280/720/1799989.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1497677076001/640/360/927989.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='195 Kleider' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>195 Kleider</title>
         <description></description>
@@ -519,8 +478,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761055001/1280/720/1799313.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761055001/640/360/927313.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Meine Pflicht vor Gott' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Meine Pflicht vor Gott</title>
         <description></description>
@@ -532,8 +490,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532661488001/1280/720/1794778.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532661488001/640/360/922778.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='„Mein Fortschritt“ – ein wunderbares Programm!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>„Mein Fortschritt“ – ein wunderbares Programm!</title>
         <description></description>
@@ -545,8 +502,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533104162001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533104162001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Daytons Beine' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Daytons Beine</title>
         <description></description>
@@ -558,8 +514,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533105656001/1280/720/1798882.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533105656001/640/360/926882.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Das gleiche Trikot' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Das gleiche Trikot</title>
         <description></description>
@@ -571,8 +526,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761073001/1280/720/1799010.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761073001/640/360/927010.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kyiv Ukraine Temple Youth Cultural Celebration' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kyiv Ukraine Temple Youth Cultural Celebration</title>
         <description></description>
@@ -584,8 +538,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1497677078001/1280/720/1799971.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1497677078001/640/360/927971.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Er wird euch helfen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Er wird euch helfen</title>
         <description></description>
@@ -597,8 +550,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1497677080001/1280/720/1799991.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1497677080001/640/360/927991.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Eine Priestertumspflicht' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Eine Priestertumspflicht</title>
         <description></description>
@@ -610,8 +562,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533003258001/1280/720/1794340.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003258001/640/360/922340.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Innerhalb von Grenzen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Innerhalb von Grenzen</title>
         <description></description>
@@ -623,8 +574,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133585695001/1280/720/1797279.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133585695001/640/360/925279.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ein Werk ist im Gang' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ein Werk ist im Gang</title>
         <description></description>
@@ -636,8 +586,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536317961001/1280/720/1790457.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536317961001/640/360/918457.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Der Gila-Valley-Tempel Festprogramm' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Der Gila-Valley-Tempel Festprogramm</title>
         <description></description>
@@ -649,8 +598,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532761097001/1280/720/1799988.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532761097001/640/360/927988.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jugendliche in Aktion' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Jugendliche in Aktion</title>
         <description></description>
@@ -661,8 +609,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654467604001/1280/720/1487328.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654467604001/640/360/826522.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Inviting All to Come unto Christ:  Sharing the Gospel' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Inviting All to Come unto Christ:  Sharing the Gospel</title>
         <description></description>
@@ -673,8 +620,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028878008001/1280/720/1441499.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028878008001/640/360/769210.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='A Mighty Change:  Conversion' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Mighty Change:  Conversion</title>
         <description></description>
@@ -685,8 +631,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680725974001/1280/720/1334635.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680725974001/640/360/754868.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Die Mormon Mustang' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Die Mormon Mustang</title>
         <description></description>
@@ -698,8 +643,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2028810681001/1280/720/1799945.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2028810681001/640/360/927945.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Der „No Cussing Club“ – Hier wird nicht geflucht!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Der „No Cussing Club“ – Hier wird nicht geflucht!</title>
         <description></description>
@@ -710,8 +654,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2616754580001/1280/720/1451058.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2616754580001/640/360/793567.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Das Licht Christi verbreiten' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Das Licht Christi verbreiten</title>
         <description></description>
@@ -723,8 +666,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654336194001/1280/720/1796824.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654336194001/640/360/924824.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Für Madison' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Für Madison</title>
         <description></description>
@@ -735,8 +677,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654261722001/1280/720/1376977.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654261722001/640/360/744573.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Zwei Brüder' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Zwei Brüder</title>
         <description></description>
@@ -747,8 +688,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2536240645001/1280/720/1472000.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2536240645001/640/360/776670.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nichts zu bedauern' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nichts zu bedauern</title>
         <description></description>
@@ -760,8 +700,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3133504660001/1280/720/1798181.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3133504660001/640/360/926181.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Leicht zu führen' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Leicht zu führen</title>
         <description></description>
@@ -772,8 +711,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2667864765001/1280/720/1636488.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2667864765001/640/360/782782.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vater und Sohn' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vater und Sohn</title>
         <description></description>
@@ -785,8 +723,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533003257001/1280/720/1794745.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003257001/640/360/922745.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mütter und Töchter' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mütter und Töchter</title>
         <description></description>
@@ -798,8 +735,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533003256001/1280/720/1799400.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533003256001/640/360/927400.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Das erhabene Priestertum' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Das erhabene Priestertum</title>
         <description></description>
@@ -811,8 +747,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1533001866001/1280/720/1795426.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1533001866001/640/360/923426.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nächstenliebe: Den Gläubigen ein Vorbild' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nächstenliebe: Den Gläubigen ein Vorbild</title>
         <description></description>
@@ -823,8 +758,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/2654148896001/1280/720/1505149.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/2654148896001/640/360/883565.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='In jeder Hinsicht bedeutsam' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>In jeder Hinsicht bedeutsam</title>
         <description></description>
@@ -836,8 +770,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3127595408001/1280/720/1796892.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3127595408001/640/360/924892.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Unser wahres Selbst' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Unser wahres Selbst</title>
         <description></description>
@@ -849,8 +782,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532998145001/1280/720/1790984.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532998145001/640/360/918984.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Die Rückkehr zur Tugend' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Die Rückkehr zur Tugend</title>
         <description></description>
@@ -862,5 +794,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/1532995942001/1280/720/1799789.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/1532995942001/640/360/927789.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

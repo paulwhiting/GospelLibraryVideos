@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,26 +6,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-02-friends-by-mail-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come Listen to a Prophet’s Voice: The Lord Provides a Way' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come Listen to a Prophet’s Voice: The Lord Provides a Way</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:6d.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-03-come-listen-to-a-prophets-voice-the-lord-provides-a-way-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Heaven’s Power' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Heaven’s Power</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:a3.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-04-heavens-power-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Thank You, Brother Joseph' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Thank You, Brother Joseph</title>
         <description></description>
@@ -34,35 +30,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-05-thank-you-brother-joseph-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: Spiritual Experiences' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: Spiritual Experiences</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:cd.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-06-friend-to-friend-spiritual-experiences-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Wiggle-Waggles' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Wiggle-Waggles</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:cf.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-07-the-wiggle-waggles-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: Getting to Know Elder Dallin H. Oaks' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: Getting to Know Elder Dallin H. Oaks</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:d1.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-08-special-witness-getting-to-know-elder-dallin-h-oaks-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Building an Eternal Family—Nolan Anderson of Soda Springs, Idaho' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Building an Eternal Family—Nolan Anderson of Soda Springs, Idaho</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-09-building-an-eternal-family-nolan-anderson-of-soda-springs-idaho-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Finding the Key' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Finding the Key</title>
         <description></description>
@@ -79,53 +70,47 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-11-finding-the-key-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:d7.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-12-for-little-friends-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Willie’s Miracle' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Willie’s Miracle</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:63.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-13-willies-miracle-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Summer Reading Fun' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Summer Reading Fun</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:db.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-14-summer-reading-fun-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Eternal Service Project' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Eternal Service Project</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:81.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-15-eternal-service-project-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Changing Chores' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Changing Chores</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:df.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-17-changing-chores-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -133,26 +118,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-18-trying-to-be-like-jesus-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='From the Life of President David O. McKay' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>From the Life of President David O. McKay</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:e1.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-19-from-the-life-of-president-david-o-mckay-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: “This Is My Beloved Son. Hear Him!”' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: “This Is My Beloved Son. Hear Him!”</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/friendlp.nfo:o:e5.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-20-sharing-time-this-is-my-beloved-son-hear-him-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -160,5 +142,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2005-may//2005-05-21-guide-to-the-friend-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

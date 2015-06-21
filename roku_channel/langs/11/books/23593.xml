@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='一月：神組' subtitle='Videos: 15; Audio: 1'><category title='我如何認識我的天父？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我如何認識我的天父？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+    <categories><category title='一月：神組' subtitle='Videos: 15, Audio: 1'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<category title='我如何認識我的天父？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/know/images/How can I know my Heavenly Father - AV100312cah015-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>善盡你對神的職責</title>
         <description></description>
@@ -42,15 +37,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1834589547001/640/360/922763' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1834589547001/1280/720/2122763' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為何耶穌基督在我的生命中很重要？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為何耶穌基督在我的生命中很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為何耶穌基督在我的生命中很重要？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/important/images/jesus-christ-important-in-my-life-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「改造」</title>
         <description></description>
@@ -74,15 +63,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836533001/1280/720/1777523' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836533001/640/360/905523' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='聖靈扮演了什麼角色？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>聖靈扮演了什麼角色？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='聖靈扮演了什麼角色？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/roles/images/What are the roles of the Holy Ghost - L1008_de_001-cricle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「靈的聲音」</title>
         <description></description>
@@ -106,8 +89,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836529001/1920/1080/7718000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836529001/1280/720/2127927' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我是誰，而我能成為怎麼樣的人？' subtitle='Videos: 8; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='我是誰，而我能成為怎麼樣的人？' subtitle='Videos: 8, Audio: 1'  img='http://www.lds.org/youth/bc/youth/learn/ap/godhead/become/images/Who am I and who can I become - L1209_ourspace_cedric-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>我是誰，而我能成為怎麼樣的人？</title>
         <description></description>
@@ -209,16 +193,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423548001/1280/720/1543431' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423548001/1280/720/1363929' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='二月：救恩計畫' subtitle='Videos: 27; Audio: 0'><category title='在達成天父的計畫中，我的角色是什麼？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>在達成天父的計畫中，我的角色是什麼？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+<category title='二月：救恩計畫' subtitle='Videos: 27, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<category title='在達成天父的計畫中，我的角色是什麼？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/role/images/Unknown-19.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>邀請所有的人歸向基督</title>
         <description></description>
@@ -242,15 +221,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845387001/1280/720/2496000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845387001/1280/720/2096000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='什麼是救恩計畫？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>什麼是救恩計畫？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='什麼是救恩計畫？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/what/images/Unknown-18.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「到時將人心惶惶」</title>
         <description></description>
@@ -297,15 +270,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836493001/1280/720/2525608' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028836493001/1280/720/1797608' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='前生發生了什麼事？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>前生發生了什麼事？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='前生發生了什麼事？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/premortal/images/Unknown-20.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -328,15 +295,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504683001/640/480/2114000' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133504683001/480/360/927978' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='生命的目的是什麼？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>生命的目的是什麼？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='生命的目的是什麼？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/purpose/images/Unknown-21.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「用經文互相教導」</title>
         <description></description>
@@ -347,15 +308,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1670222' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1152584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我所做的選擇攸關重要？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我所做的選擇攸關重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我所做的選擇攸關重要？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/choices/images/plan-why-do-the-choices-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「留在界線內」</title>
         <description></description>
@@ -425,15 +380,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728364001/640/360/924578' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728364001/1920/1080/7935000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我們會有逆境？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我們會有逆境？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我們會有逆境？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/adversity/images/plan-why-do-we-have-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「神會提升我們」</title>
         <description></description>
@@ -489,15 +438,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715051001/1280/720/1619988' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133715051001/640/360/763340' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我關懷的人去世了，我要怎麼尋得安慰？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我關懷的人去世了，我要怎麼尋得安慰？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我關懷的人去世了，我要怎麼尋得安慰？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/comfort/images/Unknown-23.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「直到再相會」</title>
         <description></description>
@@ -557,15 +500,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341900001/640/360/927935' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3063341900001/1280/720/2127935' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我應當將我的身體視為聖殿？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我應當將我的身體視為聖殿？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我應當將我的身體視為聖殿？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/plan-of-salvation/body/images/Unknown-25.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「摩爾門野馬戰機」</title>
         <description></description>
@@ -589,16 +526,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661502001/1280/720/2525934' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661502001/640/360/925934' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='三月：耶穌基督的贖罪' subtitle='Videos: 19; Audio: 0'><category title='我該如何幫助他人獲得贖罪的種種祝福？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何幫助他人獲得贖罪的種種祝福？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='三月：耶穌基督的贖罪' subtitle='Videos: 19, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<category title='我該如何幫助他人獲得贖罪的種種祝福？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/blessings/images/AV081208cah132-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「崇高莊嚴的聖職」</title>
         <description></description>
@@ -621,15 +553,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845381001/1280/720/1798185' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845381001/1280/720/2126185' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='什麼是耶穌基督的贖罪？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>什麼是耶穌基督的贖罪？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='什麼是耶穌基督的贖罪？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/atonement/images/AV050901_cah064-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「一位使徒分享關於基督的復活節信息」</title>
         <description></description>
@@ -641,15 +567,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481873001/1280/720/2127946' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3127481873001/1280/720/8064000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='對耶穌基督有信心是什麼意思？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>對耶穌基督有信心是什麼意思？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='對耶穌基督有信心是什麼意思？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/faith/images/AV060911_cah2776-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「單純而簡單的信心」</title>
         <description></description>
@@ -697,15 +617,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028879521001/640/360/927488' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028879521001/1280/720/2527488' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='悔改是什麼意思？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>悔改是什麼意思？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='悔改是什麼意思？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/repent/images/AV080801_cah008alt-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「待在界線之內」</title>
         <description></description>
@@ -729,15 +643,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585678001/640/360/925264' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585678001/1280/720/2125264' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='什麼是恩典？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>什麼是恩典？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='什麼是恩典？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/grace/images/AV090107cah457-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -761,15 +669,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673880001/1280/720/2123699' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031673880001/1280/720/1795699' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我需要寬恕他人？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我需要寬恕他人？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我需要寬恕他人？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/forgive/images/atonement-why-do-i-need-to-forgive-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「寬恕七十個七次」</title>
         <description></description>
@@ -809,15 +711,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='什麼是復活？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>什麼是復活？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='什麼是復活？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/resurrection/images/atonement-what-is-resurrection-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -865,15 +761,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737230001/1920/1080/7807000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737230001/1280/720/2524586' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='贖罪何以能在我經歷考驗的時候幫助我？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>贖罪何以能在我經歷考驗的時候幫助我？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='贖罪何以能在我經歷考驗的時候幫助我？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/atonement/trials/images/AV091228cah222-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「神會提升我們」、</title>
         <description></description>
@@ -908,16 +798,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830381001/1920/1080/7898000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028830381001/640/360/928006' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='四月：叛教與復興' subtitle='Videos: 23; Audio: 0'><category title='我該如何邀請所有的人歸向基督？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何邀請所有的人歸向基督？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='四月：叛教與復興' subtitle='Videos: 23, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<category title='我該如何邀請所有的人歸向基督？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/invite/images/Unknown-4.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「邀請所有的人歸向基督」</title>
         <description></description>
@@ -941,15 +826,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028878019001/1280/720/1761709' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028878019001/1280/720/2089709' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼復興是必要的？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼復興是必要的？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼復興是必要的？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/necessary/images/Unknown-3.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「追尋真理」廣東話 </title>
         <description></description>
@@ -997,15 +876,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291578932001/640/480/1799451' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291578932001/480/360/927451' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='聖職是如何復興的？' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>聖職是如何復興的？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='聖職是如何復興的？' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/restored/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -1101,15 +974,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291518991001/1280/720/2098504' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291518991001/1280/720/2498504' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='約瑟‧斯密在福音復興方面扮演什麼角色？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>約瑟‧斯密在福音復興方面扮演什麼角色？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='約瑟‧斯密在福音復興方面扮演什麼角色？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/joseph-smith/images/Unknown-2.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「約瑟‧斯密：復興的先知」</title>
         <description></description>
@@ -1145,15 +1012,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264500622001/640/480/2093574' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2264500622001/640/480/1765574' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼第一次異象很重要？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼第一次異象很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼第一次異象很重要？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/first-vision/images/AV070604_cah109-header.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「復興」國語</title>
         <description></description>
@@ -1201,15 +1062,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148926001/1280/720/1799815' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2215148926001/1280/720/2527815' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我們需要摩爾門經？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我們需要摩爾門經？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我們需要摩爾門經？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/apostasy-restoration/book-of-mormon/images/Unknown.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>摩爾門經：使徒的介紹</title>
         <description></description>
@@ -1233,16 +1088,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028817297001/1920/1080/20886000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028817297001/640/360/927333' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='五月：先知和啟示' subtitle='Videos: 22; Audio: 0'><category title='為什麼研讀經文很重要？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼研讀經文很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='五月：先知和啟示' subtitle='Videos: 22, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<category title='為什麼研讀經文很重要？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/study/images/AV120105_cah250-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「善盡你對神的職責」</title>
         <description></description>
@@ -1285,15 +1135,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1670222' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1152584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='聽從活著的先知為何很重要？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>聽從活著的先知為何很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='聽從活著的先知為何很重要？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/listen/images/_P9Q4219-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「塔上的守望人」國語 </title>
         <description></description>
@@ -1341,15 +1185,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2338243393001/640/480/1765314' height='480p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2338243393001/480/360/893314' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何獲得個人啟示？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何獲得個人啟示？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何獲得個人啟示？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/receive/images/AV110928_cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「光的模式：啟示之靈」</title>
         <description></description>
@@ -1421,15 +1259,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235556450001/1280/720/1796228' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2235556450001/1280/720/2124228' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何讓祈禱更有意義？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何讓祈禱更有意義？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何讓祈禱更有意義？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/meaningful/images/AV120106_cah551-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「日用的飲食： 經驗」</title>
         <description></description>
@@ -1469,15 +1301,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3569591154001/480/268/15131' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何鞏固見證？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何鞏固見證？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何鞏固見證？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/testimony/images/AV110922_cah001-circle-jpg'>
+<rss><channel><item>
         <id></id>
         <title>「在前往大馬士革的路上等待」）</title>
         <description></description>
@@ -1493,15 +1319,9 @@
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2396728157001/1920/1080/393000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='孟蓀會長教導亞倫聖職持有人哪些事？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>孟蓀會長教導亞倫聖職持有人哪些事？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='孟蓀會長教導亞倫聖職持有人哪些事？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/prophets-revelation/holders/images/codybellcodybell-9975-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「傳道事工：聖職的職責」，</title>
         <description></description>
@@ -1525,16 +1345,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346562074001/1280/720/2527724' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2346562074001/1920/1080/8115000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='六月：聖職與聖職權鑰' subtitle='Videos: 37; Audio: 0'><category title='配稱對聖職的力量有何影響？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>配稱對聖職的力量有何影響？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='六月：聖職與聖職權鑰' subtitle='Videos: 37, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<category title='配稱對聖職的力量有何影響？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/worthiness/images/How does worthiness affect Priesthood power -AV110915_cah051-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「你們要自潔」</title>
         <description></description>
@@ -1614,15 +1429,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030749001/640/360/914644' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2313030749001/1280/720/2114644' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='何謂聖職？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>何謂聖職？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='何謂聖職？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/what/images/priesthood-what-is-the-priesthood-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -1701,15 +1510,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417410001/1280/720/1399040' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417410001/1280/720/1653233' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='有哪些聖職的權鑰？' subtitle='Videos: 13; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>有哪些聖職的權鑰？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='有哪些聖職的權鑰？' subtitle='Videos: 13, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/keys/images/priesthood-what-are-the-keys-cropped.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -1856,15 +1659,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585699001/1920/1080/7962000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133585699001/1280/720/2496000' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='身為亞倫聖職持有人，我有哪些職責？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>身為亞倫聖職持有人，我有哪些職責？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='身為亞倫聖職持有人，我有哪些職責？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/duties/images/What are my duties as an AP holder - AV100312cah008ALT-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「善盡你對神的職責」</title>
         <description></description>
@@ -1931,15 +1728,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423579001/1280/720/1405911' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423579001/1280/720/1676727' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我為什麼應該去傳教？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我為什麼應該去傳教？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我為什麼應該去傳教？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/priesthood-keys/mission/images/Why should I server a Mission - AV1008012cah0007-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>｢你傳道的時代」</title>
         <description></description>
@@ -1987,16 +1778,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681109001/1280/720/2527821' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681109001/1920/1080/7788000' height='1080p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='七月：教儀與聖約' subtitle='Videos: 24; Audio: 0'><category title='我可以怎麼幫助他人獲得有意義的聖餐經驗？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我可以怎麼幫助他人獲得有意義的聖餐經驗？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='七月：教儀與聖約' subtitle='Videos: 24, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<category title='我可以怎麼幫助他人獲得有意義的聖餐經驗？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/meaningful/images/AV081231cah138.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「一直記得祂」</title>
         <description></description>
@@ -2007,15 +1793,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964885001/1280/720/1484512' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680964885001/1280/720/2086249' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼教儀在我的生活中很重要？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼教儀在我的生活中很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼教儀在我的生活中很重要？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/sacrament/images/How can I make the sacrament more meaningful to me - AV080801_cah005-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「對聖職能力的信心」國語</title>
         <description></description>
@@ -2081,15 +1861,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402239001/1280/720/1902968' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2291402239001/640/360/738246' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼聖約在我的生活中很重要？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼聖約在我的生活中很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/captain-moroni-title-liberty-39658-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼聖約在我的生活中很重要？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/what/images/What are ordinances and covenants, and why are they essential - AV080111cah043-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「使用圖片」</title>
         <description></description>
@@ -2100,15 +1874,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417396001/1280/720/1724734' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417396001/640/360/695705' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我在洗禮時立下了哪些聖約？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我在洗禮時立下了哪些聖約？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我在洗禮時立下了哪些聖約？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/baptism/images/What covenants did I make at baptism - AV090212cah022-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -2167,15 +1935,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416861001/640/360/688809' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416861001/1280/720/1212852' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我如何接受聖靈的恩賜？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我如何接受聖靈的恩賜？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/the-liahona-39640-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我如何接受聖靈的恩賜？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/gift/images/How do I receive the gift of the Holy Ghost - AV090218cah017-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「決定教導內容」國語</title>
         <description></description>
@@ -2197,15 +1959,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079277001/640/360/744567' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079277001/1280/720/1392209' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼聖殿教儀很重要？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼聖殿教儀很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/temples-related/temples-with-people/logan-temple-marriage-769991-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼聖殿教儀很重要？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/temple-main-salt-lake-279x279.jpg'>
+<rss><channel><item>
         <id></id>
         <title>聖殿──世人的明燈</title>
         <description></description>
@@ -2227,15 +1983,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681108001/1280/720/1450413' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3133681108001/1280/720/1997746' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='聖職的誓約和聖約是什麼？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>聖職的誓約和聖約是什麼？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='聖職的誓約和聖約是什麼？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/covenant/images/What is the oath and covenant of the priesthood - AV091028cah001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>｢你們要自潔｣</title>
         <description></description>
@@ -2283,15 +2033,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845381001/1280/720/1798185' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2028845381001/1280/720/2126185' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='何謂承受耶穌基督的名？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>何謂承受耶穌基督的名？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='何謂承受耶穌基督的名？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/ordinances-covenants/myself/images/Unknown-1.jpeg'>
+<rss><channel><item>
         <id></id>
         <title>「獨自奮戰的勇氣」</title>
         <description></description>
@@ -2326,16 +2070,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423503001/640/360/708833' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423503001/1280/720/1214090' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='八月：婚姻與家庭' subtitle='Videos: 37; Audio: 0'><category title='我該如何鞏固我的家人？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何鞏固我的家人？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='八月：婚姻與家庭' subtitle='Videos: 37, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<category title='我該如何鞏固我的家人？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/strengthen/images/How can I strengthen my family.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「父親與兒子」</title>
         <description></description>
@@ -2406,15 +2145,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728370001/1920/1080/7689000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728370001/1280/720/2523760' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼貞潔很重要？' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼貞潔很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/joseph-resists-potiphars-wife-39467-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼貞潔很重要？' subtitle='Videos: 9, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/chastity/images/Why is chastity important - AV050803_cah060-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「我選擇保持純潔」</title>
         <description></description>
@@ -2522,15 +2255,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661516001/640/360/923483' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1532661516001/1280/720/2123483' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼聖殿婚姻很重要？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼聖殿婚姻很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼聖殿婚姻很重要？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/marriage/images/CU120426_LDSBuilding_Madrid07.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -2554,15 +2281,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729295001/1280/720/2524255' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729295001/1920/1080/7794000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼家庭很重要？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼家庭很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼家庭很重要？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/family/images/AV130117_kat0202.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「家庭能永遠在一起」</title>
         <description></description>
@@ -2617,15 +2338,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1670222' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428188001/1280/720/1152584' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='教會對於約會有哪些標準？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>教會對於約會有哪些標準？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='教會對於約會有哪些標準？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/standards/images/AV091030cah042-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>「嶄新的一年2010：約會」</title>
         <description></description>
@@ -2645,15 +2360,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2434161433001/852/476/1999373' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2434161433001/852/476/1700000' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我現在該如何準備以成為一位正義的丈夫和父親？' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我現在該如何準備以成為一位正義的丈夫和父親？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我現在該如何準備以成為一位正義的丈夫和父親？' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/prepare/images/How can I prepare now to become a righteous husband and father.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「不斷進步」</title>
         <description></description>
@@ -2743,15 +2452,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406299001/640/360/707805' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630406299001/1280/720/1454859' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='男人與女人的角色如何在家庭中互補？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>男人與女人的角色如何在家庭中互補？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url='http://media.ldscdn.org/images/media-library/gospel-art/old-testament/adam-eve-teaching-children-82611-print.jpg'/>
-</item>
-<item>
+</channel></rss></category>
+<category title='男人與女人的角色如何在家庭中互補？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/marriage-and-family/roles/images/AV110125cah0024-(1).jpg'>
+<rss><channel><item>
         <id></id>
         <title>「作個大丈夫」</title>
         <description></description>
@@ -2806,16 +2509,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423548001/1280/720/1543431' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630423548001/1280/720/1363929' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='九月：誡命' subtitle='Videos: 28; Audio: 0'><category title='我要如何生於世而不屬於世？' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我要如何生於世而不屬於世？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='九月：誡命' subtitle='Videos: 28, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<category title='我要如何生於世而不屬於世？' subtitle='Videos: 6, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/world/images/How can I be in the world but not of the world - AV110331_cah008-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「獨自奮戰的勇氣」</title>
         <description></description>
@@ -2886,15 +2584,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428168001/1280/720/1769167' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630428168001/640/360/734549' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我的言談會如何影響自己和周遭的人？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我的言談會如何影響自己和周遭的人？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我的言談會如何影響自己和周遭的人？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/say/images/AV120521_cah0005.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「不說髒話社」</title>
         <description></description>
@@ -2971,15 +2663,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421717001/1280/720/1303260' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421717001/1280/720/1454393' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我要如何抗拒色情？' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我要如何抗拒色情？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我要如何抗拒色情？' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/pornography/images/AV130116_kat0001.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「三思而後行」</title>
         <description></description>
@@ -3077,15 +2763,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616635367001/640/360/760329' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2616635367001/1280/720/1331196' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我們要禁食？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我們要禁食？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我們要禁食？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/fast/images/What%20does%20it%20mean%20to%20fast%20%20-%20AV0802019cah018-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -3109,15 +2789,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729235001/1280/720/1778748' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729235001/1280/720/2506748' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我們被命令要守安息日為聖？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我們被命令要守安息日為聖？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我們被命令要守安息日為聖？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/holy/images/AV120109_law002.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「他在年輕時就學會了同情」</title>
         <description></description>
@@ -3155,15 +2829,9 @@
         <duration></duration>
         <thumbnail url=''/>
 </item>
- </channel> </rss></category>
-<category title='為什麼我們要繳付什一奉獻？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼我們要繳付什一奉獻？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼我們要繳付什一奉獻？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/tithing/images/AV130115cah0088.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「邀請班員採取行動」</title>
         <description></description>
@@ -3174,15 +2842,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418933001/640/360/667136' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418933001/1280/720/1136068' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼誠實很重要？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼誠實很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼誠實很重要？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/commandments/honest/images/Why is it important to be honest - AV100730cah0011-Circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「誠實：你最好對此深信不疑！」</title>
         <description></description>
@@ -3206,16 +2868,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518530001/640/360/908004' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1634518530001/1280/720/2508004' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='十月：變得更像基督' subtitle='Videos: 30; Audio: 0'><category title='我該如何為人服務？' subtitle='Videos: 8; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何為人服務？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='十月：變得更像基督' subtitle='Videos: 30, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<category title='我該如何為人服務？' subtitle='Videos: 8, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/serve/images/AV060911_cah2487.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -3307,15 +2964,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620102001/1280/720/1512652' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3202620102001/640/360/836407' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何變得更像基督？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何變得更像基督？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何變得更像基督？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/become/images/How can I become more Christlike AV060419_cah139-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>每日靈糧： 改變</title>
         <description></description>
@@ -3361,15 +3012,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416883001/640/360/661006' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416883001/1280/720/1573734' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何培養基督般的愛？' subtitle='Videos: 10; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何培養基督般的愛？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何培養基督般的愛？' subtitle='Videos: 10, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/develop/images/How can I develop Christlike love AV0802025ke001-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>好撒馬利亞人的比喻</title>
         <description></description>
@@ -3482,15 +3127,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/640/360/812672' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/1280/720/1711132' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何學習變得更有耐心？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何學習變得更有耐心？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何學習變得更有耐心？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/patient/images/How can I learn to be more patient AV081208cah082-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「繼續忍耐」</title>
         <description></description>
@@ -3535,15 +3174,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654183895001/1280/720/1706988' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654183895001/640/360/830310' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='為什麼感恩很重要？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為什麼感恩很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為什麼感恩很重要？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/becoming-more-christlike/grateful/images/Why is it important to be grateful LeslieNilsson_dsc2340-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語 </title>
         <description></description>
@@ -3576,16 +3209,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417410001/1280/720/1399040' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417410001/1280/720/1653233' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='十一月：屬靈與屬世的自立' subtitle='Videos: 21; Audio: 0'><category title='獲得教育並培養技能為什麼很重要？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>獲得教育並培養技能為什麼很重要？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='十一月：屬靈與屬世的自立' subtitle='Videos: 21, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<category title='獲得教育並培養技能為什麼很重要？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/develop/images/Why is it important to gain knowledge and develop skills AV080115cah009-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「從總會大會的演講中找到答案」</title>
         <description></description>
@@ -3596,15 +3224,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416835001/1280/720/1092921' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416835001/1280/720/1571291' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='什麼是自立？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>什麼是自立？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='什麼是自立？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/reliant/images/What does it mean to be self-reliantN07JIMOFC-CIRCLE.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「成為未雨綢繆的供應者」</title>
         <description></description>
@@ -3650,15 +3272,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725076001/1280/720/1796082' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725076001/1920/1080/7729000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='我要如何知道自己正在漸漸歸信？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我要如何知道自己正在漸漸歸信？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我要如何知道自己正在漸漸歸信？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/converted/images/new-youth-curriculum-ap-How-do-I-know-if-I-am-becoming-converted-1216195.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「在前往大馬士革的路上等待」</title>
         <description></description>
@@ -3677,15 +3293,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722188001/1280/720/2003169' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3680722188001/1280/720/1625285' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='為何工作是一項重要的福音原則？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>為何工作是一項重要的福音原則？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='為何工作是一項重要的福音原則？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/work/images/Why is work an important gospel principleAV100611cah003-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>不斷進步</title>
         <description></description>
@@ -3733,15 +3343,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536318194001/1280/720/2518847' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2536318194001/640/360/918847' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='主為何要我保持健康？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>主為何要我保持健康？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='主為何要我保持健康？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/healthy/images/AV1008011cah0060.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「你會獲得自由」</title>
         <description></description>
@@ -3826,15 +3430,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416897001/1280/720/1746424' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630416897001/1280/720/1476187' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='主供應窮困及有需要者的方式是什麼？' subtitle='Videos: 2; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>主供應窮困及有需要者的方式是什麼？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='主供應窮困及有需要者的方式是什麼？' subtitle='Videos: 2, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/providing/images/What is the Lord%E2%80%99s way for providing for the poor and needyAV100308cah014-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「分享基督之光」</title>
         <description></description>
@@ -3865,15 +3463,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654336205001/1280/720/2526015' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2654336205001/1280/720/2126015' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我該如何為自己面臨的挑戰和問題找到解決之道 ？' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我該如何為自己面臨的挑戰和問題找到解決之道 ？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我該如何為自己面臨的挑戰和問題找到解決之道 ？' subtitle='Videos: 1, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/self-reliance/solutions/images/AV070822_cah031.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「討論問題」</title>
         <description></description>
@@ -3884,16 +3476,11 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434720001/1280/720/1306624' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630434720001/640/360/750250' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
-<category title='十二月：在後期時代建立神的國度' subtitle='Videos: 35; Audio: 0'><category title='我現在如何能當個傳教士？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我現在如何能當個傳教士？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+<category title='十二月：在後期時代建立神的國度' subtitle='Videos: 35, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<category title='我現在如何能當個傳教士？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/come/images/How can I invite all to come unto Christ-AV110413_cah010-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「善盡你對神的職責」，</title>
         <description></description>
@@ -3938,15 +3525,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2500272343001/640/360/871381' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2500272343001/1280/720/1430786' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我如何能成為更好的家庭教導教師？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我如何能成為更好的家庭教導教師？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我如何能成為更好的家庭教導教師？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home-teacher/images/How can I become a better home teacher-AV100315cah067-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -4005,15 +3586,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417396001/1280/720/1724734' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630417396001/640/360/695705' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='天父要我如何運用我的屬靈恩賜？' subtitle='Videos: 4; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>天父要我如何運用我的屬靈恩賜？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='天父要我如何運用我的屬靈恩賜？' subtitle='Videos: 4, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/gifts/images/How does Heavenly Father want me to use my spiritual gifts-AV070307_cah034-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「不凡的恩賜」</title>
         <description></description>
@@ -4059,15 +3634,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885577001/1280/720/2024911' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2892885577001/1280/720/1422722' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我應如何準備自己，來建立以基督為中心的家庭？' subtitle='Videos: 3; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我應如何準備自己，來建立以基督為中心的家庭？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我應如何準備自己，來建立以基督為中心的家庭？' subtitle='Videos: 3, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/home/images/How can I prepare to establish a Christ-centered home-VRL_105861_0188906-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「真正的父親」</title>
         <description></description>
@@ -4102,15 +3671,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717466001/640/360/922651' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717466001/1920/1080/7724000' height='1080p'/>
 </item>
- </channel> </rss></category>
-<category title='我能做什麼來幫助教會的新成員？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我能做什麼來幫助教會的新成員？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我能做什麼來幫助教會的新成員？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/new-members/images/What can I do to help new members of the Church-CU070305_bkf013-circle.JPG'>
+<rss><channel><item>
         <id></id>
         <title>「傳道事工與存留：喬治亞‧以利亞」</title>
         <description></description>
@@ -4191,15 +3754,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421717001/1280/720/1303260' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630421717001/1280/720/1454393' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='我如何幫助較不活躍的朋友回到教會？' subtitle='Videos: 7; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>我如何幫助較不活躍的朋友回到教會？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='我如何幫助較不活躍的朋友回到教會？' subtitle='Videos: 7, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/friends/images/How can I help my less-active friends return to church-AV080806_cah013-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>「沒有其他人做得到──救援柯爾」</title>
         <description></description>
@@ -4280,15 +3837,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418928001/640/360/695046' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2630418928001/1280/720/1716162' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='錫安是什麼？' subtitle='Videos: 5; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
-        <id></id>
-        <title>錫安是什麼？</title>
-        <description></description>
-        <duration></duration>
-        <thumbnail url=''/>
-</item>
-<item>
+</channel></rss></category>
+<category title='錫安是什麼？' subtitle='Videos: 5, Audio: 0'  img='http://www.lds.org/youth/bc/youth/learn/ap/building-up-the-church/zion/images/What is Zion-AV060103_cah023-circle.jpg'>
+<rss><channel><item>
         <id></id>
         <title>國語</title>
         <description></description>
@@ -4348,6 +3899,6 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729282001/1280/720/2520553' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729282001/1280/720/1792553' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </category>
 </categories>

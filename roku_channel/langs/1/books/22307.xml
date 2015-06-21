@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,35 +6,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Learning to Serve Others' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Learning to Serve Others</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-03-learning-to-serve-others-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Colorful Layered Cake' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Colorful Layered Cake</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug04-000-colorful-layered-cake.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-04-colorful-layered-cake-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug05-000-love-courtesy-spirit-of-the-Lord-bright-idea-poster.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-05-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Leaving Bad Behind' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Leaving Bad Behind</title>
         <description></description>
@@ -43,8 +38,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-06-leaving-bad-behind-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Question Corner' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Question Corner</title>
         <description></description>
@@ -52,17 +46,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-07-question-corner-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Love One Another' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Love One Another</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug09-000-love-one-another-music.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-08-love-one-another-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Elevator Prayers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Elevator Prayers</title>
         <description></description>
@@ -70,17 +62,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-09-elevator-prayers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/gordon-b-hinckley.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-10-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Samuel the Lamanite Prophesies of Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Samuel the Lamanite Prophesies of Christ</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-11-samuel-the-lamanite-prophesies-of-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Women Are Important in the Church!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Women Are Important in the Church!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/quentin-l-cook.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-12-women-are-important-in-the-church-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Prayers, Notes, and Natural Disasters' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Prayers, Notes, and Natural Disasters</title>
         <description></description>
@@ -106,8 +94,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-14-prayers-notes-and-natural-disasters-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Grandma’s Feather Blizzard' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Grandma’s Feather Blizzard</title>
         <description></description>
@@ -115,8 +102,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-15-grandmas-feather-blizzard-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='In Every Footstep, Part Two: Miracle on the Plains' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>In Every Footstep, Part Two: Miracle on the Plains</title>
         <description></description>
@@ -124,53 +110,47 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-16-in-every-footstep-part-two-miracle-on-the-plains-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Leute’s Home' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Leute’s Home</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug24-25-000-leutes-samoan-home.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-17-leutes-home-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Words' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Words</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/dallin-h-oaks.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-18-special-words-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Buddy’s Heart' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Buddy’s Heart</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-19-buddys-heart-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Never Give Up' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Never Give Up</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/tad-r-callister.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-20-never-give-up-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug34-000-fun-service-find-the-differences.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-22-for-little-friends-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Cool Cars' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cool Cars</title>
         <description></description>
@@ -178,8 +158,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-23-cool-cars-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -187,35 +166,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-24-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Choose to Fill My Life with Things That Invite the Spirit' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Choose to Fill My Life with Things That Invite the Spirit</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug40-41-000-ctr-friendship-game.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-25-i-choose-to-fill-my-life-with-things-that-invite-the-spirit-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/fr12aug42-000-matt-and-mandy.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-26-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Older Kids' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Older Kids</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/08/l-tom-perry.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-28-for-older-kids-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -223,5 +198,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-august-2012/2012-08-29-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

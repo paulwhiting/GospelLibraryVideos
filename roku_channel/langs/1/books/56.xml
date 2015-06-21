@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Introduction' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Introduction</title>
         <description></description>
@@ -7,8 +6,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-03-introduction-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Historical Summary' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Historical Summary</title>
         <description></description>
@@ -16,26 +14,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-04-historical-summary-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 1: The Ministry of Brigham Young' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 1: The Ministry of Brigham Young</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_001_02-wagons.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-05-chapter-1-the-ministry-of-brigham-young-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 2: The Gospel Defined' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 2: The Gospel Defined</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_002_01-SLtemple_1880s.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-06-chapter-2-the-gospel-defined-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 3: Living the Gospel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 3: Living the Gospel</title>
         <description></description>
@@ -43,26 +38,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-07-chapter-3-living-the-gospel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 4: Knowing and Honoring the Godhead' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 4: Knowing and Honoring the Godhead</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_004_01-1st_vision.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-08-chapter-4-knowing-and-honoring-the-godhead-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 5: Accepting the Atonement of Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 5: Accepting the Atonement of Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_005_01-Gethsemane.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-09-chapter-5-accepting-the-atonement-of-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 6: The Communication between God and Man' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 6: The Communication between God and Man</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-10-chapter-6-the-communication-between-god-and-man-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 7: The Plan of Salvation' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 7: The Plan of Salvation</title>
         <description></description>
@@ -79,89 +70,79 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-11-chapter-7-the-plan-of-salvation-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 8: Faith in the Lord Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 8: Faith in the Lord Jesus Christ</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_008_01-pioneers.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-12-chapter-8-faith-in-the-lord-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 9: Repentance and Baptism' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 9: Repentance and Baptism</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_009_01-Christ_baptized.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-13-chapter-9-repentance-and-baptism-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 10: The Influence of the Holy Ghost' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 10: The Influence of the Holy Ghost</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_010_01-confirmation.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-14-chapter-10-the-influence-of-the-holy-ghost-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 11: Choosing to Walk in Obedience' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 11: Choosing to Walk in Obedience</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_011_01-BigHorn.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-15-chapter-11-choosing-to-walk-in-obedience-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 12: Preventing Personal Apostasy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 12: Preventing Personal Apostasy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_012_01-Judas.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-16-chapter-12-preventing-personal-apostasy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 13: Preparing for Eternal Progression' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 13: Preparing for Eternal Progression</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_013_01-Logan_Temple.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-17-chapter-13-preparing-for-eternal-progression-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 14: Dispensations of the Gospel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 14: Dispensations of the Gospel</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_014_01-priesthood.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-18-chapter-14-dispensations-of-the-gospel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 15: The Settlement in the West' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 15: The Settlement in the West</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_015_01-seagulls.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-19-chapter-15-the-settlement-in-the-west-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 16: Building Zion' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 16: Building Zion</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_016_01-SLtemple_1875.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-20-chapter-16-building-zion-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 17: The Scriptures' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 17: The Scriptures</title>
         <description></description>
@@ -169,26 +150,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-21-chapter-17-the-scriptures-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 18: The Priesthood' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 18: The Priesthood</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_018_01-LDS_leaders_1853.gif'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-22-chapter-18-the-priesthood-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 19: The Relief Society and Individual Responsibility' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 19: The Relief Society and Individual Responsibility</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_019_01-Eliza_Snow.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-23-chapter-19-the-relief-society-and-individual-responsibility-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 20: Church Organization and Government' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 20: Church Organization and Government</title>
         <description></description>
@@ -196,8 +174,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-24-chapter-20-church-organization-and-government-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 21: Honoring the Sabbath and the Sacrament' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 21: Honoring the Sabbath and the Sacrament</title>
         <description></description>
@@ -205,17 +182,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-25-chapter-21-honoring-the-sabbath-and-the-sacrament-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 22: Tithing and Consecration' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 22: Tithing and Consecration</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_022_01-TithingStore1860.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-26-chapter-22-tithing-and-consecration-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 23: Understanding the New and Everlasting Covenant of Marriage' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 23: Understanding the New and Everlasting Covenant of Marriage</title>
         <description></description>
@@ -223,17 +198,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-27-chapter-23-understanding-the-new-and-everlasting-covenant-of-marriage-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 24: Teaching the Family' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 24: Teaching the Family</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_024_01-Martin_family.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-28-chapter-24-teaching-the-family-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 25: Cultivating Gratitude, Humility, and Honesty' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 25: Cultivating Gratitude, Humility, and Honesty</title>
         <description></description>
@@ -241,62 +214,55 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-29-chapter-25-cultivating-gratitude-humility-and-honesty-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 26: Happiness and Social Enjoyment' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 26: Happiness and Social Enjoyment</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_026_01-band.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-30-chapter-26-happiness-and-social-enjoyment-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 27: Learning by Study and by Faith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 27: Learning by Study and by Faith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_027_01-KarlMaeser.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-31-chapter-27-learning-by-study-and-by-faith-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 28: Exercising Self-Control' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 28: Exercising Self-Control</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_028_01-BYoung2.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-32-chapter-28-exercising-self-control-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 29: Living the Word of Wisdom' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 29: Living the Word of Wisdom</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_029_01-farm.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-33-chapter-29-living-the-word-of-wisdom-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 30: Developing Christlike Attitudes toward Others' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 30: Developing Christlike Attitudes toward Others</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_030_01-Samaritan.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-34-chapter-30-developing-christlike-attitudes-toward-others-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 31: Thrift, Industry, and Self-Reliance' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 31: Thrift, Industry, and Self-Reliance</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_031_01-co-ops.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-35-chapter-31-thrift-industry-and-self-reliance-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 32: Temporal Wealth and the Kingdom of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 32: Temporal Wealth and the Kingdom of God</title>
         <description></description>
@@ -304,35 +270,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-36-chapter-32-temporal-wealth-and-the-kingdom-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 33: Missionary Work' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 33: Missionary Work</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_033_01-Thomas_Griggs.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-37-chapter-33-missionary-work-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 34: Strengthening the Saints through the Gifts of the Spirit' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 34: Strengthening the Saints through the Gifts of the Spirit</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_034_01-quail.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-38-chapter-34-strengthening-the-saints-through-the-gifts-of-the-spirit-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 35: The Blessings of Trials, Chastening, and Persecution' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 35: The Blessings of Trials, Chastening, and Persecution</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_035_01-persecution.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-39-chapter-35-the-blessings-of-trials-chastening-and-persecution-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 36: Earthly Governments and the Kingdom of God' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 36: Earthly Governments and the Kingdom of God</title>
         <description></description>
@@ -340,26 +302,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-40-chapter-36-earthly-governments-and-the-kingdom-of-god-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 37: Understanding Death and Resurrection' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 37: Understanding Death and Resurrection</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_037_01-resurrection.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-41-chapter-37-understanding-death-and-resurrection-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 38: The Spirit World' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 38: The Spirit World</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_038_01-spirit_world.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-42-chapter-38-the-spirit-world-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 39: Eternal Judgment' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 39: Eternal Judgment</title>
         <description></description>
@@ -367,8 +326,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-43-chapter-39-eternal-judgment-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 40: Salvation through Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 40: Salvation through Jesus Christ</title>
         <description></description>
@@ -376,17 +334,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-44-chapter-40-salvation-through-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 41: Temple Ordinances' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 41: Temple Ordinances</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_041_01-NauvooTemple.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-45-chapter-41-temple-ordinances-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 42: Temple Service' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 42: Temple Service</title>
         <description></description>
@@ -394,35 +350,31 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-46-chapter-42-temple-service-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 43: Our Search for Truth and Personal Testimony' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 43: Our Search for Truth and Personal Testimony</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_043_01-JS_Bible.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-47-chapter-43-our-search-for-truth-and-personal-testimony-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 44: The Kingdom of God and the Gathering of Israel' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 44: The Kingdom of God and the Gathering of Israel</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_044_01-SL_Temple_1892.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-48-chapter-44-the-kingdom-of-god-and-the-gathering-of-israel-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 45: The Last Days' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 45: The Last Days</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_045_01-2nd_coming.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-49-chapter-45-the-last-days-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 46: Parental Responsibility' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 46: Parental Responsibility</title>
         <description></description>
@@ -430,23 +382,20 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-50-chapter-46-parental-responsibility-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_047_01-BYandJS.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-51-chapter-47-president-brigham-youngs-witness-of-the-prophet-joseph-smith-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Chapter 48: A Call for Unity, a Testimony, and a Blessing' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Chapter 48: A Call for Unity, a Testimony, and a Blessing</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/35554/35554_all_048_01-BY_funeral.jpg'/>
 <content url='http://broadcast2.lds.org/manuals/brigham-young/2011-12-52-chapter-48-a-call-for-unity-a-testimony-and-a-blessing-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

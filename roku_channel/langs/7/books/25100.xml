@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='La quête de la vérité' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>La quête de la vérité</title>
         <description></description>
@@ -11,8 +10,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168227220001_2010-07-02-a-search-for-truth-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2168217502001_2010-07-02-a-search-for-truth-8000k-fra-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='The Plan of Salvation' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Plan of Salvation</title>
         <description></description>
@@ -24,8 +22,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2028660282001_2010-07-002-the-plan-of-salvation-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2028631605001_2010-07-002-the-plan-of-salvation-8000k-fra-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Sentinelles sur la tour' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sentinelles sur la tour</title>
         <description></description>
@@ -37,8 +34,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253063070001_2010-07-23-watchmen-on-the-tower-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2253019282001_2010-07-23-watchmen-on-the-tower-8000k-fra-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='They that are Wise' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>They that are Wise</title>
         <description></description>
@@ -49,8 +45,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2688758651001_2010-07-040-they-that-are-wise-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2688758258001_2010-07-040-they-that-are-wise-8000k-fra.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='A Man without Eloquence' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Man without Eloquence</title>
         <description></description>
@@ -61,8 +56,7 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2849069009001_2010-07-048-a-man-without-eloquence-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2849078095001_2010-07-048-a-man-without-eloquence-8000k-fra.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-<category title='Joseph Smith, prophète du Rétablissement' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Joseph Smith, prophète du Rétablissement</title>
         <description></description>
@@ -74,5 +68,4 @@
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257943133001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-fra.mp4' height='480p'/>
 <content url='http://lds.uds.ak.o.brightcove.com/66852713001/66852713001_2257916870001_2010-07-117-joseph-smith-prophet-of-the-restoration-8000k-fra-copy.mp4' height='480p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,44 +6,39 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-02-friends-by-mail-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Come Listen to a Prophet’s Voice: Seeds of Faith' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Come Listen to a Prophet’s Voice: Seeds of Faith</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/FaustJL_97_rgb.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-03-come-listen-to-a-prophets-voice-seeds-of-faith-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Promises to Elizabeth, Part 1: The Blessing' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Promises to Elizabeth, Part 1: The Blessing</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='HinckleyGB_95-99.ob.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-04-promises-to-elizabeth-part-1-the-blessing-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Friend to Friend: Answers to Prayers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Friend to Friend: Answers to Prayers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MatsumoriVF_05_busath.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-06-friend-to-friend-answers-to-prayers-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='A Game of Catch' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>A Game of Catch</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/WirthlinJB_04.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-07-a-game-of-catch-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Holding a Grudge' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Holding a Grudge</title>
         <description></description>
@@ -52,26 +46,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-08-holding-a-grudge-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Sharing Time: Magnificent Promises' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sharing Time: Magnificent Promises</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr06nov14_sharing.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-09-sharing-time-magnificent-promises-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr06nov17_mattandmandy.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-10-matt-and-mandy-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='At Home in the Hills—Yasmin Dengg of Hallwang, Austria' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>At Home in the Hills—Yasmin Dengg of Hallwang, Austria</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-11-at-home-in-the-hills-yasmin-dengg-of-hallwang-austria-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Special Witness: Guess Who?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Special Witness: Guess Who?</title>
         <description></description>
@@ -88,17 +78,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-13-special-witness-guess-who-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Thanksgiving Surprise' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Thanksgiving Surprise</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BallardMR_04.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-14-thanksgiving-surprise-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Heroes in the Snow—The Martin Handcart Company' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Heroes in the Snow—The Martin Handcart Company</title>
         <description></description>
@@ -106,26 +94,23 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-15-heroes-in-the-snow-the-martin-handcart-company-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Little Friends' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Little Friends</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr06nov35_animals.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-16-for-little-friends-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Pie Dough to Play Dough' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Pie Dough to Play Dough</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/HalesRD_00.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-17-pie-dough-to-play-dough-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Kitchen Krafts' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kitchen Krafts</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-18-kitchen-krafts-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Trying to Be Like Jesus' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Trying to Be Like Jesus</title>
         <description></description>
@@ -142,17 +126,15 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-19-trying-to-be-like-jesus-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Keeping a Record' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Keeping a Record</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/fr06nov44_prophets.jpg'/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-20-keeping-a-record-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -160,8 +142,7 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-21-book-reviews-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -169,5 +150,4 @@
         <thumbnail url=''/>
 <content url='http://broadcast2.lds.org/friend/2006-november/2006-11-23-guide-to-the-friend-32k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

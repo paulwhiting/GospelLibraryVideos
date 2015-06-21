@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Feed My Sheep' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Feed My Sheep</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6c1.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-02-feed-my-sheep-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Called Home' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Called Home</title>
         <description></description>
@@ -16,35 +14,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-03-called-home-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='We Thank Thee' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We Thank Thee</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6c3.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-04-we-thank-thee-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Q&amp;A: Questions and Answers' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Q&amp;A: Questions and Answers</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:41.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-05-qa-questions-and-answers-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='New Era Poster' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>New Era Poster</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6c5.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-06-new-era-poster-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='To the Ends of the Earth' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>To the Ends of the Earth</title>
         <description></description>
@@ -52,8 +46,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-07-to-the-ends-of-the-earth-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book of Mormon Story' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book of Mormon Story</title>
         <description></description>
@@ -61,8 +54,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-08-book-of-mormon-story-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Idea List: Teens Leading Teens' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Idea List: Teens Leading Teens</title>
         <description></description>
@@ -70,8 +62,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-09-idea-list-teens-leading-teens-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Romanian Rhapsody' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Romanian Rhapsody</title>
         <description></description>
@@ -79,17 +70,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-10-romanian-rhapsody-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='All My Sisters' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>All My Sisters</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6c7.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-11-all-my-sisters-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Hope … I Wish … I Dream …' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Hope … I Wish … I Dream …</title>
         <description></description>
@@ -97,8 +86,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-13-i-hope-i-wish-i-dream--64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Of All Things' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Of All Things</title>
         <description></description>
@@ -106,17 +94,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-14-of-all-things-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='How to Discourage Discouragement' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>How to Discourage Discouragement</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/neweralp.nfo:o:6c9.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-15-how-to-discourage-discouragement-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What’s in It for You' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What’s in It for You</title>
         <description></description>
@@ -124,8 +110,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-16-whats-in-it-for-you-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='We’ve Got Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>We’ve Got Mail</title>
         <description></description>
@@ -133,8 +118,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-17-weve-got-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Song Without Words' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Song Without Words</title>
         <description></description>
@@ -142,5 +126,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/new-era-january-2003/2003-01-18-song-without-words-256k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

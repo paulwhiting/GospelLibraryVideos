@@ -1,19 +1,13 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Vitajte na konferencii' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Vitajte na konferencii</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1010-president-thomas-s-monson-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445726376001/480/268/520808' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445726376001/396/224/197287' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445726376001/480/268/342846' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445726376001/640/360/743822' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1010-president-thomas-s-monson-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Cena a požehnania nasledovníctva' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Cena a požehnania nasledovníctva</title>
         <description></description>
@@ -21,27 +15,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1020-elder-jeffrey-r-holland-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445735374001/640/360/750668' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445735374001/480/268/336970' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445735374001/480/268/524320' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445735374001/396/224/194005' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1020-elder-jeffrey-r-holland-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Radostné bremeno učeníctva' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Radostné bremeno učeníctva</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1030-elder-ronald-a-rasband-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749748001/396/224/192865' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749748001/480/268/524928' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445749748001/640/360/747793' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749748001/480/268/334225' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1030-elder-ronald-a-rasband-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vykupiteľ Kristus' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vykupiteľ Kristus</title>
         <description></description>
@@ -49,13 +33,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1040-elder-carlos-h-amado-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445744736001/640/360/724154' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744736001/480/268/322205' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744736001/396/224/187541' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744736001/480/268/510639' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1040-elder-carlos-h-amado-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ochrana pred pornografiou – domov zameraný na Krista' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ochrana pred pornografiou – domov zameraný na Krista</title>
         <description></description>
@@ -63,55 +42,35 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1050-linda-s-reeves-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445751489001/640/360/746908' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445751489001/480/268/523881' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445751489001/396/224/193008' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445751489001/480/268/332419' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1050-linda-s-reeves-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Duchovné smršte' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Duchovné smršte</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1242720/4ee8efe6358d4900b7f60547174f39f0/320x213.jpg'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1060-elder-neil-l-andersen-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749805001/396/224/192991' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445749805001/640/360/738458' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749805001/480/268/331093' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445749805001/480/268/514651' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1060-elder-neil-l-andersen-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Neoceniteľné dedičstvo nádeje' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Neoceniteľné dedičstvo nádeje</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1070-president-henry-b-eyring-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744776001/396/224/194967.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744776001/480/268/520183.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445744776001/480/268/331082.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445744776001/640/360/743867.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-1070-president-henry-b-eyring-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Vyjadrenie podpory úradníkom Cirkvi' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Vyjadrenie podpory úradníkom Cirkvi</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2010-the-sustaining-of-church-officers-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772282001/396/224/176482' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772282001/480/268/308523' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445772282001/640/360/727833' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772282001/480/268/509553' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2010-the-sustaining-of-church-officers-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Správa Cirkevného kontrolného oddelenia za rok 2013' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Správa Cirkevného kontrolného oddelenia za rok 2013</title>
         <description></description>
@@ -119,27 +78,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2020-church-auditing-department-report-2013-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445772297001/640/360/717261' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772297001/396/224/171983' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772297001/480/268/302502' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445772297001/480/268/510497' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2020-church-auditing-department-report-2013-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Štatistická správa za rok 2013' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Štatistická správa za rok 2013</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2030-statistical-report-2013-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445771214001/396/224/168256' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445771214001/480/268/499405' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445771214001/640/360/687431' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445771214001/480/268/294897' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2030-statistical-report-2013-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nech je vaša viera vidieť' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nech je vaša viera vidieť</title>
         <description></description>
@@ -147,27 +96,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2040-elder-russell-m-nelson-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445788116001/640/360/725659' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445788116001/396/224/192708' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445788116001/480/268/324069' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445788116001/480/268/502397' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2040-elder-russell-m-nelson-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='„Dal som vám totiž príklad“' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>„Dal som vám totiž príklad“</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2050-elder-richard-g-scott-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783695001/396/224/191203' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783695001/480/268/323292' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445783695001/640/360/724121' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783695001/480/268/509141' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2050-elder-richard-g-scott-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='„Ak ma milujete, zachovávajte moje prikázanie“' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>„Ak ma milujete, zachovávajte moje prikázanie“</title>
         <description></description>
@@ -175,69 +114,44 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2060-elder-robert-d-hales-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445783714001/640/360/713933' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783714001/480/268/509429' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783714001/480/268/316652' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445783714001/396/224/187614' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2060-elder-robert-d-hales-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nechoďme tou nesprávnou cestou' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nechoďme tou nesprávnou cestou</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2070-elder-claudio-d-zivic-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445786462001/396/224/196813' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445786462001/480/268/526639' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3445786462001/640/360/752412' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3445786462001/480/268/336310' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2070-elder-claudio-d-zivic-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Nad čím premýšľate?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Nad čím premýšľate?</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2080-elder-w-craig-zwick-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449498628001/396/224/201441' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449498628001/640/360/765658' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449498628001/480/268/534063' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449498628001/480/268/341033' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2080-elder-w-craig-zwick-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Korene a vetvy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Korene a vetvy</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2090-elder-quentin-l-cook-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449536641001/396/224/190359' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449536641001/640/360/723344' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449536641001/480/268/506335' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449536641001/480/268/325903' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-2090-elder-quentin-l-cook-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Kľúče a právomoc kňazstva' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Kľúče a právomoc kňazstva</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3010-elder-dallin-h-oaks-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449543205001/480/268/528744' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449543205001/396/224/198751' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449543205001/480/268/336433' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449543205001/640/360/753951' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3010-elder-dallin-h-oaks-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Akými ľuďmi máte byť?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Akými ľuďmi máte byť?</title>
         <description></description>
@@ -245,27 +159,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3020-elder-donald-l-hallstrom-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449549789001/640/360/744823' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549789001/396/224/197445' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549789001/480/268/335150' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549789001/480/268/523021' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3020-elder-donald-l-hallstrom-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Generácia mnohých možností' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Generácia mnohých možností</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3030-randall-l-ridd-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549297001/480/268/516278' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449549297001/640/360/740030' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549297001/480/268/332325' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449549297001/396/224/196746' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3030-randall-l-ridd-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Spíte počas znovuzriadenia?' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Spíte počas znovuzriadenia?</title>
         <description></description>
@@ -273,27 +177,17 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3040-president-dieter-f-uchtdorf-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449562091001/640/360/755689' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562091001/480/268/525596' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562091001/480/268/337708' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562091001/396/224/200745' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3040-president-dieter-f-uchtdorf-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Muž kňazstva' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Muž kňazstva</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3050-president-henry-b-eyring-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562113001/396/224/194856.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562113001/480/268/522175.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449562113001/640/360/749116.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562113001/480/268/331352.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3050-president-henry-b-eyring-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Buďte silní a odvážni' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Buďte silní a odvážni</title>
         <description></description>
@@ -301,13 +195,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3060-president-thomas-s-monson-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3449562129001/640/360/749138' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562129001/396/224/197500' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562129001/480/268/526970' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3449562129001/480/268/336081' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-3060-president-thomas-s-monson-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dodržiavanie zmlúv nás ochráni, pripraví a posilní' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dodržiavanie zmlúv nás ochráni, pripraví a posilní</title>
         <description></description>
@@ -315,13 +204,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0010-rosemary-m-wixom-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3427291642001/640/360/765415' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427291642001/396/224/191477' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427291642001/480/268/529101' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427291642001/480/268/330637' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0010-rosemary-m-wixom-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Sesterstvo: Och, ako veľmi sa navzájom potrebujeme' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Sesterstvo: Och, ako veľmi sa navzájom potrebujeme</title>
         <description></description>
@@ -329,13 +213,8 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0030-bonnie-l-oscarson-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3427293384001/640/360/741713' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427293384001/480/268/319663' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427293384001/480/268/516061' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427293384001/396/224/183551' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0030-bonnie-l-oscarson-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Hľadáme: Ruky a srdcia na urýchlenie diela' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Hľadáme: Ruky a srdcia na urýchlenie diela</title>
         <description></description>
@@ -343,24 +222,14 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0050-linda-k-burton-64k-slk.mp3' height='mp3'/>
 <content url='http://mediasrv.lds.org/media-services/size/3427299925001/640/360/762856' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427299925001/480/268/327038' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427299925001/396/224/187426' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427299925001/480/268/522871' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0050-linda-k-burton-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dcéry zmluvy' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dcéry zmluvy</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0060-president-henry-b-eyring-64k-slk.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427307175001/396/224/191930.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3427307175001/640/360/746324.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427307175001/480/268/333058.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/3427307175001/480/268/521177.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting/2014-03-0060-president-henry-b-eyring-360p-slk.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

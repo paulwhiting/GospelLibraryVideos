@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='1 Nephi' subtitle='Videos: 22; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='1 Nephi' subtitle='Videos: 22, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>1 Nephi 1</title>
         <description></description>
@@ -241,8 +242,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336232054001/1280/720/1672375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336232054001/640/360/721057' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='2 Nephi' subtitle='Videos: 33; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2 Nephi' subtitle='Videos: 33, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>2 Nephi 1</title>
         <description></description>
@@ -605,8 +607,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238001001/640/360/800375' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238001001/1280/720/1464316' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Jacob' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jacob' subtitle='Videos: 6, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Jacob 1</title>
         <description></description>
@@ -672,8 +675,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238033001/1280/720/2000375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238033001/640/360/800375' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Enos' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Enos' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Enos</title>
         <description></description>
@@ -684,8 +688,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238039001/1280/720/1817103' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336238039001/640/360/800375' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Jarom' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jarom' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Jarom</title>
         <description></description>
@@ -696,8 +701,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122703001/1280/720/1672375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122703001/1280/720/1807450' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Omni' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Omni' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Omni</title>
         <description></description>
@@ -708,8 +714,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122131001/1280/720/2169404' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122131001/1280/720/1887732' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Words of Mormon' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Words of Mormon' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Words of Mormon</title>
         <description></description>
@@ -720,8 +727,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336123193001/640/360/742898' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336123193001/1280/720/2400375' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Mosiah' subtitle='Videos: 28; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mosiah' subtitle='Videos: 28, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Mosiah 1</title>
         <description></description>
@@ -1029,8 +1037,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122210001/1280/720/1672375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336122210001/640/360/800375' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Alma' subtitle='Videos: 58; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Alma' subtitle='Videos: 58, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Alma 1</title>
         <description></description>
@@ -1668,8 +1677,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336142537001/1280/720/1646591' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336142537001/640/360/800375' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Helaman' subtitle='Videos: 16; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Helaman' subtitle='Videos: 16, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Helaman 1</title>
         <description></description>
@@ -1845,8 +1855,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336140155001/1280/720/2104831' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336140155001/1280/720/2000375' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='3 Nephi' subtitle='Videos: 30; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='3 Nephi' subtitle='Videos: 30, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>3 Nephi 1</title>
         <description></description>
@@ -2176,8 +2187,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336140170001/1280/720/2177063' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336140170001/1280/720/1332849' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='4 Nephi' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='4 Nephi' subtitle='Videos: 1, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>4 Nephi</title>
         <description></description>
@@ -2188,8 +2200,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336240389001/1280/720/1443608' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336240389001/640/360/746036' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Mormon' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Mormon' subtitle='Videos: 9, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Mormon 1</title>
         <description></description>
@@ -2288,8 +2301,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336146822001/1280/720/1349952' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336146822001/1280/720/2102864' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Ether' subtitle='Videos: 15; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ether' subtitle='Videos: 15, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Ether 1</title>
         <description></description>
@@ -2454,8 +2468,9 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336146814001/1280/720/1672375' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336146814001/1280/720/2148576' height='720p'/>
 </item>
- </channel> </rss></category>
-<category title='Moroni' subtitle='Videos: 9; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Moroni' subtitle='Videos: 9, Audio: 0' >
+<rss><channel><item>
         <id></id>
         <title>Moroni 1</title>
         <description></description>
@@ -2561,5 +2576,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1749119' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1446980' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

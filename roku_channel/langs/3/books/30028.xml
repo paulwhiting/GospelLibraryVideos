@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Er lebt – wir feiern Ostern, weil Jesus Christus lebt!' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Er lebt – wir feiern Ostern, weil Jesus Christus lebt!</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/4098116183001/1280/720/1326593.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4098116183001/640/360/784405.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Dank ihm' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Dank ihm</title>
         <description></description>
@@ -22,8 +20,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3471905657001/1280/720/1395796.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3471905657001/640/360/758060.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ein Heiland ist uns geschenkt worden' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ein Heiland ist uns geschenkt worden</title>
         <description></description>
@@ -34,5 +31,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3900210975001/1280/720/1399738.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3900210975001/640/360/799482.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

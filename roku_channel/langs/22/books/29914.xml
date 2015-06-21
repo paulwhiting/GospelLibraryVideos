@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Missionær, slægtsforskning og tempeltjeneste' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Missionær, slægtsforskning og tempeltjeneste' subtitle='Videos: 6, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Missionær, slægtsforskning og tempeltjeneste</title>
         <description></description>
@@ -65,5 +66,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793182049001/1280/720/1859927' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793182049001/640/360/741096' height='360p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

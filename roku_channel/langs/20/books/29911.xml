@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Lähetys-, sukututkimus- ja temppelityö' subtitle='Videos: 6; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Lähetys-, sukututkimus- ja temppelityö' subtitle='Videos: 6, Audio: 0'  img='http://broadcast3.lds.org/crowdsource/Mobile/images/1255497/727435c86a1f4cc2bb2132c19b217c5f/320x424.jpg'>
+<rss><channel><item>
         <id></id>
         <title>Lähetys-, sukututkimus- ja temppelityö</title>
         <description></description>
@@ -65,5 +66,5 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793194683001/1280/720/1385695' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/3793194683001/1280/720/1915038' height='720p'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>

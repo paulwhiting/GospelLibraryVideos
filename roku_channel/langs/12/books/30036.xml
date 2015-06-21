@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='O Ia o le Meaalofa' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>O Ia o le Meaalofa</title>
         <description></description>
@@ -10,8 +9,7 @@
 <content url='http://mediasrv.lds.org/media-services/size/3945957818001/1280/720/1414178.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3945957818001/640/360/804035.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='Ona o Ia' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Ona o Ia</title>
         <description></description>
@@ -22,5 +20,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3680966391001/1280/720/1435634.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3680966391001/640/360/779203.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Friends by Mail' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>Friends by Mail</title>
         <description></description>
@@ -7,17 +6,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-02-friends-by-mail-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Canaries with Gray on Their Wings' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Canaries with Gray on Their Wings</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-03-canaries-with-gray-on-their-wings-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Night Fright' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Night Fright</title>
         <description></description>
@@ -25,26 +22,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-04-night-fright-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bright Idea' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bright Idea</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may06-lie-down-unto-the-Lord-bright-idea-poster.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-05-bright-idea-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Baptism' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Baptism</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may07-baptism-music.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-06-baptism-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Many Hands Make Light Work' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Many Hands Make Light Work</title>
         <description></description>
@@ -52,26 +46,23 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-07-many-hands-make-light-work-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Moving' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Moving</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/thomas-s-monson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-08-moving-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Bulletin Board' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Bulletin Board</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/russell-m-nelson.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-09-bulletin-board-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='King Benjamin Teaches His People about Jesus Christ' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>King Benjamin Teaches His People about Jesus Christ</title>
         <description></description>
@@ -79,8 +70,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-10-king-benjamin-teaches-his-people-about-jesus-christ-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Drive-Through Decision' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Drive-Through Decision</title>
         <description></description>
@@ -88,8 +78,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-11-drive-through-decision-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Remembering a Special Day' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Remembering a Special Day</title>
         <description></description>
@@ -97,17 +86,15 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-12-remembering-a-special-day-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='What can we do when hard things happen to us?' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>What can we do when hard things happen to us?</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/robert-d-hales.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-13-what-can-we-do-when-hard-things-happen-to-us-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Book Reviews' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Book Reviews</title>
         <description></description>
@@ -115,35 +102,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-14-book-reviews-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Fire!' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Fire!</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/cheryl-a-esplin.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-15-fire-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Mother’s Day Activities' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Mother’s Day Activities</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may23-mothers-day-activities.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-16-mothers-day-activities-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='The Story of the Book of Mormon' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>The Story of the Book of Mormon</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may24-27-the-story-of-the-book-of-mormon.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-17-the-story-of-the-book-of-mormon-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Karisa’s Questions' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Karisa’s Questions</title>
         <description></description>
@@ -151,8 +134,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-18-karisas-questions-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Show and Tell' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Show and Tell</title>
         <description></description>
@@ -160,8 +142,7 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-19-show-and-tell-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Little Brother, Big Example' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Little Brother, Big Example</title>
         <description></description>
@@ -169,35 +150,31 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-21-little-brother-big-example-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='I Choose the Right When I Am Baptized and Confirmed a Member of the Church' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>I Choose the Right When I Am Baptized and Confirmed a Member of the Church</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may41-ctr-game-word-jumble.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-24-i-choose-the-right-when-i-am-baptized-and-confirmed-a-member-of-the-church-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Matt and Mandy' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Matt and Mandy</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/fr12may42-matt-and-mandy.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-25-matt-and-mandy-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='For Older Kids' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>For Older Kids</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://www.lds.org/bc/content/shared/content/images/magazines/friend/2012/05/m-russell-ballard.jpg'/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-28-for-older-kids-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Guide to the Friend' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>Guide to the Friend</title>
         <description></description>
@@ -205,5 +182,4 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/magazines/friend-may-2012/2012-05-29-guide-to-the-friend-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

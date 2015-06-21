@@ -1,32 +1,25 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='목적이 있는 삶: “진정한 의도”의 중요성' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
         <title>목적이 있는 삶: “진정한 의도”의 중요성</title>
         <description></description>
         <duration></duration>
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-64k-kor.mp3' height='mp3'/>
+<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-64k-kor.mp3' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-1080p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0010-living-with-purpose-the-importance-of-real-intent-720p-kor.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-<category title='빛을 맛보며' subtitle='Videos: 1; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<item>
         <id></id>
         <title>빛을 맛보며</title>
         <description></description>
         <duration></duration>
-        <thumbnail url=''/>
+        <thumbnail url='http://broadcast3.lds.org/crowdsource/mobile/images/1468996/f6b3dcd0e2724c159ab0ec5a515527c2/320x179.jpg'/>
 <content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-64k-kor.mp3' height='mp3'/>
-<content url='http://mediasrv.lds.org/media-services/size/4226393564001/480/268/350882.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4226393564001/1280/720/1840395.mp4' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4226393564001/396/224/219581.mp4' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4226393564001/1280/720/1560291.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4226393564001/1280/720/1320627.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4226393564001/640/360/736636.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4226393564001/720/404/895905.mp4' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/size/4226393564001/480/268/496916.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/worldwide-devotionals/2015-worldwide-devotionals-for-young-adults/2015-00-0020-tasting-the-light-360p-kor.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

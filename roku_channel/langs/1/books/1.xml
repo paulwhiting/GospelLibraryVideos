@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Genesis' subtitle='Videos: 0; Audio: 50'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+    <categories><category title='Genesis' subtitle='Videos: 0, Audio: 50' >
+<rss><channel><item>
         <id></id>
         <title>Genesis 1</title>
         <description></description>
@@ -399,8 +400,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-052-genesis-50-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Exodus' subtitle='Videos: 0; Audio: 40'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Exodus' subtitle='Videos: 0, Audio: 40' >
+<rss><channel><item>
         <id></id>
         <title>Exodus 1</title>
         <description></description>
@@ -720,8 +722,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-092-exodus-40-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Leviticus' subtitle='Videos: 0; Audio: 27'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Leviticus' subtitle='Videos: 0, Audio: 27' >
+<rss><channel><item>
         <id></id>
         <title>Leviticus 1</title>
         <description></description>
@@ -937,8 +940,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-119-leviticus-27-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Numbers' subtitle='Videos: 0; Audio: 36'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Numbers' subtitle='Videos: 0, Audio: 36' >
+<rss><channel><item>
         <id></id>
         <title>Numbers 1</title>
         <description></description>
@@ -1226,8 +1230,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-155-numbers-36-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Deuteronomy' subtitle='Videos: 0; Audio: 34'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Deuteronomy' subtitle='Videos: 0, Audio: 34' >
+<rss><channel><item>
         <id></id>
         <title>Deuteronomy 1</title>
         <description></description>
@@ -1499,8 +1504,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-189-deuteronomy-34-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Joshua' subtitle='Videos: 0; Audio: 24'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joshua' subtitle='Videos: 0, Audio: 24' >
+<rss><channel><item>
         <id></id>
         <title>Joshua 1</title>
         <description></description>
@@ -1692,8 +1698,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-213-joshua-24-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Judges' subtitle='Videos: 0; Audio: 21'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Judges' subtitle='Videos: 0, Audio: 21' >
+<rss><channel><item>
         <id></id>
         <title>Judges 1</title>
         <description></description>
@@ -1861,8 +1868,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-234-judges-21-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ruth' subtitle='Videos: 0; Audio: 4'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ruth' subtitle='Videos: 0, Audio: 4' >
+<rss><channel><item>
         <id></id>
         <title>Ruth 1</title>
         <description></description>
@@ -1894,8 +1902,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-238-ruth-04-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='1 Samuel' subtitle='Videos: 0; Audio: 31'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='1 Samuel' subtitle='Videos: 0, Audio: 31' >
+<rss><channel><item>
         <id></id>
         <title>1 Samuel 1</title>
         <description></description>
@@ -2143,8 +2152,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-269-1-samuel-31-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='2 Samuel' subtitle='Videos: 0; Audio: 24'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2 Samuel' subtitle='Videos: 0, Audio: 24' >
+<rss><channel><item>
         <id></id>
         <title>2 Samuel 1</title>
         <description></description>
@@ -2336,8 +2346,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-293-2-samuel-24-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='1 Kings' subtitle='Videos: 0; Audio: 22'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='1 Kings' subtitle='Videos: 0, Audio: 22' >
+<rss><channel><item>
         <id></id>
         <title>1 Kings 1</title>
         <description></description>
@@ -2513,8 +2524,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-315-1-kings-22-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='2 Kings' subtitle='Videos: 0; Audio: 25'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2 Kings' subtitle='Videos: 0, Audio: 25' >
+<rss><channel><item>
         <id></id>
         <title>2 Kings 1</title>
         <description></description>
@@ -2714,8 +2726,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-340-2-kings-25-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='1 Chronicles' subtitle='Videos: 0; Audio: 29'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='1 Chronicles' subtitle='Videos: 0, Audio: 29' >
+<rss><channel><item>
         <id></id>
         <title>1 Chronicles 1</title>
         <description></description>
@@ -2947,8 +2960,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-369-1-chronicles-29-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='2 Chronicles' subtitle='Videos: 0; Audio: 36'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='2 Chronicles' subtitle='Videos: 0, Audio: 36' >
+<rss><channel><item>
         <id></id>
         <title>2 Chronicles 1</title>
         <description></description>
@@ -3236,8 +3250,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-405-2-chronicles-36-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ezra' subtitle='Videos: 0; Audio: 10'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ezra' subtitle='Videos: 0, Audio: 10' >
+<rss><channel><item>
         <id></id>
         <title>Ezra 1</title>
         <description></description>
@@ -3317,8 +3332,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-415-ezra-10-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nehemiah' subtitle='Videos: 0; Audio: 13'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Nehemiah' subtitle='Videos: 0, Audio: 13' >
+<rss><channel><item>
         <id></id>
         <title>Nehemiah 1</title>
         <description></description>
@@ -3422,8 +3438,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-428-nehemiah-13-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Esther' subtitle='Videos: 0; Audio: 10'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Esther' subtitle='Videos: 0, Audio: 10' >
+<rss><channel><item>
         <id></id>
         <title>Esther 1</title>
         <description></description>
@@ -3503,8 +3520,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-438-esther-10-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Job' subtitle='Videos: 0; Audio: 42'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Job' subtitle='Videos: 0, Audio: 42' >
+<rss><channel><item>
         <id></id>
         <title>Job 1</title>
         <description></description>
@@ -3840,8 +3858,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-480-job-42-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Psalms' subtitle='Videos: 0; Audio: 150'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Psalms' subtitle='Videos: 0, Audio: 150' >
+<rss><channel><item>
         <id></id>
         <title>Psalms 1</title>
         <description></description>
@@ -5041,8 +5060,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-630-psalms-150-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Proverbs' subtitle='Videos: 0; Audio: 31'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Proverbs' subtitle='Videos: 0, Audio: 31' >
+<rss><channel><item>
         <id></id>
         <title>Proverbs 1</title>
         <description></description>
@@ -5290,8 +5310,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-661-proverbs-31-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ecclesiastes' subtitle='Videos: 0; Audio: 12'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ecclesiastes' subtitle='Videos: 0, Audio: 12' >
+<rss><channel><item>
         <id></id>
         <title>Ecclesiastes 1</title>
         <description></description>
@@ -5387,8 +5408,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-673-ecclesiastes-12-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Song of Solomon' subtitle='Videos: 0; Audio: 8'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Song of Solomon' subtitle='Videos: 0, Audio: 8' >
+<rss><channel><item>
         <id></id>
         <title>Song of Solomon 1</title>
         <description></description>
@@ -5452,8 +5474,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-681-the-song-of-solomon-08-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Isaiah' subtitle='Videos: 0; Audio: 66'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Isaiah' subtitle='Videos: 0, Audio: 66' >
+<rss><channel><item>
         <id></id>
         <title>Isaiah 1</title>
         <description></description>
@@ -5981,8 +6004,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-747-isaiah-66-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jeremiah' subtitle='Videos: 0; Audio: 52'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jeremiah' subtitle='Videos: 0, Audio: 52' >
+<rss><channel><item>
         <id></id>
         <title>Jeremiah 1</title>
         <description></description>
@@ -6398,8 +6422,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-799-jeremiah-52-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Lamentations' subtitle='Videos: 0; Audio: 5'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Lamentations' subtitle='Videos: 0, Audio: 5' >
+<rss><channel><item>
         <id></id>
         <title>Lamentations 1</title>
         <description></description>
@@ -6439,8 +6464,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-804-lamentations-05-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Ezekiel' subtitle='Videos: 0; Audio: 48'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Ezekiel' subtitle='Videos: 0, Audio: 48' >
+<rss><channel><item>
         <id></id>
         <title>Ezekiel 1</title>
         <description></description>
@@ -6824,8 +6850,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-852-ezekiel-48-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Daniel' subtitle='Videos: 0; Audio: 12'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Daniel' subtitle='Videos: 0, Audio: 12' >
+<rss><channel><item>
         <id></id>
         <title>Daniel 1</title>
         <description></description>
@@ -6921,8 +6948,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-864-daniel-12-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Hosea' subtitle='Videos: 0; Audio: 14'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Hosea' subtitle='Videos: 0, Audio: 14' >
+<rss><channel><item>
         <id></id>
         <title>Hosea 1</title>
         <description></description>
@@ -7034,8 +7062,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-878-hosea-14-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Joel' subtitle='Videos: 0; Audio: 3'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Joel' subtitle='Videos: 0, Audio: 3' >
+<rss><channel><item>
         <id></id>
         <title>Joel 1</title>
         <description></description>
@@ -7059,8 +7088,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-881-joel-03-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Amos' subtitle='Videos: 0; Audio: 9'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Amos' subtitle='Videos: 0, Audio: 9' >
+<rss><channel><item>
         <id></id>
         <title>Amos 1</title>
         <description></description>
@@ -7132,8 +7162,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-890-amos-09-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Obadiah' subtitle='Videos: 0; Audio: 1'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Obadiah' subtitle='Videos: 0, Audio: 1' >
+<rss><channel><item>
         <id></id>
         <title>Obadiah</title>
         <description></description>
@@ -7141,8 +7172,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-891-obadiah-01-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Jonah' subtitle='Videos: 0; Audio: 4'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Jonah' subtitle='Videos: 0, Audio: 4' >
+<rss><channel><item>
         <id></id>
         <title>Jonah 1</title>
         <description></description>
@@ -7174,8 +7206,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-895-jonah-04-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Micah' subtitle='Videos: 0; Audio: 7'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Micah' subtitle='Videos: 0, Audio: 7' >
+<rss><channel><item>
         <id></id>
         <title>Micah 1</title>
         <description></description>
@@ -7231,8 +7264,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-902-micah-07-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Nahum' subtitle='Videos: 0; Audio: 3'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Nahum' subtitle='Videos: 0, Audio: 3' >
+<rss><channel><item>
         <id></id>
         <title>Nahum 1</title>
         <description></description>
@@ -7256,8 +7290,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-905-nahum-03-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Habakkuk' subtitle='Videos: 0; Audio: 3'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Habakkuk' subtitle='Videos: 0, Audio: 3' >
+<rss><channel><item>
         <id></id>
         <title>Habakkuk 1</title>
         <description></description>
@@ -7281,8 +7316,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-908-habakkuk-03-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Zephaniah' subtitle='Videos: 0; Audio: 3'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Zephaniah' subtitle='Videos: 0, Audio: 3' >
+<rss><channel><item>
         <id></id>
         <title>Zephaniah 1</title>
         <description></description>
@@ -7306,8 +7342,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-911-zephaniah-03-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Haggai' subtitle='Videos: 0; Audio: 2'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Haggai' subtitle='Videos: 0, Audio: 2' >
+<rss><channel><item>
         <id></id>
         <title>Haggai 1</title>
         <description></description>
@@ -7323,8 +7360,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-913-haggai-02-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Zechariah' subtitle='Videos: 0; Audio: 14'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Zechariah' subtitle='Videos: 0, Audio: 14' >
+<rss><channel><item>
         <id></id>
         <title>Zechariah 1</title>
         <description></description>
@@ -7436,8 +7474,9 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-927-zechariah-14-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
-<category title='Malachi' subtitle='Videos: 0; Audio: 4'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+</channel></rss></category>
+<category title='Malachi' subtitle='Videos: 0, Audio: 4' >
+<rss><channel><item>
         <id></id>
         <title>Malachi 1</title>
         <description></description>
@@ -7469,5 +7508,5 @@
         <thumbnail url=''/>
 <content url='http://media2.ldscdn.org/assets/scriptures/the-old-testament/2010-06-931-malachi-04-64k-eng.mp3' height='mp3'/>
 </item>
- </channel> </rss></category>
+</channel></rss></category>
 </categories>
