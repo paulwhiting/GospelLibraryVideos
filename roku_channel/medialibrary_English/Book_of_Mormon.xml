@@ -836,7 +836,7 @@
 </channel>
   </rss>
 </category>
-<category title="Alma - Helaman" subtitle="Videos: 72" img="http://media.ldscdn.org/thumbnails/book-of-mormon/alma-helaman-category-138x91.jpg">
+<category title="Alma - Helaman" subtitle="Videos: 73" img="http://media.ldscdn.org/thumbnails/book-of-mormon/alma-helaman-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1466,6 +1466,15 @@
         <duration>59</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1975-nehor-taught-that-a-teacher-ought-to-become-popular-144x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1975-nehor-taught-that-a-teacher-ought-to-become-popular-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2012-08-1760-alma-43-through-moroni-segment-3</id>
+        <title>Alma 43 through Moroni (Segment 3)</title>
+        <description>An overview of people, places, and events, using a computer-generated model of the CES Book of Mormon bookmark.</description>
+        <duration>132</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-segment-3.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-segment-3-360p-eng.mp4" height="360p"/>
 </item>
 </channel>
   </rss>
