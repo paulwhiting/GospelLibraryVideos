@@ -22,7 +22,8 @@ RSS_HOSTING_URL  = "http://paulwhiting.github.io/GospelLibraryVideos/rss"
 
 require 'sqlite3'
 COVER_ART_URL = "http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1"
-COVERS_SHOW_EMPTY = true
+#COVERS_SHOW_EMPTY = true
+COVERS_SHOW_EMPTY = false
 IGNORE_OBSOLETE = true
 
 
@@ -115,7 +116,7 @@ def getVideos(url,filename)
 
                 # if we have no streams but skipped some then try again
                 # OR if we only have an audio stream then also try again
-                if ((video.streams.count == 0 and skipped_video.count > 0) or (video.streams.count == 1 and has_audio))
+                if ((video.streams.count == 0 and skipped_video.count > 0) or (video.streams.count == 1 and has_audio and skipped_video.count > 0))
                     # find the best video to use
                     best = skipped_video.sort[-1]
                     best_q = best[0]
@@ -145,6 +146,13 @@ def getVideos(url,filename)
         # process the content table
         if params[:content]
             xml = Nokogiri::HTML(params[:content])
+            # find the first image and use it for a thumbnail
+            v = xml.css("img")
+            if v.length >= 1
+                img = v.first['src']
+                #puts "Found img tag! #{img}"
+                entry.update_thumbnail(img)
+            end
             #v = xml.css("div[class=video]")
             v = xml.css("video")
             v.each {|item|
@@ -207,6 +215,9 @@ class BookEntry
     attr_reader :id
     attr_reader :parent_id
     attr_reader :media
+    attr_reader :video_count
+    attr_reader :audio_count
+    attr_reader :cover_art
 
     def initialize( params )
         @id = params[:id]
@@ -216,16 +227,20 @@ class BookEntry
         @title = HTMLEntities.new.encode(@title) if @title != nil
         @subtitle = params[:subtitle]
         @short_title = params[:short_title]
-        @cover_art = params[:cover_art]
+        update_thumbnail(params[:cover_art])
+        @children = []
+        @media = []
+        @video_count = 0
+        @audio_count = 0
+    end
+
+    def update_thumbnail(img)
+        @cover_art = img
         if @cover_art == nil
             @cover_art = ''
         else
             @cover_art = @cover_art.gsub(/{\d*}/,'@2x')
         end
-        @children = []
-        @media = []
-        @video_count = 0
-        @audio_count = 0
     end
 
     def setChildren(children)
@@ -239,16 +254,26 @@ class BookEntry
     end
 
     def calculateVideoCount
+        @video_count = 0
         @children.each do |item|  # item is BookEntry
             @video_count += item.calculateVideoCount
+        end
+
+        @media.each do |item|
+            @video_count += 1 if item.has_video?
         end
 
         return @video_count
     end
 
     def calculateAudioCount
+        @audio_count = 0
         @children.each do |item|  # item is BookEntry
             @audio_count += item.calculateAudioCount
+        end
+
+        @media.each do |item|
+            @audio_count += 1 if item.has_audio?
         end
 
         return @audio_count
@@ -260,13 +285,13 @@ class BookEntry
         if @media.count == 0 and @children.count == 0
             return true
         elsif @media.count == 1
-            #if @title == @media[0].title
+            if @title == @media[0].title
                 #puts "#{@title} == #{@media[0].title}"
-            #    puts "combinable true for #{@title}"
-            #    return true
-            #else
+                #puts "combinable true for #{@title}"
+                return true
+            else
             #    puts "#{@title} != #{@media[0].title}"
-            #end
+            end
         end
 
         #puts "combinable false for #{@title}"
@@ -282,12 +307,16 @@ class BookEntry
             combinable += 1 if item.combinable?
         end
 
-        puts "#{combinable} is or isn't #{@children.count} for #{@title}"
+        #puts "#{combinable} is or isn't #{@children.count} for #{@title}"
         if combinable == @children.count
             @children.each do |item|
+                # keep a thumbnail if we have one
+                item.media.each do |media|
+                    if media.thumbnail == '' and item.cover_art != ''
+                        media.update_thumbnail(item.cover_art)
+                    end
+                end
                 @media.concat( item.media )
-                @video_count += item.calculateVideoCount
-                @audio_count += item.calculateAudioCount
             end
             @children = []
         end
@@ -309,7 +338,10 @@ class BookEntry
 
     def to_xml
         return "" if @video_count == 0 and @audio_count == 0
-        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}; Audio: #{@audio_count}'>"  # showAsList='1'>"
+        @cover_art = getClosestCoverArt
+        str = "<category title='#{HTMLEntities.new.encode(@title)}' subtitle='Videos: #{@video_count}, Audio: #{@audio_count}' "
+        str +=  " img='#{@cover_art}'" if @cover_art != ''
+        str += ">\n"
         @children.each do |item|
             str += item.to_xml
         end
@@ -330,11 +362,40 @@ class BookEntry
 #
 #        return xml + "</category>\n"
 #    end
+
+    def getClosestCoverArt(show_empty = false)
+        return @cover_art if @cover_art != ''
+
+        @children.each do |item|
+            if (show_empty or COVERS_SHOW_EMPTY) or item.video_count > 0 or item.audio_count > 0
+                @cover_art = item.getClosestCoverArt
+                return @cover_art if @cover_art != ''
+            end
+        end
+
+        @media.each do |item|
+            if (show_empty or COVERS_SHOW_EMPTY) or item.streams.count > 0
+                @cover_art = item.thumbnail
+                return @cover_art if @cover_art != ''
+            end
+        end
+
+        # in the worst case situation return any cover at all
+        if (show_empty == false)
+            @cover_art = getClosestCoverArt(true)
+            return @cover_art
+        end
+
+        return ''
+    end
 end
 
 
 
 class CatalogEntry < BookEntry
+    attr_reader :video_count
+    attr_reader :audio_count
+
     def initialize( catalog_id, id, name, cover_art )
         super({id: id, title: name, cover_art: cover_art})
         @catalog_id = catalog_id
@@ -352,6 +413,7 @@ class CatalogEntry < BookEntry
         books = []
         #if @url != "" and @id == 23637 #... for quick testing hungarian
         #if @url != "" and @id == 24825 #... for quick testing english
+        #if @url != "" and @id == 1 #... for quick testing english
         #if @url != "" and @url.include?("Friend") #id == 42769 #... for quick testing english
         #if @url != "" and @url.include?("scriptures.bofm") #id == 42769 #... for quick testing english
         #if @url != "" and @url.include?("youth.learn.yw") #id == 42769 #... for quick testing english
@@ -438,8 +500,10 @@ class CatalogEntry < BookEntry
         #str += " showAsList='1'"
         str += ">\n"
 
-        @children.each do |child|
-            str += child.to_xml
+        if @url == ''
+            @children.each do |child|
+                str += child.to_xml
+            end
         end
 
         return str + "</category>\n"
@@ -460,17 +524,6 @@ class CatalogEntry < BookEntry
 #
 #        return xml + "</category>"
 #    end
-
-    def getClosestCoverArt
-        return @cover_art if @cover_art != '' and (COVERS_SHOW_EMPTY or @video_count > 0 or @audio_count > 0)
-
-        @children.each do |item|    #item is CatalogEntry
-            cover = item.getClosestCoverArt
-            return cover if cover != '' and (COVERS_SHOW_EMPTY or item.video_count > 0 or @audio_count > 0)
-        end
-
-        return ''
-    end
 end
 
 class Language
@@ -683,7 +736,15 @@ def DoUpdateGL( dbname, requested_id )
         $unique_filenames = Hash.new(0)
         catalog = language.getCatalogEntries
         language.getBookEntries
+
+        # first count our media
+        language.calculateVideoCount
+        language.calculateAudioCount
+
+        # then combine if necessary
         language.combineSimilarChildren
+
+        # then recalculate the media count
         language.calculateVideoCount
         language.calculateAudioCount
 
@@ -920,6 +981,7 @@ class Video
         @description = params[:desc]
         @summary = params[:summary]
         @thumbnail = params[:thumb]
+        @thumbnail = '' if @thumbnail == nil
         @closedcaptions = params[:cc]
         @closedcaptions = '' if @closedcaptions == nil
         @streams = []
@@ -1091,8 +1153,10 @@ def download_subtitles( url )
     data = OpenURL( url, filename )
     if data != nil and data != '' and data.length > 0
         $downloaded_subtitles_count += 1
+        return true
     else
         $missing_subtitles_count += 1
+        return false
     end
 end
 
@@ -1248,6 +1312,7 @@ class MediaLibraryEntry
             thumb = data['thumbURL']
             thumb = '' if thumb == nil
             thumb = FixURL(url: thumb)
+            transcript_id = data['transcript-id']
             cc = nil
            
             video = Video.new(id: v_id, title: title, desc: desc, summary: summary, durationstr: len, thumb: thumb, cc: cc)
@@ -1314,7 +1379,14 @@ class MediaLibraryEntry
             # get subtitles regardless so we can make sure they're correct
             if cc != '' and not subtitles_already_downloaded?( cc )
                 PrettyPrintNewline "Downloading missing subtitles: #{cc}"
-                download_subtitles( cc ) 
+                if not download_subtitles( cc ) 
+                    c = ''
+                    video.update_subtitles(cc)
+                end
+            end
+
+            if cc == '' and transcript_id != nil
+                PrettyPrintNewline "WARNING: Transcript ID exists but subtitles are missing: #{v_id}"
             end
 
             # add the video to the list
