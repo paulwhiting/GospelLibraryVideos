@@ -54,9 +54,20 @@
 </channel>
   </rss>
 </category>
-<category title="Serving Children with Disabilities" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/children-with-disabilities-category-138x91.jpg">
+<category title="Serving Children with Disabilities" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/children-with-disabilities-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-11-009-works-of-god</id>
+        <title>Works of God</title>
+        <description>Two families share how they have seen the works of God made manifest in their lives as ward members reach out in love and understanding.</description>
+        <duration>261</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/primary/special-challenges-video-footage/2014-11-009-works-of-god-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/primary/special-challenges-video-footage/2014-11-009-works-of-god.xml"/>
+<content url="http://media2.ldscdn.org/assets/primary/special-challenges-video-footage/2014-11-009-works-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/primary/special-challenges-video-footage/2014-11-009-works-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/primary/special-challenges-video-footage/2014-11-009-works-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-001-special-challenges</id>
         <title>Special Challenges - Full Video</title>

@@ -596,7 +596,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Neues Testament' subtitle='Videos: 25' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Videos zur Bibel - Das Leben Jesu Christi' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Neues Testament' subtitle='Videos: 26' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Videos zur Bibel - Das Leben Jesu Christi' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>Maria und Josef reisen nach Betlehem</title>
@@ -670,6 +670,15 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-360p-deu.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others</id>
+        <title>Jesus beruft zwölf Apostel, anderen Menschen zu predigen und sie zu segnen</title>
+        <description>Jesus unterweist die allerersten Zwölf Apostel und verleiht ihnen Macht.</description>
+        <duration>85</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-deu.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me</id>

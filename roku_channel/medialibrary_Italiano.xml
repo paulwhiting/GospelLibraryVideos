@@ -90,7 +90,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Il Nuovo Testamento' subtitle='Videos: 19' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Storie del Nuovo Testamento' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Il Nuovo Testamento' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Storie del Nuovo Testamento' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>Introduzione: Il piano del nostro Padre Celeste</title>
@@ -221,7 +221,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-58-chapter-54-jesus-is-risen-720p-ita.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Video sulla Bibbia – La vita di Gesù Cristo' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Video sulla Bibbia – La vita di Gesù Cristo' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>Giuseppe e Maria si recano a Betlemme</title>
@@ -259,6 +259,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-ita.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-ita.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-ita.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others</id>
+        <title>Gesù chiama dodici Apostoli per predicare e per benedire il prossimo</title>
+        <description>Gesù istruisce e ordina i Dodici Apostoli originari.</description>
+        <duration>86</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-ita.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-060-follow-me-and-i-will-make-you-fishers-of-men</id>
