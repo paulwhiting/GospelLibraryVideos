@@ -18,9 +18,18 @@ There are currently three different ways to access Church media online (besides 
 
 ## Download media for offline access
 
-The current method for downloading media uses Charles Glancy's [USB Video Manager for Windows](http://glancyfamily.net/USBVideoManager.msi).  The software comes with a default library of videos for download, but change this under the preferences menu item to http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss.xml.  Individual videos can be downloaded by right clicking and selecting download or download many by selecting a category and pressing the download button.
+The current method for downloading media uses Charles Glancy's [USB Video Manager for Windows](http://glancyfamily.net/USBVideoManager.msi).  The software comes with a default library of English videos (and perhaps some Spanish videos) for download, curated by Charles or one of his associates.  The Gospel Library Videos project expands the list downloadable videos considerably and supports multiple languages.  To take advantage of this larger list change the URL location under the preferences menu item to http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss.xml.  Individual videos can be downloaded by right clicking and selecting download or download many by selecting a category and pressing the download button.
 
-You can change the default download directory under preferences, but otherwise it will be something like `C:\Users\(username)\Videos\USB Video Manager\LDS Media`, replacing (username) with your own username.
+You can change the default download directory under preferences, but by default it will be something similar to `C:\Users\(username)\Videos\USB Video Manager\LDS Media`, replacing (username) with your own username.
+
+
+## Downloading closed captions
+
+There are two methods for downloading closed captions from the LDS servers.  After you've downloaded the closed captions you may need to convert them to a more suitable format before using them.
+
+#### Using Greasemonkey / Tampermonkey ####
+
+The first and preferred method for downloading subtitles is to use the [LDS Closed Captions Downloader](http://paulwhiting.github.io/GospelLibraryVideos/closed_captions/cc_downloader.user.js) Greasemonkey / Tampermonkey user script which is a part of this project.  If a suitable subtitle is detected, it inserts a download link as the first item in the download popup box on the LDS media library website where you would normally go to download videos.
 
 
 ## Exporting to Roku (and downloading subtitles)
