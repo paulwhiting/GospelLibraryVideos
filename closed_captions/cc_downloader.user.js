@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         LDS Closed Caption Downloader
 // @namespace    http://github.com/paulwhiting/GospelLibraryVideos/
-// @version      0.1
+// @version      0.2
 // @description  Inserts a download link for TTML closed captions in the LDS media library.
 // @author       Paul Whiting
 // @match        https://www.lds.org/media-library/video/*
 // @match        http://www.lds.org/media-library/video/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
-// not require      http://courses.ischool.berkeley.edu/i290-4/f09/resources/gm_jq_xhr.js
 // @grant        GM_log
 // @grant        GM_addStyle
 // @grant        GM_setValue
@@ -16,6 +15,13 @@
 // @grant        GM_listValues
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
+
+var g_last_updated = GM_getValue("Last-Modified","");
+var g_last_checked = getLastChecked();
+var g_url = "http://paulwhiting.github.io/GospelLibraryVideos/closed_captions/subtitles.json";
+var g_jsondata = GM_getValue("json","");
+var g_json = '';
+var g_checkthreshold = 200 * 60 * 1000; // 200 minutes (where 1 second = 1000)
 
 
 function parseResponseHeaders(headerStr) {
@@ -36,14 +42,14 @@ function parseResponseHeaders(headerStr) {
   return headers;
 }
 
-
-var g_last_updated = GM_getValue("Last-Modified","");
-var g_url = "http://paulwhiting.github.io/GospelLibraryVideos/closed_captions/subtitles.json";
-var g_jsondata = GM_getValue("json","");
-var g_json = '';
-
-if (g_jsondata !== "") {
-    g_json = $.parseJSON(g_jsondata);
+// http://stackoverflow.com/questions/15043910/greasemonkey-script-fails-passing-date-time-to-gm-setvalue
+function setLastChecked() {
+    var time = Math.floor((new Date().getTime() / 1000) - 1356998400);
+    GM_setValue("Last-Checked", time);
+}
+function getLastChecked() {
+    var lastchecked = new Date((GM_getValue("Last-Checked", 0)+1356998400)*1000);
+    return lastchecked;
 }
 
 // returns true if DB needs to be updated and sets g_last_updated to the file date
@@ -54,71 +60,33 @@ function checkGMDatabase() {
         ignorecache: true,
         onload: function(response) {
             var last = parseResponseHeaders(response.responseHeaders)['Last-Modified'];
-//            alert(g_last_updated);
-//            alert(last);
             if (g_last_updated === '' || g_last_updated != last) {
-                alert('downloading newer db version. Press okay then wait for the next prompt...');
+                //alert('downloading newer db version. Press okay then wait for the next prompt...');
                 g_last_updated = last;
                 updateGMDatabase();
             } else {
 //                alert('db up to date');
+                setLastChecked();
                 waitForKeyElements("#download-popup", addCCLink);
             }
         }
     });
 }
 
-function subtitle_info(data) {
-    var count = 0;
-    $.each( data, function( key, val ) {
-            GM_setValue(key, val);
-            GM_log("key: " + key + " and val: " + val);
-            count = count + 1;
-        });
-    GM_log(count);
-    GM_setValue("Last-Modified", g_last_updated);
-    alert('finished updating closed captions database.');    
-}
-
-function updateGMDatabase() {
-    var url = g_url;
-    var success = function(data) {
-        alert('in successsss!!!!!!');
-        var count = 0;
-        $.each( data, function( key, val ) {
-            GM_setValue(key, val);
-            count = count + 1;
-        });
-        GM_setValue("Last-Modified", g_last_updated);
-        alert('finished updating closed captions database.');
-    };
-    
-    var error = function(data) {
-        alert("no");
-        GM_log('something bad happened');
-    };
-    
-//    alert("before");
+function updateGMDatabase() {    
     GM_xmlhttpRequest({
         method: "GET",
-//        jsonpCallback: "subtitle_info",
         cache: false,
-        url: url,
-        success: success,
-        //crossDomain: true
-//        fail: function(data) {alert("error");},
-//        done: function(data) {alert("completed");},
-//        always: function(data) {alert("always2");},
+        url: g_url,
         onload: function(response) {
             var json = $.parseJSON(response.responseText);
-            //alert(json);
             GM_setValue("json",response.responseText);
             GM_setValue("Last-Modified",g_last_updated);
-            alert('finished updating closed captions database.');    
+            setLastChecked();
+            //alert('finished updating closed captions database.');    
             waitForKeyElements("#download-popup", addCCLink);
         }
     });
-//    alert("after");
 }
 
 
@@ -136,5 +104,17 @@ function addCCLink( jNode ) {
     }
 }
 
-checkGMDatabase();
+
+// if we don't have saved data or if it's been long enough check for updates
+var curdate = new Date();
+
+if (g_jsondata === "" || curdate - g_last_checked > g_checkthreshold) {
+    //alert("checking");
+    checkGMDatabase();
+} else {
+    //alert("not checking");
+    g_json = $.parseJSON(g_jsondata);
+    waitForKeyElements("#download-popup", addCCLink);
+}
+
 
