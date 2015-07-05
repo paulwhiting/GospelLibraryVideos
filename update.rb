@@ -1380,13 +1380,17 @@ class MediaLibraryEntry
             if cc != '' and not subtitles_already_downloaded?( cc )
                 PrettyPrintNewline "Downloading missing subtitles: #{cc}"
                 if not download_subtitles( cc ) 
-                    c = ''
+                    cc = ''
                     video.update_subtitles(cc)
                 end
             end
 
             if cc == '' and transcript_id != nil
-                PrettyPrintNewline "WARNING: Transcript ID exists but subtitles are missing: #{v_id}"
+                PrettyPrintNewline "WARNING: Transcript ID exists but subtitles are missing: #{v_id} at #{@url}"
+            end
+
+            if cc != '' and (transcript_id == nil or transcript_id == '')
+                PrettyPrintNewline "WARNING: Subtitles exist but the transcript is missing: #{v_id} at #{@url}"
             end
 
             # add the video to the list
@@ -1638,7 +1642,7 @@ def print_and_save_download_stats
         detections = ""
 
         $detected_file_sizes.each do |url,size|
-            detections += "#{size} #{url}\n"
+            detections += "#{size} #{url}\n" if size > 0
         end
         WriteToFile("url_detected_sizes.txt",detections)
     end
