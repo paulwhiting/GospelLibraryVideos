@@ -1,6 +1,16 @@
-<categories><category title="Mormon Messages 2015" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg">
+<categories><category title="Mormon Messages 2015" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-07-005-building-families</id>
+        <title>Building Families</title>
+        <description>Whether your children are grown or still growing, opportunities to teach them truth will never run out. True success comes to parents who don&#x2019;t let distractions get in the way of living gospel principles and teaching their children to do the same.</description>
+        <duration>227</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-07-005-building-families-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-05-004-after-the-storm</id>
         <title>After the Storm</title>
@@ -368,7 +378,7 @@
 </channel>
   </rss>
 </category>
-<category title="Mormon Messages 2012" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg">
+<category title="Mormon Messages 2012" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -502,6 +512,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-01-010-patterns-of-light-the-light-of-christ</id>
+        <title>Patterns of Light: The Light of Christ</title>
+        <description>What is light? In this three part series, Elder David A. Bednar discusses how we receive and perceive light from God. Part 1 centers on the properties of light and how the Light of Christ affects all men and women everywhere.</description>
+        <duration>153</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-01-011-patterns-of-light-discerning-light</id>

@@ -141,9 +141,19 @@
 </channel>
   </rss>
 </category>
-<category title="Gospel Topics" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/gospel-topics-category-138x91.jpg">
+<category title="Gospel Topics" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/gospel-topics-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-00-006-transforming-power-of-faith-and-character</id>
+        <title>Transforming Power of Faith and Character</title>
+        <description>Transforming Power of Faith and Character</description>
+        <duration>30</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-2015/2015-00-006-transforming-power-of-faith-and-character-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-006-transforming-power-of-faith-and-character-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-006-transforming-power-of-faith-and-character-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-006-transforming-power-of-faith-and-character-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2011-04-1120-you-can-meet-gods-expectations</id>
         <title>You Can Meet God's Expectations</title>
@@ -249,7 +259,7 @@
 </channel>
   </rss>
 </category>
-<category title="Prophets and Apostles" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/prophets-and-apostles-sub-category-category-138x91.jpg">
+<category title="Prophets and Apostles" subtitle="Videos: 14" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/prophets-and-apostles-sub-category-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -260,6 +270,16 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-2015/2015-00-0003-president-dieter-f-uchtdorf-testifies-of-jesus-christ-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-0003-president-dieter-f-uchtdorf-testifies-of-jesus-christ-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-0003-president-dieter-f-uchtdorf-testifies-of-jesus-christ-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2015-00-005-president-henry-b-eyring-testifies-of-jesus-christ</id>
+        <title>President Henry B. Eyring Testifies of Jesus Christ</title>
+        <description>President Eyring teaches that the Savior is mindful of us and will guide us through life&#x2019;s trials.</description>
+        <duration>64</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-2015/2015-00-005-president-henry-b-eyring-testifies-of-jesus-christ-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-005-president-henry-b-eyring-testifies-of-jesus-christ-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-005-president-henry-b-eyring-testifies-of-jesus-christ-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-2015/2015-00-005-president-henry-b-eyring-testifies-of-jesus-christ-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2015-00-0001-renaissance-of-marriage</id>
