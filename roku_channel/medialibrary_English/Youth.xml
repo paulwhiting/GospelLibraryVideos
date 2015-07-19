@@ -5086,13 +5086,23 @@
 </channel>
   </rss>
 </category>
-<category title="Youth Media" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
+        <id>2015-01-010-strive</id>
+        <title>Strive</title>
+        <description>It is time to give everything we have to becoming the people God hopes we will choose to become. Join the worldwide movement to strive for the best by developing your talents, loving others, seeking education, and serving the Lord.s</description>
+        <duration>186</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-010-strive-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-010-strive-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-010-strive-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-010-strive-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2015-01-009-good-to-be-alive</id>
         <title>Good To Be Alive</title>
-        <description>Regan Rindlisbacher performs her song about having a positive outlook on like, looking for the beauty in the world, and cherishing relationships with those we love.</description>
+        <description>Regan Rindlisbacher performs her song about having a positive outlook on life, looking for the beauty in the world, and cherishing relationships with those we love.</description>
         <duration>210</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-009-good-to-be-alive-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/youth/2015-youth-media/2015-01-009-good-to-be-alive.xml"/>

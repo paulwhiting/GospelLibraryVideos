@@ -1408,7 +1408,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Conferência Geral' subtitle='Videos: 306' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Abril 2015' subtitle='Videos: 112' img='http://media.ldscdn.org/thumbnails/april-2015-general-conference-category-138x81.jpg'><category title='Sessão da Manhã de Sábado Abril 2015' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/saturday-morning-session-april-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Conferência Geral' subtitle='Videos: 339' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Abril 2015' subtitle='Videos: 112' img='http://media.ldscdn.org/thumbnails/april-2015-general-conference-category-138x81.jpg'><category title='Sessão da Manhã de Sábado Abril 2015' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/saturday-morning-session-april-2015-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-04-1000-saturday-morning-session</id>
         <title>Sessão da Manhã de Sábado</title>
@@ -2593,7 +2593,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Outubro 2014' subtitle='Videos: 45' img='http://media.ldscdn.org/thumbnails/general-conference/october-2014-category-138x91.jpg'><category title='Sessão Geral das Mulheres' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/general-womens-session-september-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Outubro 2014' subtitle='Videos: 78' img='http://media.ldscdn.org/thumbnails/general-conference/october-2014-category-138x91.jpg'><category title='Sessão Geral das Mulheres' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/general-womens-session-september-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-09-0000-general-womens-session</id>
         <title>Sessão Geral das Mulheres</title>
@@ -3091,6 +3091,338 @@
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5080-president-thomas-s-monson-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5080-president-thomas-s-monson-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5080-president-thomas-s-monson-1080p-por.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Outubro 2014 Destaques da Conferência Geral' subtitle='Videos: 33' img='http://media.ldscdn.org/thumbnails/2014-09-030-neill-f-marriott-highlights-192x108-thumb138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2014-10-110-president-thomas-s-monson-highlights</id>
+        <title>Bem-Vindos à Conferência</title>
+        <description>Destaque: O Presidente Thomas S. Monson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>39</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-110-president-thomas-s-monson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-110-president-thomas-s-monson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-110-president-thomas-s-monson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-110-president-thomas-s-monson-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-120-president-boyd-k-packer-highlights</id>
+        <title>A Razão de Nossa Esperança</title>
+        <description>Destaque: OPresidente Boyd K. Packer discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>120</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-120-president-boyd-k-packer-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-120-president-boyd-k-packer-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-120-president-boyd-k-packer-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-120-president-boyd-k-packer-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-130-elder-lynn-g-robbins-highlights</id>
+        <title>De Que Lado Você Está?</title>
+        <description>Destaque: O Élder Lynn G. Robbins discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>69</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-130-elder-lynn-g-robbins-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-130-elder-lynn-g-robbins-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-130-elder-lynn-g-robbins-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-130-elder-lynn-g-robbins-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-140-sister-cheryl-a-esplin-highlights</id>
+        <title>O Sacramento: Renovação para a Alma</title>
+        <description>Destaque: Cheryl A. Esplin discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>60</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-140-sister-cheryl-a-esplin-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-140-sister-cheryl-a-esplin-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-140-sister-cheryl-a-esplin-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-140-sister-cheryl-a-esplin-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-150-elder-chi-hong-sam-wong-highlights</id>
+        <title>Trabalhar Juntos no Resgate</title>
+        <description>Destaque: O Élder Chi Hong (Sam) Wong discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>66</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-150-elder-chi-hong-sam-wong-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-150-elder-chi-hong-sam-wong-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-150-elder-chi-hong-sam-wong-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-150-elder-chi-hong-sam-wong-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-160-elder-d-todd-christofferson-highlights</id>
+        <title>Livres para Sempre, para Agirem por Si Mesmos</title>
+        <description>Destaque: O Élder D. Todd Christofferson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>73</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-160-elder-d-todd-christofferson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-160-elder-d-todd-christofferson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-160-elder-d-todd-christofferson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-160-elder-d-todd-christofferson-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-170-president-dieter-f-uchtdorf-highlights</id>
+        <title>Receber um Testemunho de Luz e Verdade</title>
+        <description>Destaque: O Presidente Dieter F. Uchtdorf discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>108</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-170-president-dieter-f-uchtdorf-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-170-president-dieter-f-uchtdorf-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-170-president-dieter-f-uchtdorf-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-170-president-dieter-f-uchtdorf-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-220-elder-dallin-h-oaks-highlights</id>
+        <title>Loving and Living with Differences</title>
+        <description>Destaque: O Élder Dallin H. Oaks discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>69</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-220-elder-dallin-h-oaks-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-220-elder-dallin-h-oaks-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-220-elder-dallin-h-oaks-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-220-elder-dallin-h-oaks-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-230-elder-neil-l-andersen-highlights</id>
+        <title>Joseph Smith</title>
+        <description>Destaque: O Élder Neil L. Andersen discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>64</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-230-elder-neil-l-andersen-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-230-elder-neil-l-andersen-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-230-elder-neil-l-andersen-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-230-elder-neil-l-andersen-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-240-tad-r-callister-highlights</id>
+        <title>Pais: Os Melhores Professores do Evangelho de Seus Filhos</title>
+        <description>Destaque: Tad R. Callister discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>55</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-240-tad-r-callister-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-240-tad-r-callister-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-240-tad-r-callister-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-240-tad-r-callister-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-260-elder-eduardo-gavarret-highlights</id>
+        <title>“Yes, Lord, I Will Follow Thee”</title>
+        <description>Destaque: O Élder Eduardo Gavarret discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>43</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-260-elder-eduardo-gavarret-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-260-elder-eduardo-gavarret-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-260-elder-eduardo-gavarret-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-260-elder-eduardo-gavarret-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-270-elder-jeffrey-r-holland-highlights</id>
+        <title>Não Somos Todos Mendigos?</title>
+        <description>Destaque: O Élder Jeffrey R. Holland discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>164</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-270-elder-jeffrey-r-holland-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-270-elder-jeffrey-r-holland-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-270-elder-jeffrey-r-holland-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-270-elder-jeffrey-r-holland-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-280-elder-l-tom-perry-highlights</id>
+        <title>Encontrar Paz Duradoura e Edificar uma Família Eterna</title>
+        <description>Destaque: O Élder L. Tom Perry discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>82</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-280-elder-l-tom-perry-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-280-elder-l-tom-perry-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-280-elder-l-tom-perry-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-280-elder-l-tom-perry-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-310-elder-quentin-l-cook-highlights</id>
+        <title>Escolher com Sabedoria</title>
+        <description>Destaque: O Élder Quentin L. Cook discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>70</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-310-elder-quentin-l-cook-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-310-elder-quentin-l-cook-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-310-elder-quentin-l-cook-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-310-elder-quentin-l-cook-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-320-elder-craig-c-christensen-highlights</id>
+        <title>Sei Destas Coisas por Mim Mesmo</title>
+        <description>Destaque: O Élder Craig C. Christensen discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>54</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-320-elder-craig-c-christensen-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-320-elder-craig-c-christensen-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-320-elder-craig-c-christensen-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-320-elder-craig-c-christensen-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-330-bishop-dean-m-davies-highlights</id>
+        <title>A Lei do Jejum: Uma Responsabilidade Pessoal de Cuidar dos Pobres e Necessitados</title>
+        <description>Destaque: O Bispo Dean M. Davies discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>58</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-330-bishop-dean-m-davies-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-330-bishop-dean-m-davies-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-330-bishop-dean-m-davies-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-330-bishop-dean-m-davies-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-340-president-dieter-f-uchtdorf-highlights</id>
+        <title>“Porventura Sou Eu, Senhor?”</title>
+        <description>Destaque: O Presidente Dieter F. Uchtdorf discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>127</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-340-president-dieter-f-uchtdorf-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-340-president-dieter-f-uchtdorf-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-340-president-dieter-f-uchtdorf-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-340-president-dieter-f-uchtdorf-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-350-president-henry-b-eyring-highlights</id>
+        <title>O Sacerdócio Preparatório</title>
+        <description>Destaque: O Presidente Henry B. Eyring discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>39</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-350-president-henry-b-eyring-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-350-president-henry-b-eyring-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-350-president-henry-b-eyring-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-350-president-henry-b-eyring-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-360-president-thomas-s-monson-highlights</id>
+        <title>Guiado em Segurança para Casa</title>
+        <description>Destaque: O Presidente Thomas S. Monson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>67</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-360-president-thomas-s-monson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-360-president-thomas-s-monson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-360-president-thomas-s-monson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-360-president-thomas-s-monson-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-410-president-henry-b-eyring-highlights</id>
+        <title>Revelação Contínua</title>
+        <description>Destaque: O Presidente Henry B. Eyring discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>90</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-410-president-henry-b-eyring-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-410-president-henry-b-eyring-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-410-president-henry-b-eyring-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-410-president-henry-b-eyring-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-420-elder-russell-m-nelson-highlights</id>
+        <title>Apoiar os Profetas</title>
+        <description>Destaque: O Élder Russell M. Nelson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>130</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-420-elder-russell-m-nelson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-420-elder-russell-m-nelson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-420-elder-russell-m-nelson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-420-elder-russell-m-nelson-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-430-sister-carol-f-mcconkie-highlights</id>
+        <title>Viver de Acordo com as Palavras dos Profetas</title>
+        <description>Destaque: Carol F. McConkie discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>45</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-430-sister-carol-f-mcconkie-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-430-sister-carol-f-mcconkie-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-430-sister-carol-f-mcconkie-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-430-sister-carol-f-mcconkie-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-440-elder-robert-d-hales-highlights</id>
+        <title>Vida Eterna: Conhecer a Deus, Nosso Pai Celestial, e Seu Filho, Jesus Cristo</title>
+        <description>Destaque: O Élder Robert D. Hales discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>113</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-440-elder-robert-d-hales-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-440-elder-robert-d-hales-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-440-elder-robert-d-hales-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-440-elder-robert-d-hales-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-450-elder-james-j-hamula-highlights</id>
+        <title>O Sacramento e a Expiação</title>
+        <description>Destaque: O Élder James J. Hamula discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>58</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-460-president-thomas-s-monson-highlights</id>
+        <title>Pondera a Vereda de Teus Pés</title>
+        <description>Destaque: O Presidente Thomas S. Monson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>111</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-460-president-thomas-s-monson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-460-president-thomas-s-monson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-460-president-thomas-s-monson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-460-president-thomas-s-monson-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-510-elder-m-russell-ballard-highlights</id>
+        <title>Fiquem no Barco e Segurem-se!</title>
+        <description>Destaque: O Élder M. Russell Ballard discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>107</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-510-elder-m-russell-ballard-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-510-elder-m-russell-ballard-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-510-elder-m-russell-ballard-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-510-elder-m-russell-ballard-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-520-elder-richard-g-scott-highlights</id>
+        <title>Fazer do Exercício da Fé Sua Prioridade</title>
+        <description>Destaque: O Élder Richard G. Scott discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>71</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-530-elder-carlos-a-godoy-highlights</id>
+        <title>O Senhor Tem um Plano para Nós!</title>
+        <description>Destaque: O Élder Carlos A. Godoy discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>53</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-530-elder-carlos-a-godoy-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-530-elder-carlos-a-godoy-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-530-elder-carlos-a-godoy-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-530-elder-carlos-a-godoy-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-540-elder-allan-f-packer-highlights</id>
+        <title>O Livro</title>
+        <description>Destaque: O Élder Allan F. Packer discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>54</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-540-elder-allan-f-packer-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-540-elder-allan-f-packer-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-540-elder-allan-f-packer-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-540-elder-allan-f-packer-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-550-elder-hugo-e-martinez-highlights</id>
+        <title>Nosso Próprio Ministério</title>
+        <description>Destaque: O Élder Hugo E. Martinez discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>83</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-550-elder-hugo-e-martinez-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-550-elder-hugo-e-martinez-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-550-elder-hugo-e-martinez-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-550-elder-hugo-e-martinez-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-560-elder-larry-s-kacher-highlights</id>
+        <title>Não Trates com Leviandade as Coisas Sagradas</title>
+        <description>Destaque: O Élder Larry S. Kacher discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>54</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-560-elder-larry-s-kacher-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-560-elder-larry-s-kacher-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-560-elder-larry-s-kacher-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-560-elder-larry-s-kacher-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-570-elder-david-a-bednar-highlights</id>
+        <title>“Vinde, e Vede”</title>
+        <description>Destaque: O Élder David A. Bednar discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>117</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-570-elder-david-a-bednar-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-570-elder-david-a-bednar-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-570-elder-david-a-bednar-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-570-elder-david-a-bednar-highlights-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-580-president-thomas-s-monson-highlights</id>
+        <title>Até Voltarmos a Nos Encontrar</title>
+        <description>Destaque: O Presidente Thomas S. Monson discursa na Conferência Geral de Outubro de 2014.</description>
+        <duration>88</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -8581,7 +8913,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Jovens' subtitle='Videos: 200' img='http://media.ldscdn.org/thumbnails/youth-category-138x91.jpg'><category title='Tema Anual da Mutual' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme-category-138x91.jpg'><category title='2013 – Permanecei em Lugares Santos' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme/2013-stand-ye-in-holy-places-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Jovens' subtitle='Videos: 195' img='http://media.ldscdn.org/thumbnails/youth-category-138x91.jpg'><category title='Tema Anual da Mutual' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme-category-138x91.jpg'><category title='2013 – Permanecei em Lugares Santos' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme/2013-stand-ye-in-holy-places-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-por</id>
         <title>Permanecei em Lugares Santos - Dar Frutos Onde Quer que Esteja</title>
@@ -8655,7 +8987,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-004-the-apostasy-and-the-restoration-what-the-restoration-means-for-me-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='2011 – Cremos' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme/2011-we-believe-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='2011 – Cremos' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/annual-mutual-theme/2011-we-believe-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-por</id>
         <title>Que Todo Homem Aprenda o seu Dever: Sacerdócio Aarônico</title>
@@ -8673,14 +9005,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example-360p-por.mp4' height='360p'/>
 </item>
 <item>
-        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-por</id>
-        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
-        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...  </description>
-        <duration>270</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
-</item>
-<item>
         <id>2010-12-22-message-from-brother-david-l-beck-por</id>
         <title>Mensagem do irmão David L. Beck</title>
         <description>Como um fiel portador do sacerdócio, você pode abençoar a vida dos que estão ao seu redor, esta é a mensagem que o irmão David L. Beck conta com a história de seu amigo de infância de São Paulo, Brasil.</description>
@@ -8690,7 +9014,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Padrões' subtitle='Videos: 43' img='http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg'><category title='Arbítrio e Responsabilidade' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Padrões' subtitle='Videos: 48' img='http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg'><category title='Arbítrio e Responsabilidade' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-12-0150-within-bounds-por</id>
         <title>Permanecer Dentro dos Limites</title>
@@ -8734,15 +9058,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/a-brand-new-year-2009/2009-01-08-a-brand-new-year-dating-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Vestuário e Aparência' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/standards-standards/dress-and-appearance-standards-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2011-04-006-195-dresses-por</id>
-        <title>195 Vestidos</title>
-        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
-        <duration>310</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
-</item>
+<category title='Vestuário e Aparência' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/standards-standards/dress-and-appearance-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-01-001-deep-beauty-por</id>
         <title>Beleza Interior</title>
@@ -8760,34 +9076,81 @@
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-010-standards-sexual-purity-and-modesty-true-confidence-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Educação' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/standards-standards/education-standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Educação' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/standards-standards/education-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2011-05-011-honesty-you-better-believe-it-por</id>
-        <title>Honestidade: É Melhor Acreditar Nela!</title>
-        <description>É melhor ser honesto do que tirar uma boa nota em uma prova.</description>
-        <duration>286</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-011-honesty-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-011-honesty-you-better-believe-it-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-011-honesty-you-better-believe-it-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-011-honesty-you-better-believe-it-1080p-por.mp4' height='1080p'/>
+        <id>2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud</id>
+        <title>Sou Mórmon, Rei do Pingue-Pongue e Orgulho Para Minha Mãe</title>
+        <description>Paris Thomas teve uma dura infância. Veja como o adolescente mórmon vei conhecer a paz e por que ele não culpa as circunstâncias, mas acredita que elas o tornaram uma pessoa mais forte. Visite a página de Paris no www.mormon.org/por/paris</description>
+        <duration>258</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2007-im-a-mormon-ping-pong-king-and-making-my-mother-proud-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud-720p-por.mp4' height='720p'/>
 </item>
 <item>
-        <id>2012-09-009-seminary-can-change-lives-por</id>
-        <title>O Seminário Pode Mudar Vidas</title>
-        <description>Um testemunho é necessário para atravessar os anos difíceis da adolescência. O Presidente Thomas S. Monson ensina como o seminário pode ajudar a edificar e fortalecer esse testemunho. “É preciso esforço”, diz ele. “Mas é um esforço do qual jamais se arrependerão.”  </description>
-        <duration>254</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-360p-por.mp4' height='360p'/>
+        <id>2010-07-0001-no-regrets</id>
+        <title>Sem Arrependimentos</title>
+        <description>Um surfista da Califórnia escolheu entre o surfe e o seminário – e não se arrependeu.</description>
+        <duration>342</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-07-0001-no-regrets-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-07-0001-no-regrets.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-10-012-standards-education-the-glory-of-god-is-intelligence</id>
+        <title>Padrões: Educação - A Glória de Deus É Inteligência</title>
+        <description>Buscar conhecimento é um objetivo para a vida toda e aumenta nossa capacidade de servir ao Senhor.</description>
+        <duration>197</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-012-standards-education-the-glory-of-god-is-intelligence-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-012-standards-education-the-glory-of-god-is-intelligence-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-012-standards-education-the-glory-of-god-is-intelligence-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Entretenimento e Mídia' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/standards-standards/entertainment-and-media-standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Entretenimento e Mídia' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/standards-standards/entertainment-and-media-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2011-10-006-things-as-they-really-are-por</id>
-        <title>As Coisas Como Realmente São</title>
+        <id>2011-03-20-to-look-upon</id>
+        <title>Aquilo que Olhamos</title>
+        <description>O Élder Dallin H. Oaks conta a história do Rei Davi para ilustrar os perigos da pornografia (II Samuel 11).</description>
+        <duration>261</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-07-013-watch-your-step</id>
+        <title>Olhe Onde Pisa</title>
+        <description>Veja como uma decisão precipitada pode ter grandes consequências: boas ou más.</description>
+        <duration>167</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-006-things-as-they-really-are</id>
+        <title>As Coisas como Realmente São</title>
         <description>O Élder David A. Bednar adverte sobre os efeitos nocivos que as tecnologias digitais podem ter em nossa alma e nos convida a fazer duas perguntas para ver se estamos fazendo uso adequado dessas tecnologias.</description>
-        <duration>207</duration>
+        <duration>211</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are.xml'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-07-007-stay-within-the-lines</id>
+        <title>Permanecer dentro dos Limites</title>
+        <description>Assim como os atletas devem permancer nas linhas para competir nos esportes, aqueles que são chamados para trabalhar na obra do Senhor devem permancer dentro das linhas da dignidade.</description>
+        <duration>304</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Família' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/standards-standards/family-standards-category-138x91.jpg'><rss><channel><title/><description/>
@@ -8826,15 +9189,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-009-home-and-family-through-small-things-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Amigos' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/standards-standards/friends-standards-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-por</id>
-        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
-        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...  </description>
-        <duration>270</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
-</item>
+<category title='Amigos' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/standards-standards/friends-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-005-same-jersey-por</id>
         <title>Mesmo Uniforme</title>
@@ -8987,14 +9342,59 @@
 <content url='http://media2.ldscdn.org/assets/youth/a-brand-new-year-2009/2009-01-10-a-brand-new-year-physical-health-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Arrependimento' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/standards-standards/repentance-standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Arrependimento' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/standards-standards/repentance-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2012-08-008-reclaimed-por</id>
-        <title>Recuperado</title>
-        <description>Uma vida cheia de pecado pode ser purificada e modificada por meio da Expiação de Jesus Cristo. O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
-        <duration>206</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
+        <id>2011-03-001-you-will-be-freed</id>
+        <title>Você Será Libertado</title>
+        <description>Por meio da Expiação de Jesus Cristo, todos podem ser transformados, limpos e libertados do vício.</description>
+        <duration>174</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-03-006-you-will-be-freed-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-03-20-to-look-upon</id>
+        <title>Aquilo que Olhamos</title>
+        <description>O Élder Dallin H. Oaks conta a história do Rei Davi para ilustrar os perigos da pornografia (II Samuel 11).</description>
+        <duration>261</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-08-004-the-sting-of-the-scorpion</id>
+        <title>A Picada do Escorpião</title>
+        <description>O encontro de um rapaz com um escorpião no deserto da Arábia pode-nos ensinar o que devemos fazer para evitar e nos livrar da picada venenosa do pecado.</description>
+        <duration>172</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion-360p-por.mp4' height='360p'/>
+</item>
+<item>
+        <id>2012-07-007-stay-within-the-lines</id>
+        <title>Permanecer dentro dos Limites</title>
+        <description>Assim como os atletas devem permancer nas linhas para competir nos esportes, aqueles que são chamados para trabalhar na obra do Senhor devem permancer dentro das linhas da dignidade.</description>
+        <duration>304</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-10-003-atonement-not-a-one-time-thing</id>
+        <title>A Expiação - Aplicação Contínua</title>
+        <description>Um rapaz relata como, com a ajuda do bispo, está vivenciando as bênçãos da Expiação de Jesus Cristo.</description>
+        <duration>180</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Guardar o Dia Do Senhor' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/standards-standards/sabbath-day-observance-standards-category-138x91.jpg'><rss><channel><title/><description/>
@@ -9026,7 +9426,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-01-002-your-day-for-a-mission-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Pureza Sexual' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/standards-standards/sexual-purity-standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Pureza Sexual' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/standards-standards/sexual-purity-standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-04-19-return-to-virtue-por</id>
         <title>Retorno à Virtude</title>
@@ -9044,14 +9444,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/april-2011-general-conference-youth-highlights/2011-04-1030-guardians-of-virtue-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/april-2011-general-conference-youth-highlights/2011-04-1030-guardians-of-virtue-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/youth/april-2011-general-conference-youth-highlights/2011-04-1030-guardians-of-virtue-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-07-004-i-choose-to-be-pure-por</id>
@@ -9122,7 +9514,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Currículo dos Jovens: Vem, e Segue-Me' subtitle='Videos: 141' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013-category-138x91.jpg'><category title='Janeiro: A Trindade' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/01-january-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Currículo dos Jovens: Vem, e Segue-Me' subtitle='Videos: 132' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013-category-138x91.jpg'><category title='Janeiro: A Trindade' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/01-january-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-06-006-enemy-territory-por</id>
         <title>Território Inimigo</title>
@@ -9130,14 +9522,6 @@
         <duration>218</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-06-006-enemy-territory-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-06-006-enemy-territory-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-06-02-god-is-our-father-por</id>
@@ -9171,14 +9555,6 @@
         <duration>252</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-01-prayer-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-08-008-reclaimed-por</id>
-        <title>Recuperado</title>
-        <description>Uma vida cheia de pecado pode ser purificada e modificada por meio da Expiação de Jesus Cristo. O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
-        <duration>206</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2010-04-0040-significant-in-every-way-por</id>
@@ -9245,77 +9621,153 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-06-0080-fathers-and-sons-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Fevereiro:  O Plano de Salvação' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/02-february-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Fevereiro:  O Plano de Salvação' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/02-february-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2011-04-006-195-dresses-por</id>
-        <title>195 Vestidos</title>
-        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
-        <duration>310</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
+        <id>2010-05-11-until-we-meet-again</id>
+        <title>Até Voltarmos a Nos Encontrar</title>
+        <description>Thomas S. Monson, o profeta do Senhor Jesus Cristo, conta a comovente história de uma mãe cujo filho morreu na guerra, mas aprendeu que ele viverá novamente por causa do nosso Salvador, Jesus Cristo.</description>
+        <duration>218</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
+        <id>2010-07-0001-no-regrets</id>
+        <title>Sem Arrependimentos</title>
+        <description>Um surfista da Califórnia escolheu entre o surfe e o seminário – e não se arrependeu.</description>
+        <duration>342</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-07-0001-no-regrets-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-07-0001-no-regrets.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
+        <id>2010-07-002-the-plan-of-salvation</id>
+        <title>O Plano de Salvação</title>
+        <description>O plano de salvação do Pai Celestial é comparado a uma peça de três atos, mostrando que o conhecimento do plano nos ajuda em nossa vida diária.</description>
+        <duration>639</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-480p-por.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-por</id>
-        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
-        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...  </description>
-        <duration>270</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2010-11-0110-mormon-mustang-por</id>
-        <title>O Mustang Mórmon</title>
+        <id>2010-11-0110-mormon-mustang</id>
+        <title>Mórmon Mustang</title>
         <description>Ao voar um avião histórico, jovens aprendem sobre os perigos de desafiar os limites.</description>
         <duration>463</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-11-0110-mormon-mustang.xml'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2012-03-1050-teaching-helps-save-lives-por</id>
-        <title>O Ensino Ajuda a Salvar Vidas</title>
-        <description>Russell T. Osguthorpe conta uma história do seu discurso entitulado: &quot;O Ensino Ajuda a Salvar Vidas&quot;.</description>
-        <duration>165</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/leadership-training/ldsorg-web-videos/2012-03-1050-teaching-helps-save-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-1050-teaching-helps-save-lives-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-1050-teaching-helps-save-lives-720p-por.mp4' height='720p'/>
+        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel</id>
+        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
+        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...</description>
+        <duration>270</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2010-05-11-until-we-meet-again-por</id>
-        <title>Até Voltarmos a Nos Encontrar</title>
-        <description>Thomas S. Monson, o profeta do Senhor Jesus Cristo, conta a comovente história de uma mãe cujo filho morreu na guerra, mas aprendeu que ele viverá novamente por causa do nosso Salvador, Jesus Cristo. </description>
-        <duration>219</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-360p-por.mp4' height='360p'/>
+        <id>2011-01-002-he-will-give-you-help</id>
+        <title>Ele Irá Lhe Ajudar</title>
+        <description>Ao enfrentar uma grande perda e muita dor, um jovem canadense e seu amigo buscaram a Deus para encontrar respostas às perguntas mais profundas de suas almas.</description>
+        <duration>283</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2013-02-0320-first-presidency-message-the-priesthood-can-strengthen-our-families-in-trial</id>
-        <title>Mensagem da Primeira Presidência: O Sacerdócio Pode Fortalecer as Famílias em Dificuldades</title>
-        <description>(4 of 7) President Eyring teaches that faith in God is strengthened in times of trial. The manifestation of God’s power at these times gives us hope in His promises of eternal life.</description>
-        <duration>85</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0320-the-priesthood-can-strengthen-our-families-in-trial-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0320-first-presidency-message-the-priesthood-can-strengthen-our-families-in-trial-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0320-first-presidency-message-the-priesthood-can-strengthen-our-families-in-trial-720p-por.mp4' height='720p'/>
+        <id>2011-04-006-195-dresses</id>
+        <title>195 Vestidos</title>
+        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
+        <duration>310</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/from-every-nation-2011/2011-04-006-195-dresses.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-05-003-chastity-what-are-the-limits</id>
+        <title>Castidade: Quais São os Limites?</title>
+        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
+        <duration>241</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-11-020-mens-hearts-shall-fail-them</id>
+        <title>O Coração dos Homens Falhará</title>
+        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro</description>
+        <duration>204</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-02-003-god-will-lift-us-up</id>
+        <title>Deus Nos Dará Apoio</title>
+        <description>Em vez de concentrar-se no seu estado de saúde, Brittany encontrou consolo servindo ao próximo e confiando no Senhor.</description>
+        <duration>300</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-04-004-fulfilling-your-duty-to-god</id>
+        <title>Cumprir Seu Dever para com Deus</title>
+        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
+        <duration>297</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-07-007-stay-within-the-lines</id>
+        <title>Permanecer dentro dos Limites</title>
+        <description>Assim como os atletas devem permancer nas linhas para competir nos esportes, aqueles que são chamados para trabalhar na obra do Senhor devem permancer dentro das linhas da dignidade.</description>
+        <duration>304</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-10-001-plan-of-salvation-were-still-a-family</id>
+        <title>O Plano de Salvação - Ainda Somos uma Família</title>
+        <description>Um rapaz conta como o Plano de Salvação o tem ajudado a enxergar as bênçãos que podem advir das provações.</description>
+        <duration>287</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Março: A Expiação de Jesus Cristo' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/03-march-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Março: A Expiação de Jesus Cristo' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/03-march-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-05-007-a-change-of-heart-por</id>
         <title>Mudança de Coração</title>
@@ -9331,14 +9783,6 @@
         <duration>504</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-08-008-reclaimed-por</id>
-        <title>Recuperado</title>
-        <description>Uma vida cheia de pecado pode ser purificada e modificada por meio da Expiação de Jesus Cristo. O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
-        <duration>206</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-09-005-sanctify-yourselves-por</id>
@@ -9364,16 +9808,72 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-12-0150-within-bounds-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-0150-within-bounds-360p-por.mp4' height='360p'/>
 </item>
-</channel></rss></category>
-<category title='Abril:  A Apostasia e a Restauração' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/04-april-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-por</id>
-        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
-        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...  </description>
-        <duration>270</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
+        <id>2009-10-38-lifting-burdens</id>
+        <title>Aliviar Fardos</title>
+        <description>Os apóstolos de Jesus Cristo testificam do poder do Salvador para nos curar, nos mudar e nos purificar por meio do Seu Sacrifício Expiatório.</description>
+        <duration>211</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-1080p-por.mp4' height='1080p'/>
 </item>
+<item>
+        <id>2011-05-010-book-of-mormon-introduction</id>
+        <title>Introdução ao Livro de Mórmon</title>
+        <description>Élder Jeffrey R. Holland explica sobre a história e importância do Livro de Mórmon. Esse livro é um outro testamento de Jesus Cristo e serve como esritura companheira da Bíblia Sagrada.</description>
+        <duration>162</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/2011-05-010-book-of-mormon-introduction.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-360p-por.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-10-056-forgive-70-times-7</id>
+        <title>Perdoar 70 Vezes 7</title>
+        <description>Jesus explica como devemos tratar aqueles que nos ofendem.</description>
+        <duration>205</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-12-05-pure-and-simple-faith</id>
+        <title>Fé Pura e Simples</title>
+        <description>O testemunho de uma moça é fortalecido quando ela reconhece a mão do Senhor sustentando a sua família.</description>
+        <duration>330</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-02-003-god-will-lift-us-up</id>
+        <title>Deus Nos Dará Apoio</title>
+        <description>Em vez de concentrar-se no seu estado de saúde, Brittany encontrou consolo servindo ao próximo e confiando no Senhor.</description>
+        <duration>300</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-08-008-reclaimed</id>
+        <title>Recuperado</title>
+        <description>O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
+        <duration>206</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-1080p-por.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Abril:  A Apostasia e a Restauração' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/04-april-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-05-1130-restoration-of-the-priesthood-por</id>
         <title>A Restauração do Sacerdócio</title>
@@ -9439,7 +9939,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Maio: Profetas e Revelação' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/05-may-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Maio: Profetas e Revelação' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/05-may-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-07-048-a-man-without-eloquence-por</id>
         <title>Um Homem Pouco Eloquente</title>
@@ -9475,14 +9975,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-360p-por.mp4' height='360p'/>
 </item>
 <item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
-</item>
-<item>
         <id>2012-10-005-prophets-and-revelation-hearing-his-voice-por</id>
         <title>Os Profetas e a Revelação - Ouvir Sua Voz</title>
         <description>Uma classe do seminário em Samoa aprende que buscar revelação exige esforço e ação.</description>
@@ -9499,7 +9991,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='06 - Junho: Sacerdócio e as Chaves do Sacerdócio' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/06-june-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Junho: Sacerdócio e as Chaves do Sacerdócio' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/06-june-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-12-0130-a-priesthood-duty-por</id>
         <title>Um Dever do Sacerdócio</title>
@@ -9517,24 +10009,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2009-05-20-blessings-of-the-priesthood-por</id>
-        <title>As Bênçãos do Sacerdócio</title>
-        <description>O Sacerdócio é o poder de Deus, dado ao homem para agir em Seu nome.  </description>
-        <duration>184</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-04-1070-learn-your-duty-por</id>
@@ -9621,7 +10095,7 @@
 <content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0210-the-power-of-the-priesthood-in-the-family-priesthood-power-and-priesthood-authority-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='07 - Julho: Ordenanças e Convênios' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/07-july-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Julho: Ordenanças e Convênios' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/07-july-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-05-005-dare-to-stand-alone-por</id>
         <title>Ouse Ficar Sozinho</title>
@@ -9675,7 +10149,7 @@
 <content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0290-first-presidency-message-faith-in-the-power-of-the-priesthood-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='08 - Agosto: Casamento e Família' subtitle='Videos: 21' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/08-august-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Agosto: Casamento e Família' subtitle='Videos: 18' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/08-august-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-010-standards-sexual-purity-and-modesty-true-confidence-por</id>
         <title>Padrões: Pureza Sexual e Recato  - A Verdadeira Confiança</title>
@@ -9707,14 +10181,6 @@
         <duration>259</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-02-001-families-can-be-together-forever-por</id>
@@ -9749,22 +10215,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-08-0002-two-brothers-apart-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-08-0002-two-brothers-apart-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-08-0002-two-brothers-apart-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2009-08-32-the-women-in-our-lives-por</id>
-        <title>As Mulheres Em Nossas Vidas</title>
-        <description>O Presidente Gordon B. Hinckley honra o dom divino que as mulheres possuem e testifica da importância delas no plano de Deus.</description>
-        <duration>162</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2009-06-24-let-us-be-men-por</id>
-        <title>Sejamos Homens</title>
-        <description>Um homem de verdade faz sacrifícios para honrar seus compromissos.</description>
-        <duration>191</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2012-03-1060-a-heaven-inspired-program-por</id>
@@ -9870,23 +10320,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='09 - Setembro: Os Mandamentos' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/09-september-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2011-04-006-195-dresses-por</id>
-        <title>195 Vestidos</title>
-        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
-        <duration>310</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
-</item>
+<category title='Setembro: Os Mandamentos' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/09-september-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-05-005-dare-to-stand-alone-por</id>
         <title>Ouse Ficar Sozinho</title>
@@ -9969,41 +10403,7 @@
 <content url='http://media2.ldscdn.org/assets/leadership-training/hastening-the-work-of-salvation/2013-06-003-let-your-light-so-shine-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='10 - Outubro: Tornar-se Mais Como Cristo' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/10-october-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-por</id>
-        <title>Convidar Todos a Virem à Cristo: Compartilhar o Evangelho</title>
-        <description>Quando Junior, um jovem de um pequeno Ramo da Flórida, decidiu que não queria ficar sozinho em sua crença em Cristo, ele convidou um amigo. Um amigo se juntou a ele, depois outro e outro...  </description>
-        <duration>270</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2009-06-24-let-us-be-men-por</id>
-        <title>Sejamos Homens</title>
-        <description>Um homem de verdade faz sacrifícios para honrar seus compromissos.</description>
-        <duration>191</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-03-002-love-those-you-teach-por</id>
-        <title>Amar as Pessoas Que Ensinar</title>
-        <description>&quot;Essa inspiração dizia: &apos;Diga a cada um deles que você os ama&apos;.&quot;</description>
-        <duration>300</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-006-things-as-they-really-are-por</id>
-        <title>As Coisas Como Realmente São</title>
-        <description>O Élder David A. Bednar adverte sobre os efeitos nocivos que as tecnologias digitais podem ter em nossa alma e nos convida a fazer duas perguntas para ver se estamos fazendo uso adequado dessas tecnologias.</description>
-        <duration>207</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-360p-por.mp4' height='360p'/>
-</item>
+<category title='Outubro: Tornar-se Mais Como Cristo' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/10-october-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-02-0350-first-presidency-message-examples-in-ministering</id>
         <title>Mensagem da Primeira Presidência: Exemplos de Ministração</title>
@@ -10016,7 +10416,7 @@
 <content url='http://media2.ldscdn.org/assets/leadership-training/hastening-the-work-of-salvation/2013-02-0350-first-presidency-message-examples-in-ministering-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='11 - Novembro: Autossuficiência Espiritual e Temporal' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/11-november-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Novembro: Autossuficiência Espiritual e Temporal' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/11-november-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-10-a-brand-new-year-physical-health-por</id>
         <title>Um Ano Novo: Saúde Física</title>
@@ -10069,7 +10469,7 @@
 <content url='http://media2.ldscdn.org/assets/ces-firesides/2009-ces-firesides-for-young-adults/2009-11-0050-the-reflection-in-the-water-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='12 - Dezembro: Construir o Reino de Deus nos Últimos Dias' subtitle='Videos: 17' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/12-december-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Dezembro: Construir o Reino de Deus nos Últimos Dias' subtitle='Videos: 16' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/12-december-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-07-038-be-not-troubled-por</id>
         <title>Não Vos Assusteis</title>
@@ -10085,14 +10485,6 @@
         <duration>260</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-07-295-home-teaching-encouraging-aaronic-priesthood-holders-por</id>
@@ -10226,26 +10618,7 @@
 <content url='http://media2.ldscdn.org/assets/family-history/fhd-youth-serve/2011-06-02-help-new-members-take-a-name-to-the-temple-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Dicas para  Ensinar' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/teaching-tips-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2013-03-016-personalizing-the-scriptures-por</id>
-        <title>Personalizar as Escrituras</title>
-        <description>Veja como estes jovens são convidados a personalizar o que aprenderam com as escrituras.  </description>
-        <duration>151</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/teaching-tips/2013-03-016-personalizing-the-scriptures-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-016-personalizing-the-scriptures-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-016-personalizing-the-scriptures-720p-por.mp4' height='720p'/>
-</item>
-</channel></rss></category>
-<category title='Vídeos Para os Líderes' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/videos-for-leaders-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2012-06-015-ask-us-questions-por</id>
-        <title>Faça-nos Perguntas</title>
-        <description>Fazer as perguntas certas aos jovens irá ajudá-los a refletir mais profundamente sobre o evangelho. Se eles buscarem as respostas no coração, o Espírito Santo vai ajudá-los a aprender o que cada um deles precisa individualmente.</description>
-        <duration>203</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-015-ask-us-questions-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-015-ask-us-questions-720p-por.mp4' height='720p'/>
-</item>
+<category title='Vídeos Para os Líderes' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/youth-curriculum-2013/videos-for-leaders-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-06-002-determine-what-to-teach-por</id>
         <title>Determine o Que Ensinar</title>
@@ -10289,14 +10662,6 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-008-know-and-love-us-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-008-know-and-love-us-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-008-know-and-love-us-720p-por.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-06-017-lead-us-to-conversion-por</id>
-        <title>Leve-nos à Conversão</title>
-        <description>Seu propósito como líder é ajudar os jovens a tornarem-se profundamente convertidos ao evangelho de Jesus Cristo. Conforme o coração deles muda, você os verá tornarem-se unidos, compartilhando o evangelho com outros e se arrependendo de seus pecados.</description>
-        <duration>180</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-720p-por.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-06-009-let-us-teach-por</id>
@@ -10397,7 +10762,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Mensagens Mórmons' subtitle='Videos: 59' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensagens Mórmons 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons' subtitle='Videos: 51' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensagens Mórmons 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>27354266336975041210-por</id>
         <title>O Motivo por Trás do Natal</title>
@@ -10496,7 +10861,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Mensagens Mórmons  2012' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons  2012' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>18984237088515624680-por</id>
         <title>Filhas de Deus</title>
@@ -10547,14 +10912,6 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-360p-por.mp4' height='360p'/>
 </item>
 <item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
-</item>
-<item>
         <id>2012-05-005-dare-to-stand-alone-por</id>
         <title>Ouse Ficar Sozinho</title>
         <description>O Presidente Thomas S. Monson conta uma experiência que teve quando estava na Marinha, quando ele teve de ficar sozinho e nos lembra de que &quot;nunca estamos sozinhos quando nos colocamos ao lado de nosso Pai Celestial&quot;.</description>
@@ -10578,24 +10935,8 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-360p-por.mp4' height='360p'/>
 </item>
-<item>
-        <id>2012-08-008-reclaimed-por</id>
-        <title>Recuperado</title>
-        <description>Uma vida cheia de pecado pode ser purificada e modificada por meio da Expiação de Jesus Cristo. O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
-        <duration>206</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-09-009-seminary-can-change-lives-por</id>
-        <title>O Seminário Pode Mudar Vidas</title>
-        <description>Um testemunho é necessário para atravessar os anos difíceis da adolescência. O Presidente Thomas S. Monson ensina como o seminário pode ajudar a edificar e fortalecer esse testemunho. “É preciso esforço”, diz ele. “Mas é um esforço do qual jamais se arrependerão.”  </description>
-        <duration>254</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-360p-por.mp4' height='360p'/>
-</item>
 </channel></rss></category>
-<category title='Mensagens Mórmons 2011' subtitle='Videos: 17' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons 2011' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-11-008-practice-celebration-dedication-temple-blessings-in-el-salvador-por</id>
         <title>Ensaio, Celebração, Dedicação: Bênçãos do Templo em El Salvador</title>
@@ -10620,14 +10961,6 @@
         <duration>160</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-006-things-as-they-really-are-por</id>
-        <title>As Coisas Como Realmente São</title>
-        <description>O Élder David A. Bednar adverte sobre os efeitos nocivos que as tecnologias digitais podem ter em nossa alma e nos convida a fazer duas perguntas para ver se estamos fazendo uso adequado dessas tecnologias.</description>
-        <duration>207</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-09-005-sanctify-yourselves-por</id>
@@ -10662,14 +10995,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-360p-por.mp4' height='360p'/>
 </item>
 <item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
-</item>
-<item>
         <id>2011-05-011-honesty-you-better-believe-it-por</id>
         <title>Honestidade: É Melhor Acreditar Nela!</title>
         <description>É melhor ser honesto do que tirar uma boa nota em uma prova.</description>
@@ -10686,14 +11011,6 @@
         <duration>279</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-05-007-a-change-of-heart-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-05-007-a-change-of-heart-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-04-006-195-dresses-por</id>
-        <title>195 Vestidos</title>
-        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
-        <duration>310</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-005-same-jersey-por</id>
@@ -10743,7 +11060,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-021-mormon-missionaries-an-introduction-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Mensagens Mórmons 2010' subtitle='Videos: 16' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2010-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons 2010' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2010-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-01-01-prayer-por</id>
         <title>Oração</title>
@@ -10799,14 +11116,6 @@
         <duration>175</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-05-0060-the-magnificent-priesthood-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-05-0060-the-magnificent-priesthood-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2010-05-11-until-we-meet-again-por</id>
-        <title>Até Voltarmos a Nos Encontrar</title>
-        <description>Thomas S. Monson, o profeta do Senhor Jesus Cristo, conta a comovente história de uma mãe cujo filho morreu na guerra, mas aprendeu que ele viverá novamente por causa do nosso Salvador, Jesus Cristo. </description>
-        <duration>219</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2010-07-14-forgiveness-my-burden-was-made-light-por</id>
@@ -10869,16 +11178,6 @@
         <duration>450</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2010-11-0110-mormon-mustang-por</id>
-        <title>O Mustang Mórmon</title>
-        <description>Ao voar um avião histórico, jovens aprendem sobre os perigos de desafiar os limites.</description>
-        <duration>463</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Mensagens Mórmons  2009' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
@@ -14437,6 +14736,7 @@
 <subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing.xml'/>
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-025-he-is-risen</id>
@@ -17033,8 +17333,8 @@
 <category title='Discursos' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/prophets-and-apostles/speeches-and-addresses-paast-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-08-1000-byu-education-week-devotional-2014-elder-david-a-bednar</id>
-        <title>BYU Education Week Devotional 2014 - Elder David A. Bednar</title>
-        <description>At a BYU Education Week Devotional, Elder David A. Bednar explains that social media is a gift from the Lord that will allow us — as we use it properly — to further His work in remarkable ways.</description>
+        <title>Devocional da Semana Educacional da BYU - 2014 - Élder David A. Bednar</title>
+        <description>Em um Devocional da Semana Educacional da BYU, o Élder David A. Bednar explica que a mídia social é um dom do Senhor que nos permitirá — ao usá-la adequadamente — levar adiante Sua obra de maneiras extraordinárias.     </description>
         <duration>3203</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/other-broadcasts/elder-bednar-byu-education-week-2014-devotional/2014-08-1000-byu-education-week-devotional-2014-elder-david-a-bednar-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/other-broadcasts/elder-bednar-byu-education-week-2014-devotional/2014-08-1000-byu-education-week-devotional-2014-elder-david-a-bednar-360p-por.mp4' height='360p'/>
@@ -17093,7 +17393,7 @@
 <item>
         <id>2014-08-1060-sweep-the-earth-as-with-a-flood-highlight</id>
         <title>[Varrer] a Terra, como um Dilúvio – Destaque</title>
-        <description>Highlights from Elder David A. Bednar&apos;s address at the BYU Education Week Devotional 2014.</description>
+        <description>Destaques do discurso do Élder David A. Bednar no Devocional da Semana Educacional da BYU - 2014.</description>
         <duration>292</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/other-broadcasts/elder-bednar-byu-education-week-2014-devotional/2014-08-1060-byu-education-week-devotional-2014-highlight-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/other-broadcasts/elder-bednar-byu-education-week-2014-devotional/2014-08-1060-sweep-the-earth-as-with-a-flood-highlight-360p-por.mp4' height='360p'/>
@@ -17102,17 +17402,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Relatório Mundial' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/2014-04-1010-world-report-april-2014-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2014-10-1000-world-report-october-2014</id>
-        <title>Relatório Mundial Outubro 2014</title>
-        <description>O Relatório Mundial produzido semestralmente pela Igreja de Jesus Cristo dos Santos dos Últimos Dias.</description>
-        <duration>2675</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/news-and-public-affairs/world-report-october-2014/2014-10-1000-world-report-october-2014-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2014/2014-10-1000-world-report-october-2014-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2014/2014-10-1000-world-report-october-2014-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2014/2014-10-1000-world-report-october-2014-1080p-por.mp4' height='1080p'/>
-</item>
+<category title='Relatório Mundial' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/2014-04-1010-world-report-april-2014-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>14919940172516512277-por</id>
         <title>Relatório Mundial Abril 2014</title>
@@ -17124,7 +17414,7 @@
 <content url='http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-april-2014/2014-04-1010-world-report-april-2014-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Seminário e Instituto' subtitle='Videos: 58' img='http://media.ldscdn.org/thumbnails/seminary-and-institute-category-138x91.jpg'><category title='Treinamento de Professores' subtitle='Videos: 34' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/teacher-training-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Seminário e Instituto' subtitle='Videos: 55' img='http://media.ldscdn.org/thumbnails/seminary-and-institute-category-138x91.jpg'><category title='Treinamento de Professores' subtitle='Videos: 32' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/teacher-training-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-02-1260-142-a-parenting-team-por</id>
         <title>1.4.2 Um Time de Educadores</title>
@@ -17296,14 +17586,6 @@
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-012-use-the-scriptures-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2012-06-017-lead-us-to-conversion-por</id>
-        <title>Leve-nos à Conversão</title>
-        <description>Seu propósito como líder é ajudar os jovens a tornarem-se profundamente convertidos ao evangelho de Jesus Cristo. Conforme o coração deles muda, você os verá tornarem-se unidos, compartilhando o evangelho com outros e se arrependendo de seus pecados.</description>
-        <duration>180</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-720p-por.mp4' height='720p'/>
-</item>
-<item>
         <id>2012-06-011-strengthen-our-families-por</id>
         <title>Fortalecer Nossa Família</title>
         <description>Se os jovens aprenderem e ensinarem o evangelho em sua família da maneira como interagem com seus líderes, eles terão experiências grandiosas que não conseguirão de outro modo.</description>
@@ -17335,14 +17617,6 @@
         <duration>194</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-016-invite-us-to-act-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-016-invite-us-to-act-720p-por.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-06-015-ask-us-questions-por</id>
-        <title>Faça-nos Perguntas</title>
-        <description>Fazer as perguntas certas aos jovens irá ajudá-los a refletir mais profundamente sobre o evangelho. Se eles buscarem as respostas no coração, o Espírito Santo vai ajudá-los a aprender o que cada um deles precisa individualmente.</description>
-        <duration>203</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-015-ask-us-questions-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-015-ask-us-questions-720p-por.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-06-009-let-us-teach-por</id>
@@ -17405,15 +17679,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-001-help-us-discover-the-gospel-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Seminário' subtitle='Videos: 24' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/seminary-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2012-09-009-seminary-can-change-lives-por</id>
-        <title>O Seminário Pode Mudar Vidas</title>
-        <description>Um testemunho é necessário para atravessar os anos difíceis da adolescência. O Presidente Thomas S. Monson ensina como o seminário pode ajudar a edificar e fortalecer esse testemunho. “É preciso esforço”, diz ele. “Mas é um esforço do qual jamais se arrependerão.”  </description>
-        <duration>254</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-360p-por.mp4' height='360p'/>
-</item>
+<category title='Seminário' subtitle='Videos: 23' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/seminary-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-06-1020-welcome-to-seminary</id>
         <title>Bom-Vindos ao Seminario</title>
@@ -18522,7 +18788,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Tópicos' subtitle='Videos: 213' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Tópicos' subtitle='Videos: 208' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-085-support-through-trials</id>
         <title>Apoio nas Provações</title>
@@ -18717,7 +18983,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1260-act-for-themselves-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Arrependimento e Perdão' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/topics/repentance-and-forgiveness-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Arrependimento e Perdão' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/topics/repentance-and-forgiveness-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-07-14-forgiveness-my-burden-was-made-light-por</id>
         <title>Perdão: Meu Fardo Tornou-se Leve</title>
@@ -18725,6 +18991,15 @@
         <duration>504</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-360p-por.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-08-004-the-sting-of-the-scorpion</id>
+        <title>A Picada do Escorpião</title>
+        <description>O encontro de um rapaz com um escorpião no deserto da Arábia pode-nos ensinar o que devemos fazer para evitar e nos livrar da picada venenosa do pecado.</description>
+        <duration>172</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion.xml'/>
+<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-08-004-the-sting-of-the-scorpion-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-055-the-prodigal-son</id>
@@ -18866,7 +19141,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-35-what-matters-most-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Castidade' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/topics/chastity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Castidade' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/topics/chastity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-010-standards-sexual-purity-and-modesty-true-confidence-por</id>
         <title>Padrões: Pureza Sexual e Recato  - A Verdadeira Confiança</title>
@@ -18882,24 +19157,6 @@
         <duration>259</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-05-003-chastity-what-are-the-limits-por</id>
-        <title>Castidade: Quais São os Limites?</title>
-        <description>Os jovens santos dos últimos dias são aconselhados a permanecerem castos, mas quais são exatamente os limites? Utilizando os ensinamentos dos profetas modernos, esta apresentação mostra como podemos encontrar felicidade e paz permanecendo castos.</description>
-        <duration>239</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-360p-por.mp4' height='360p'/>
-</item>
-</channel></rss></category>
-<category title='Educação' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/topics/education-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2012-09-009-seminary-can-change-lives-por</id>
-        <title>O Seminário Pode Mudar Vidas</title>
-        <description>Um testemunho é necessário para atravessar os anos difíceis da adolescência. O Presidente Thomas S. Monson ensina como o seminário pode ajudar a edificar e fortalecer esse testemunho. “É preciso esforço”, diz ele. “Mas é um esforço do qual jamais se arrependerão.”  </description>
-        <duration>254</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-09-009-seminary-can-change-lives-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
 <category title='Esperança' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/topics/hope-category-138x91.jpg'><rss><channel><title/><description/>
@@ -19120,7 +19377,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Expiação' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Expiação' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>21909324147424918640-por</id>
         <title>Aliviar Fardos</title>
@@ -19128,14 +19385,6 @@
         <duration>211</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-08-008-reclaimed-por</id>
-        <title>Recuperado</title>
-        <description>Uma vida cheia de pecado pode ser purificada e modificada por meio da Expiação de Jesus Cristo. O Élder Shayne M. Bowen ensina: &quot;A Expiação de Jesus Cristo está disponível para cada um de nós. Ela pode purificar, recuperar e santificar a todos, inclusive você&quot;.</description>
-        <duration>206</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
 <category title='Gratidão' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/topics/gratitude-category-138x91.jpg'><rss><channel><title/><description/>
@@ -19677,7 +19926,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-076-pride-360p-por.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Padrões' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/topics/standards-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Padrões' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/topics/standards-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-010-standards-sexual-purity-and-modesty-true-confidence-por</id>
         <title>Padrões: Pureza Sexual e Recato  - A Verdadeira Confiança</title>
@@ -19693,24 +19942,6 @@
         <duration>160</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2010-11-0110-mormon-mustang-por</id>
-        <title>O Mustang Mórmon</title>
-        <description>Ao voar um avião histórico, jovens aprendem sobre os perigos de desafiar os limites.</description>
-        <duration>463</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-1080p-por.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-04-006-195-dresses-por</id>
-        <title>195 Vestidos</title>
-        <description>Já notou como é difícil encontrar um vestido de formatura modesto? Uma moça no Arizona encontrou uma solução para a sua comunidade.</description>
-        <duration>310</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2010-12-0150-within-bounds-por</id>
@@ -19879,6 +20110,7 @@
 <subtitles url='https://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing.xml'/>
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-025-he-is-risen</id>
@@ -20271,7 +20503,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-480p-por.mp4' height='480p'/>
 </item>
 </channel></rss></category>
-<category title='Sacerdócio' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/topics/priesthood-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Sacerdócio' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/topics/priesthood-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-por</id>
         <title>O Sacerdócio e as Chaves do Sacerdócio - Somos Irmãos</title>
@@ -20279,14 +20511,6 @@
         <duration>201</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-360p-por.mp4' height='360p'/>
-</item>
-<item>
-        <id>2012-04-004-fulfilling-your-duty-to-god-por</id>
-        <title>Cumprir Seu Dever para com Deus</title>
-        <description>“Quando você faz uma meta no Dever para com Deus, você assume um compromisso com o Pai Celestial de fazer algo . É seu dever para com Ele” (Marcos V., 17, Washington).</description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2012-01-001-power-of-god-por</id>
