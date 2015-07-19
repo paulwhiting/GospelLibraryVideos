@@ -18,7 +18,7 @@ There are currently three different ways to access Church media online (besides 
 
 ## Downloading Media for Offline Access
 
-A good method for downloading media uses Charles Glancy's [USB Video Manager for Windows](http://glancyfamily.net/USBVideoManager.msi).  It comes with a default library of English videos (and perhaps some Spanish videos) for download, curated by Charles or one of his associates.  The Gospel Library Videos project expands the list downloadable videos considerably and supports multiple languages.  To take advantage of this larger list change the URL location under the preferences menu item to http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss.xml.  Individual videos can be downloaded by right clicking and selecting download or download many by selecting a category and pressing the download button.
+A good method for downloading media uses Charles Glancy's [USB Video Manager for Windows](http://glancyfamily.net/USBVideoManager.msi).  It comes with a default library of English videos (and perhaps some Spanish videos) for download, curated by Charles or one of his associates.  The Gospel Library Videos project expands this list of downloadable videos considerably and supports multiple languages.  To take advantage of this larger list change the URL location under the preferences menu item to http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss.xml.  Individual videos can be downloaded by right clicking and selecting download or download many by selecting a category and pressing the download button.
 
 You can change the default download directory under preferences, but by default it will be something similar to `C:\Users\(username)\Videos\USB Video Manager\LDS Media`, replacing (username) with your own username.
 
@@ -27,9 +27,9 @@ You can change the default download directory under preferences, but by default 
 
 There are two methods for downloading closed captions from the LDS servers.  After you've downloaded the closed captions you may need to convert them to a more suitable format before using them.
 
-#### Using Greasemonkey / Tampermonkey
+#### Using Firefox's Greasemonkey / Chrome's Tampermonkey
 
-The first and preferred method for downloading subtitles is to use the [LDS Closed Captions Downloader](http://paulwhiting.github.io/GospelLibraryVideos/closed_captions/cc_downloader.user.js) Greasemonkey / Tampermonkey user script which is a part of this project.  Videos with subtitles should automatically insert a subtitles download link as the first item in the download popup box on the LDS media library website where you would normally go to download videos.
+The first and preferred method for downloading subtitles is to use the [Gospel Library Videos Closed Captions Downloader](http://paulwhiting.github.io/GospelLibraryVideos/closed_captions/cc_downloader.user.js) Greasemonkey / Tampermonkey user script.  When you visit [the Church's media library](http://videos.lds.org) with this script enabled in your browser the videos with subtitles should automatically have a subtitles download link as the first item in the download popup box where you normally go to download videos.
 
 
 #### Using Roku_Export.exe
@@ -44,20 +44,20 @@ The Church provides subtitles in [Timed Text Markup Language (TTML)](https://en.
 
 ## Accessing Church Media Offline
 
-As the Church already has a nice [guide for showing videos during church](https://ue.ldschurch.org/ldsapphelp/showing-video/printedguides/showingvideohowtoguide.pdf), this section here will be limited to another option made possible by Gospel Library Videos.  If you own a Roku with a USB port you can export your downloaded videos to your USB device for display using the Roku.  The added benefit is that your offline viewing experience will match your online experience.  Instead of trying to navigate through folders to find content you're treated to the same layout and descriptions you see when using the Gospel Library Videos channel online.
+As the Church already has a nice [guide for showing videos during church](https://ue.ldschurch.org/ldsapphelp/showing-video/printedguides/showingvideohowtoguide.pdf), this section here will be limited to another option made possible by Gospel Library Videos.  If you've ever played a video using your Roku's USB port you'll know how terrible the default channel's user interface is.  It's not pretty.  The Gospel Library Videos channel fixes this by creating a customized video selection screen to show your offline videos in the exact same way you'd show your online videos.  It is easy to use and works well, and it even supports closed captions! 
 
 #### Exporting to Roku (and downloading subtitles)
 
 After you have downloaded your desired videos you can export them to a USB drive for local display on your Roku without needing to stream them over the Internet.
 
-1.  Download `roku_export.exe` from the most recent release package.
+1.  Download `roku_export.exe` from the most recent release package.  This executable is a wrapper for a Ruby script that actually does the work.  The executable extracts the Ruby runtime environment, downloads the metadata as described below, then deletes the Ruby files it extracted.  (NOTE: Not all anti-virus products appreciate this behavior because high disk usage could be indicative of malicious activity.  If you run the executable and nothing happens that might be the reason why.)
 2.  In a command prompt, change the directory to where you saved the file and run `roku_export.exe`, pointing it to your USB Video Manager video downloaded directory as follows:
 `roku_export "C:\Users\(User)\Videos\USB Video Manager\LDS Media"`
 
   The program downloads the latest media feeds and searches your video download directory for videos listed in the feeds.  It also:
   *  Downloads missing thumbnails into the (LDS Media) thumbnails subfolder.
   *  Downloads missing subtitles into the (LDS Media) subtitles subfolder.
-  *  Creates a `medialibrary_downloaded_(language).xml` file containing your downloaded videos' metadata for each of the supported languages (English, Spanish, ASL).
+  *  Creates a `medialibrary_downloaded_(language).xml` file containing your downloaded videos' metadata for each of the supported languages.
 
 3.  Currently, the Gospel Library Videos Roku app only supports one downloaded language file at a time.  Rename your chosen language (i.e., medialibrary_downloaded_English.xml) to medialibrary_downloaded.xml.
 
@@ -67,8 +67,10 @@ After you have downloaded your desired videos you can export them to a USB drive
   *  `E:\LDS Media\thumbnails\`  -  Your thumbnails
   *  `E:\LDS Media\subtitles\`  -  Your subtitles
 
+5.  Repeat these steps any time you download new videos to your USB device.
+
 
 #### Watching downloaded videos
 1.  Start the Gospel Video Libraries channel and plug in your USB device.
-2.  Choose the app's "LDS Media Library on USB" menu item.  It will load the medialibrary_downloaded.xml file from the USB and show you only the videos on your USB instead of from the full online library.
+2.  Choose the "LDS Media Library on USB" menu item.  It will load the medialibrary_downloaded.xml file from the USB and show you only the videos on your USB instead of from the full online library.
 3.  If you properly followed the steps from above to copy your videos to the USB device then you should see a list of your downloaded media.  If instead you see an error message then the Roku couldn't find the files on your USB device;  Verify you copied your videos as well as the metadata file (medialibrary_downloaded.xml) to the appropriate locations on your USB device.
