@@ -32,7 +32,7 @@ def do_roku_split( file )
         filename = child['title'].gsub(/[ \/]/,"_") + '.xml'
 
         if (child.children.length > 0 and child.children[0].name == 'rss')
-          puts "found rss element for #{child['title']}"
+          #puts "found rss element for #{child['title']}"
           content = ''
           wrapper = false
         else

@@ -25,7 +25,7 @@ def WriteToFile(filename,data)
     file.close
 end
 
-def OpenURL(url,filename,bRetry=true)
+def OpenURL(url,filename,retrycount=3)
     PrettyPrint "."
     data = nil
 
@@ -51,22 +51,19 @@ def OpenURL(url,filename,bRetry=true)
                 if m != nil and m.captures.length == 2
                     #puts "HERE WE ARE!"
                     # m0 is full match, 1 first group 2 2nd
-                    if m[2].start_with?( 'http:' ) and bRetry
+                    if m[2].start_with?( 'http:' ) and retrycount > 0
                         newurl = m[2].gsub('http:','https:')
                         # retry with https
-                        return OpenURL(newurl,filename,false)
+                        return OpenURL(newurl,filename,retrycount-1)
                     end
                 end
             end
 
-            if e.to_s.include?("Timeout::Error")
-              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s} -- Retrying."
-              return OpenURL(url,filename,true)
-            elsif e.to_s.include?("400 Bad Request")
-              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s} -- Retrying."
-              return OpenURL(url,filename,true)
+            if retrycount > 0 
+              PrettyPrintNewline "EXCEPTION with downloading #{url} -- #{e.to_s} -- Retrying (#{retrycount})"
+              return OpenURL(url,filename,retrycount-1)
             else
-              PrettyPrintNewline "Exception with downloading #{url} -- #{e.to_s}"
+              PrettyPrintNewline "ERROR with downloading #{url} -- #{e.to_s} -- SKIPPING"
               $failed_URLs[url] += 1
             end
         end
