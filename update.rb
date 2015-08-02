@@ -1725,6 +1725,7 @@ elsif ARGV[0].downcase == 'update'
     GENERIC_URL  = "https://www.lds.org/media-library/video/categories?lang="
 
     # for each filename/title/URL tag download all the web pages and scrape them
+    # TODO:  sync with export script
     [
       ["ASL", "American Sign Language (ASL)", "eng&clang=ase"],
       ["Deutsch", "Deutsch", "deu"],

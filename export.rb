@@ -32,11 +32,11 @@ def download_latest_XML( language )
         begin
             puts "local file time: #{mod_time_local}"
             Net::HTTP.start(ROKU_XML_HOST) do |http|
-                p response = http.request_head(ROKU_XML_SUBDIR + "/#{localfile}")
+                response = http.request_head(ROKU_XML_SUBDIR + "/#{localfile}")
                 mod_date = response['Last-Modified'] # => Sat, 04 Jun 2011 08:51:44 GMT
                 mod_time_remote = Time.parse(mod_date)
                 puts "#{language} updated at:  #{mod_time_remote}"
-                puts "Size = #{response.header["Content-Length"].to_i}"
+                #puts "Size = #{response.header["Content-Length"].to_i}"
             end
             if mod_time_local == mod_time_remote
                 puts "File is up to date"
@@ -84,8 +84,16 @@ def do_roku_export( language )
         end
     end
 
+    # query again and see how many remain after we've removed non-downloaded URLs
     contents = xml.css("content")
+    if contents.count == 0
+      puts "No content found.  Skipping #{language}\n\n"
+      return
+    end
+
     puts "found #{contents.count}."
+
+      
 
     # phase 2 - remove all empty items and update subtitles and thumbnails
     puts "Removing empty items and downloading subtitles and thumbnails..."
@@ -119,14 +127,22 @@ def do_roku_export( language )
     items = xml.css("item")
     #puts "#{items.count} items remaining."
 
-    # phase 3 - remove all empty categories and update Video counts
+    # phase 3 - download category thumbnails, remove all empty categories, and update Video counts
     filename = "medialibrary_downloaded_#{language}.xml"
-    puts "\n\nUpdating #{filename}"
+    puts "\nUpdating #{filename}\n\n"
     categories = xml.css("category")
     categories.each do |category|
         count =  category.css("item").count
         if count > 0
             category['subtitle'] = "Videos: #{count}"
+
+            # Do thumbnail stuff
+            url = category['img']
+            if not thumbnail_already_downloaded?( url )
+                puts "Downloading missing thumbnail: #{url}"
+                download_thumbnail( url ) 
+            end
+            category['img'] = "#{ROKU_USB_THUMBNAIL_PREFIX}/#{File.basename(url)}"
         else
             category.remove
         end
@@ -140,11 +156,45 @@ end
 
 
 printUsage if ARGV.count != 1
-DOWNLOADED_VIDEO_DIR = ARGV[0]
-DOWNLOADED_THUMBNAIL_DIR = "#{ARGV[0]}/thumbnails"
-DOWNLOADED_SUBTITLES_DIR = "#{ARGV[0]}/subtitles"
 
-["English","Spanish","ASL","Music"].each do |language|
+# normalize input
+directory = ARGV[0].chomp('/').chomp('\\')
+
+DOWNLOADED_VIDEO_DIR = directory
+DOWNLOADED_THUMBNAIL_DIR = "#{directory}/thumbnails"
+DOWNLOADED_SUBTITLES_DIR = "#{directory}/subtitles"
+
+if not Dir.exists? DOWNLOADED_VIDEO_DIR
+  puts "Error:  Downloaded video directory '#{directory}' does not exist.  Aborting."
+  exit
+end
+
+if not Dir.exists? DOWNLOADED_THUMBNAIL_DIR
+  puts "Creating thumbnail directory '#{DOWNLOADED_THUMBNAIL_DIR}'"
+  Dir.mkdir DOWNLOADED_THUMBNAIL_DIR
+end
+
+if not Dir.exists? DOWNLOADED_SUBTITLES_DIR
+  puts "Creating thumbnail directory '#{DOWNLOADED_SUBTITLES_DIR}'"
+  Dir.mkdir DOWNLOADED_SUBTITLES_DIR
+end
+
+# TODO:  sync with update script
+[
+  ["ASL", "American Sign Language (ASL)", "eng&clang=ase"],
+  ["Deutsch", "Deutsch", "deu"],
+  ["English", "English", "eng"],
+  ["French", "Français", "fra"],
+  ["Italiano", "Italiano", "ita"],
+  ["Japanese", "日本語", "jpn"],
+  ["Korean", "한국어", "kor"],
+  ["Portuguese", "Português", "por"],
+  ["Russian", "Русский", "rus"],
+  ["Spanish", "Español", "spa"],
+  ["Music", "Music", ""],
+].each do |threesome|
+    filename, title, tag = threesome
+    language = filename
     download_latest_XML( language )
     do_roku_export( language )
 end

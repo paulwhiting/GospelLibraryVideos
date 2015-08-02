@@ -26,7 +26,7 @@ def WriteToFile(filename,data)
 end
 
 def OpenURL(url,filename,retrycount=3)
-    PrettyPrint "."
+    PrettyPrint '.'
     data = nil
 
     if $failed_URLs[url] != 0
@@ -48,12 +48,11 @@ def OpenURL(url,filename,retrycount=3)
         rescue => e
             # Silently fix redirection issues
             e.to_s.match(/redirection forbidden: (\S+) -> (\S+)/) do |m|
+                #puts "REDIRECTION DETECTED!"
                 if m != nil and m.captures.length == 2
-                    #puts "HERE WE ARE!"
-                    # m0 is full match, 1 first group 2 2nd
-                    if m[2].start_with?( 'http:' ) and retrycount > 0
-                        newurl = m[2].gsub('http:','https:')
-                        # retry with https
+                    ## m0 is full match, 1 first group 2 2nd
+                    if retrycount > 0
+                        newurl = m[2]
                         return OpenURL(newurl,filename,retrycount-1)
                     end
                 end
