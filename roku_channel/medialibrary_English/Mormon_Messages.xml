@@ -804,17 +804,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-11-020-mens-hearts-shall-fail-them-eng</id>
-        <title>Men's Hearts Shall Fail Them</title>
-        <description>Elder Russell M. Nelson shares a personal story to give encouragement for when we feel "weak in the heart."</description>
-        <duration>204</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-192x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them.xml"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2011-06-012-moments-that-matter-most-eng</id>
         <title>Moments That Matter Most</title>
         <description>We would do well to slow down a little, focus on the significant, lift up our eyes, and truly see the things that matter most.</description>
@@ -912,6 +901,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-04-008-the-civility-experiment-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-04-008-the-civility-experiment-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-04-008-the-civility-experiment-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-10-007-the-lost-purse-eng</id>
+        <title>The Lost Purse</title>
+        <description>When a young woman&#x2019;s purse is left behind after a dance, adult leaders search through it to find the owner&#x2019;s identity, which is revealed to them in an unexpected way.</description>
+        <duration>160</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-10-007-the-lost-purse-eng</id>
@@ -1036,7 +1036,7 @@
 </channel>
   </rss>
 </category>
-<category title="Mormon Messages 2010" subtitle="Videos: 35" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2010-category-138x91.jpg">
+<category title="Mormon Messages 2010" subtitle="Videos: 41" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2010-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1418,6 +1418,72 @@
 <subtitles url="https://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2010/2010-04-05-charity-an-example-of-the-believers.xml"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-04-05-charity-an-example-of-the-believers-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-04-05-charity-an-example-of-the-believers-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2010-03-08-testimony-of-the-book-of-mormon</id>
+        <title>Testimony of the Book of Mormon</title>
+        <description>A modern-day Apostle describes the unwavering faith the Church's founders showed, even in the face of death, to remain true to their testimonies of the Book of Mormon.</description>
+        <duration>279</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-03-07-he-lives-testimonies-of-jesus-christ</id>
+        <title>He Lives: Testimonies of Jesus Christ</title>
+        <description>See and hear modern-day Apostles testify that Jesus Christ is the Savior and that He lives today.</description>
+        <duration>131</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-03-06-becoming-provident-providers-eng</id>
+        <title>Becoming Provident Providers</title>
+        <description>Elder Robert D. Hales encourages us to stay out of debt and live frugally as he recounts a story from the early days of his marriage, when his wife exemplified the principles of provident living.</description>
+        <duration>155</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-03-05-the-tender-mercies-of-the-lord</id>
+        <title>The Tender Mercies of the Lord</title>
+        <description>The Lord's mercies to us include personal blessings of strength, loving-kindness, guidance, and many other spiritual gifts.</description>
+        <duration>229</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-01-03-have-i-done-any-good-in-the-world-today</id>
+        <title>Have I Done Any Good in the World Today?</title>
+        <description>President Thomas S. Monson shares inspired encouragement to give service and help to those who are in need.</description>
+        <duration>149</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-01-01-prayer</id>
+        <title>Prayer</title>
+        <description>Learn from a humble woman's example how the power of prayer can work miracles in our lives.</description>
+        <duration>252</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-01-prayer-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-01-01-prayer.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
