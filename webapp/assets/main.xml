@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <categories>
-	<category title="Recent" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_recent.xml" />
-	<category title="LDS Media Library" subtitle="" url="">
+	<category title="Recent" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_recent.xml" img="http://paulwhiting.github.io/GospelLibraryVideos/webapp/assets/new.png"/>
+	<category title="LDS Media Library" subtitle="" img="http://paulwhiting.github.io/GospelLibraryVideos/webapp/assets/library-pictogram.svg">
 		<category title="English" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_English_root.xml" />
 		<category title="American Sign Language (ASL)" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_ASL.xml" />
 		<category title="Español" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Spanish.xml" />
@@ -15,11 +15,11 @@
 		<category title="日本語" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Japanese.xml" />
 		<category title="Music Library" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/medialibrary_Music.xml" />
 	</category>
-	<category title="LDS Gospel Library" subtitle="" url="" >
-        <category title="English" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/1.xml" />
-        <category title="Spanish" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/2.xml" />
-        <category title="French" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/7.xml" />
-        <category title="Other Languages" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/0.xml" />
+	<category title="LDS Gospel Library" subtitle="" url="" img="http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1/covers/_scriptures_ot_000/3ea70c472d4be7944c7dd9368e682779bae9ff8a/cover-80x105@2x.png">
+        <category title="English" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/1.xml" img="http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1/covers/_scriptures_ot_000/3ea70c472d4be7944c7dd9368e682779bae9ff8a/cover-80x105@2x.png" />
+        <category title="Spanish" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/2.xml" img="http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1/covers/_scriptures_ot_002/592fe6bef6d5a6185605213d0692dbf40f2e287a/cover-80x105@2x.png" />
+        <category title="French" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/7.xml" img="http://broadcast3.lds.org/crowdsource/Mobile/GospelStudy/production/v1/covers/_video_special-witnesses-of-christ_140/e2e9477ac191d70de0f768df44c21b166d08f740/cover-80x105@2x.png" />
+        <category title="Other Languages" subtitle="" url="http://paulwhiting.github.io/GospelLibraryVideos/roku_channel/langs/0.xml" img="http://paulwhiting.github.io/GospelLibraryVideos/webapp/assets/question-mark.jpg"/>
     </category>
   <category title="Mormon Channel Radio" subtitle="" url="" img="https://www.mormonchannel.org/bc/content/mormon-channel/radio/1200x1200/24-7-music.jpg">
     <rss><channel><title/><description/>
