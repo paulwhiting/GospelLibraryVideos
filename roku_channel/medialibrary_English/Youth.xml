@@ -478,7 +478,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Standards" subtitle="Videos: 81" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Standards" subtitle="Videos: 82" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2010-07-0001-no-regrets-eng</id>
         <title>No Regrets</title>
@@ -1329,7 +1329,17 @@
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-010-standards-sexual-purity-and-modesty-true-confidence-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Work and Self-Reliance" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/standards-standards/work-and-self-reliance-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Work and Self-Reliance" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/standards-standards/work-and-self-reliance-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2015-08-19-recipe-for-a-happy-family</id>
+        <title>Recipe for a Happy Family</title>
+        <description>Youth of Johannesburg Second Ward share the ways they show service and kindness to their family and friends through work.</description>
+        <duration>218</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/liahona-august-2015/2015-08-19-recipe-for-a-happy-family-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/liahona-august-2015/2015-08-19-recipe-for-a-happy-family-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/liahona-august-2015/2015-08-19-recipe-for-a-happy-family-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/liahona-august-2015/2015-08-19-recipe-for-a-happy-family-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2010-12-0160-a-work-in-progress-eng</id>
         <title>A Work in Progress</title>
