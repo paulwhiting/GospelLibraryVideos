@@ -1,9 +1,18 @@
 #!/usr/bin/ruby
 
+# This code expects the following directory structure
+
+# ./      -  Root folder
+# ./code  -  Master branch of (this) code
+# ./code/medialibrary_YYYY_M_D  -  Results of running update.rb
+# ./gh-pages/  -  gh-pages branch
+
 
 run = Time.now.strftime("%Y_%-m_%-d")
 run_glob = Time.now.strftime("%Y%m%d")
 run_standard = Time.now.strftime("%-m/%-d/%y")
+
+puts "Processing medialibrary_#{run}..."
 
 puts "Diffing with previous run (English only.  TODO: other languages)"
 system("ruby diff.rb medialibrary_#{run}/roku/medialibrary_English.xml ../gh-pages/roku_channel/medialibrary_English.xml")
