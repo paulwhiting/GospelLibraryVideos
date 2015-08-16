@@ -1081,8 +1081,8 @@
         <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/homepage/videos/no-cussing-club.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-11-01-no-cussing-club.xml"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="1080p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="360p"/>
 </item>
 <item>
         <id>2012-03-1170-judging-others-stop-it-eng</id>
@@ -3703,8 +3703,8 @@
         <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/homepage/videos/no-cussing-club.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-11-01-no-cussing-club.xml"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="1080p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="360p"/>
 </item>
 <item>
         <id>2011-07-013-watch-your-step</id>
@@ -3986,7 +3986,7 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="mp3"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="360p"/>
 </item>
 <item>
         <id>2010-10-0100-sharing-the-light-of-christ-eng</id>
@@ -4598,7 +4598,7 @@
 </channel></rss></category>
 <category title="Teaching Tips" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/youth-curriculum/teaching-tips-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
-        <id>2013-03-019-using-visuals-to-understand-scriptures</id>
+        <id>2013-03-019-using-visuals-to-understand-scriptures-eng</id>
         <title>Using Visuals to Understand Scriptures</title>
         <description>Notice what the teacher does to involve all of the youth in discussing gospel questions.</description>
         <duration>139</duration>
@@ -4609,7 +4609,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-019-using-visuals-to-understand-scriptures-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-017-using-familiar-objects-to-teach-gospel-truths</id>
+        <id>2013-03-017-using-familiar-objects-to-teach-gospel-truths-eng</id>
         <title>Using Familiar Objects to Teach Gospel Truths</title>
         <description>Look for how the use of a familiar object helps these youth in their discussion of gospel truths.</description>
         <duration>131</duration>
@@ -4641,7 +4641,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-015-applying-familiar-objects-to-understand-gospel-truths-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-00-021-teach-each-other-from-the-scriptures</id>
+        <id>2013-00-021-teach-each-other-from-the-scriptures-eng</id>
         <title>Teach Each Other from the Scriptures</title>
         <description>Watch how this teacher helps the young men teach each other what they learn from the scriptures.</description>
         <duration>109</duration>
@@ -4663,7 +4663,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-020-personalizing-gospel-doctrines-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-006-finding-answers-in-a-conference-talk</id>
+        <id>2013-03-006-finding-answers-in-a-conference-talk-eng</id>
         <title>Finding Answers in a Conference Talk</title>
         <description>Notice how the teacher involved every young man in finding and sharing answers from a conference talk.</description>
         <duration>102</duration>
@@ -4674,7 +4674,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-006-finding-answers-in-a-conference-talk-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-001-use-media-effectively</id>
+        <id>2013-03-001-use-media-effectively-eng</id>
         <title>Use Media Effectively</title>
         <description>Notice what this teacher does to encourage the youth to participate while watching a video.</description>
         <duration>163</duration>
@@ -4685,7 +4685,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-001-use-media-effectively-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-00-022-using-visual-aids</id>
+        <id>2013-00-022-using-visual-aids-eng</id>
         <title>Using Visual Aids</title>
         <description>Notice how this teacher encourages the young men to be actively involved in using visual aids.</description>
         <duration>116</duration>
@@ -4706,7 +4706,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-00-023-discussing-questions-720p-eng.mp4" height="720p"/>
 </item>
 <item>
-        <id>2013-03-016-personalizing-the-scriptures</id>
+        <id>2013-03-016-personalizing-the-scriptures-eng</id>
         <title>Personalizing the Scriptures</title>
         <description>Watch how these youth are invited to personalize what they have learned from the scriptures.</description>
         <duration>151</duration>
@@ -4727,7 +4727,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-014-searching-for-answers-in-the-scriptures-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-007-answering-a-class-members-question</id>
+        <id>2013-03-007-answering-a-class-members-question-eng</id>
         <title>Answering a Class Members Question</title>
         <description>Watch how this teacher responds to the question of a young man.</description>
         <duration>137</duration>
@@ -4738,7 +4738,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-007-answering-a-class-members-question-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-013-searching-for-words-in-the-scriptures</id>
+        <id>2013-03-013-searching-for-words-in-the-scriptures-eng</id>
         <title>Searching for Words in the Scriptures</title>
         <description>Notice how these young women are encouraged to search the scriptures for words that are meaningful to them.</description>
         <duration>114</duration>
@@ -4782,7 +4782,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-010-identifying-key-points-in-a-conference-talk-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-003-preparing-youth-to-discuss</id>
+        <id>2013-03-003-preparing-youth-to-discuss-eng</id>
         <title>Preparing Youth to Discuss</title>
         <description>Watch how the youth are prepared to participate in a discussion about answering gospel questions.</description>
         <duration>149</duration>
@@ -4804,7 +4804,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/teaching-tips/2013-03-004-using-pictures-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2013-03-012-inviting-to-act-setting-goals</id>
+        <id>2013-03-012-inviting-to-act-setting-goals-eng</id>
         <title>Inviting to Act: Setting Goals</title>
         <description>Look for how this teacher helps these young women set a personal goal to act on what they are learning.</description>
         <duration>135</duration>
