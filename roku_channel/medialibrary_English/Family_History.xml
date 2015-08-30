@@ -1075,15 +1075,26 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Youth" subtitle="Videos: 28" img="http://media.ldscdn.org/thumbnails/family-history/04-youth-category-138x91.jpg">
+<category title="Youth" subtitle="Videos: 32" img="http://media.ldscdn.org/thumbnails/family-history/04-youth-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-06-02-i-accepted-the-challenge</id>
+        <title>I Accepted the Challenge</title>
+        <description>Looking for a way to strengthen your testimony? Watch how these young women&#x2019;s testimonies grew after accepted the family history temple challenge.</description>
+        <duration>147</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/temple-challenge-2014/2014-06-02-i-accepted-the-challenge-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/temple-challenge-2014/2014-06-02-i-accepted-the-challenge.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/temple-challenge-2014/2014-06-02-i-accepted-the-challenge-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/temple-challenge-2014/2014-06-02-i-accepted-the-challenge-720p-eng.mp4" height="720p"/>
+</item>
 <item>
         <id>2011-08-01-an-ancestor-is</id>
         <title>An Ancestor Is...</title>
         <description>Children asked "An Ancestor is?" provide some thoughtful, interesting, entertaining, and surprising answers. How would you explain the concept of an ancestor to children?</description>
         <duration>102</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/kids-on-family-history-2011/2011-08-01-an-ancestor-is-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/kids-on-family-history-2011/2011-08-01-an-ancestor-is.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-01-an-ancestor-is-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-01-an-ancestor-is-720p-eng.mp4" height="720p"/>
 </item>
@@ -1093,6 +1104,7 @@
         <description>Children asked "What is a family tree?" provide some thoughtful, interesting, entertaining, and surprising answers. How would you explain the concept of a family tree or ancestry to children?</description>
         <duration>90</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/kids-on-family-history-2011/2011-08-02-what-is-a-family-tree-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/kids-on-family-history-2011/2011-08-02-what-is-a-family-tree.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-02-what-is-a-family-tree-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-02-what-is-a-family-tree-720p-eng.mp4" height="720p"/>
 </item>
@@ -1102,6 +1114,7 @@
         <description>Children asked "Genealogy is?" provide some thoughtful, interesting, entertaining, and surprising answers. How would you explain the concept of genealogy to children?</description>
         <duration>120</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/kids-on-family-history-2011/2011-08-03-genealogy-is-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/kids-on-family-history-2011/2011-08-03-genealogy-is.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-03-genealogy-is-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/kids-on-family-history-2011/2011-08-03-genealogy-is-720p-eng.mp4" height="720p"/>
 </item>
@@ -1311,6 +1324,35 @@
 <content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-07-french-brothers-talk-about-doing-temple-work-for-their-ancestors-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
+        <id>2012-11-04-the-youth-of-the-peru-santanita-stake-answer-elder-bednars-challenge</id>
+        <title>The youth of the Peru Santanita Stake answer Elder Bednar's challenge</title>
+        <description>The youth of the Peru Santanita stake accepted Elder Bednar's challenge and are receiving the promised blessings.</description>
+        <duration>89</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/youth-success-stories/2012-11-04-the-youth-of-the-peru-santanita-stake-answer-elder-bednars-challenge-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-04-the-youth-of-the-peru-santanita-stake-answer-elder-bednars-challenge-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-04-the-youth-of-the-peru-santanita-stake-answer-elder-bednars-challenge-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-04-the-youth-of-the-peru-santanita-stake-answer-elder-bednars-challenge-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-11-01-luis-and-henry-connecting-families-through-indexing</id>
+        <title>Luis and Henry Connecting Families Through Indexing</title>
+        <description>Listen to two young men from Peru, Luis and Henry, as they bear testimony of service through indexing.</description>
+        <duration>98</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/youth-success-stories/2012-11-01-luis-and-henry-connecting-families-through-indexing-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-01-luis-and-henry-connecting-families-through-indexing-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-01-luis-and-henry-connecting-families-through-indexing-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/youth-success-stories/2012-11-01-luis-and-henry-connecting-families-through-indexing-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-09-01-ym-eagle-scout-project-indexing-family-history-records</id>
+        <title>YM Eagle Scout Project Indexing Family History Records</title>
+        <description>The story of how one young man caught the spirit of why indexing historical records is important and used it for his Eagle Scout service project.</description>
+        <duration>135</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/riverton-eagle-scout-project/2012-09-01-ym-eagle-scout-project-indexing-family-history-records-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/family-history/riverton-eagle-scout-project/2012-09-01-ym-eagle-scout-project-indexing-family-history-records-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/riverton-eagle-scout-project/2012-09-01-ym-eagle-scout-project-indexing-family-history-records-720p-eng.mp4" height="720p"/>
+</item>
+<item>
         <id>2012-05-02-pizza-and-family-history</id>
         <title>Pizza and Family History</title>
         <description>Jordan Hintze discovers that family history can be fun and delicious.</description>
@@ -1359,11 +1401,12 @@
 </category>
 <category title="How To" subtitle="Videos: 43" img="http://media.ldscdn.org/thumbnails/family-history/10-beginning-research-category-138x91.jpg"><category title="Getting Started" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/family-history/01-getting-started-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
-        <id>15503331900991115450-eng</id>
+        <id>2015-07-03-partial-tree-strategy-using-landscape-view</id>
         <title>Partial Tree Strategy: Using Landscape View</title>
         <description>This video demonstrates how to use record hints on FamilySearch.org to find family names.</description>
-        <duration>2</duration>
+        <duration>178</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2015-combined-sunday/2015-07-03-partial-tree-strategy-using-landscape-view-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2015-combined-sunday/2015-07-03-partial-tree-strategy-using-landscape-view.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2015-combined-sunday/2015-07-03-partial-tree-strategy-using-landscape-view-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2015-combined-sunday/2015-07-03-partial-tree-strategy-using-landscape-view-720p-eng.mp4" height="720p"/>
 </item>

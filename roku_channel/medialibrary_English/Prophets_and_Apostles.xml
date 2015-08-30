@@ -973,7 +973,7 @@
 </channel>
   </rss>
 </category>
-<category title="The Presidents of the Church" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/the-presidents-of-the-church-category-138x91.jpg">
+<category title="The Presidents of the Church" subtitle="Videos: 14" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/the-presidents-of-the-church-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1095,6 +1095,26 @@
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1110-joseph-f-smith-documentary.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1110-joseph-f-smith-documentary-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1110-joseph-f-smith-documentary-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2013-05-1130-heber-j-grant-documentary-eng</id>
+        <title>Heber J. Grant: Documentary</title>
+        <description>A documentary of Heber J. Grant that teaches his humility in serving to benefit the welfare of others.</description>
+        <duration>959</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos//the-presidents-of-the-church/2013-05-1130-heber-j-grant-documentary-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1130-heber-j-grant-documentary.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1130-heber-j-grant-documentary-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1130-heber-j-grant-documentary-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2013-05-1050-john-taylor-documentary-eng</id>
+        <title>John Taylor: Documentary</title>
+        <description>A documentary of the third President of the Church, John Taylor. His is a story of spiritual strength and endurance amid challenges and persecution.</description>
+        <duration>976</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos//the-presidents-of-the-church/2013-05-1050-john-taylor-documentary-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1050-john-taylor-documentary.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1050-john-taylor-documentary-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-presidents-of-the-church/2013-05-1050-john-taylor-documentary-720p-eng.mp4" height="720p"/>
 </item>
 </channel>
   </rss>

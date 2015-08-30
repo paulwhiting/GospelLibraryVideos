@@ -478,7 +478,7 @@
 </channel>
   </rss>
 </category>
-<category title="Joshua - Song of Solomon" subtitle="Videos: 35" img="http://media.ldscdn.org/thumbnails/old-testament/joshua-song-of-solomon-category-138x91.jpg">
+<category title="Joshua - Song of Solomon" subtitle="Videos: 36" img="http://media.ldscdn.org/thumbnails/old-testament/joshua-song-of-solomon-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -786,6 +786,16 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-057-full-commitment-144x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-057-full-commitment.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-057-full-commitment-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2011-03-056-walk-his-way</id>
+        <title>Walk His Way</title>
+        <description>(Joshua 24:14-27) A song about choosing to walk in the ways of the Lord.</description>
+        <duration>185</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-056-walk-his-way-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-056-walk-his-way.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-056-walk-his-way-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-056-walk-his-way-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2011-03-055-no-other-gods-before-me</id>
