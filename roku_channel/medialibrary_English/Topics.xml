@@ -569,7 +569,7 @@
 </channel>
   </rss>
 </category>
-<category title="Atonement" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
+<category title="Atonement" subtitle="Videos: 27" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -804,6 +804,36 @@
 <content url="http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting-highlights/2014-03-003-linda-k-burton-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting-highlights/2014-03-003-linda-k-burton-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-womens-meeting/march-2014-general-womens-meeting-highlights/2014-03-003-linda-k-burton-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-04-100-reverence-the-sacrament</id>
+        <title>Reverence the Sacrament</title>
+        <description>Elder Quentin L. Cook explains explains that through taking the sacrament, we show our willingness to follow the savior.</description>
+        <duration>45</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/media-library-extras/2014-04-100-reverence-the-sacrament-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/media-library-extras/2014-04-100-reverence-the-sacrament.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/media-library-extras/2014-04-100-reverence-the-sacrament-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2014-00-1420-because-of-him</id>
+        <title>Because of Him</title>
+        <description>Jesus is the Son of God and our Savior. Because of Him, death is conquered, our lives have meaning, and we can live with God again. http://www.mormon.org/becauseofhim</description>
+        <duration>164</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-2014/2014-00-1420-because-of-him-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-1080p-eng.mp4" height="1080p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1420-because-of-him-audio-description-256k-eng.mp3" height="mp3"/>
+</item>
+<item>
+        <id>2014-10-450-elder-james-j-hamula-highlights</id>
+        <title>The Sacrament and the Atonement</title>
+        <description>Highlight of Elder James J. Hamulas address at the October 2014 General Conference.</description>
+        <duration>58</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-450-elder-james-j-hamula-highlights-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
@@ -2483,7 +2513,7 @@
 </channel>
   </rss>
 </category>
-<category title="Faith" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/topics/faith-category-138x91.jpg">
+<category title="Faith" subtitle="Videos: 25" img="http://media.ldscdn.org/thumbnails/topics/faith-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -2730,6 +2760,15 @@
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-520-elder-richard-g-scott-highlights-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-06-2660-what-is-faith</id>
+        <title>What Is Faith?</title>
+        <description>Elder Joseph B. Wirthlin talks about what faith is. Hebrews 11:1 (Shall He Find Faith on the Earth?, Ensign, Nov. 2002, 82.)</description>
+        <duration>73</duration>
+        <thumbnail url="http://media.ldscdn.org/thumbnails/2012-06-2660-what-is-faith-144x108.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-visual-resource/2012-06-2660-what-is-faith.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-visual-resource/2012-06-2660-what-is-faith-360p-eng.mp4" height="360p"/>
 </item>
 </channel>
   </rss>
@@ -4971,7 +5010,7 @@
 <item>
         <id>2011-10-054-the-kingdom-of-heaven-eng</id>
         <title>The Kingdom of Heaven</title>
-        <description>The kingdom of heaven consists of the just separated out from the wicked.</description>
+        <description>The parable of the kingdom of heaven teaches about how the just will be separated from the wicked.</description>
         <duration>109</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml"/>
@@ -6263,6 +6302,293 @@
 </channel>
   </rss>
 </category>
+<category title="Music Videos" subtitle="Videos: 28" img="http://media.ldscdn.org/thumbnails/children/music-videos-friend-category-138x91.jpg">
+  <rss>
+    <channel><title/><description/>
+<item>
+        <id>2014-01-200-the-nativity</id>
+        <title>The Nativity</title>
+        <description>Music Video</description>
+        <duration>108</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-200-the-nativity-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-200-the-nativity-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-200-the-nativity-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-200-the-nativity-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-180-my-covenant-path</id>
+        <title>My Covenant Path</title>
+        <description>My Covenant Path</description>
+        <duration>161</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-180-my-covenant-path-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-180-my-covenant-path-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-180-my-covenant-path-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-180-my-covenant-path-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-190-our-time-to-shine</id>
+        <title>Our Time to Shine</title>
+        <description>Music Video</description>
+        <duration>143</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-190-our-time-to-shine-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-190-our-time-to-shine-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-190-our-time-to-shine-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-190-our-time-to-shine-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-080-i-often-go-walking</id>
+        <title>I Often Go Walking</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>80</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-080-i-often-go-walking-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-080-i-often-go-walking-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-080-i-often-go-walking-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-080-i-often-go-walking-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-130-i-hope-they-call-me-on-a-mission</id>
+        <title>I Hope They Call Me on a Mission</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>61</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-130-i-hope-they-call-me-on-a-mission-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-130-i-hope-they-call-me-on-a-mission-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-130-i-hope-they-call-me-on-a-mission-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-130-i-hope-they-call-me-on-a-mission-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2013-06-1041-missionary-song-medley</id>
+        <title>Missionary Song Medley</title>
+        <description>A video presentation portraying youth preparing to serve missions.</description>
+        <duration>284</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/worldwide-leadership-training/the-work-of-salvation/2013-06-1041-missionary-song-medley-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1041-missionary-song-medley-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1041-missionary-song-medley-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1041-missionary-song-medley-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-14-when-i-hear-the-prophets-voice</id>
+        <title>When I hear the Prophets Voice</title>
+        <description>Music Video - When I hear the Prophets Voice</description>
+        <duration>56</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-14-when-i-hear-the-prophets-voice-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-14-when-i-hear-the-prophets-voice-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-14-when-i-hear-the-prophets-voice-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-14-when-i-hear-the-prophets-voice-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-17-build-an-ark</id>
+        <title>Build an Ark</title>
+        <description>Music Video - Build an Ark</description>
+        <duration>115</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-17-build-an-ark-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-17-build-an-ark-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-17-build-an-ark-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-17-build-an-ark-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-15-jesus-is-my-true-light</id>
+        <title>Jesus is My True Light</title>
+        <description>Music Video - Jesus is My True Light</description>
+        <duration>89</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-15-jesus-is-my-true-light-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-15-jesus-is-my-true-light-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-15-jesus-is-my-true-light-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-15-jesus-is-my-true-light-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-13-life-is-oerflowing-with-beautiful-things</id>
+        <title>Life is Oerflowing with Beautiful Things</title>
+        <description>Music Video - Life is Oerflowing with Beautiful Things</description>
+        <duration>195</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-13-life-is-oerflowing-with-beautiful-things-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-13-life-is-oerflowing-with-beautiful-things-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-13-life-is-oerflowing-with-beautiful-things-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-13-life-is-oerflowing-with-beautiful-things-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-18-im-learning-the-way-of-jesus</id>
+        <title>Im Learning the Way of Jesus</title>
+        <description>Music Video - Im Learning the Way of Jesus</description>
+        <duration>123</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-18-im-learning-the-way-of-jesus-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-18-im-learning-the-way-of-jesus-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-18-im-learning-the-way-of-jesus-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-18-im-learning-the-way-of-jesus-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-19-our-christmas-story-tree</id>
+        <title>Our Christmas Story Tree</title>
+        <description>Music Video - Our Christmas Story Tree</description>
+        <duration>112</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-19-our-christmas-story-tree-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-19-our-christmas-story-tree-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-19-our-christmas-story-tree-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-19-our-christmas-story-tree-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-20-if-i-listen-with-my-heart</id>
+        <title>If I Listen with My Heart</title>
+        <description>Music Video - If I Listen with My Heart</description>
+        <duration>150</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-20-if-i-listen-with-my-heart-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-20-if-i-listen-with-my-heart-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-20-if-i-listen-with-my-heart-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-20-if-i-listen-with-my-heart-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-05-009-child-of-god</id>
+        <title>Child of God</title>
+        <description>Remember&#x2014;through a beloved childrens song&#x2014;who you really are.</description>
+        <duration>174</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-03-005-i-know-that-my-savior-loves-me</id>
+        <title>I Know That My Savior Loves Me</title>
+        <description>I Know That My Savior Loves Me</description>
+        <duration>173</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2015/2015-03-005-i-know-that-my-savior-loves-me-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-03-005-i-know-that-my-savior-loves-me-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-03-005-i-know-that-my-savior-loves-me-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-03-005-i-know-that-my-savior-loves-me-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-02-002-love-enough</id>
+        <title>Love Enough</title>
+        <description>Love Enough</description>
+        <duration>120</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2015/2015-00-002-love-enough-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-002-love-enough-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-002-love-enough-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-002-love-enough-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-01-001-one-in-a-million-video</id>
+        <title>One in a Million Video</title>
+        <description>One in a Million Video</description>
+        <duration>88</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2015/2015-00-001-one-in-a-million-video-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-001-one-in-a-million-video-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-001-one-in-a-million-video-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-001-one-in-a-million-video-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-01-004-when-jesus-christ-was-baptized</id>
+        <title>When Jesus Christ Was Baptized</title>
+        <description>When Jesus Christ was Baptized, I Can Play It Music video.</description>
+        <duration>95</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2015/2015-01-004-when-jesus-christ-was-baptized-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-004-when-jesus-christ-was-baptized-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-004-when-jesus-christ-was-baptized-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-004-when-jesus-christ-was-baptized-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-02-003-holding-hands-around-the-world</id>
+        <title>Holding Hands Around the World</title>
+        <description>Holding Hands Around the World</description>
+        <duration>147</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2015/2015-02-003-holding-hands-around-the-world-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-003-holding-hands-around-the-world-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-003-holding-hands-around-the-world-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-003-holding-hands-around-the-world-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-160-baptism</id>
+        <title>Baptism</title>
+        <description>Primary Song, Baptism</description>
+        <duration>113</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-160-baptism-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-160-baptism-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-160-baptism-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-160-baptism-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-070-the-family-is-of-god</id>
+        <title>The Family Is of God</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>195</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-070-the-family-is-of-god-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-070-the-family-is-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-070-the-family-is-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-070-the-family-is-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-040-he-sent-his-son</id>
+        <title>He Sent His Son</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>123</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-040-he-sent-his-son-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-040-he-sent-his-son-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-040-he-sent-his-son-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-040-he-sent-his-son-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-050-i-will-follow-gods-plan-for-me</id>
+        <title>I Will Follow Gods Plan for Me</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>77</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-050-i-will-follow-gods-plan-for-me-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-050-i-will-follow-gods-plan-for-me-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-050-i-will-follow-gods-plan-for-me-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-050-i-will-follow-gods-plan-for-me-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-110-seek-the-lord-early</id>
+        <title>Seek the Lord Early</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>78</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-110-seek-the-lord-early-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-110-seek-the-lord-early-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-110-seek-the-lord-early-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-110-seek-the-lord-early-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-150-through-your-eyes</id>
+        <title>Through Your Eyes</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>280</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-150-through-your-eyes-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-150-through-your-eyes-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-150-through-your-eyes-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-150-through-your-eyes-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-020-gods-christmas-gift</id>
+        <title>Gods Christmas Gift</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>72</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-020-gods-christmas-gift-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-020-gods-christmas-gift-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-020-gods-christmas-gift-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-020-gods-christmas-gift-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-01-060-i-stand-all-amazed</id>
+        <title>I Stand All Amazed</title>
+        <description>Friend, Simplified, music, I Can Play it</description>
+        <duration>89</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/i-can-play-it-2014/2014-01-060-i-stand-all-amazed-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-060-i-stand-all-amazed-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-060-i-stand-all-amazed-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2014/2014-01-060-i-stand-all-amazed-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-05-0010-im-trying-to-be-like-jesus</id>
+        <title>Im Trying to Be like Jesus</title>
+        <description>The Mormon Tabernacle Choir performs Im Trying to Be Like Jesus.</description>
+        <duration>304</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/music/trying-to-be-like-jesus/2014-05-0010-im-trying-to-be-like-jesus-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/trying-to-be-like-jesus/2014-05-0010-im-trying-to-be-like-jesus-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/trying-to-be-like-jesus/2014-05-0010-im-trying-to-be-like-jesus-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/trying-to-be-like-jesus/2014-05-0010-im-trying-to-be-like-jesus-1080p-eng.mp4" height="1080p"/>
+</item>
+</channel>
+  </rss>
+</category>
 <category title="New Testament Presentations" subtitle="Videos: 21" img="http://media.ldscdn.org/thumbnails/new-testament-presentations-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
@@ -6789,7 +7115,7 @@
 <item>
         <id>2011-10-054-the-kingdom-of-heaven-eng</id>
         <title>The Kingdom of Heaven</title>
-        <description>The kingdom of heaven consists of the just separated out from the wicked.</description>
+        <description>The parable of the kingdom of heaven teaches about how the just will be separated from the wicked.</description>
         <duration>109</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml"/>

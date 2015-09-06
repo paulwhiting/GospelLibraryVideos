@@ -727,14 +727,6 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-120-tried-in-all-things-360p-eng.mp4" height="360p"/>
 </item>
 <item>
-        <id>2010-07-119-our-pioneer-legacy-eng</id>
-        <title>Our Pioneer Legacy</title>
-        <description>Elder Oaks teaches about our pioneer legacy (D&amp;C 136:1-11).</description>
-        <duration>78</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-119-our-pioneer-legacy-144x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-119-our-pioneer-legacy-480p-eng.mp4" height="480p"/>
-</item>
-<item>
         <id>2010-07-117-joseph-smith-prophet-of-the-restoration</id>
         <title>Joseph Smith&#x2014;Prophet of the Restoration</title>
         <description>(D&amp;C 135) This review of the Prophet Joseph Smith's ministry shows that he "has done more, save Jesus only, for the salvation of men in this world."</description>
@@ -765,10 +757,20 @@
 <content url="http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-0104-preparation-of-joseph-smith-tutored-by-heaven-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-0104-preparation-of-joseph-smith-tutored-by-heaven-720p-eng.mp4" height="720p"/>
 </item>
+<item>
+        <id>2010-07-102-hauns-mill-eng</id>
+        <title>Haun's Mill</title>
+        <description>President Eyring narrates a video portraying the events at Haun's Mill (D&amp;C 121).</description>
+        <duration>97</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-102-hauns-mill-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-102-hauns-mill.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-102-hauns-mill-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-102-hauns-mill-480p-eng.mp4" height="480p"/>
+</item>
 </channel>
   </rss>
 </category>
-<category title="Doctrine and Covenants Stories" subtitle="Videos: 65" img="http://media.ldscdn.org/thumbnails/doctrine-and-covenants/doctrine-and-covenants-stories-category-138x91.jpg">
+<category title="Doctrine and Covenants Stories" subtitle="Videos: 66" img="http://media.ldscdn.org/thumbnails/doctrine-and-covenants/doctrine-and-covenants-stories-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1419,6 +1421,16 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-59-chapter-58-a-new-leader-for-the-church-july-august-1844-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-59-chapter-58-a-new-leader-for-the-church-july-august-1844-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-59-chapter-58-a-new-leader-for-the-church-july-august-1844-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846</id>
+        <title>Chapter 59: Endowments Are Performed in the Nauvoo Temple (November 1845&#x2013;February 1846)</title>
+        <description>The Saints dedicate portions of the Nauvoo Temple as they are completed and perform many ordinances. The Saints are so eager that the temple remains open day and night.</description>
+        <duration>72</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-stories/2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2010-06-61-chapter-60-the-saints-leave-nauvoo-september-1845-september-1846</id>
