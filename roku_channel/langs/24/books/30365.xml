@@ -1,7 +1,36 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Ko ia ʻa e meʻaʻofá' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>Ko ia ʻa e meʻaʻofá</title>
+        <title>ʻOkú Ne Moʻui - Fakamanatua e Toetuʻú he ʻOku Moʻui ʻa Sīsū Kalaisi (2:25)</title>
+        <description></description>
+        <duration>145</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4143348491001/640/360/755703.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Koeʻuhí ko Ia (2:44)</title>
+        <description></description>
+        <duration>164</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3875353712001/1280/720/2046507.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3875353712001/1280/720/1725654.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3875353712001/1280/720/1455307.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3875353712001/640/360/760784.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Ko Ia ʻa e Meʻaʻofá (0:10)</title>
+        <description></description>
+        <duration>10</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3984619462001/1280/720/95461.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3984619462001/1280/720/90381.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3984619462001/1280/720/87298.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/3984619462001/640/360/35081.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Ko ia ʻa e meʻaʻofá (2:30)</title>
         <description></description>
         <duration>150</duration>
         <thumbnail url=''/>
@@ -10,5 +39,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3946565002001/1280/720/1442574.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3946565002001/640/360/763812.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

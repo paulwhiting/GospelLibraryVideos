@@ -1,7 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Тэр бол бэлэг' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>Тэр бол бэлэг</title>
+        <title>Есүс Христ амьд – Тэр амьд учраас Улаан өндөгний баярыг тэмдэглэдэг (2:26)</title>
+        <description></description>
+        <duration>146</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4134058548001/640/360/749788.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Тэр бол бэлэг (0:10)</title>
+        <description></description>
+        <duration>10</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/3900210985001/480/268/17888.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Тэр бол бэлэг (2:30)</title>
         <description></description>
         <duration>150</duration>
         <thumbnail url=''/>
@@ -10,5 +25,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/3946546820001/1280/720/1377724.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/3946546820001/640/360/789715.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>
