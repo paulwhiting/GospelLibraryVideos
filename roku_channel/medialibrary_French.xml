@@ -822,7 +822,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='L’Ancien Testament' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/old-testament-category-138x91.jpg'><category title='Introduction - Deutéronome' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/old-testament/introduction-deuteronomy-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='L’Ancien Testament' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/old-testament-category-138x91.jpg'><category title='Introduction - Deutéronome' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/old-testament/introduction-deuteronomy-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-50-i-am-a-son-of-god</id>
         <title>Je suis un fils de Dieu</title>
@@ -933,9 +933,36 @@
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-014-salvation-through-christ.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-014-salvation-through-christ-360p-fra.mp4' height='360p'/>
 </item>
+<item>
+        <id>2011-03-021-deliverance-of-abraham</id>
+        <title>La délivrance d’Abraham</title>
+        <description>(Abraham 1:1-20) Le Seigneur entend la prière d’Abraham et le délivre de ses ennemis.</description>
+        <duration>98</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-021-deliverance-of-abraham-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-021-deliverance-of-abraham.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-021-deliverance-of-abraham-360p-fra.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-024-abraham</id>
+        <title>abraham</title>
+        <description>(Genèse 17) Le Seigneur apparaît à Abraham et fait alliance avec lui.</description>
+        <duration>58</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-024-abraham-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-024-abraham.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-024-abraham-360p-fra.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-027-akedah-the-binding</id>
+        <title>Le sacrifice : les liens de l’alliance</title>
+        <description>(Abraham 1:1-20) Joseph B. Wirthlin encourage les membres de l’Église à faire des dons de jeûne généreux.</description>
+        <duration>777</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-027-akedah-the-binding-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-027-akedah-the-binding.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-027-akedah-the-binding-360p-fra.mp4' height='360p'/>
+</item>
 </channel></rss></category>
 </category>
-<category title='Le Nouveau Testament' subtitle='Videos: 57' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Histoires du Nouveau Testament' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Le Nouveau Testament' subtitle='Videos: 56' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Histoires du Nouveau Testament' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>Introduction : Le plan de notre Père céleste</title>
@@ -1069,7 +1096,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-58-chapter-54-jesus-is-risen-1080p-fra.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Vidéos sur la Bible : La vie de Jésus-Christ' subtitle='Videos: 44' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Vidéos sur la Bible : La vie de Jésus-Christ' subtitle='Videos: 43' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>Marie et Joseph se rendent à Bethléem</title>
@@ -1158,7 +1185,7 @@
 <item>
         <id>2011-10-018-jesus-is-condemned-before-pilate</id>
         <title>Jésus est condamné devant Pilate</title>
-        <description>On fait comparaître Jésus devant Pilate, qui le questionne. Il ne lui trouve aucune faute. Cédant à la foule, ilpermet que Barabbas soit relâché et que Jésus soit crucifié.</description>
+        <description>On fait comparaître Jésus devant Pilate, qui le questionne. Il ne lui trouve aucune faute. Cédant à la foule, il permet que Barabbas soit relâché et que Jésus soit crucifié.</description>
         <duration>196</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate.xml'/>
@@ -1314,8 +1341,8 @@
 </item>
 <item>
         <id>2011-10-052-the-greatest-commandment</id>
-        <title>Le grand commandement</title>
-        <description>Jésus déclare que le premier et le plus grand commandement est d’aimer Dieu de tout son cœur.</description>
+        <title>Le plus grand commandement</title>
+        <description>Jésus déclare que le premier et le plus grand commandement est d’aimer Dieu de tout son cœur.  </description>
         <duration>110</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment.xml'/>
@@ -1360,15 +1387,6 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-360p-fra.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-720p-fra.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-fra.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles</id>
-        <title>Pierre reçoit la révélation d’apporter l’Évangile aux Gentils</title>
-        <description>Pierre suit le commandement du Seigneur d’apporter l’Évangile aux Gentils.</description>
-        <duration>546</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-216x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-360p-fra.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me</id>
@@ -1488,7 +1506,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Messages mormons' subtitle='Videos: 50' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages mormons, 2009' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Messages mormons' subtitle='Videos: 48' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages mormons, 2009' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
         <title>Gordon B. Hinckley : Leçons de mon enfance</title>
@@ -1523,8 +1541,8 @@
 </item>
 <item>
         <id>2009-05-20-blessings-of-the-priesthood</id>
-        <title>Blessings of the Priesthood</title>
-        <description>La prêtrise est le pouvoir de Dieu. Elle est donnée aux hommes pour qu’ils agissent en son nom.</description>
+        <title>Les bénédictions de la Prêtrise</title>
+        <description>La prêtrise est le pouvoir de Dieu. Elle est donnée aux hommes pour qu’ils agissent en son nom.  </description>
         <duration>183</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood.xml'/>
@@ -1623,8 +1641,8 @@
 <category title='Messages mormons, 2010' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2010-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-01-01-prayer</id>
-        <title>prière</title>
-        <description>Apprenez de l’exemple d’une humble femme comment le pouvoir de la prière peut opérer des miracles dans notre vie.</description>
+        <title>La prière</title>
+        <description>Apprenez de l’exemple d’une humble femme comment le pouvoir de la prière peut opérer des miracles dans notre vie.      </description>
         <duration>250</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-01-prayer-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-01-01-prayer.xml'/>
@@ -1634,8 +1652,8 @@
 </item>
 <item>
         <id>2010-03-05-the-tender-mercies-of-the-lord</id>
-        <title>les tendres miséricordes du Seigneur</title>
-        <description>Les miséricordes que le Seigneur nous accorde se composent de bénédictions personnelles de force, de bonté, d’inspiration et de nombreux autres dons spirituels.</description>
+        <title>Les tendres miséricordes du Seigneur</title>
+        <description>Les miséricordes que le Seigneur nous accorde se composent de bénédictions personnelles de force, de bonté, d’inspiration et de nombreux autres dons spirituels.  </description>
         <duration>230</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord.xml'/>
@@ -1789,8 +1807,8 @@
 </item>
 <item>
         <id>2011-05-021-mormon-missionaries-an-introduction</id>
-        <title>Voici des Missionnaires mormons</title>
-        <description>Des missionnaires de l’Église de Jésus-Christ des Saints des Derniers Jours racontent comment ils suivent l’exhortation du Christ : « Faites de toutes les nations des disciples. »</description>
+        <title>Voici des missionnaires mormons</title>
+        <description>Des missionnaires de l’Église de Jésus-Christ des Saints des Derniers Jours racontent comment ils suivent l’exhortation du Christ : « Faites de toutes les nations des disciples. »    </description>
         <duration>147</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-021-mormon-missionaries-an-introduction-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-021-mormon-missionaries-an-introduction-360p-fra.mp4' height='360p'/>
@@ -1871,7 +1889,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-1080p-fra.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Messages mormons, 2012' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Messages mormons, 2012' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2012-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-01-001-power-of-god</id>
         <title>Le pouvoir de Dieu</title>
@@ -1893,28 +1911,6 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-360p-fra.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-720p-fra.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-1080p-fra.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2012-01-003-waiting-on-our-road-to-damascus</id>
-        <title>Waiting on Our Road to Damascus</title>
-        <description>Those who diligently seek to learn of Christ will eventually come to know Him. Read President Uchtdorf&apos;s full address here: http://bit.ly/gRCS4z</description>
-        <duration>226</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus.xml'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-360p-fra.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-720p-fra.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-1080p-fra.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2012-01-012-patterns-of-light-spirit-of-revelation</id>
-        <title>Motifs de lumière : l’Esprit de révélation</title>
-        <description>David A. Bednar parle des différents modèles de lumière que Dieu utilise pour communiquer avec nous et de la manière dont ils conduisent à l’esprit de révélation.</description>
-        <duration>185</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation.xml'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-360p-fra.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-720p-fra.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-1080p-fra.mp4' height='1080p'/>
 </item>
 <item>
         <id>2012-01-013-sharing-your-beliefs</id>

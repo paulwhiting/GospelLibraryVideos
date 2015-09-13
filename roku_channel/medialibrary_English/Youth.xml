@@ -478,7 +478,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Standards" subtitle="Videos: 81" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Standards" subtitle="Videos: 83" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2010-07-0001-no-regrets-eng</id>
         <title>No Regrets</title>
@@ -578,7 +578,17 @@
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-010-standards-sexual-purity-and-modesty-true-confidence-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Education" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/standards-standards/education-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Education" subtitle="Videos: 7" img="http://media.ldscdn.org/thumbnails/standards-standards/education-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2011-09-21-where-music-leads-eng</id>
+        <title>Where Music Leads</title>
+        <description>A young woman from Iowa wanted to learn how to lead music. But this Personal Progress project has led her down a path that affects her future.</description>
+        <duration>144</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/new-era-september-2011/2011-09-21-where-music-leads-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2010-07-0001-no-regrets-eng</id>
         <title>No Regrets</title>
@@ -1085,7 +1095,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1170-judging-others-stop-it-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Music and Dancing" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/standards-standards/music-and-dancing-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Music and Dancing" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/standards-standards/music-and-dancing-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-eng</id>
         <title>Stand Ye in Holy Places - Bloom Where You&#x2019;re Planted</title>
@@ -1096,6 +1106,16 @@
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-09-21-where-music-leads-eng</id>
+        <title>Where Music Leads</title>
+        <description>A young woman from Iowa wanted to learn how to lead music. But this Personal Progress project has led her down a path that affects her future.</description>
+        <duration>144</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/new-era-september-2011/2011-09-21-where-music-leads-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/new-era-september-2011/2011-09-21-where-music-leads-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-08-011-the-song-of-the-heart-eng</id>
@@ -2313,7 +2333,6 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-02-002-the-other-prodigal-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-02-002-the-other-prodigal-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-02-002-the-other-prodigal-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-02-002-the-other-prodigal-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-05-0060-the-magnificent-priesthood-eng</id>

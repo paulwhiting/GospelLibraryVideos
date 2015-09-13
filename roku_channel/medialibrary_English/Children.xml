@@ -3526,9 +3526,20 @@
 </channel>
   </rss>
 </category>
-<category title="Other Videos" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/children/other-videos-friend-category-138x91.jpg">
+<category title="Other Videos" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/children/other-videos-friend-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-08-001-what-should-i-do-when-i-see-pornography</id>
+        <title>What Should I Do When I See Pornography?</title>
+        <description>The challenges that children face today related to pornography are tremendous, but armed with the right information about what to do when they encounter it, they can successfully overcome the challenge and lead safe, happy lives.</description>
+        <duration>324</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography.xml"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2013-04-008-my-brother-hyrum</id>
         <title>My Brother Hyrum</title>
@@ -3609,6 +3620,16 @@
 <content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-23-draper-utah-temple-open-house-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-23-draper-utah-temple-open-house-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-23-draper-utah-temple-open-house-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-22-how-to-make-an-animated-story</id>
+        <title>How to Make an Animated Story</title>
+        <description>Make Your Own Animated Movie</description>
+        <duration>165</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/friend-videos/2011-12-22-how-to-make-an-animated-story-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-22-how-to-make-an-animated-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-22-how-to-make-an-animated-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/friend-videos/2011-12-22-how-to-make-an-animated-story-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-12-21-matt-l-of-pocatello-idaho</id>
