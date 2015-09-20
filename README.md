@@ -10,11 +10,11 @@ The Gospel Library Videos toolset is designed to enhance access to media content
 
 ## Accessing Church Media Online
 
-There are currently three different ways to access Church media online (besides going to videos.lds.org):
+There are currently four different ways to access Church media online (besides going to videos.lds.org):
 *  Run the Gospel Library Videos HTML 5 web application directly in your web browser at http://paulwhiting.github.io/GospelLibraryVideos/webapp.  Use your keyboard arrow keys to navigate left and right.  The enter key navigates into folders and plays/pauses videos.  The backspace key quits the player and returns to previous folders.  You may need to zoom in or out to properly fill your browser's screen.
-*  On your Amazon Fire TV device download the Gospel Library Videos app from the Amazon App Store.
 *  For Roku, visit https://owner.roku.com/add/GospelLibraryVideos to add the `Gospel Library Videos` channel to your Roku device.
-
+*  On your Amazon Fire TV device download the `Gospel Library Videos` app from the Amazon App Store.
+*  For all other Android TV devices, download the [app from the latest release](https://github.com/paulwhiting/GospelLibraryVideos/releases/download/v0.3.0-beta/Gospel.Library.Videos-0.3.0.apk) and sideload it to your device.  Because the app is sideloaded it probably won't appear on the main launch screen.  To mitigate this issue you can install a [sideload launcher](https://play.google.com/store/apps/details?id=eu.chainfire.tv.sideloadlauncher) to easily start the `Gospel Library Videos` app.
 
 ## Downloading Media for Offline Access
 
