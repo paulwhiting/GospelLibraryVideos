@@ -1296,7 +1296,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Conferencia General' subtitle='Videos: 327' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Abril 2015' subtitle='Videos: 98' img='http://media.ldscdn.org/thumbnails/april-2015-general-conference-category-138x81.jpg'><category title='Sesión General de Mujeres Abril 2015' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/general-womens-session-march-2015-category-2-138x91.jpg'><rss><channel><title/><description/>
+<category title='Conferencia General' subtitle='Videos: 328' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Abril 2015' subtitle='Videos: 98' img='http://media.ldscdn.org/thumbnails/april-2015-general-conference-category-138x81.jpg'><category title='Sesión General de Mujeres Abril 2015' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/general-womens-session-march-2015-category-2-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-03-0000-general-womens-session</id>
         <title>Sesión General de Mujeres</title>
@@ -2339,7 +2339,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Octubre 2014' subtitle='Videos: 82' img='http://media.ldscdn.org/thumbnails/general-conference/october-2014-category-138x91.jpg'><category title='Sesión General de Mujeres 2014' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/general-womens-session-september-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Octubre 2014' subtitle='Videos: 83' img='http://media.ldscdn.org/thumbnails/general-conference/october-2014-category-138x91.jpg'><category title='Sesión General de Mujeres 2014' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/general-womens-session-september-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-09-0000-general-womens-session</id>
         <title>Sesión General de MujeresSesión General de Mujeres</title>
@@ -2370,6 +2370,16 @@
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0020-jean-a-stevens-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-09-0030-video-presentation-the-holy-temple</id>
+        <title>Presentación en video</title>
+        <description>Presentación en video de la Reunión General de Mujeres de septiembre de 2014.</description>
+        <duration>308</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-1080p-spa.mp4' height='1080p'/>
 </item>
 <item>
         <id>2014-09-0040-neill-f-marriott</id>
@@ -4858,7 +4868,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Devocionales del SEI' subtitle='Videos: 32' img='http://media.ldscdn.org/thumbnails/ces-devotionals-category-138x91.jpg'><category title='Devocionales del SEI 2014' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2014-ces-devotionals-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Devocionales del SEI' subtitle='Videos: 42' img='http://media.ldscdn.org/thumbnails/ces-devotionals-category-138x91.jpg'><category title='Devocionales del SEI 2014' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2014-ces-devotionals-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-00-0030-be-still-and-know-that-i-am-god</id>
         <title>Quedaos tranquilos, y sabed que yo soy Dios</title>
@@ -4911,6 +4921,61 @@
 <content url='http://media2.ldscdn.org/assets/ces-devotionals/2014-ces-devotionals-for-young-adults/2014-00-0060-how-firm-a-foundation-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/ces-devotionals/2014-ces-devotionals-for-young-adults/2014-00-0060-how-firm-a-foundation-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/ces-devotionals/2014-ces-devotionals-for-young-adults/2014-00-0060-how-firm-a-foundation-1080p-spa.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Devocionales del SEI 2013' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2013-ces-devotionals-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2013-01-0010-what-is-truth</id>
+        <title>¿Qué es la verdad?</title>
+        <description>13 de enero de 2013: El presidente Dieter F. Uchtdorf comparte la manera de reconocer la luz y la verdad en nuestra vida y cómo reaccionar adecuadamente ante ellas.</description>
+        <duration>3202</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-01-0010-what-is-truth-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-01-0010-what-is-truth-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-01-0010-what-is-truth-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-01-0010-what-is-truth-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2013-03-0020-that-we-might-not--shrink-doctrine-and-covenants-1918</id>
+        <title>Para que “no… . . [desmayemos]” (Doctrina y Convenios 19:18)</title>
+        <description>3 de marzo de 2013: El élder David A. Bednar habla en cuanto a ser firmes y a someternos a la voluntad del Señor.</description>
+        <duration>3354</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-03-0020-that-we-might-not--shrink-dc-1918-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-03-0020-that-we-might-not--shrink-doctrine-and-covenants-1918-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-03-0020-that-we-might-not--shrink-doctrine-and-covenants-1918-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-03-0020-that-we-might-not--shrink-doctrine-and-covenants-1918-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2013-05-0040-our-prophet-thomas-s-monson</id>
+        <title>Nuestro profeta: Thomas S. Monson</title>
+        <description>5 de mayo de 2013: El élder William R. Walker explica cinco maneras en que las personas pueden seguir la vida y las enseñanzas del presidente Thomas S. Monson.</description>
+        <duration>3624</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-05-0040-our-prophet-thomas-s-monson-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-05-0040-our-prophet-thomas-s-monson.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-05-0040-our-prophet-thomas-s-monson-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-05-0040-our-prophet-thomas-s-monson-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-05-0040-our-prophet-thomas-s-monson-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose</id>
+        <title>Juventud bendita: ¿qué es lo que escogerán?</title>
+        <description>8 de septiembre de 2013: el élder Russell M. Nelson enseña que la juventud de la Iglesia debe empuñar el estandarte del Señor y ser faros de luz para atraer a los demás hacia Él.</description>
+        <duration>3478</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-09-0050-youth-of-the-noble-birthright-what-will-you-choose-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2013-11-0060-i-will-give-myself-to-him</id>
+        <title>Me entregaré a Él</title>
+        <description>3 de noviembre de 2013: El hermano Russell T. Osguthorpe enseña a los jóvenes adultos principios que nos permiten controlar el hombre natural y entregarnos al Señor.</description>
+        <duration>3652</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-11-0060-i-will-give-myself-to-him-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-11-0060-i-will-give-myself-to-him.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-11-0060-i-will-give-myself-to-him-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-11-0060-i-will-give-myself-to-him-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/ces-devotionals/2013-ces-devotionals-for-young-adults/2013-11-0060-i-will-give-myself-to-him-1080p-spa.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Devocionales del SEI 2012' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2012-ces-devotionals-category-138x91.jpg'><rss><channel><title/><description/>
@@ -5091,6 +5156,54 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/ces-firesides/2009-ces-firesides-for-young-adults/2009-01-0010-great-expectations-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2009-ces-firesides-for-young-adults/2009-01-0010-great-expectations.xml'/>
 <content url='http://media2.ldscdn.org/assets/ces-firesides/2009-ces-firesides-for-young-adults/2009-01-0010-great-expectations-360p-spa.mp4' height='360p'/>
+</item>
+</channel></rss></category>
+<category title='2008 CES Firesides' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2008-ces-firesides-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2008-01-0010-the-simple-truths-from-heaven-the-lords-pattern</id>
+        <title>Las verdades sencillas del cielo: La norma del Señor</title>
+        <description>13 de enero de 2008: El élder Earl C. Tingey aconseja a los jóvenes adultos con respecto al gozo eterno del matrimonio y la familia.</description>
+        <duration>2571</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2008-ces-devotionals-for-young-adults/2008-01-0010-the-simple-truths-from-heaven-the-lords-pattern-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2008-ces-firesides-for-young-adults/2008-01-0010-the-simple-truths-from-heaven-the-lords-pattern.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-01-0010-the-simple-truths-from-heaven-the-lords-pattern-360p-spa.mp4' height='360p'/>
+</item>
+<item>
+        <id>2008-03-0020-unlocking-the-door-to-the-blessings-of-abraham</id>
+        <title>Cómo abrir la puerta a las bendiciones de Abraham</title>
+        <description>2 de marzo de 2008: La hermana Julie B. Beck habla acerca de la manera en que podemos tener acceso y obtener las bendiciones prometidas a Abraham y a su descendencia.</description>
+        <duration>2682</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2008-ces-devotionals-for-young-adults/2008-03-0020-unlocking-the-door-to-the-blessings-of-abraham-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2008-ces-firesides-for-young-adults/2008-03-0020-unlocking-the-door-to-the-blessings-of-abraham.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-03-0020-unlocking-the-door-to-the-blessings-of-abraham-360p-spa.mp4' height='360p'/>
+</item>
+<item>
+        <id>2008-05-0030-power-and-protection-provided-by-worthy-music</id>
+        <title>El poder y la protección que brinda la música inspiradora</title>
+        <description>4 de mayo de 2008: El élder Russell M. Nelson les dice a los jóvenes adultos que la música digna puede brindar tanto poder como protección contra la degradación espiritual y temporal.</description>
+        <duration>1891</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2008-ces-devotionals-for-young-adults/2008-05-0030-power-and-protection-provided-by-worthy-music-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2008-ces-firesides-for-young-adults/2008-05-0030-power-and-protection-provided-by-worthy-music.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-05-0030-power-and-protection-provided-by-worthy-music-360p-spa.mp4' height='360p'/>
+</item>
+<item>
+        <id>2008-09-0040-lessons-from-liberty-jail</id>
+        <title>Las enseñanzas de la cárcel de Liberty</title>
+        <description>7 de septiembre de 2008: El élder Jeffrey R. Holland habla acerca de las lecciones que podemos aprender de los acontecimientos que ocurrieron en la cárcel de Liberty.</description>
+        <duration>2848</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-devotionals/2008-ces-devotionals-for-young-adults/2008-09-0040-lessons-from-liberty-jail-144x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2008-ces-firesides-for-young-adults/2008-09-0040-lessons-from-liberty-jail.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-09-0040-lessons-from-liberty-jail-360p-spa.mp4' height='360p'/>
+</item>
+<item>
+        <id>2008-11-0050-what-manner-of-men-and-women-ought-ye-to-be</id>
+        <title>¿Qué clase de hombres y mujeres habéis de ser?</title>
+        <description>2 de noviembre de 2008: El obispo H. David Burton habla sobre lo que constituye el verdadero éxito en la vida.</description>
+        <duration>2566</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/ces-firesides/2008-ces-firesides-for-young-adults/2008-11-0050-what-manner-of-men-and-women-ought-ye-to-be-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/ces-firesides/2008-ces-firesides-for-young-adults/2008-11-0050-what-manner-of-men-and-women-ought-ye-to-be.xml'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-11-0050-what-manner-of-men-and-women-ought-ye-to-be-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/ces-firesides/2008-ces-firesides-for-young-adults/2008-11-0050-what-manner-of-men-and-women-ought-ye-to-be-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='Devocionales del SEI 2007' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/ces-devotionals/2007-ces-firesides-category-138x91.jpg'><rss><channel><title/><description/>

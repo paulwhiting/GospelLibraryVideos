@@ -147,7 +147,7 @@
 </channel>
   </rss>
 </category>
-<category title="Mormon Channel Music Videos" subtitle="Videos: 7" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/2012-10-003-something-divine-brooke-white-138x91-thumb.jpg">
+<category title="Mormon Channel Music Videos" subtitle="Videos: 6" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/2012-10-003-something-divine-brooke-white-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -202,18 +202,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-music-videos/2012-07-001-have-i-done-any-good-in-the-world-today-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-12-001-the-coat</id>
-        <title>The Coat</title>
-        <description>The Coat is a children&#x2019;s story that depicts a young boy giving selflessly to another child in need.</description>
-        <duration>127</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-12-001-the-coat-138x91.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-channel-stories/2011-12-001-the-coat.xml"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="mp3"/>
-</item>
-<item>
         <id>2012-01-002-see-you-on-the-other-side-shaun-canon</id>
         <title>See You On the Other Side - Shaun Canon</title>
         <description>Shaun Canon sings "See You on the Other Side" about seeing our loved ones again after death. The gospel of Jesus Christ provides comfort by knowing that because of God's plan we can see our loved ones who have passed on to "the other side."&#xA0;</description>
@@ -225,7 +213,7 @@
 </channel>
   </rss>
 </category>
-<category title="Mormon Channel Videos" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/mormon-channel-programs-category-138x91.jpg">
+<category title="Mormon Channel Videos" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/mormon-channel-programs-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -324,18 +312,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories-2012/2012-01-003-receiving-revelation-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories-2012/2012-01-003-receiving-revelation-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories-2012/2012-01-003-receiving-revelation-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-12-001-the-coat</id>
-        <title>The Coat</title>
-        <description>The Coat is a children&#x2019;s story that depicts a young boy giving selflessly to another child in need.</description>
-        <duration>127</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-12-001-the-coat-138x91.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/mormon-channel/mormon-channel-stories/2011-12-001-the-coat.xml"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="mp3"/>
 </item>
 <item>
         <id>2015-01-001-his-grace-drug-addiction-and-the-loss-of-a-loved-one</id>
