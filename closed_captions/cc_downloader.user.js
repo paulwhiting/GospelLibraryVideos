@@ -77,6 +77,7 @@ function updateGMDatabase() {
     GM_xmlhttpRequest({
         method: "GET",
         cache: false,
+        ignorecache: true,
         url: g_url,
         onload: function(response) {
             var json = $.parseJSON(response.responseText);
