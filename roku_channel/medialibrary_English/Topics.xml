@@ -2834,6 +2834,16 @@
   <rss>
     <channel><title/><description/>
 <item>
+        <id>2015-09-001-family-night</id>
+        <title>Family Night</title>
+        <description>Share your #FamilyNight</description>
+        <duration>96</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/fhe-social-media-campaign/2015-09-001-family-night-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/fhe-social-media-campaign/2015-09-001-family-night-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/fhe-social-media-campaign/2015-09-001-family-night-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/fhe-social-media-campaign/2015-09-001-family-night-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2014-12-011-protect-our-nestlings</id>
         <title>Protect Our Nestlings</title>
         <description>We live in a very dangerous world that threatens those things that are most spiritual. The family is under attack from forces seen and unseen. We need to live in such a way that the adversary cannot steal into our homes.</description>
@@ -3148,15 +3158,6 @@
         <thumbnail url="http://media.ldscdn.org/thumbnails/2009-04-024-homework-138x81.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/news-and-public-affairs/homefronts/2009-04-024-homework.xml"/>
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-024-homework-360p-eng.mp4" height="360p"/>
-</item>
-<item>
-        <id>2009-04-025-i-want-drink-eng</id>
-        <title>I Want Drink</title>
-        <description>A father tries to be patient as his little boy repeatedly wakes him up in the middle of the night requesting a drink of water.</description>
-        <duration>61</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2009-04-025-i-want-drink-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/news-and-public-affairs/homefronts/2009-04-025-i-want-drink.xml"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-025-i-want-drink-360p-eng.mp4" height="360p"/>
 </item>
 <item>
         <id>2009-04-026-ive-put-it-off-too-long-eng</id>
@@ -8686,9 +8687,29 @@
 </channel>
   </rss>
 </category>
-<category title="Sabbath Day" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
+<category title="Sabbath Day" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-08-005-help-or-hinder</id>
+        <title>Help or Hinder</title>
+        <description>Does technology help or hinder your worship?</description>
+        <duration>33</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/sabbath-days-videos/2015-08-005-help-or-hinder-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-005-help-or-hinder-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-005-help-or-hinder-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-005-help-or-hinder-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-08-004-connect-to-the-spirit-of-god</id>
+        <title>Connect to the Spirit of God</title>
+        <description>We need a special place of refuge where we can wean ourselves from the distractions of our electronic devices by unplugging them so we can connect to the Spirit of God.</description>
+        <duration>21</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/sabbath-days-videos/2015-08-004-unplug-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-004-connect-to-the-spirit-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-004-connect-to-the-spirit-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-004-connect-to-the-spirit-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors</id>
         <title>Make the Sabbath a Delight by Finding Your Ancestors</title>

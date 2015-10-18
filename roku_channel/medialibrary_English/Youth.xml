@@ -5073,9 +5073,19 @@
 </channel>
   </rss>
 </category>
-<category title="Youth Media" subtitle="Videos: 14" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-01-013-guided-safely-home</id>
+        <title>Guided Safely Home</title>
+        <description>We live in a world full of conflict, and we will sink without a sense of direction. Jesus Christ provides that direction, and living His teachings will steer us safely home. What will you do to reach up and obtain heavenly help today?</description>
+        <duration>163</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-013-guided-safely-home-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-013-guided-safely-home-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-013-guided-safely-home-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-013-guided-safely-home-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-01-012-dangerous-tides</id>
         <title>Dangerous Tides</title>

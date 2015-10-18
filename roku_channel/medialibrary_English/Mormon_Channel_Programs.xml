@@ -390,7 +390,7 @@
 </channel>
   </rss>
 </category>
-<category title="Happy Families" subtitle="Videos: 5" img="http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/families-playlist-138x91.png">
+<category title="Happy Families" subtitle="Videos: 8" img="http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/families-playlist-138x91.png">
   <rss>
     <channel><title/><description/>
 <item>
@@ -433,6 +433,36 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-03-003-a-family-culture-of-love-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-03-003-a-family-culture-of-love-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-03-003-a-family-culture-of-love-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-05-0050-what-family-means</id>
+        <title>What Family Means</title>
+        <description>The Davies bring new meaning to the phrase &#x201C;one big, happy family.&#x201D; With seven kids, Jim and Becky Davies&#x2019; family is bigger than they had dreamed it could be.</description>
+        <duration>296</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/happy-families-2015/2015-05-0050-adoption-meant-to-be-together-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-05-0050-adoption-meant-to-be-together-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-05-0050-adoption-meant-to-be-together-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-05-0050-adoption-meant-to-be-together-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-02-002-a-recipe-for-a-happy-family</id>
+        <title>A Recipe For a Happy Family</title>
+        <description>Too many cooks in the kitchen? That is never a problem for the Chavez family. In fact, making a delicious meal elbow-to-elbow is their favorite way to spend time together.</description>
+        <duration>251</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/happy-families-2015/2015-02-002-a-recipe-for-a-happy-family-happy-families-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-02-002-a-recipe-for-a-happy-family-happy-families-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-02-002-a-recipe-for-a-happy-family-happy-families-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-02-002-a-recipe-for-a-happy-family-happy-families-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-01-001-make-it-a-good-day</id>
+        <title>Make It a Good Day</title>
+        <description>&#x201C;I think being a mom is the most important job in the world&#x2014;and I&#x2019;m not joking,&#x201D; says mother Clair Kenny, whose big family stars in the first episode of Mormon Channel&#x2019;s brand new video series, &#x201C;Happy Families.&#x201D;</description>
+        <duration>264</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/happy-families-2015/2015-01-001-make-it-a-good-day-happy-families-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-01-001-make-it-a-good-day-happy-families-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-01-001-make-it-a-good-day-happy-families-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/happy-families-2015/2015-01-001-make-it-a-good-day-happy-families-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2015-04-004-blending-families-love-is-key</id>
