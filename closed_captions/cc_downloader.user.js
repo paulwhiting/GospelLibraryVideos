@@ -103,6 +103,8 @@ function addCCLink( jNode ) {
             return;
         }
     }
+    var notfound = '<li><a href="' + g_json[link] + '">Closed Captions (TTML)</a><span></span></li>';
+    $('#download-popup > ul').prepend(cc_node);
 }
 
 

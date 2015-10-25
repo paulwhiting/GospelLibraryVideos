@@ -5057,9 +5057,19 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Face to Face" subtitle="Videos: 1" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
+<category title="Face to Face" subtitle="Videos: 2" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-10-1000-face-to-face-with-the-piano-guys</id>
+        <title>Face to Face with The Piano Guys</title>
+        <description>Face to Face with the Piano Guys.</description>
+        <duration>4061</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-the-piano-guys/2015-10-000-face-to-face-with-the-piano-guys-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-the-piano-guys/2015-10-1000-face-to-face-with-the-piano-guys-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-the-piano-guys/2015-10-1000-face-to-face-with-the-piano-guys-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-the-piano-guys/2015-10-1000-face-to-face-with-the-piano-guys-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-05-1000-face-to-face-with-elder-and-sister-bednar</id>
         <title>Face to Face with Elder and Sister Bednar</title>

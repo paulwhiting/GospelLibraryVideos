@@ -1720,9 +1720,18 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Church History" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/church-history/02-church-history-category-138x91.jpg">
+<category title="Church History" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/church-history/02-church-history-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-10-100-church-history-museum-documentary</id>
+        <title>Church History Museum Documentary</title>
+        <description>A documentary about the Church History Museum, its renovation, and the unveiling of the new main exhibit "The Heavens are Opened."</description>
+        <duration>1347</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/church-history/church-history-museum-renovation-documentary/2015-10-100-church-history-museum-documentary-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/church-history/church-history-museum-renovation-documentary/2015-10-100-church-history-museum-documentary-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/church-history/church-history-museum-renovation-documentary/2015-10-100-church-history-museum-documentary-720p-eng.mp4" height="720p"/>
+</item>
 <item>
         <id>2013-08-01-glad-tidings-the-history-of-baptisms-for-the-dead</id>
         <title>Glad Tidings: The History of Baptisms for the Dead</title>
