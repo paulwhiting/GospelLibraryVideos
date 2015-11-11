@@ -215,16 +215,27 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Generalkonferenz' subtitle='Videos: 48' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Oktober 2015' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/october-2015-general-conference-category-138x91.jpg'><category title='Die Allgemeine Schwesternversammlung im September 2015' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/general-womens-session-oct-2015-138x91-thumb.jpg'><rss><channel><title/><description/>
+<category title='Generalkonferenz' subtitle='Videos: 90' img='http://media.ldscdn.org/thumbnails/general-conference-category-138x91.jpg'><category title='Oktober 2015' subtitle='Videos: 45' img='http://media.ldscdn.org/thumbnails/october-2015-general-conference-category-138x91.jpg'><category title='Die Allgemeine Schwesternversammlung im September 2015' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/general-womens-session-oct-2015-138x91-thumb.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-09-0000-general-womens-session</id>
         <title>Allgemeine Schwesternversammlung</title>
         <description>Allgemeine Schwesternversammlung der Herbst-Generalkonferenz 2015.</description>
         <duration>5344</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-09-0000-general-womens-session-192x108-thumb.jpg'/>
+<subtitles url='https://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0000-general-womens-session.xml'/>
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0000-general-womens-session-360p-deu.mp4' height='360p'/>
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0000-general-womens-session-720p-deu.mp4' height='720p'/>
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0000-general-womens-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-09-0010-rosemary-m-wixom</id>
+        <title>Wir müssen das Göttliche in uns entdecken</title>
+        <description>Sister Wixom teaches that we each came to earth with a divine nature. Understanding and developing our divine nature helps us know why we are here on earth; it also helps us know that Heavenly Father loves us.</description>
+        <duration>679</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-09-0010-rosemary-m-wixom-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0010-rosemary-m-wixom-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0010-rosemary-m-wixom-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0010-rosemary-m-wixom-1080p-deu.mp4' height='1080p'/>
 </item>
 <item>
         <id>2015-09-0020-mother-in-israel</id>
@@ -237,6 +248,16 @@
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0020-mother-in-israel-1080p-deu.mp4' height='1080p'/>
 </item>
 <item>
+        <id>2015-09-0030-linda-s-reeves</id>
+        <title>Der uns verheißenen Segnungen würdig</title>
+        <description>Linda S. Reeves legt den Schwestern ans Herz, immer an die Segnungen zu denken, die der Vater im Himmel ihnen dafür verheißt, dass sie das Evangelium leben.</description>
+        <duration>682</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-09-0030-linda-s-reeves-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0030-linda-s-reeves-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0030-linda-s-reeves-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0030-linda-s-reeves-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
         <id>2015-09-0040-sisters-in-zion</id>
         <title>Schwestern in Zion</title>
         <description>Nicole hat ihre „Schwester“ vor zehn Jahren in der FHV kennengelernt. Schauen Sie sich an, welche Veränderung ihre „Schwester“ seither in ihrem Leben bewirkt hat.</description>
@@ -245,6 +266,416 @@
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0040-sisters-in-zion-360p-deu.mp4' height='360p'/>
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0040-sisters-in-zion-720p-deu.mp4' height='720p'/>
 <content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0040-sisters-in-zion-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-09-0050-carol-f-mcconkie</id>
+        <title>Wir dienen in einem gerechten Werk</title>
+        <description>Schwester Carol F. McConkie fordert Mädchen und Frauen jeden Alters auf, in einem gerechten Werk zu dienen und mitzuhelfen, das Reich Gottes aufzubauen.</description>
+        <duration>686</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-09-0050-carol-f-mcconkie-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0050-carol-f-mcconkie-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0050-carol-f-mcconkie-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0050-carol-f-mcconkie-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-09-0060-president-dieter-f-uchtdorf</id>
+        <title>Ein Sommer bei Großtante Rose</title>
+        <description>Präsident Uchtdorf erzählt die Geschichte von einem Mädchen, das einen Sommer bei seiner Großtante verbringt und dabei etwas über Glaube, Hoffnung und Liebe lernt.</description>
+        <duration>1264</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-09-0060-president-dieter-f-uchtdorf-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0060-president-dieter-f-uchtdorf-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0060-president-dieter-f-uchtdorf-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-09-0060-president-dieter-f-uchtdorf-1080p-deu.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Versammlung am Samstagvormittag der Herbst-Generalkonferenz 2015' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/october-2015-saturday-morning-session-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-1000-saturday-morning-session</id>
+        <title>Versammlung am Samstagvormittag</title>
+        <description>Versammlung am Samstagvormittag der Herbst-Generalkonferenz 2015.</description>
+        <duration>7290</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1000-saturday-morning-session-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1000-saturday-morning-session-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1000-saturday-morning-session-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1000-saturday-morning-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1010-president-dieter-f-uchtdorf</id>
+        <title>Es funktioniert ganz wunderbar!</title>
+        <description>Präsident Uchtdorf empfiehlt uns, den Weg eines Jüngers einfacher anzugehen, wenn wir das Gefühl haben, dass das Evangelium in unserem Leben nicht funktioniert.</description>
+        <duration>1075</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1010-president-dieter-f-uchtdorf-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1010-president-dieter-f-uchtdorf-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1010-president-dieter-f-uchtdorf-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1010-president-dieter-f-uchtdorf-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1020-elder-m-russell-ballard</id>
+        <title>Gott steht am Ruder</title>
+        <description>Elder M. Russell Ballard führt uns vor Augen, dass Gott am Ruder steht und dass wir gesegnet und behütet werden, wenn wir die Bündnisse, die wir eingegangen sind, auch halten.</description>
+        <duration>944</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1020-elder-m-russell-ballard-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1020-elder-m-russell-ballard-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1020-elder-m-russell-ballard-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1020-elder-m-russell-ballard-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1030-elder-richard-j-maynes</id>
+        <title>Die Freude eines auf Christus ausgerichteten Lebens</title>
+        <description>Elder Maynes spricht darüber, wie ein auf Christus ausgerichtetes Leben selbst angesichts von Widrigkeiten Frieden, Glück und Freude bringen kann.</description>
+        <duration>706</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1030-elder-richard-j-maynes-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1030-elder-richard-j-maynes-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1030-elder-richard-j-maynes-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1030-elder-richard-j-maynes-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1040-neill-f-marriott</id>
+        <title>Wenn man sein Herz Gott hingibt</title>
+        <description>Schwester Marriott erklärt, dass die Wege des Herrn unsere Wege werden können, wenn wir demütig und empfänglich für seinen Geist sind.</description>
+        <duration>579</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1040-neill-f-marriott-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1040-neill-f-marriott-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1040-neill-f-marriott-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1040-neill-f-marriott-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1050-elder-larry-r-lawrence</id>
+        <title>Was fehlt mir jetzt noch?</title>
+        <description>Elder Lawrence spricht darüber, dass uns der Heilige Geist durch speziell auf uns zugeschnittene Offenbarung wissen lässt, wie wir uns verbessern können.</description>
+        <duration>624</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1050-elder-larry-r-lawrence-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1050-elder-larry-r-lawrence-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1050-elder-larry-r-lawrence-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1050-elder-larry-r-lawrence-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1060-elder-francisco-j-vinas</id>
+        <title>Das angenehme Wort Gottes</title>
+        <description>Elder Francisco J. Viñas erklärt, dass „das angenehme Wort Gottes“ uns in unseren Bedrängnissen heilen und uns dahin führen kann, dass der Heilige Geist bei uns ist, weil wir aufrichtig und beständig umkehren.</description>
+        <duration>678</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1060-elder-francisco-j-vinas-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1060-elder-francisco-j-vinas-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1060-elder-francisco-j-vinas-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1060-elder-francisco-j-vinas-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-1070-elder-quentin-l-cook</id>
+        <title>Mustergültig und erstklassig: Seien Sie tempelwürdig – in guten wie in schlechten Zeiten</title>
+        <description>Quentin L. Cook spricht über drei Prinzipien, wie man persönlich an Rechtschaffenheit zunehmen kann und dadurch sowohl in diesem Leben als auch im Jenseits glücklich wird.</description>
+        <duration>936</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-1070-elder-quentin-l-cook-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1070-elder-quentin-l-cook-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1070-elder-quentin-l-cook-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-1070-elder-quentin-l-cook-1080p-deu.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Versammlung am Samstagnachmittag der Herbst-Generalkonferenz 2015' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/october-2015-saturday-afternoon-session-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-2000-saturday-afternoon-session</id>
+        <title>Versammlung am Samstagnachmittag</title>
+        <description>Versammlung am Samstagnachmittag der Herbst-Generalkonferenz 2015.</description>
+        <duration>7112</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2000-saturday-afternoon-session-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2000-saturday-afternoon-session-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2000-saturday-afternoon-session-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2000-saturday-afternoon-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2010-the-sustaining-of-church-officers</id>
+        <title>Die Bestätigung der Beamten der Kirche</title>
+        <description>Dieter F. Uchtdorf legt die Namen der Generalautoritäten und der führenden Amtsträger der Kirche zur Bestätigung vor.</description>
+        <duration>305</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2010-the-sustaining-of-church-officers-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2010-the-sustaining-of-church-officers-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2010-the-sustaining-of-church-officers-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2010-the-sustaining-of-church-officers-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2020-elder-robert-d-hales</id>
+        <title>Die Herausforderungen der heutigen Welt meistern</title>
+        <description>Elder Hales spricht zu den jungen Erwachsenen darüber, wie man hinsichtlich Bildung, Heirat und Kirche kluge Entscheidungen trifft und für die Zukunft plant.</description>
+        <duration>873</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2020-elder-robert-d-hales-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2020-elder-robert-d-hales-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2020-elder-robert-d-hales-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2020-elder-robert-d-hales-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2030-elder-jeffrey-r-holland</id>
+        <title>Siehe, deine Mutter</title>
+        <description>Jeffrey R. Holland zollt der Kraft, der Hingabe, dem Einfluss und der Liebe von Müttern Tribut.</description>
+        <duration>1003</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2030-elder-jeffrey-r-holland-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2030-elder-jeffrey-r-holland-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2030-elder-jeffrey-r-holland-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2030-elder-jeffrey-r-holland-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2040-elder-bradley-d-foster</id>
+        <title>Es ist niemals zu früh und niemals zu spät</title>
+        <description>Elder Bradley D. Foster erklärt uns, dass es niemals zu früh und niemals zu spät ist, unseren Kindern das Evangelium Jesu Christi beizubringen.</description>
+        <duration>619</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2040-elder-bradley-d-foster-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2040-elder-bradley-d-foster-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2040-elder-bradley-d-foster-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2040-elder-bradley-d-foster-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2050-elder-hugo-montoya</id>
+        <title>Geprüft und versucht – aber nicht ohne Hilfe</title>
+        <description>Elder Hugo Montoya macht uns darauf aufmerksam, dass wir zwar geprüft und versucht werden, uns aber gegenseitig helfen können, unsere Prüfungen durch das Sühnopfer Jesu Christi zu meistern.</description>
+        <duration>565</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2050-elder-hugo-montoya-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2050-elder-hugo-montoya-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2050-elder-hugo-montoya-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2050-elder-hugo-montoya-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2060-elder-vern-p-stanfill</id>
+        <title>Choose the Light</title>
+        <description>Elder Vern P. Stanfill encourages Church members to seek light and spiritual power by heeding prophetic counsel, acting upon spiritual promptings, and obeying God’s commandments.</description>
+        <duration>591</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2060-elder-vern-p-stanfill-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2060-elder-vern-p-stanfill-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2060-elder-vern-p-stanfill-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2060-elder-vern-p-stanfill-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2070-elder-james-b-martino</id>
+        <title>Wenden Sie sich dem Herrn zu und die Antworten kommen</title>
+        <description>Elder Martino spricht darüber, wie uns Gehorsam, Schriftstudium, Beten und Fasten dabei helfen, den Geist zu spüren und Antworten auf unsere Fragen zu finden.</description>
+        <duration>628</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2070-elder-james-b-martino-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2070-elder-james-b-martino-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2070-elder-james-b-martino-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2070-elder-james-b-martino-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-2080-elder-dallin-h-oaks</id>
+        <title>Strengthened by the Atonement of Jesus Christ</title>
+        <description>Elder Dallin H. Oaks&apos;s address at the October 2015 General Conference.</description>
+        <duration>954</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-2080-elder-dallin-h-oaks-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2080-elder-dallin-h-oaks-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2080-elder-dallin-h-oaks-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-2080-elder-dallin-h-oaks-1080p-deu.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Priestertumsversammlung der Herbst-Generalkonferenz 2015' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/october-2015-priesthood-session-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-3000-general-priesthood-session</id>
+        <title>Allgemeine Priestertumsversammlung</title>
+        <description>Allgemeine Priestertumsversammlung der Herbst-Generalkonferenz 2015.</description>
+        <duration>6247</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3000-general-priesthood-session-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3000-general-priesthood-session-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3000-general-priesthood-session-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3000-general-priesthood-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-3010-elder-neil-l-andersen</id>
+        <title>Glaube ist kein Zufall, sondern eine Entscheidung</title>
+        <description>Elder Andersen spricht darüber, wie man sich dafür entscheidet, seinen Glauben zu stärken und zu schützen.</description>
+        <duration>901</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3010-elder-neil-l-andersen-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3010-elder-neil-l-andersen-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3010-elder-neil-l-andersen-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3010-elder-neil-l-andersen-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-3020-elder-randall-k-bennett</id>
+        <title>Ihr nächster Schritt</title>
+        <description>Randall K. Bennett legt Grundsätze dar, die uns helfen, die nächsten Schritte hin zum Vater im Himmel und zu unserem Erlöser zu machen, die uns mit offenen Armen erwarten.</description>
+        <duration>591</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3020-elder-randall-k-bennett-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3020-elder-randall-k-bennett-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3020-elder-randall-k-bennett-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3020-elder-randall-k-bennett-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-3030-president-dieter-f-uchtdorf</id>
+        <title>Sei ohne Furcht; glaube nur!</title>
+        <description>Präsident Dieter F. Uchtdorfs Ansprache bei der Herbst-Generalkonferenz 2015.</description>
+        <duration>1170</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3030-president-dieter-f-uchtdorf-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3030-president-dieter-f-uchtdorf-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3030-president-dieter-f-uchtdorf-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3030-president-dieter-f-uchtdorf-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-3040-president-henry-b-eyring</id>
+        <title>Sie sind im Werk des Herrn nicht allein</title>
+        <description>President Henry B. Eyring&apos;s address at the October 2015 General Conference.</description>
+        <duration>948</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3040-president-henry-b-eyring-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3040-president-henry-b-eyring-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3040-president-henry-b-eyring-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3040-president-henry-b-eyring-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-3050-president-thomas-s-monson</id>
+        <title>Haltet die Gebote!</title>
+        <description>President Thomas S. Monson&apos;s address at the October 2015 General Conference.</description>
+        <duration>864</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-3050-president-thomas-s-monson-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3050-president-thomas-s-monson-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3050-president-thomas-s-monson-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-3050-president-thomas-s-monson-1080p-deu.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Versammlung am Sonntagvormittag der Herbst-Generalkonferenz 2015' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/october-2015-sunday-morning-session-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-4000-sunday-morning-session</id>
+        <title>Versammlung am Sonntagvormittag</title>
+        <description>Versammlung am Sonntagvormittag der Herbst-Generalkonferenz 2015.</description>
+        <duration>7110</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4000-sunday-morning-session-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4000-sunday-morning-session-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4000-sunday-morning-session-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4000-sunday-morning-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4010-president-thomas-s-monson</id>
+        <title>Be an Example and a Light</title>
+        <description>President Thomas S. Monson&apos;s address at the October 2015 General Conference.</description>
+        <duration>818</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4010-president-thomas-s-monson-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4010-president-thomas-s-monson-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4010-president-thomas-s-monson-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4010-president-thomas-s-monson-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4030-elder-gary-e-stevenson</id>
+        <title>Klare und kostbare Wahrheiten</title>
+        <description>Elder Gary E. Stevenson beschreibt, wie er ins Kollegium der Zwölf Apostel berufen wurde, und gibt Zeugnis von den klaren und kostbaren Wahrheiten des Evangeliums.</description>
+        <duration>430</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4030-elder-gary-e-stevenson-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4030-elder-gary-e-stevenson-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4030-elder-gary-e-stevenson-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4030-elder-gary-e-stevenson-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4050-president-russell-m-nelson</id>
+        <title>Eine Bitte an meine Schwestern</title>
+        <description>Präsident Russell M. Nelson spricht lobend über den Beitrag, den Frauen in der Kirche und anderswo leisten. Er appelliert an die Frauen, ihre Bündnisse zu halten.</description>
+        <duration>933</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4050-president-russell-m-nelson-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4050-president-russell-m-nelson-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4050-president-russell-m-nelson-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4050-president-russell-m-nelson-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4060-elder-gregory-a-schwitzer</id>
+        <title>Klar erschalle der Trompete Ton</title>
+        <description>Gregory A. Schwitzer legt den Heiligen der Letzten Tage ans Herz, unerschrocken und unmissverständlich für die Kirche Jesu Christi und deren Lehre einzutreten.</description>
+        <duration>599</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4060-elder-gregory-a-schwitzer-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4060-elder-gregory-a-schwitzer-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4060-elder-gregory-a-schwitzer-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4060-elder-gregory-a-schwitzer-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4070-elder-claudio-r-m-costa</id>
+        <title>That They Do Always Remember Him</title>
+        <description>Elder Costa teaches how pondering the life and Atonement of Christ can make the sacrament more meaningful and invite the companionship of the Spirit.</description>
+        <duration>646</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4070-elder-claudio-r-m-costa-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4070-elder-claudio-r-m-costa-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4070-elder-claudio-r-m-costa-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4070-elder-claudio-r-m-costa-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-4080-president-henry-b-eyring</id>
+        <title>The Holy Ghost as Your Companion</title>
+        <description>Henry B. Eyring encourages members to seek the companionship of the Holy Ghost, who provides protection, guidance, and comfort.</description>
+        <duration>1036</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-4080-president-henry-b-eyring-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4080-president-henry-b-eyring-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4080-president-henry-b-eyring-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-4080-president-henry-b-eyring-1080p-deu.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Versammlung am Sonntagnachmittag der Herbst-Generalkonferenz 2015' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/october-2015-sunday-afternoon-session-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-5000-sunday-afternoon-session</id>
+        <title>Versammlung am Sonntagnachmittag</title>
+        <description>Versammlung am Sonntagnachmittag der Herbst-Generalkonferenz 2015.</description>
+        <duration>7291</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5000-sunday-afternoon-session-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5000-sunday-afternoon-session-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5000-sunday-afternoon-session-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5000-sunday-afternoon-session-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5010-elder-d-todd-christofferson</id>
+        <title>Warum die Kirche?</title>
+        <description>D. Todd Christofferson erläutert mehrere Gründe, weshalb die Kirche Jesu Christi der Heiligen der Letzten Tage notwendig dafür ist, die Absichten des Erlösers zu verwirklichen.</description>
+        <duration>934</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5010-elder-d-todd-christofferson-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5010-elder-d-todd-christofferson-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5010-elder-d-todd-christofferson-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5010-elder-d-todd-christofferson-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5030-elder-von-g-keetch</id>
+        <title>Gesegnet und glücklich sind diejenigen, die Gottes Gebote halten</title>
+        <description>Elder Keetch erklärt, dass die Gebote eine Quelle der Sicherheit und Führung sind und uns helfen sollen, so zu werden, wie Gott es möchte.</description>
+        <duration>619</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5030-elder-von-g-keetch-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5030-elder-von-g-keetch-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5030-elder-von-g-keetch-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5030-elder-von-g-keetch-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5040-carole-m-stephens</id>
+        <title>„Wenn ihr mich liebt, werdet ihr meine Gebote halten“</title>
+        <description>Carole M. Stephens teaches that by trusting and following the counsel of our Heavenly Father, Jesus Christ, the Holy Ghost, and the living prophets, we can return safely and joyfully to our heavenly home.</description>
+        <duration>669</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5040-carole-m-stephens-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5040-carole-m-stephens-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5040-carole-m-stephens-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5040-carole-m-stephens-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5050-elder-allen-d-haynie</id>
+        <title>Denken wir immer daran, in wen wir unser Vertrauen gesetzt haben!</title>
+        <description>Elder Allen D. Haynie&apos;s address at the October 2015 General Conference.</description>
+        <duration>625</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5050-elder-allen-d-haynie-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5050-elder-allen-d-haynie-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5050-elder-allen-d-haynie-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5050-elder-allen-d-haynie-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5060-elder-kim-b-clark</id>
+        <title>Augen, die sehen, und Ohren, die hören</title>
+        <description>Elder Kim B. Clark bezeugt: Wenn wir Augen und Ohren öffnen, segnet uns der Heilige Geist und wir erkennen, wie der Herr Jesus Christus in unserem Leben wirkt.</description>
+        <duration>610</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5060-elder-kim-b-clark-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5060-elder-kim-b-clark-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5060-elder-kim-b-clark-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5060-elder-kim-b-clark-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5070-elder-koichi-aoyagi</id>
+        <title>Halte an deinem Weg fest</title>
+        <description>Elder Koichi Aoyagi rät uns, unser Herz in Prüfungen Gott zuzuwenden, damit wir sie erdulden und das Leben als Prüfungszeit gut meistern können.</description>
+        <duration>643</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5070-elder-koichi-aoyagi-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5070-elder-koichi-aoyagi-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5070-elder-koichi-aoyagi-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5070-elder-koichi-aoyagi-1080p-deu.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-5080-elder-david-a-bednar</id>
+        <title>Erwählt, von meinem Namen Zeugnis zu geben</title>
+        <description>Elder David A. Bednar führt eine Reihe eindrucksvoller Lektionen aus dem langen Leben von Propheten und Aposteln an, die diese weitergegeben haben.</description>
+        <duration>1014</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/october-2015-general-conference/2015-10-5080-elder-david-a-bednar-192x108-thumb.jpg'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5080-elder-david-a-bednar-360p-deu.mp4' height='360p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5080-elder-david-a-bednar-720p-deu.mp4' height='720p'/>
+<content url='http://d1e635tdewwzdn.cloudfront.net/assets/general-conference/october-2015-general-conference/2015-10-5080-elder-david-a-bednar-1080p-deu.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
