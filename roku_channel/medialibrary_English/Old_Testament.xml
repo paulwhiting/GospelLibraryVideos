@@ -489,7 +489,7 @@
 </channel>
   </rss>
 </category>
-<category title="Joshua - Song of Solomon" subtitle="Videos: 35" img="http://media.ldscdn.org/thumbnails/old-testament/joshua-song-of-solomon-category-138x91.jpg">
+<category title="Joshua - Song of Solomon" subtitle="Videos: 36" img="http://media.ldscdn.org/thumbnails/old-testament/joshua-song-of-solomon-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -653,6 +653,15 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-074-naaman-and-elisha-144x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-074-naaman-and-elisha.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-074-naaman-and-elisha-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2011-03-073-spirit-whispers</id>
+        <title>Spirit Whispers</title>
+        <description>(1 Kings 19:11-13) President Eyring teaches that the Spirit will bear testimony if we listen.</description>
+        <duration>89</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-073-spirit-whispers-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-073-spirit-whispers.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-073-spirit-whispers-360p-eng.mp4" height="360p"/>
 </item>
 <item>
         <id>2011-03-072-still-small-voice</id>
