@@ -266,7 +266,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='몰몬 메시지' subtitle='Videos: 48' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='2009년 몰몬 메시지' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='몰몬 메시지' subtitle='Videos: 47' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='2009년 몰몬 메시지' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
         <title>고든 비 힝클리: 소년 시절에 배운 교훈</title>
@@ -500,7 +500,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-11-23-thanksgiving-daily-1080p-kor.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='2011년 몰몬 메시지' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='2011년 몰몬 메시지' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-02-001-families-can-be-together-forever</id>
         <title>가족은 영원해</title>
@@ -574,14 +574,6 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-720p-kor.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>14716571597547137500-kor</id>
-        <title>발 밑을 주의하십시오</title>
-        <description>한 순간의 결정이 좋든 나쁘든 얼마나 지대한 영향을 미칠 결과를 낳게 되는지 보십시오.</description>
-        <duration>0</duration>
-        <thumbnail url='http://www.lds.org/pages/mormon-messages-gallery/images/watch-your-step-138x82.jpg'/>
-<content url='' height='360p'/>
 </item>
 <item>
         <id>2011-09-016-flecks-of-gold</id>
@@ -939,6 +931,18 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-720p-kor.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-1080p-kor.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='성탄절' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-12-1000-a-savior-is-born-christmas-video</id>
+        <title>구주 나셨도다—성탄절 비디오</title>
+        <description>구주 나셨도다. 매 성탄 절기마다 우리는 하나님의 아들이자 우리를 죄와 슬픔에서 구하실 수 있는 우리 구주의 탄생을 축하합니다. 그분을 기억하고 사랑하며 따르십시오. Christmas.mormon.org 방문하기</description>
+        <duration>120</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-kor.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='신약전서' subtitle='Videos: 61' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='신약전서 이야기' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>

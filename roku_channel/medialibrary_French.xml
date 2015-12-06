@@ -3103,7 +3103,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Messages mormons' subtitle='Videos: 48' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages mormons, 2009' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Messages mormons' subtitle='Videos: 47' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messages mormons, 2009' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
         <title>Gordon B. Hinckley : Leçons de mon enfance</title>
@@ -3346,7 +3346,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-11-23-thanksgiving-daily-1080p-fra.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Messages mormons, 2011' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Messages mormons, 2011' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2011-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-02-001-families-can-be-together-forever</id>
         <title>Ensemble à tout jamais</title>
@@ -3418,16 +3418,6 @@
         <duration>167</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step.xml'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-360p-fra.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-720p-fra.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-1080p-fra.mp4' height='1080p'/>
-</item>
-<item>
-        <id>14716571597547137500-fra</id>
-        <title>Agissez avec sagesse</title>
-        <description>Voyez comment une décision hâtive peut avoir de lourdes conséquences, mauvaises ou bonnes.</description>
-        <duration>157</duration>
-        <thumbnail url='http://www.lds.org/pages/mormon-messages-gallery/images/watch-your-step-138x82.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-360p-fra.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-720p-fra.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-1080p-fra.mp4' height='1080p'/>
@@ -3627,6 +3617,18 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='Noël' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-12-1000-a-savior-is-born-christmas-video</id>
+        <title>Un Sauveur est né – Vidéo de Noël</title>
+        <description>Un Sauveur est né. Chaque année, à la période de Noël, nous célébrons la naissance de notre Sauveur, le Fils de Dieu, qui peut nous délivrer du péché et de la tristesse. Souvenons-nous de lui, aimons-le et suivons-le. Consultez christmas.mormon.org</description>
+        <duration>120</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-720p-fra.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-fra.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
 <category title='Pâques' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/topics/easter-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-04-1010-he-lives-celebrate-easter-because-jesus-christ-lives</id>

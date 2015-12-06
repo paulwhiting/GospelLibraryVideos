@@ -5177,9 +5177,9 @@
         <duration>611</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis.xml'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5050-elder-michael-john-u-teh-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5050-elder-michael-john-u-teh-720p-spa.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5050-elder-michael-john-u-teh-1080p-spa.mp4' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis-1080p-spa.mp4' height='1080p'/>
 </item>
 <item>
         <id>2014-04-5070-elder-d-todd-christofferson</id>
@@ -16654,7 +16654,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Mensajes Mormones' subtitle='Videos: 105' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensajes Mormones 2014' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensajes Mormones' subtitle='Videos: 103' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensajes Mormones 2014' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>13170809562113927682-spa</id>
         <title>El otro hijo pródigo</title>
@@ -17370,7 +17370,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-360p-spa.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Mensajes Mormones 2009' subtitle='Videos: 24' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensajes Mormones 2009' subtitle='Videos: 22' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-06-25-a-father-indeed</id>
         <title>Un verdadero padre</title>
@@ -17555,23 +17555,6 @@
         <duration>266</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-11-40-in-sickness-and-health-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-11-40-in-sickness-and-health-360p-spa.mp4' height='360p'/>
-</item>
-<item>
-        <id>2009-12-41-the-christmas-spirit-spa</id>
-        <title>El espíritu de la Navidad</title>
-        <description>Una niñita con espíritu navideño enseña a su preocupada familia el verdadero sentido de la Navidad.</description>
-        <duration>237</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit-360p-spa.mp4' height='360p'/>
-</item>
-<item>
-        <id>2009-12-42-what-shall-we-give-spa</id>
-        <title>¿Qué hemos de dar?</title>
-        <description>En esta época de dar y recibir, el presidente Thomas S. Monson y el Coro del Tabernáculo Mormón nos recuerdan cuáles son los verdaderos presentes y el sentido de la Navidad.</description>
-        <duration>231</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -24340,7 +24323,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Temas' subtitle='Videos: 232' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Temas' subtitle='Videos: 231' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-09-17-the-missing-piece-spa</id>
         <title>La pieza que faltaba</title>
@@ -25259,10 +25242,20 @@
 </channel></rss></category>
 <category title='Navidad' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
+        <id>2015-12-1000-a-savior-is-born-christmas-video</id>
+        <title>Ha nacido un Salvador—Video de Navidad</title>
+        <description>Ha nacido un Salvador. Cada Navidad celebramos el nacimiento de nuestro Salvador, el Hijo de Dios, quien puede salvarnos del pecado y la tristeza. Recuérdalo, ámalo y síguelo. Visita navidad.mormon.org</description>
+        <duration>120</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
         <id>2014-00-1465-he-is-the-gift-latin</id>
-        <title>Él es La Dádiva</title>
+        <title>Él es la dádiva</title>
         <description>El primer regalo de Navidad fue una dádiva sencilla que dio el Padre a todos Sus hijos. Él nos dio a Su Hijo, el Cristo. Él es la Dádiva. En esta época navideña, ¿de qué manera compartirás la dádiva? http://www.navidad.mormon.org</description>
-        <duration>146</duration>
+        <duration>145</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2014/2014-00-1465-he-is-the-gift-latin-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1465-he-is-the-gift-latin-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1465-he-is-the-gift-latin-720p-spa.mp4' height='720p'/>
@@ -25290,13 +25283,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus-720p-spa.mp4' height='720p'/>
 </item>
 <item>
-        <id>2011-10-007-the-wise-men-seek-jesus-spa</id>
+        <id>2011-10-007-the-wise-men-seek-jesus</id>
         <title>Los magos buscan a Jesús</title>
-        <description>Los magos dan presentes a Jesús: oro, incienso y mirra. Después de su visita, María y José huyen a Egipto para proteger a Jesús del inicuo rey Herodes, que desea matar al niño.</description>
+        <description>Los magos le ofrecen a Jesús sus presentes: oro, incienso y mirra. Después de su visita, María y José huyen a Egipto para proteger a Jesús del malvado rey Herodes, quien desea asesinar al niño.</description>
         <duration>341</duration>
-        <thumbnail url='http://media.ldscdn.org/thumbnails/2011-10-007-the-wise-men-seek-jesus-138x81.jpg'/>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-1080p-spa.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-006-the-christ-child-is-presented-at-the-temple-spa</id>
@@ -25317,13 +25312,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-720p-spa.mp4' height='720p'/>
 </item>
 <item>
-        <id>2011-10-004-mary-and-joseph-travel-to-bethlehem-spa</id>
+        <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>María y José suben hasta Belén</title>
-        <description>En su viaje a Belén, la ciudad de sus antepasados, María y José no logran hallar un cuarto en un mesón y, en su lugar, se instalan en un establo con animales.</description>
+        <description>María y José en camino a su natal ciudad de Belén no logran encontrar alojamiento ningún mesón. En vez de ello, encontraron un lugar donde duermen los animales para pasar la noche.</description>
         <duration>125</duration>
-        <thumbnail url='http://media.ldscdn.org/thumbnails/2011-10-004-mary-and-joseph-travel-to-bethlehem-138x81.jpg'/>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-1080p-spa.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-003-mary-and-elisabeth-rejoice-together-spa</id>
@@ -25345,20 +25342,12 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-720p-spa.mp4' height='720p'/>
 </item>
 <item>
-        <id>2009-12-42-what-shall-we-give-spa</id>
-        <title>¿Qué hemos de dar?</title>
-        <description>En esta época de dar y recibir, el presidente Thomas S. Monson y el Coro del Tabernáculo Mormón nos recuerdan cuáles son los verdaderos presentes y el sentido de la Navidad.</description>
-        <duration>231</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2009-12-41-the-christmas-spirit-spa</id>
+        <id>2009-12-41-the-christmas-spirit</id>
         <title>El espíritu de la Navidad</title>
         <description>Una niñita con espíritu navideño enseña a su preocupada familia el verdadero sentido de la Navidad.</description>
-        <duration>237</duration>
+        <duration>236</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit.xml'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit-360p-spa.mp4' height='360p'/>
 </item>
 </channel></rss></category>
@@ -26121,7 +26110,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-360p-spa.mp4' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Servicio' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Servicio' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-12-03-youth-in-action-spa</id>
         <title>Jóvenes en acción</title>
@@ -26187,15 +26176,6 @@
         <duration>148</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-360p-spa.mp4' height='360p'/>
-</item>
-<item>
-        <id>2009-12-42-what-shall-we-give-spa</id>
-        <title>¿Qué hemos de dar?</title>
-        <description>En esta época de dar y recibir, el presidente Thomas S. Monson y el Coro del Tabernáculo Mormón nos recuerdan cuáles son los verdaderos presentes y el sentido de la Navidad.</description>
-        <duration>231</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='Servicios Humanitarios' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/humanitarian-category-138x91.jpg'><rss><channel><title/><description/>
