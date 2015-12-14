@@ -1138,7 +1138,7 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="mp3"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="360p"/>
 </item>
 <item>
         <id>2011-09-0020-silvia-h-allred</id>
@@ -8637,7 +8637,7 @@
 </channel>
   </rss>
 </category>
-<category title="Service" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg">
+<category title="Service" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -8671,7 +8671,7 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-001-the-coat-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="mp3"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-stories/2011-12-002-the-coat-audio-description-256k-eng.mp3" height="360p"/>
 </item>
 <item>
         <id>2011-04-1070-president-henry-b-eyring</id>
@@ -8767,6 +8767,16 @@
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/october-2014-general-conference-highlights/2014-10-580-president-thomas-s-monson-highlights-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-12-022-the-old-shoemaker</id>
+        <title>The Old Shoemaker</title>
+        <description>In this classic story by Leo Tolstoy, an honest old shoemaker discovers that by helping those around him, he was really serving the Savior.</description>
+        <duration>207</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-channel-videos-2014/2014-00-022-the-old-shoemaker-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-022-the-old-shoemaker-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-022-the-old-shoemaker-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-022-the-old-shoemaker-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>

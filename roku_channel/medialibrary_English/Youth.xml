@@ -651,7 +651,7 @@
 <category title="Entertainment and Media" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/standards-standards/entertainment-and-media-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2011-10-006-things-as-they-really-are-eng</id>
-        <title>Things as they really are</title>
+        <title>Things as They Really Are</title>
         <description>Elder David A. Bednar warns of the harmful effects digital technologies can have on our souls and invites us to ask ourselves two questions to see if we are using these technologies properly.</description>
         <duration>207</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-192x108-thumb.jpg"/>
@@ -3984,7 +3984,7 @@
 </item>
 <item>
         <id>2011-10-006-things-as-they-really-are-eng</id>
-        <title>Things as they really are</title>
+        <title>Things as They Really Are</title>
         <description>Elder David A. Bednar warns of the harmful effects digital technologies can have on our souls and invites us to ask ourselves two questions to see if we are using these technologies properly.</description>
         <duration>207</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-192x108-thumb.jpg"/>
@@ -5342,6 +5342,42 @@
 <content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-004-with-all-your-heart-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-004-with-all-your-heart-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-004-with-all-your-heart-1080p-eng.mp4" height="1080p"/>
+</item>
+</channel>
+  </rss>
+</category>
+<category title="Youth Animated Videos" subtitle="Videos: 3" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/youth-animated-videos-138x91.jpg">
+  <rss>
+    <channel><title/><description/>
+<item>
+        <id>2015-01-014-why-does-god-give-us-commandments</id>
+        <title>Why Does God Give us Commandments?</title>
+        <description>Have you ever wondered why God gives us commandments? It can feel restricting, but is that the reality?</description>
+        <duration>39</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-014-why-does-god-give-us-commandments-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-014-why-does-god-give-us-commandments-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-014-why-does-god-give-us-commandments-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-014-why-does-god-give-us-commandments-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-01-015-want-to-increase-your-faith</id>
+        <title>Want to Increase your Faith?</title>
+        <description>Struggling with faith? Want to gain a testimony? What might you need to do...Your faith will grow, not by chance, but by choice.- Neil L. Andersen</description>
+        <duration>61</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-015-want-to-increase-your-faith-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-015-want-to-increase-your-faith-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-015-want-to-increase-your-faith-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-015-want-to-increase-your-faith-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-01-016-instructions-included</id>
+        <title>Instructions Included</title>
+        <description>How does keeping the commandments help us?</description>
+        <duration>43</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-youth-media/2015-01-016-instructions-included-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-016-instructions-included-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-016-instructions-included-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2015-youth-media/2015-01-016-instructions-included-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
