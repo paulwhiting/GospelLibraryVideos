@@ -24,9 +24,19 @@
 </channel>
   </rss>
 </category>
-<category title="Emergency Response" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
+<category title="Emergency Response" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-11-1190-kurdistan-erbil-house</id>
+        <title>Kurdistan&#x2014;Erbil House</title>
+        <description>LDS Charities partners with local organizations in Erbil, Kurdistan, to help refugee families in need by providing food, supplies, and shelter.</description>
+        <duration>162</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-case-studies-videos/2014-11-1190-kurdistan-erbil-house-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1190-kurdistan-erbil-house-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1190-kurdistan-erbil-house-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1190-kurdistan-erbil-house-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1130-sierra-leone-civil-war-response</id>
         <title>Sierra Leone&#x2014;Civil War Response</title>
@@ -391,9 +401,19 @@
 </channel>
   </rss>
 </category>
-<category title="Benson Food" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/Benson-food-category-138x91.jpg">
+<category title="Benson Food" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/Benson-food-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-11-1180-haiti-raising-chickens</id>
+        <title>Haiti&#x2014;Raising Chickens</title>
+        <description>LDS Charities partners with local leaders to teach families how to raise chickens to provide food and work for families in need&#x2014;while also helping them become more self-sufficient.</description>
+        <duration>218</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-case-studies-videos/2014-11-1180-haiti-raising-chickens-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1180-haiti-raising-chickens-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1180-haiti-raising-chickens-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1180-haiti-raising-chickens-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1150-navajo-reservation-garden-project</id>
         <title>Navajo Reservation&#x2014;Garden Project</title>
