@@ -7,10 +7,10 @@
         <description></description>
         <duration>297</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/2145762' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1538300' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/2145762' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1758211' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
 </item>
 <item>
         <id></id>
@@ -18,22 +18,22 @@
         <description></description>
         <duration>278</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/1768000' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1920/1080/7879000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/2096000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/2496000' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/640/360/896000' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/2096000' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1920/1080/7879000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1667919059001/1280/720/1768000' height='720p'/>
 </item>
 <item>
         <id></id>
-        <title>“Origin“</title>
+        <title>“Origin”</title>
         <description></description>
         <duration>297</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/2145762' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1538300' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/2145762' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/1280/720/1758211' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2522218296001/640/360/823089' height='360p'/>
 </item>
 </channel></rss></category>
 </category>
