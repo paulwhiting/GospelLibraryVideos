@@ -5200,9 +5200,19 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Face to Face" subtitle="Videos: 12" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
+<category title="Face to Face" subtitle="Videos: 13" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens</id>
+        <title>Face to Face with Elder Rasband, Sister Oscarson and Brother Owens</title>
+        <description>This worldwide broadcast that featured a discussion with Elder Ronald A. Rasband of the Quorum of the Twelve Apostles; Sister Bonnie L. Oscarson, general Young Women president; and Brother Stephen W. Owen, general Young Men president.</description>
+        <duration>4841</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-10-1000-face-to-face-with-the-piano-guys</id>
         <title>Face to Face with The Piano Guys</title>
@@ -5326,9 +5336,19 @@
 </channel>
   </rss>
 </category>
-<category title="Youth Media" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-002-service-through-song</id>
+        <title>Service Through Song</title>
+        <description>Service is an opportunity to share love in inspired ways. This short video shows how a group of youth provide love to a group of elderly residents by singing hymns every Sunday night.</description>
+        <duration>199</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2016-youth-media/2016-01-002-service-through-song-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-002-service-through-song-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-002-service-through-song-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-002-service-through-song-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-05-2011-good-things-to-share</id>
         <title>Good Things to Share</title>

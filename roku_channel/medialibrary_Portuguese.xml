@@ -167,15 +167,6 @@
 </category>
 <category title='Meu Alicerce' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/pef-self-reliance/my-foundation-category-138x91.jpg'><category title='1º Princípio: Exercer fé em Jesus Cristo' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/principle-1-exercise-faith-in-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
-        <id>2014-06-1110-pure-and-simple-faith</id>
-        <title>Fé Pura e Simples</title>
-        <description>Uma moça demonstra fé de que Deus proverá um meio de suprir as necessidades básicas de sua família. Por favor envie-nos comentários sobre este vídeo — Pressione aqui.    </description>
-        <duration>331</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-720p-por.mp4' height='720p'/>
-</item>
-<item>
         <id>2014-06-2100-exercise-faith-in-christ</id>
         <title>Exercer Fé em Cristo</title>
         <description>O Élder David A. Bednar ensina que agir é exercer fé.</description>
@@ -183,6 +174,15 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/welfare/pef-self-reliance-curriculum/2014-06-2100-exercise-faith-in-christ-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-2100-exercise-faith-in-christ-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-2100-exercise-faith-in-christ-720p-por.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-06-1110-pure-and-simple-faith</id>
+        <title>Fé Pura e Simples</title>
+        <description>Uma moça demonstra fé de que Deus proverá um meio de suprir as necessidades básicas de sua família. Por favor envie-nos comentários sobre este vídeo — Pressione aqui.    </description>
+        <duration>331</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/pef-self-reliance-curriculum/2014-06-1110-pure-and-simple-faith-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='2º Princípio: Usar o Tempo com Sabedoria' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/principle-2-use-time-wisely-category-138x91.jpg'><rss><channel><title/><description/>
@@ -8872,7 +8872,7 @@
 <content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='História da Família' subtitle='Videos: 102' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Comece com Sua Família' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='História da Família' subtitle='Videos: 106' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Comece com Sua Família' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>Usando o Livreto Minha Família: Histórias Que Nos Unem </title>
@@ -8924,7 +8924,7 @@
 <content url='http://media2.ldscdn.org/assets/family-history/rootstech-2015-broadcast/2015-02-1004-from-tree-to-temple-preparing-family-names-for-the-temple-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Preparação da Aula' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg'><category title='Lição conjunta da Escola Dominical' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Preparação da Aula' subtitle='Videos: 24' img='http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg'><category title='Lição conjunta da Escola Dominical' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-08-104-watching-my-grandson-play-ball</id>
         <title>O Dia em Que Vi Meu Neto Jogar Bola</title>
@@ -9037,16 +9037,7 @@
 <content url='http://media2.ldscdn.org/assets/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Os Profetas Falam' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/family-history/prophets-speak-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2013-01-103-share-and-connect-with-your-family-por</id>
-        <title>Compartilhar e Conectar-se à Sua Família</title>
-        <description>Descubra a alegria das conexões eternas através das gerações. Podemos ser ligados para sempre.</description>
-        <duration>77</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-lead-in-videos-for-ldsorg/2013-01-103-share-and-connect-with-your-family-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/family-history/family-history-lead-in-videos-for-ldsorg/2013-01-103-i-can-have-my-husband-forever-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/family-history/family-history-lead-in-videos-for-ldsorg/2013-01-103-i-can-have-my-husband-forever-720p-por.mp4' height='720p'/>
-</item>
+<category title='Os Profetas Falam' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/family-history/prophets-speak-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-01-104-share-your-temple-list-within-your-own-four-walls-por</id>
         <title>Compartilhe Sua Lista do Templo Em Seu Próprio Lar</title>
@@ -9081,6 +9072,56 @@
         <duration>77</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-lead-in-videos-for-ldsorg/2013-01-103-share-and-connect-with-your-family-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/family-history-lead-in-videos-for-ldsorg/2013-01-103-i-can-have-my-husband-forever-360p-por.mp4' height='360p'/>
+</item>
+<item>
+        <id>2015-09-02-will-i-do-my-part</id>
+        <title>Farei Minha Parte?</title>
+        <description>A chave para libertarmos nossos antepassados da prisão espiritual está em nossas mãos. Temos a oportunidade de usar a chave e trazer as bênçãos do evangelho a nossa família.</description>
+        <duration>149</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-old-testament-curriculum/2015-09-02-will-i-do-my-part-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-old-testament-curriculum/2015-09-02-will-i-do-my-part.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-02-will-i-do-my-part-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-02-will-i-do-my-part-720p-por.mp4' height='720p'/>
+</item>
+<item>
+        <id>2015-09-03-is-anything-too-hard-for-the-lord</id>
+        <title>Haveria Coisa Alguma Difícil ao Senhor?</title>
+        <description>O Élder Andersen ilustra o vasto trabalho de levar as ordenanças do evangelho a todo homem, mulher e criança que já viveram na Terra.</description>
+        <duration>211</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-old-testament-curriculum/2015-09-03-is-anything-too-hard-for-the-lord-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-old-testament-curriculum/2015-09-03-is-anything-too-hard-for-the-lord.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-03-is-anything-too-hard-for-the-lord-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-03-is-anything-too-hard-for-the-lord-720p-por.mp4' height='720p'/>
+</item>
+<item>
+        <id>2015-09-04-one-son-or-daughter-at-a-time</id>
+        <title>Um Filho ou Filha Por Vez.</title>
+        <description>O Élder Andersen fala sobre as bençãos prometidas aos jovens da nova geração que estão voltando seus corações a seus pais. Cada nome é importante e ninguém vai ser negligenciado ou esquecido.</description>
+        <duration>197</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-old-testament-curriculum/2015-09-04-one-son-or-daughter-at-a-time-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-old-testament-curriculum/2015-09-04-one-son-or-daughter-at-a-time.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-04-one-son-or-daughter-at-a-time-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-04-one-son-or-daughter-at-a-time-720p-por.mp4' height='720p'/>
+</item>
+<item>
+        <id>2015-09-05-by-the-hand-of-elijah-the-prophet</id>
+        <title>Pela Mão de Elias, o Profeta</title>
+        <description>O Élder Cook testifica a missão do profeta Elias. A salvação de toda a família humana é interdependente e interligada — como as raízes e os galhos de uma grande árvore.</description>
+        <duration>214</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-old-testament-curriculum/2015-09-05-by-the-hand-of-elijah-the-prophet-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-old-testament-curriculum/2015-09-05-by-the-hand-of-elijah-the-prophet.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-05-by-the-hand-of-elijah-the-prophet-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-05-by-the-hand-of-elijah-the-prophet-720p-por.mp4' height='720p'/>
+</item>
+<item>
+        <id>2015-09-01-all-the-families-of-the-earth</id>
+        <title>Todas as Famílias da Terra</title>
+        <description>Dois apóstolos testificam das bênçãos que aguardam a nova geração por tornarem as ordenanças e convênios possíveis a todas as famílias da Terra.</description>
+        <duration>170</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-old-testament-curriculum/2015-09-01-all-the-families-of-the-earth-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-old-testament-curriculum/2015-09-01-all-the-families-of-the-earth.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-01-all-the-families-of-the-earth-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-old-testament-curriculum/2015-09-01-all-the-families-of-the-earth-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='O Trabalho de Salvação' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg'><rss><channel><title/><description/>
