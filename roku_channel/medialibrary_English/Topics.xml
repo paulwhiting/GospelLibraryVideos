@@ -1821,7 +1821,6 @@
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-04-14-none-were-with-him.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-14-none-were-with-him-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-14-none-were-with-him-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-14-none-were-with-him-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-03-07-he-lives-testimonies-of-jesus-christ</id>
@@ -3840,7 +3839,7 @@
 </channel>
   </rss>
 </category>
-<category title="Hope" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/topics/hope-category-138x91.jpg">
+<category title="Hope" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/hope-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -3967,6 +3966,16 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-36-the-power-of-hope-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-36-the-power-of-hope-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-36-the-power-of-hope-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2009-09-34-finding-hope</id>
+        <title>Finding Hope</title>
+        <description>A man describes his journey from the tragedy and trauma of 9/11 to hope, healing, and renewal through Jesus Christ.</description>
+        <duration>515</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-09-34-finding-hope-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-09-34-finding-hope.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-34-finding-hope-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-34-finding-hope-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2009-08-33-youre-never-alone</id>
@@ -5037,6 +5046,7 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
@@ -8726,7 +8736,7 @@
 </channel>
   </rss>
 </category>
-<category title="Service" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg">
+<category title="Service" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/topics/service-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -8813,6 +8823,17 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2009-12-42-what-shall-we-give</id>
+        <title>What Shall We Give?</title>
+        <description>In a season known for giving and getting, President Thomas S. Monson and the Mormon Tabernacle Choir remind us of the true gifts and meaning of Christmas.</description>
+        <duration>231</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-10-068-ye-have-done-it-unto-me</id>
