@@ -988,7 +988,17 @@
 </channel>
   </rss>
 </category>
-<category title="Deseret Industries" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/deseret-industries-category-138x91.jpg"><category title="About DI" subtitle="Videos: 2" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-03-di-donations-138x81-thumb.jpg"><rss><channel><title/><description/>
+<category title="Deseret Industries" subtitle="Videos: 30" img="http://media.ldscdn.org/thumbnails/deseret-industries-category-138x91.jpg"><category title="About DI" subtitle="Videos: 3" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-03-di-donations-138x81-thumb.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2011-12-0050-deseret-industries-awareness</id>
+        <title>Deseret Industries Awareness</title>
+        <description>The DI Awareness video is designed to help community planning groups and city councils understand what having a DI in their community will be like, from the physical appearance to the services they provide.</description>
+        <duration>113</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-12-0050-deseret-industries-awareness-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deseret-industries-transforming-lives/2011-12-0050-deseret-industries-awareness-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deseret-industries-transforming-lives/2011-12-0050-deseret-industries-awareness-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deseret-industries-transforming-lives/2011-12-0050-deseret-industries-awareness-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2011-08-03-di-donations</id>
         <title>DI Donations</title>

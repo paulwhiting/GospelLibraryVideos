@@ -3839,7 +3839,7 @@
 </channel>
   </rss>
 </category>
-<category title="Hope" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/hope-category-138x91.jpg">
+<category title="Hope" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/topics/hope-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -3922,17 +3922,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2008-im-a-mormon-addict-caretaker-and-voice-for-the-homeless-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2008-im-a-mormon-addict-caretaker-and-voice-for-the-homeless-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2008-im-a-mormon-addict-caretaker-and-voice-for-the-homeless-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2010-09-17-the-missing-piece</id>
-        <title>The Missing Piece</title>
-        <description>Jesus Christ and His gospel help a man find direction amid adversity. Read Elder L. Tom Perry's talk "Let Him Do It with Simplicity."</description>
-        <duration>286</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece.xml"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-05-12-good-things-to-come</id>
@@ -9113,9 +9102,19 @@
 </channel>
   </rss>
 </category>
-<category title="Temples" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/temples-category-138x91.jpg">
+<category title="Temples" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/topics/temples-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-1010-provo-city-center-temple-completed</id>
+        <title>Provo City Center Temple Completed</title>
+        <description>A public open house for the Provo City Center Temple begins on January 15, 2016, following a five-year renovation of the former Provo Tabernacle. The tabernacle was a more than century-old icon located in the central Utah community of Provo.</description>
+        <duration>437</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/newsroom-2016/2016-01-1010-provo-city-center-temple-completed-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/newsroom-2016/2016-01-1010-provo-city-center-temple-completed-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/newsroom-2016/2016-01-1010-provo-city-center-temple-completed-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/newsroom-2016/2016-01-1010-provo-city-center-temple-completed-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2011-06-010-the-laie-hawaii-temple-youth-cultural-celebration-eng</id>
         <title>The Laie Hawaii Temple Youth Cultural Celebration</title>
