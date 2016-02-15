@@ -1,7 +1,17 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='Gesprächsrunde mit Elder Bednar und seiner Frau' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>Gesprächsrunde mit Elder Bednar und seiner Frau</title>
+        <title>Interaktive Gesprächsrunde mit Elder Rasband, Schwester Oscarson und Bruder Owen (1:20:41)</title>
+        <description></description>
+        <duration>4841</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644706001/1280/720/2083313.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644706001/1280/720/1745016.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644706001/1280/720/1481353.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644706001/640/360/809817.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>Gesprächsrunde mit Elder Bednar und seiner Frau (1:20:23)</title>
         <description></description>
         <duration>4823</duration>
         <thumbnail url=''/>
@@ -10,5 +20,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4236227126001/1280/720/1551361.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4236227126001/640/360/851115.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

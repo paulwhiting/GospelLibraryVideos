@@ -1,7 +1,17 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='베드나장로님부부와의직접토론' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>베드나장로님부부와의직접토론</title>
+        <title>래스번드 장로, 오스카슨 자매, 오언 형제와의 실시간 대화 (1:20:41)</title>
+        <description></description>
+        <duration>4841</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644107001/1280/720/2071650.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644107001/1280/720/1717399.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644107001/1280/720/1475914.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644107001/640/360/822243.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>베드나장로님부부와의직접토론  (1:20:23)</title>
         <description></description>
         <duration>4823</duration>
         <thumbnail url=''/>
@@ -10,5 +20,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4236227086001/1280/720/1510376.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4236227086001/640/360/846662.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>

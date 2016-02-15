@@ -1,7 +1,17 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<categories><category title='ベドナー長老夫妻と語り合いましょう' subtitle='Videos: 1; Audio: 0'><rss> <channel> <title>SomeTitleHere</title> <description>SomeDescriptionHere</description><item>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss><channel><item>
         <id></id>
-        <title>ベドナー長老夫妻と語り合いましょう</title>
+        <title>Face to Face：ラズバンド長老，オスカーソン姉妹，オーウェン兄弟 (1:20:41)</title>
+        <description></description>
+        <duration>4841</duration>
+        <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644707001/1280/720/2089486.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644707001/1280/720/1753500.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644707001/1280/720/1486603.mp4' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/size/4732644707001/640/360/812112.mp4' height='360p'/>
+</item>
+<item>
+        <id></id>
+        <title>ベドナー長老夫妻と語り合いましょう (1:20:23)</title>
         <description></description>
         <duration>4823</duration>
         <thumbnail url=''/>
@@ -10,5 +20,4 @@
 <content url='http://mediasrv.lds.org/media-services/size/4236227114001/1280/720/1511222.mp4' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/size/4236227114001/640/360/850280.mp4' height='360p'/>
 </item>
- </channel> </rss></category>
-</categories>
+</channel></rss>
