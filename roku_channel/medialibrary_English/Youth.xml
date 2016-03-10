@@ -4296,7 +4296,7 @@
         <title>Boys Home</title>
         <description>LDS Charities partners with Food for the Poor to deliver food, clothing, and toys to children in the Dominican Republic.</description>
         <duration>200</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-05-01-boys-home-138x81.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/humanitarian-media-library/2011-05-01-boys-home-768x432-still.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/welfare/humanitarian-media-library/2011-05-01-boys-home.xml"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-01-boys-home-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-01-boys-home-720p-eng.mp4" height="720p"/>
@@ -4371,7 +4371,7 @@
         <title>A Thousand Days</title>
         <description>By digging wells and boreholes in drought-stricken countries of Africa, The Church of Jesus Christ of Latter-day Saints helps provide health and happiness to entire villages.</description>
         <duration>272</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-05-20-a-thousand-days-138x81.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/humanitarian-media-library/2011-05-20-a-thousand-days-768x432-still.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/welfare/humanitarian-media-library/2011-05-20-a-thousand-days.xml"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-20-a-thousand-days-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-20-a-thousand-days-720p-eng.mp4" height="720p"/>
@@ -4382,7 +4382,7 @@
         <title>A Childs First Breath</title>
         <description>Neonatal resuscitation training is one of many humanitarian efforts that fall under the curtain of the Church welfare program.</description>
         <duration>193</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-03-29-a-childs-first-breath-138x81.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-03-29-a-childs-first-breath-768x432-still.jpg"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-03-29-a-childs-first-breath-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-03-29-a-childs-first-breath-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-03-29-a-childs-first-breath-1080p-eng.mp4" height="1080p"/>
@@ -5312,9 +5312,19 @@
 </channel>
   </rss>
 </category>
-<category title="Youth Media" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-004-stay-in-the-boat-eng</id>
+        <title>Stay In The Boat</title>
+        <description>Elder M. Russell Ballard teaches the importance of staying in the ship of Zion.</description>
+        <duration>499</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2016-youth-media/2016-01-004-stay-in-the-boat-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-004-stay-in-the-boat-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-004-stay-in-the-boat-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-004-stay-in-the-boat-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-01-017-painted-into-a-corner</id>
         <title>Painted into a Corner</title>
