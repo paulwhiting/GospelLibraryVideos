@@ -1702,7 +1702,7 @@
 </channel>
   </rss>
 </category>
-<category title="Easter" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/topics/easter-category-138x91.jpg">
+<category title="Easter" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/topics/easter-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1724,6 +1724,16 @@
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-03-3000-worlds-largest-virtual-hallelujah-chorus</id>
+        <title>World&#x2019;s Largest Virtual #Hallelujah Chorus</title>
+        <description>300+ members of a world-famous choir combine with over 1,000 voices worldwide in an incredible musical tribute to Jesus Christ. Learn more and rejoice in Christ this Easter at FollowHim.mormon.org.</description>
+        <duration>263</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/easter-2016/2016-03-3000-worlds-largest-virtual-hallelujah-chorus-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-03-3000-worlds-largest-virtual-hallelujah-chorus-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-03-3000-worlds-largest-virtual-hallelujah-chorus-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-03-3000-worlds-largest-virtual-hallelujah-chorus-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2015-04-1010-he-lives-celebrate-easter-because-jesus-christ-lives</id>
@@ -1931,28 +1941,6 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane</id>
-        <title>Chapter 51: Jesus Suffers in the Garden of Gethsemane</title>
-        <description>Jesus endures the pain of the sins of the world in the Garden of Gethsemane before He is betrayed by one of His friends.</description>
-        <duration>106</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-stories/2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane-192x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2010-11-57-chapter-53-jesus-is-crucified</id>
-        <title>Chapter 53: Jesus Is Crucified</title>
-        <description>Jesus suffers on the cross for the sins of the world.</description>
-        <duration>117</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-stories/2010-11-57-chapter-53-jesus-is-crucified-192x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-57-chapter-53-jesus-is-crucified.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-57-chapter-53-jesus-is-crucified-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-57-chapter-53-jesus-is-crucified-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-57-chapter-53-jesus-is-crucified-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
@@ -7055,9 +7043,20 @@
 </channel>
   </rss>
 </category>
-<category title="Pornography and Addiction" subtitle="Videos: 9" img="http://media.ldscdn.org/thumbnails/topics/pornography-and-addiction-category-138x91.jpg">
+<category title="Pornography and Addiction" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/topics/pornography-and-addiction-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-08-001-what-should-i-do-when-i-see-pornography</id>
+        <title>What Should I Do When I See Pornography?</title>
+        <description>The challenges that children face today related to pornography are tremendous, but armed with the right information about what to do when they encounter it, they can successfully overcome the challenge and lead safe, happy lives.</description>
+        <duration>332</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography.xml"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/primary/preparing-children-against-pornography/2015-08-001-what-should-i-do-when-i-see-pornography-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ</id>
         <title>Overcoming Pornography Addiction: The Healing Power of Jesus Christ</title>
