@@ -2255,7 +2255,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Histoire Familiale' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Commencez avec votre famille' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='Histoire Familiale' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Commencez avec votre famille' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>À l’aide du livret  Ma famille : des histoires qui nous unissent </title>
@@ -2369,6 +2369,17 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='L’indexation' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-01-01-fuel-the-find</id>
+        <title>Alimenter la recherche</title>
+        <description>L’indexation a permis ces découvertes familiales précieuses. Elle est le carburant qui permet au site FamilySearch.org de relier des personnes à leurs ancêtres.</description>
+        <duration>66</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-720p-fra.mp4' height='720p'/>
+</item>
+</channel></rss></category>
 </category>
 <category title='Je suis mormon' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Je suis mormon 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
@@ -2857,7 +2868,7 @@
 <item>
         <id>2011-10-018-jesus-is-condemned-before-pilate</id>
         <title>Jésus est condamné devant Pilate</title>
-        <description>On fait comparaître Jésus devant Pilate, qui le questionne. Il ne lui trouve aucune faute. Cédant à la foule, il permet que Barabbas soit relâché et que Jésus soit crucifié.</description>
+        <description>On fait comparaître Jésus devant Pilate, qui le questionne. Il ne lui trouve aucune faute. Cédant à la foule, ilpermet que Barabbas soit relâché et que Jésus soit crucifié.</description>
         <duration>196</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate.xml'/>
@@ -3013,8 +3024,8 @@
 </item>
 <item>
         <id>2011-10-052-the-greatest-commandment</id>
-        <title>Le plus grand commandement</title>
-        <description>Jésus déclare que le premier et le plus grand commandement est d’aimer Dieu de tout son cœur.  </description>
+        <title>Le grand commandement</title>
+        <description>Jésus déclare que le premier et le plus grand commandement est d’aimer Dieu de tout son cœur.</description>
         <duration>110</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment.xml'/>
@@ -3062,8 +3073,8 @@
 </item>
 <item>
         <id>2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me</id>
-        <title>Jésus rend témoignage de Jean-Baptiste / Venez à moi</title>
-        <description>Jésus loue Jean-Baptiste, réprimande les incroyants et déclare que son fardeau est léger.  </description>
+        <title>Jésus loue Jean-Baptiste / Venez à moi</title>
+        <description>Jésus loue Jean-Baptiste, réprimande les incroyants et déclare que son fardeau est léger.</description>
         <duration>350</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me.xml'/>
@@ -3089,8 +3100,8 @@
 </item>
 <item>
         <id>2011-10-062-jesus-heals-a-lame-man-on-the-sabbath</id>
-        <title>Jésus guérit un boiteux le jour du sabbat</title>
-        <description>Jésus fait un miracle en guérissant un invalide le jour de sabbat.    </description>
+        <title>Jésus guérit un boiteux le jour de sabbat</title>
+        <description>Jésus fait un miracle en guérissant un invalide le jour de sabbat.</description>
         <duration>140</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath.xml'/>
@@ -3124,7 +3135,7 @@
         <duration>65</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-1080p-fra.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-045-peter-preaches-and-is-arrested</id>

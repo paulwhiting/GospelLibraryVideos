@@ -2289,7 +2289,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Storia familiare' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Cominciate con la vostra famiglia' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='Storia familiare' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Cominciate con la vostra famiglia' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>Usare il libretto La mia famiglia – Le storie che ci uniscono</title>
@@ -2393,5 +2393,16 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='Indicizzazione' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-01-01-fuel-the-find</id>
+        <title>Alimenta la scoperta</title>
+        <description>Queste scoperte familiari preziose sono rese possibili tramite l’indicizzazione. L’indicizzazione è il carburante che a dà FamilySearch.org il potere di collegare le persone ai propri antenati.</description>
+        <duration>66</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-360p-ita.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-720p-ita.mp4' height='720p'/>
+</item>
+</channel></rss></category>
 </category>
 </categories>
