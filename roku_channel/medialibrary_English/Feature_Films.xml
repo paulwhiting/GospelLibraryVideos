@@ -1,6 +1,16 @@
 <rss>
   <channel><title/><description/>
 <item>
+        <id>2015-01-1000-meet-the-mormons</id>
+        <title>Meet the Mormons</title>
+        <description>The Meet the Mormons movie&#xA0;examines the very diverse lives of six devout members of The Church of Jesus Christ of Latter-day Saints (Mormons). This video is for CHURCH or PERSONAL USE ONLY and is not to be uploaded or published to personal websites. However, we do encourage you to share the video from this page or embed it from YouTube.</description>
+        <duration>4672</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2010-07-139-treasure-in-heaven-the-john-tanner-story-eng</id>
         <title>Treasure in Heaven: The John Tanner Story</title>
         <description>John Tanner freely gave all he had, giving us an example of generosity and consecration in serving the Lord.</description>
@@ -36,7 +46,6 @@
 <subtitles url="https://media.ldscdn.org/dfxp/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration.xml"/>
 <content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2008-06-01-the-restoration</id>
