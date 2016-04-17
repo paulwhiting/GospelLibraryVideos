@@ -8980,7 +8980,17 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Filmes em Destaque' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Filmes em Destaque' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-01-1000-meet-the-mormons</id>
+        <title>Conheça os Mórmons</title>
+        <description>Conheça os Mórmons examina a vida de seis diferentes membros fiéis de A Igreja de Jesus Cristo dos Santos dos Últimos Dias (Mórmons). Esse vídeo é APENAS para USO da IGREJA ou USO PESSOAL. Não deve ser feito upload do vídeo nem se deve publicá-lo em sites pessoais. No entanto, nós o incentivamos a compartilhá-lo a partir desta página ou via YouTube.</description>
+        <duration>4669</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-por.mp4' height='1080p'/>
+</item>
 <item>
         <id>2011-03-01-joseph-smith-the-prophet-of-the-restoration-por</id>
         <title>Joseph Smith: O Profeta da Restauração</title>
@@ -19480,7 +19490,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Sou Mórmon' subtitle='Videos: 79' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Sou  Mórmon 2012' subtitle='Videos: 19' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Sou Mórmon' subtitle='Videos: 76' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Sou  Mórmon 2012' subtitle='Videos: 16' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-01-0500-im-a-mormon-former-ballerina-and-fashion-executive-por</id>
         <title>Sou mórmon, ex-bailarina e executiva de moda</title>
@@ -19514,7 +19524,7 @@
         <title>Sou uma Mórmon que Perdoa</title>
         <description>Como professora, dançarina e mãe, Leila se esforça para dar a seus filhos o amor e apoio que nunca teve quando criança. Veja mais em www.mormon.org/por/leila</description>
         <duration>192</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-01-6700-im-a-mormon-a-dancer-and-a-mom-192x108-thumb.jpg'/>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-01-6700-im-a-mormon-a-dancer-and-a-mom-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-6700-im-a-mormon-a-dancer-and-a-mom-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-6700-im-a-mormon-a-dancer-and-a-mom-720p-por.mp4' height='720p'/>
 </item>
@@ -19549,22 +19559,13 @@
 </item>
 <item>
         <id>2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter</id>
-        <title>Sou mórmon, mãe em Nova York e uma filha que perdoou</title>
+        <title>Sou mórmon, mãe em Nova Youk e uma filha que perdoou</title>
         <description>A nova-iorquina mórmon Kristy Glass aprendeu muito cedo o que era ter um coração partido, mas foi só quando se tornou mãe que aprendeu a emendá-los. Veja mais no site www.mormon.org/por/Kristy</description>
         <duration>213</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-720p-por.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-11-5700-im-a-mormon-a-dancer-and-a-survivor</id>
-        <title>Sou mórmon, dançarino e  sobrevivente</title>
-        <description>Apesar de lutar contra um câncer, Felipe encontra força em sua fé mórmon para continuar dançando e sorrindo na vida. Provações podem aumentar o brilho do sol. Veja mais em www.mormon.org/por/felipe</description>
-        <duration>190</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-11-5700-im-a-mormon-a-dancer-and-a-survivor-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5700-im-a-mormon-a-dancer-and-a-survivor-720p-por.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5700-im-a-mormon-a-dancer-and-a-survivor-360p-por.mp4' height='360p'/>
 </item>
 <item>
         <id>2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder</id>
@@ -19645,25 +19646,6 @@
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-02-2000-im-a-mormon-french-pilot-and-fan-of-the-pyrenees.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-2000-im-a-mormon-french-pilot-and-fan-of-the-pyrenees-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-2000-im-a-mormon-french-pilot-and-fan-of-the-pyrenees-720p-por.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-05-3000-im-a-mormon-teacher-and-tongan-auntie</id>
-        <title>Sou mórmon, professora e tia tonganesa</title>
-        <description>Nelisa Wolfgramm, uma mórmon polinésia, tem orgulho de ser tonganesa. O contato com sua cultura nativa lhe deu a capacidade de mudar de uma estudante fracassada para uma professora de sucesso. Veja mais no site www.mormon.org/por/nelisa</description>
-        <duration>175</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie-720p-por.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-11-5800-im-a-mormon-an-actor-and-a-father</id>
-        <title>Eu sou mórmon, dublador e pai</title>
-        <description>Como dublador, Jose Luiz aprendeu a falar em muitas vozes. Mas a voz que ele escuta o encoraja a ser uma pessoa melhor, amar sua família e seguir a Cristo. Veja mais em www.mormon.org/por/jose</description>
-        <duration>177</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-11-5800-im-a-mormon-an-actor-and-a-father-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5800-im-a-mormon-an-actor-and-a-father-360p-por.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5800-im-a-mormon-an-actor-and-a-father-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='Sou Mórmon 2011' subtitle='Videos: 23' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2011-category-138x91.jpg'><rss><channel><title/><description/>
@@ -20256,7 +20238,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Tópicos' subtitle='Videos: 228' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Tópicos' subtitle='Videos: 229' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-085-support-through-trials</id>
         <title>Apoio nas Provações</title>
@@ -20668,6 +20650,18 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-333-im-a-mormon-ping-pong-king-and-making-my-mother-proud-720p-por.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='Dia do Senhor' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-04-1000-share-your-sabbath</id>
+        <title>Compartilhe Seu Dia do Senhor</title>
+        <description>Each week He gives us a day for the most important things. Share what you do with it.</description>
+        <duration>53</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Escrituras' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/scriptures-spa-138x91.jpg'><rss><channel><title/><description/>

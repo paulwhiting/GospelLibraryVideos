@@ -20167,7 +20167,17 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Películas Destacadas' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Películas Destacadas' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-01-1000-meet-the-mormons</id>
+        <title>Conozca a los mormones</title>
+        <description>La película Conozca a los mormones examina la vida que tienen seis devotos miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, conocidos como mormones. Este video es de USO EXCLUSIVO DE LA IGLESIA O DE LA PERSONA QUE LO ESTÁ MIRANDO y no se debe publicar o subir a sitios web personales. Sin embargo, alentamos a que se comparta el video desde esta página o incrustado de YouTube.</description>
+        <duration>4669</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-spa.mp4' height='1080p'/>
+</item>
 <item>
         <id>2011-03-01-joseph-smith-the-prophet-of-the-restoration-spa</id>
         <title>José Smith: El Profeta de la Restauración</title>
@@ -23568,7 +23578,7 @@
 <content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-015-this-is-visiting-teaching-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Soy Mormón' subtitle='Videos: 99' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Soy mormón - 2013' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/2013-06-1250-im-a-mormon-mom-of-two-autistic-boys-and-a-teacher-138x91-thumb.jpg'><rss><channel><title/><description/>
+<category title='Soy Mormón' subtitle='Videos: 91' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Soy mormón - 2013' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/2013-06-1250-im-a-mormon-mom-of-two-autistic-boys-and-a-teacher-138x91-thumb.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-02-1000-im-a-mormon-an-enthusiastic-woman-and-a-loving-wife</id>
         <title>Soy mormona, mujer entusiasta y esposa amorosa</title>
@@ -23688,17 +23698,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1120-im-a-mormon-i-clean-carpets-and-cook-curry-360p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Soy mormón - 2012' subtitle='Videos: 25' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder</id>
-        <title>Soy mormón, hombre de familia y practico snowboard</title>
-        <description>Cuando era niño, el atleta mormón profesional de snowboard Jeremy Jones tenía como prioridad su deporte. Ahora su familia es lo primero y además le brinda su base espiritual. Vea más sobre Jeremy en www.mormon.org/spa/Jeremy</description>
-        <duration>173</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder-720p-spa.mp4' height='720p'/>
-</item>
+<category title='Soy mormón - 2012' subtitle='Videos: 17' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-06-3601-ingrid-maldonado</id>
         <title>Ingrid Maldonado</title>
@@ -23717,37 +23717,6 @@
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-08-4000-im-a-mormon-a-permaculture-gardener-and-a-great-cook.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4000-im-a-mormon-a-permaculture-gardener-and-a-great-cook-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4000-im-a-mormon-a-permaculture-gardener-and-a-great-cook-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-08-4200-im-a-mormon-soccer-player-and-man-with-a-second-chance</id>
-        <title>Soy  Mormón, jugador de fútbol y un hombre con una segunda oportunidad</title>
-        <description>Un ataque al corazón a los 44 años, hizo recapacitar a Bruno sobre la clase de vida que estaba llevando. Ahora su corazón goza de mayor salud gracias al amor y felicidad que siente y comparte con otros. Vea más en www.mormon.org/spa/bruno</description>
-        <duration>187</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-4200-im-a-mormon-soccer-player-and-man-with-a-second-chance-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-08-4200-im-a-mormon-soccer-player-and-man-with-a-second-chance.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4200-im-a-mormon-soccer-player-and-man-with-a-second-chance-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4200-im-a-mormon-soccer-player-and-man-with-a-second-chance-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-06-3801-im-a-mormon-broadcaster-and-single-father</id>
-        <title>Soy Mormon, Locutor y Padre Soltero</title>
-        <description>A Vicente Hernandez le encanta transmitir las noticias con su voz grave y fuerte. Su propia fortaleza viene del saber que él no está solo, aun en medio de los más grandes retos de su vida. www.mormon.org/spa/vicente</description>
-        <duration>162</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-3801-im-a-mormon-broadcaster-and-single-father-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-720p-spa.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-1080p-spa.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola</id>
-        <title>Soy Mormona, Costarricense, y una Encantadora de la Viola.</title>
-        <description>Irene Monterroso es una Violista de Concierto Mormona que cree que la música nos ensena que somos parte de algo más grande que nosotros mismos. www.mormon.org/spa/irenem</description>
-        <duration>219</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3700-soy-mormona-costarricense-y-me-encanta-la-viola-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3700-soy-mormona-costarricense-y-me-encanta-la-viola-720p-spa.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-02-0700-im-a-mormon-flight-nurse-and-strong-rock-in-tragedy</id>
@@ -23770,16 +23739,6 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4450-im-a-mormon-trainer-and-national-judo-champ-720p-spa.mp4' height='720p'/>
 </item>
 <item>
-        <id>2012-01-0300-im-a-mormon-country-girl-and-traveling-artist</id>
-        <title>Soy mormona, granjera y artista viajera</title>
-        <description>Kathy Peterson y es una chica granjera que cree en la importancia de viajar. Es por medio de otros países, culturas y la fe que Kathy recibe inspiración como artista mormona. Vea más sobre Kathy en www.mormon.org/spa/kathy</description>
-        <duration>192</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist-720p-spa.mp4' height='720p'/>
-</item>
-<item>
         <id>2012-02-1100-im-a-mormon-loyal-daughter-and-aspiring-journalist</id>
         <title>Soy mormona, hija leal y aspirante a periodista</title>
         <description>Pasó de ser una niña inmigrante a las salas de prensa de Nueva York, Anita es la prueba viviente de que aún un humilde comienzo puede tener un final grandioso. Vea más de esta reportera mormona en www.mormon.org/spa/anita</description>
@@ -23800,16 +23759,6 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-720p-spa.mp4' height='720p'/>
 </item>
 <item>
-        <id>2012-09-4400-im-a-mormon-and-puerto-rican-with-faith-in-gods-plan</id>
-        <title>Soy Mormón y  un puertorriqueño con fe en el Plan de Dios</title>
-        <description>Nuria y Alex son mormones que dejaron todo atrás para empezar una nueva vida en su país de origen- Puerto Rico. Vea su fe en acción en www.mormon.org/spa/alex</description>
-        <duration>224</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-09-4400-im-a-mormon-and-puerto-rican-with-faith-in-gods-plan-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-09-4400-im-a-mormon-and-puerto-rican-with-faith-in-gods-plan.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4400-im-a-mormon-and-puerto-rican-with-faith-in-gods-plan-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4400-im-a-mormon-and-puerto-rican-with-faith-in-gods-plan-360p-spa.mp4' height='720p'/>
-</item>
-<item>
         <id>2012-02-1000-im-a-mormon-canadian-realtor-and-noble-uruguay-native</id>
         <title>Soy mormón, agente canadiense y noble uruguayo</title>
         <description>Adonal Noble, mormón canadiense, no sólo es noble de nombre, sino noble de corazón; un corazón tan grande que abarca dos países. Vea más en www.mormon.org/spa/adonal</description>
@@ -23822,22 +23771,12 @@
 <item>
         <id>2012-11-5900-im-a-mormon-a-doctor-and-a-father</id>
         <title>Soy mormón, doctor y padre</title>
-        <description>Yulia, la hija de Mikhail y Valentina, era su sol. Cuando falleció, la vida se oscureció. Pero el evangelio restaurado de Jesucristo enseña que se regocijarán al verla nuevamente. Más en www.mormon.org/spa/mikhail</description>
+        <description>Yulia, la hija de Mikhail y Valentina, era su sol. Cuando falleció, la vida se oscureció. Pero el evangelio restaurado de Jesucristo enseña que se regocijarán al verla nuevamente. Más en http://www.mormon.org/spa/mikhail</description>
         <duration>176</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-11-5900-im-a-mormon-a-doctor-and-a-father-192x108-thumb.jpg'/>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father-720p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father-360p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-08-4100-im-a-mormon-entrepreneur-and-salsa-dancer</id>
-        <title>Soy Mormón, empresario e instructor de baile salsa</title>
-        <description>Mormón, Luis y Nolvia Navarros, Escuela de baile Anum Bayaa, Republica Dominicana, Honduras, Salsa, Tango, divorcio, Iglesia de Jesucristo de los Santos de los Últimos Días, matrimonio, maternidad, padres, esposo, esposa, empresario. www.mormon.org/spa/luis</description>
-        <duration>169</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-08-4100-im-a-mormon-entrepreneur-and-salsa-dancer-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-08-4100-im-a-mormon-entrepreneur-and-salsa-dancer.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4100-im-a-mormon-entrepreneur-and-salsa-dancer-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4100-im-a-mormon-entrepreneur-and-salsa-dancer-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5900-im-a-mormon-a-doctor-and-a-father-720p-spa.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate</id>
@@ -23848,15 +23787,6 @@
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-09-4402-im-a-mormon-adopted-father-and-costa-rican-pizza-chef</id>
-        <title>Soy Mormón, padre adoptivo y chef de pizza costarricense</title>
-        <description>Freddy Marín es un mormón que cree que no hay hijos no deseados sino familias no encontradas. Vea cómo los niños de Freddy encontraron a su familia en www.mormon.org/spa/freddy</description>
-        <duration>175</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-4402-im-a-mormon-adopted-father-and-costa-rican-pizza-chef-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4402-im-a-mormon-adopted-father-and-costa-rican-pizza-chef-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4402-im-a-mormon-adopted-father-and-costa-rican-pizza-chef-720p-spa.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-02-1700-im-a-mormon-scoutmaster-and-connecticut-police-sergeant</id>
@@ -23871,12 +23801,12 @@
 <item>
         <id>2012-06-3501-im-a-mormon-doctor-and-devoted-mother</id>
         <title>Soy una Mormona, una Doctora y una Madre dedicada</title>
-        <description>La Doctora Icelza y su esposo tienen dos recordatorios de qué realmente es importante en esta vida: sus dos hijos. Las carreras y el deporte son secundarios. Lea más en www.mormon.org/spa/icelza</description>
+        <description>La Doctora Icelza y su esposo tienen dos recordatorios de qué realmente es importante en esta vida: sus dos hijos. Las carreras y el deporte son secundarios. www.mormon.org/spa/icelza</description>
         <duration>210</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-3501-im-a-mormon-doctor-and-devoted-mother-192x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3501-im-a-mormon-doctor-and-devoted-mother.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3501-im-a-mormon-doctor-and-devoted-mother-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3501-im-a-mormon-doctor-and-devoted-mother-360p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3501-im-a-mormon-doctor-and-devoted-mother-720p-spa.mp4' height='720p'/>
 </item>
 <item>
         <id>2012-09-4403-im-a-mormon-happy-puerto-rican-and-newlywed-spa</id>
@@ -24547,7 +24477,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Temas' subtitle='Videos: 231' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Temas' subtitle='Videos: 230' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-08-33-youre-never-alone-spa</id>
         <title>Nunca estamos solos</title>
@@ -25828,7 +25758,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-heavenly-fathers-plan/2011-06-02-god-is-our-father-1080p-spa.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Padres' subtitle='Videos: 6' img='http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg'><rss><channel><title/><description/>
+<category title='Padres' subtitle='Videos: 5' img='http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-01-002-earthly-father-heavenly-father</id>
         <title>Padre terrenal, Padre Celestial</title>
@@ -25869,17 +25799,6 @@
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people/2010-06-2053-im-a-mormon-polynesian-father-and-former-nfl-player.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2053-im-a-mormon-polynesian-father-and-former-nfl-player-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2053-im-a-mormon-polynesian-father-and-former-nfl-player-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2012-06-3801-im-a-mormon-broadcaster-and-single-father</id>
-        <title>Soy Mormon, Locutor y Padre Soltero</title>
-        <description>A Vicente Hernandez le encanta transmitir las noticias con su voz grave y fuerte. Su propia fortaleza viene del saber que él no está solo, aun en medio de los más grandes retos de su vida. www.mormon.org/spa/vicente</description>
-        <duration>162</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-3801-im-a-mormon-broadcaster-and-single-father-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-720p-spa.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-1080p-spa.mp4' height='1080p'/>
 </item>
 <item>
         <id>2010-06-2035-im-a-mormon-single-dad-designer-baseball-coach</id>

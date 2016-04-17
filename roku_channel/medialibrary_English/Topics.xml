@@ -8361,9 +8361,29 @@
 </channel>
   </rss>
 </category>
-<category title="Sabbath Day" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
+<category title="Sabbath Day" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-04-1000-share-your-sabbath</id>
+        <title>Share Your Sabbath</title>
+        <description>Each week He gives us a day for the most important things. Share what you do with it.</description>
+        <duration>53</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-1000-share-your-sabbath-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-04-2000-saturday-is-a-special-day</id>
+        <title>Saturday Is a Special Day</title>
+        <description>A video about honoring the Sabbath made by a ward in Sandy, Utah.</description>
+        <duration>99</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/sabbath-day-2016/2016-04-2000-saturday-is-a-special-day-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-2000-saturday-is-a-special-day-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-2000-saturday-is-a-special-day-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/sabbath-day-2016/2016-04-2000-saturday-is-a-special-day-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-06-002-a-row-of-sunday-shoes</id>
         <title>A Row of Sunday Shoes</title>
