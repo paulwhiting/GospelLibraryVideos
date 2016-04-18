@@ -7,9 +7,9 @@
         <duration>271</duration>
         <thumbnail url=''/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/640/360/796972' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/1280/720/1443014' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/1280/720/1730121' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/1280/720/2053994' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/1280/720/1730121' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1871079269001/1280/720/1443014' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -17,11 +17,11 @@
         <description></description>
         <duration>223</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1280/720/1796282' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1280/720/2124282' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1920/1080/8065000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/640/360/924282' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1280/720/1796282' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1280/720/2524282' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031729247001/1280/720/2124282' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -29,11 +29,11 @@
         <description></description>
         <duration>249</duration>
         <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1280/720/2124806' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1920/1080/7916000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1280/720/2524806' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1280/720/1796806' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/640/360/924806' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1280/720/2124806' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031737210001/1280/720/1796806' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -41,11 +41,11 @@
         <description></description>
         <duration>220</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/640/360/924579' height='360p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1920/1080/7935000' height='1080p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1280/720/2124579' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1280/720/1796579' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1280/720/2524579' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1280/720/1796579' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/640/360/924579' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031717498001/1280/720/2124579' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -53,11 +53,11 @@
         <description></description>
         <duration>222</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/2524613' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/640/360/924613' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/1796613' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/2124613' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/2524613' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1920/1080/7891000' height='1080p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/2124613' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031725006001/1280/720/1796613' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -65,36 +65,11 @@
         <description></description>
         <duration>204</duration>
         <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1280/720/2124271' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1280/720/2524271' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1920/1080/7775000' height='1080p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1280/720/1796271' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/640/360/924271' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1280/720/2124271' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1920/1080/7775000' height='1080p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031728352001/1280/720/2524271' height='720p'/>
-</item>
-</channel></rss></category>
-<category title='教導青少年的原則' subtitle='Videos: 2, Audio: 0' >
-<rss><channel><item>
-        <id></id>
-        <title>鞏固家庭</title>
-        <description></description>
-        <duration>178</duration>
-        <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725038001/640/360/923758' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725038001/1280/720/2523758' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725038001/1920/1080/7690000' height='1080p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725038001/1280/720/1795758' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031725038001/1280/720/2123758' height='720p'/>
-</item>
-<item>
-        <id></id>
-        <title>幫助我們發掘福音</title>
-        <description></description>
-        <duration>256</duration>
-        <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/1280/720/2038805' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/1280/720/1461615' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/640/360/812672' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/2031686983001/1280/720/1711132' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='決定教導內容' subtitle='Videos: 1, Audio: 0' >
@@ -104,10 +79,10 @@
         <description></description>
         <duration>184</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/1871079280001/1280/720/1687196' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079280001/1280/720/1998336' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079280001/1280/720/1408744' height='720p'/>
 <content url='http://mediasrv.lds.org/media-services/GA/size/1871079280001/640/360/775539' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/1871079280001/1280/720/1687196' height='720p'/>
 </item>
 </channel></rss></category>
 </categories>

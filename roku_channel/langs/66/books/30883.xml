@@ -735,7 +735,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336123193001/1280/720/2400375' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Mosiah' subtitle='Videos: 28, Audio: 0' >
+<category title='Mosiah' subtitle='Videos: 29, Audio: 0' >
 <rss><channel><item>
         <id></id>
         <title>Mosiah 1</title>
@@ -817,8 +817,12 @@
         <id></id>
         <title>Mosiah 8</title>
         <description></description>
-        <duration></duration>
+        <duration>822</duration>
         <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1446980' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1749119' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/640/360/712801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/2095554' height='720p'/>
 </item>
 <item>
         <id></id>
@@ -2518,7 +2522,7 @@
 <content url='http://mediasrv.lds.org/media-services/GA/size/3336146814001/1280/720/2148576' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Moroni' subtitle='Videos: 9, Audio: 0' >
+<category title='Moroni' subtitle='Videos: 10, Audio: 0' >
 <rss><channel><item>
         <id></id>
         <title>Moroni 1</title>
@@ -2611,19 +2615,23 @@
         <id></id>
         <title>Moroni 9</title>
         <description></description>
-        <duration></duration>
+        <duration>822</duration>
         <thumbnail url=''/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1749119' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1446980' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/640/360/712801' height='360p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/2095554' height='720p'/>
 </item>
 <item>
         <id></id>
         <title>Moroni 10</title>
         <description></description>
-        <duration>822</duration>
+        <duration>931</duration>
         <thumbnail url=''/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/640/360/712801' height='360p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/2095554' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1749119' height='720p'/>
-<content url='http://mediasrv.lds.org/media-services/GA/size/3335985231001/1280/720/1446980' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3336149720001/1280/720/2400375' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3336149720001/1280/720/2000375' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3336149720001/1280/720/1672375' height='720p'/>
+<content url='http://mediasrv.lds.org/media-services/GA/size/3336149720001/640/360/800375' height='360p'/>
 </item>
 </channel></rss></category>
 </categories>
