@@ -4336,13 +4336,14 @@
     <channel><title/><description/>
 <item>
         <id>2011-03-01-joseph-smith-the-prophet-of-the-restoration</id>
-        <title>Joseph Smith: The Prophet of the Restoration</title>
+        <title>Joseph Smith: The Prophet of the Restoration (DVD Release)</title>
         <description>A motion picture about the life and legacy of Joseph Smith, the founding prophet of The Church of Jesus Christ of Latter-day Saints.</description>
         <duration>3724</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-768x432-still.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration.xml"/>
 <content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2008-06-01-the-restoration</id>
@@ -7346,7 +7347,6 @@
         <duration>894</duration>
         <thumbnail url="http://media.ldscdn.org/thumbnails/2007-01-0007-the-pride-cycle-138x81.jpg"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0007-the-pride-cycle-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0007-the-pride-cycle-480p-eng.mp4" height="480p"/>
 </item>
 <item>
         <id>2012-08-1560-pride-simulation-center</id>
@@ -8361,7 +8361,7 @@
 </channel>
   </rss>
 </category>
-<category title="Sabbath Day" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
+<category title="Sabbath Day" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/2010-05-1070-congregational-service-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -8413,6 +8413,16 @@
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-014-sunday-sounds-different-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-014-sunday-sounds-different-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-014-sunday-sounds-different-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-08-001-everyday-distractions</id>
+        <title>Everyday Distractions</title>
+        <description>Life gets a little distracting sometimes. Visit LDS.org to learn more.</description>
+        <duration>99</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/sabbath-days-videos/2015-08-001-everyday-distractions-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/news-and-public-affairs/sabbath-days-videos/2015-08-001-everyday-distractions.xml"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-001-everyday-distractions-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/sabbath-days-videos/2015-08-001-everyday-distractions-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2015-08-005-help-or-hinder</id>

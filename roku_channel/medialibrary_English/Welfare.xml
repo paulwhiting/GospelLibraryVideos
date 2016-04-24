@@ -1848,36 +1848,4 @@
 </channel>
   </rss>
 </category>
-<category title="Training" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/welfare-training-138x91-thumb.jpg">
-  <rss>
-    <channel><title/><description/>
-<item>
-        <id>2015-10-100-emergency-response-volunteer-training</id>
-        <title>Emergency Response Volunteer Training</title>
-        <description>Wards and stakes may organize volunteers to assist in the community following a disaster. All volunteers should adhere to Church safety guidelines for disaster cleanup.</description>
-        <duration>271</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-1080p-eng.mp4" height="1080p"/>
-</item>
-</channel>
-  </rss>
-</category>
-<category title="Visitor Center Films" subtitle="Videos: 1" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/visitor-center-films-category.jpeg">
-  <rss>
-    <channel><title/><description/>
-<item>
-        <id>2015-12-1000-welfare-overview</id>
-        <title>Welfare Overview</title>
-        <description>This video gives you an overview of the Welfare program and how it helps those in need all over the world.</description>
-        <duration>426</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/welfare-overview/2015-12-1000-welfare-overview-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/welfare/welfare-overview/2015-12-1000-welfare-overview-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/welfare-overview/2015-12-1000-welfare-overview-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/welfare-overview/2015-12-1000-welfare-overview-1080p-eng.mp4" height="1080p"/>
-</item>
-</channel>
-  </rss>
-</category>
 </categories>
