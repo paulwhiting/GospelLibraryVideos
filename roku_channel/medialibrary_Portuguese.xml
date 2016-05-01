@@ -1226,7 +1226,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Bem-estar' subtitle='Videos: 21' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Vício' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Bem-estar' subtitle='Videos: 22' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Vício' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-05-0002-a-time-and-a-season</id>
         <title>Um Tempo e Uma Época</title>
@@ -1442,6 +1442,18 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-720p-por.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='Treinamento' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/welfare-training-138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-100-emergency-response-volunteer-training</id>
+        <title>Treinamento de Voluntários de Atendimento a Emergências</title>
+        <description>As alas e estacas podem organizar voluntários para ajudar a comunidade após uma catástrofe. Todos os voluntários devem seguir as diretrizes para limpeza após catástrofes.</description>
+        <duration>271</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -9137,6 +9149,7 @@
         <description>Conheça os Mórmons examina a vida de seis diferentes membros fiéis de A Igreja de Jesus Cristo dos Santos dos Últimos Dias (Mórmons). Esse vídeo é APENAS para USO da IGREJA ou USO PESSOAL. Não deve ser feito upload do vídeo nem se deve publicá-lo em sites pessoais. No entanto, nós o incentivamos a compartilhá-lo a partir desta página ou via YouTube.</description>
         <duration>4669</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-por.mp4' height='1080p'/>

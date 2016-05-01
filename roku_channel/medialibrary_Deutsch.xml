@@ -1085,6 +1085,7 @@
         <description>Im Film Meet the Mormons werden sechs gläubige Mitglieder der Kirche Jesu Christi der Heiligen der Letzten Tage (Mormonen) vorgestellt, deren Leben unterschiedlicher nicht sein könnte. Dieses Video ist AUSSCHLIESSLICH für den KIRCHLICHEN und PERSÖNLICHEN GEBRAUCH vorgesehen und darf nicht auf persönlichen Websites hochgeladen oder veröffentlicht werden. Sie können das Video jedoch gern von dieser Seite aus weitergeben oder es aus YouTube einbinden.</description>
         <duration>4672</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-eng.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-eng.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-eng.mp4' height='1080p'/>
@@ -5379,7 +5380,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Wohlfahrt' subtitle='Videos: 19' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Sucht' subtitle='Videos: 18' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Wohlfahrt' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Sucht' subtitle='Videos: 18' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-001-you-will-be-freed</id>
         <title>Sie werden befreit sein</title>
@@ -5575,6 +5576,18 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-360p-deu.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-720p-deu.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='Schulung' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/welfare-training-138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-100-emergency-response-volunteer-training</id>
+        <title>Schulung für freiwillige Helfer</title>
+        <description>Nach einer Katastrophe kann eine Gemeinde oder ein Pfahl Freiwillige organisieren, die bei den Aufräumarbeiten mithelfen. Alle Freiwilligen müssen bei solchen Aufräumaktionen die Sicherheitsrichtlinien der Kirche beachten.</description>
+        <duration>271</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-360p-deu.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-720p-deu.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-1080p-deu.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>

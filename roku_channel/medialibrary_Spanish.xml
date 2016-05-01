@@ -1227,7 +1227,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Bienestar' subtitle='Videos: 21' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Adicción' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Bienestar' subtitle='Videos: 22' img='http://media.ldscdn.org/thumbnails/welfare-category-138x91.jpg'><category title='Adicción' subtitle='Videos: 20' img='http://media.ldscdn.org/thumbnails/addiction-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-05-0002-a-time-and-a-season</id>
         <title>El tiempo y la estación</title>
@@ -1437,6 +1437,18 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/welfare/fast-offerings-a-simple-commandment-with-a-marvelous-promise/2015-06-01-fast-offerings-a-simple-commandment-with-a-marvelous-promise-720p-spa.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='Capacitación' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/welfare-training-138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-10-100-emergency-response-volunteer-training</id>
+        <title>Capacitación a voluntarios sobre respuesta a emergencia</title>
+        <description>Los barrios y las estacas deben organizar voluntarios para ayudar a la comunidad luego de que ocurra un desastre. Todos los voluntarios deben cumplir con las pautas de seguridad de la Iglesia para las operaciones de limpieza después de un desastre.</description>
+        <duration>271</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-1080p-spa.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -7687,7 +7699,7 @@
 <item>
         <id>2010-07-048-a-man-without-eloquence-spa</id>
         <title>Un hombre sin elocuencia</title>
-        <description>El testimonio de un maestro humilde ayuda a Brigham Young a conertirse al Evangelio restaurado (D. y C. 50:17-22).</description>
+        <description>El testimonio de un maestro humilde ayuda a Brigham Young a convertirse al Evangelio restaurado (D. y C. 50:17-22).</description>
         <duration>366</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-144x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-360p-spa.mp4' height='360p'/>
@@ -15945,7 +15957,7 @@
 <item>
         <id>2010-07-048-a-man-without-eloquence-spa</id>
         <title>Un hombre sin elocuencia</title>
-        <description>El testimonio de un maestro humilde ayuda a Brigham Young a conertirse al Evangelio restaurado (D. y C. 50:17-22).</description>
+        <description>El testimonio de un maestro humilde ayuda a Brigham Young a convertirse al Evangelio restaurado (D. y C. 50:17-22).</description>
         <duration>366</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-144x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-360p-spa.mp4' height='360p'/>
@@ -20517,6 +20529,7 @@
         <description>La película Conozca a los mormones examina la vida que tienen seis devotos miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, conocidos como mormones. Este video es de USO EXCLUSIVO DE LA IGLESIA O DE LA PERSONA QUE LO ESTÁ MIRANDO y no se debe publicar o subir a sitios web personales. Sin embargo, alentamos a que se comparta el video desde esta página o incrustado de YouTube.</description>
         <duration>4669</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-1080p-spa.mp4' height='1080p'/>
@@ -23921,7 +23934,7 @@
 <content url='http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-015-this-is-visiting-teaching-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Soy Mormón' subtitle='Videos: 91' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Soy mormón - 2013' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/2013-06-1250-im-a-mormon-mom-of-two-autistic-boys-and-a-teacher-138x91-thumb.jpg'><rss><channel><title/><description/>
+<category title='Soy Mormón' subtitle='Videos: 90' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Soy mormón - 2013' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/2013-06-1250-im-a-mormon-mom-of-two-autistic-boys-and-a-teacher-138x91-thumb.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-02-1000-im-a-mormon-an-enthusiastic-woman-and-a-loving-wife</id>
         <title>Soy mormona, mujer entusiasta y esposa amorosa</title>
@@ -23960,16 +23973,6 @@
 <subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2013/2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother-720p-spa.mp4' height='720p'/>
-</item>
-<item>
-        <id>2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others</id>
-        <title>Soy mormón, jugador de rugby y presto servicio</title>
-        <description>Recibir golpes en el campo de rugby no es lo único que entusiasma a John. Como mormón y seguidor de Cristo, él también disfruta de servir a su familia y a su comunidad. www.mormon.org/people</description>
-        <duration>228</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others-192x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others.xml'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others-360p-spa.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others-720p-spa.mp4' height='720p'/>
 </item>
 <item>
         <id>2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor</id>
