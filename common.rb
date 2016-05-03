@@ -7,6 +7,7 @@ $downloaded_thumbnail_count = 0
 $missing_thumbnail_count = 0
 $downloaded_subtitles_count = 0
 $missing_subtitles_count = 0
+$file_download_sizes = Hash.new(0)
 
 def get_filename_from_url( url )
     return '' if url == nil or url == ''
@@ -15,17 +16,60 @@ def get_filename_from_url( url )
     return url[(ri+1)..-1]
 end
 
-def get_file_download_size( url )
-  uri = URI(url)
+class URLSizes
+  @@sizes = {}
+  @@mutex = Mutex.new
 
-  Net::HTTP.start(uri.host) do |http|
-    response = http.request_head(uri.path)
-    size = response.header["Content-Length"].to_i
-    # PrettyPrintNewline "Detected Size = #{size}"
-    return size
+  ERR_NOT_SUCCESS = -1
+  ERR_INVALID_URI = -2
+  ERR_TOO_MANY_RETRIES = -3
+  ERR_CONN_REFUSED = -4
+  ERR_END_OF_FUNC = -5
+  
+  private_class_method
+  def self.fetch_size( url, tries = 3 )
+    #puts "Attempting #{url}"
+    begin
+      uri = URI(url)
+      Net::HTTP.start(uri.host,uri.port,use_ssl: uri.scheme == 'https' ) do |http|
+        response = http.request_head(uri.path)
+        case response
+        when Net::HTTPRedirection then
+          return ERR_TOO_MANY_RETRIES if tries == 0  # redirected too many times
+          return self.fetch_size( response['location'], tries - 1 )
+        when Net::HTTPSuccess then
+          size = response.header["Content-Length"].to_i
+          #PrettyPrintNewline "Detected Size = #{size}"
+          return size
+        else
+          return ERR_NOT_SUCCESS
+        end
+      end # HTTP.start
+    rescue Errno::ECONNREFUSED
+      return ERR_CONN_REFUSED
+    rescue URI::InvalidURIError
+      return ERR_INVALID_URI
+    rescue Timeout::Error
+      return ERR_TOO_MANY_RETRIES if tries == 0  # tried too many times
+      return self.fetch_size( url, tries-1 ) if tries > 0
+    end
+
+    return ERR_END_OF_FUNC
   end
 
-  return 0
+  # memoize!
+  def self.get_size( url )
+    return @@sizes[url] if @@sizes[url]
+    size = self.fetch_size( url )
+    @@mutex.synchronize do
+      @@sizes[url] = size
+    end
+  end
+
+end
+
+def get_file_download_size( url )
+  return URLSizes.get_size(url)
 end
 
 ###############################

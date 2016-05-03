@@ -32,7 +32,7 @@ needs_comma = false
 i = 0
 data.each do |key, value|
     i += 1
-    print "'#{key}':'#{value}'"
+    print "\"#{key}\":\"#{value}\""
     print "," if i != count
     puts ""
 end
