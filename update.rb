@@ -107,7 +107,7 @@ def getVideos(url,filename)
                         end
                         quality = FixQuality(video_title,quality)
                     else
-                        PrettyPrintNewline("Unsupported type: #{p2[:type]}")
+                        PrettyPrintNewline("Unsupported type: #{p2[:type]}\n")
                         next
                     end  # quality
                     video.add(url: url, quality: quality, size: bytes, duration: duration)
@@ -840,7 +840,7 @@ def durationStrToInt( duration )
         end
         return (t2 - t1).to_i
     rescue
-        PrettyPrintNewline("ERROR calculating duration from #{duration}")
+        PrettyPrintNewline("ERROR calculating duration from #{duration}\n")
         return 0
     end
 end
@@ -868,43 +868,25 @@ def FixURL( params )
 
     # warn if improper slashes are used
     if params[:url].include?('\\')
-        PrettyPrintNewline "WARNING: URL contains '\\' - #{params[:url]}"
+        PrettyPrintNewline "WARNING: URL contains '\\' - #{params[:url]}\n"
         params[:url].gsub!('\\','/')
     end
 
     # warn if improper whitespace is present
     nowhitespace = params[:url].strip
     if nowhitespace != params[:url]
-        PrettyPrintNewline "WARNING: URL contains extra whitespace - #{params[:url]}"
+        PrettyPrintNewline "WARNING: URL contains extra whitespace - #{params[:url]}\n"
         params[:url] = nowhitespace
     end
 
     # warn if encoded whitespace is present
-    if params[:url].include?('%20')
-        PrettyPrintNewline "WARNING: URL contains '%20' - #{params[:url]}"
+    if params[:url].include?(' ')
+        PrettyPrintNewline "WARNING: URL contains a space character - #{params[:url]}\n"
     end
+    #if params[:url].include?('%20')
+        #PrettyPrintNewline "WARNING: URL contains '%20' - #{params[:url]}\n"
+    #end
 
-    if params[:title] == "Step Two: Hope" and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-001-step-one-honesty-1080p-eng.mp4"
-        PrettyPrintNewline "Fixing Addiction Step Two URL..."
-        return "http://media2.ldscdn.org/assets/welfare/lds-addiction-recovery-program-twelve-step-video-series/2012-12-002-step-two-hope-1080p-eng.mp4"
-
-    elsif params[:url] == "/pages/mormon-messages/images/voice-of-the-spirit-mormon-message-138x81.jpg"
-        PrettyPrintNewline "Fixing Voice of the Spirit URL..."
-        return "http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"
-
-    elsif params[:title].include?('Linda S. Reeves') and params[:url].include?('2014-04-0010-president-thomas-s-monson-1080p')
-        PrettyPrintNewline "Fixing Linda S. Reeves URL..."
-        return "media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0050-linda-s-reeves-1080p-spa.mp4"
-
-    elsif params[:title].include?('Henry B. Eyring') and params[:quality].to_i == 1080 and params[:url] == "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0080-elder-russell-m-nelson-360p-spa.mp4"
-        PrettyPrintNewline "Fixing Henry B. Eyring URL..."
-        return "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0070-president-henry-b-eyring-1080p-spa.mp4"
-
-    elsif params[:title].include?('Henry B. Eyring') and params[:quality].to_i == 360 and params[:url] == "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0080-elder-russell-m-nelson-1080p-spa.mp4"
-        PrettyPrintNewline "Fixing Henry B. Eyring URL..."
-        return "http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference-highlights/2014-04-0070-president-henry-b-eyring-360p-spa.mp4"
-
-    end
     if params[:url].start_with?("https:")
         return params[:url].gsub("https:","http:")
     elsif params[:url].start_with?('/') # if it doesn't start with http then assume it's a relative URL instead of absolute
@@ -1343,24 +1325,49 @@ class MediaLibraryEntry
                 # if downloaded_video_dir is present then we need to only show
                 # videos we've already downloaded.  So, skip any video not already downloaded
                 next if DOWNLOADED_VIDEO_DIR != nil and not video_already_downloaded?( link )
-                size = item['size']
-                if size.to_i == 0
+
+                # compute the video size first from metadata or cache or querying the URL for its size
+                # The size must have a KB/MB/GB suffix to be valid
+                #size = item['size']
+                size = 0  # if all else fails default to 0 to force an HTTP HEAD request for the size
+                matches = /(\d+\.?\d*) (KB|MB|GB)$/.match(item['size'])
+                if matches
+                  power = matches[2]
+                  size = matches[1].to_f
+                  case power
+                    when "GB"
+                      size *= 1024 # 1 GB == 1024 MB
+                    when "MB"
+                      # do nothing because our unit is already MB
+                    when "KB"
+                      size /= 1024 # 1 MB == 1024 KB
+                    end
+                end
+
+                if size == 0
                   if link == nil or link == ""
-                    PrettyPrintNewline "When detecting size the URL is empty for #{title}"
+                    PrettyPrintNewline "ERROR: When detecting video size the URL is empty for #{title}"
                   else
                     size = $cached_file_sizes[link].to_f
                     if size > 0
-                      PrettyPrintNewline "WARNING: Using cached video download size (#{size} MB) for #{link} on page #{@url}"
+                      PrettyPrintNewline "WARNING: Using cached video download size (#{size} MB) for #{link} on page #{@url}\n"
                     else
                       if $detected_file_sizes[link] > 0
                         size = $detected_file_sizes[link]
                       else
-                        size = get_file_download_size( link ) / 1000000.0  # we want size in MB not bytes
+                        size = get_file_download_size( link )
+                        size /= (2.0**20) if size >= 0 # we want size in MB not bytes
                         $detected_file_sizes[link] = size
-                        PrettyPrintNewline "WARNING: Video download size is zero for #{link} on page #{@url} but it was detected to be #{size.round(2)} MB"
+                        PrettyPrintNewline "WARNING: Video size metadata is missing for #{link} on page #{@url}.  It was detected to be #{size.round(3)} MB.\n"
                       end
                     end
                   end
+                end
+
+                if size < 0
+                  PrettyPrintNewline "ERROR: INVALID URL -- #{URLSizes.err_to_s(size)} -- #{link} on page #{@url}\n"
+                elsif size < 0.001
+                  PrettyPrintNewLine "ERROR: video download size (#{size} bytes) indicates a broken video.  #{link} on page #{@url}\n"
                 end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)

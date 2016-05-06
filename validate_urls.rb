@@ -79,7 +79,9 @@ def do_roku_split( file )
             pool.schedule(item,vid['url']) do |item,url|
               filesize = get_file_download_size( url )
               print_mutex.synchronize do
-                if filesize < 1000  # if the detected file size is customarily small then it's a bad link
+                if filesize < 0 # then an error happened
+                  puts "INVALID URL -- #{URLSizes.err_to_s(filesize)} -- #{url} [#{printHeritage(item)}]"
+                elsif filesize < 1000  # if the detected file size is customarily small then it's a bad link
                   puts "INVALID URL: #{filesize} bytes -- #{url} [#{printHeritage(item)}]"
                 else
                   puts "VALID URL: #{filesize} bytes -- #{url} "#[#{printHeritage(item)}]"
@@ -97,7 +99,9 @@ def do_roku_split( file )
       #pool.schedule(category,category['img']) do |item, url|
         filesize = get_file_download_size( url )
         print_mutex.synchronize do
-          if filesize < 1000  # if the detected file size is customarily small then it's a bad link
+          if filesize < 0 # then an error happened
+            puts "INVALID URL -- #{URLSizes.err_to_s(filesize)} -- #{url} [#{printHeritage(item)}]"
+          elsif filesize < 1000  # if the detected file size is customarily small then it's a bad link
             puts "INVALID URL: #{filesize} bytes -- #{url} [#{printHeritage(item)}]"
           else
             puts "VALID URL: #{filesize} bytes -- #{url} "#[#{printHeritage(item)}]"
@@ -110,7 +114,8 @@ def do_roku_split( file )
 end
 
 
-printUsage if ARGV.count != 1
+printUsage if ARGV.count == 0
 
-do_roku_split ARGV[0]
-
+ARGV.each do |arg|
+  do_roku_split( arg )
+end

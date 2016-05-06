@@ -25,6 +25,23 @@ class URLSizes
   ERR_TOO_MANY_RETRIES = -3
   ERR_CONN_REFUSED = -4
   ERR_END_OF_FUNC = -5
+
+  def self.err_to_s( err )
+    case err
+      when ERR_NOT_SUCCESS
+        "Server returned unsuccessful HTTP status code"
+      when ERR_INVALID_URI
+        "Invalid URI"
+      when ERR_TOO_MANY_RETRIES
+        "Too many retries"
+      when ERR_CONN_REFUSED
+        "HTTP Connection Refused"
+      when ERR_END_OF_FUNC
+        "End of function reached"
+      else
+        raise ArgumentError
+    end
+  end
   
   private_class_method
   def self.fetch_size( url, tries = 3 )
