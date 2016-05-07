@@ -622,7 +622,7 @@
 </channel>
   </rss>
 </category>
-<category title="2007 CES Firesides" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/ces-devotionals/2007-ces-firesides-category-138x91.jpg">
+<category title="2007 CES Firesides" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/ces-devotionals/2007-ces-firesides-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -655,6 +655,25 @@
 <subtitles url="https://media.ldscdn.org/dfxp/ces-firesides/2007-ces-firesides-for-young-adults/2007-02-0010-a-reservoir-of-living-water.xml"/>
 <content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-02-0010-a-reservoir-of-living-water-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-02-0010-a-reservoir-of-living-water-480p-eng.mp4" height="480p"/>
+</item>
+<item>
+        <id>2007-09-0040-prayer</id>
+        <title>Prayer</title>
+        <description>September 9, 2007: Cheryl C. Lant discusses the strenghth and guidance to do the Lord's will that is received through consistent, daily prayer.</description>
+        <duration>2184</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/ces-firesides/2007-ces-firesides-for-young-adults/2007-09-0040-prayer-144x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-09-0040-prayer-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-09-0040-prayer-480p-eng.mp4" height="480p"/>
+</item>
+<item>
+        <id>2007-11-0050-push-back-against-the-world</id>
+        <title>Push Back against the World</title>
+        <description>November 4, 2007: Elder Dallin H. Oaks teaches about the importance of keeping the Sabbath day holy and counsels young adults to prepare for a long, productive life.</description>
+        <duration>3105</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/ces-firesides/2007-ces-firesides-for-young-adults/2007-11-0050-push-back-against-the-world-144x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/ces-firesides/2007-ces-firesides-for-young-adults/2007-11-0050-push-back-against-the-world.xml"/>
+<content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-11-0050-push-back-against-the-world-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/ces-firesides/2007-ces-firesides-for-young-adults/2007-11-0050-push-back-against-the-world-480p-eng.mp4" height="480p"/>
 </item>
 </channel>
   </rss>

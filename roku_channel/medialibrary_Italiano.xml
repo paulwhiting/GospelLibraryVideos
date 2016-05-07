@@ -1103,7 +1103,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Il Nuovo Testamento' subtitle='Videos: 76' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Storie del Nuovo Testamento' subtitle='Videos: 64' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Il Nuovo Testamento' subtitle='Videos: 78' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Storie del Nuovo Testamento' subtitle='Videos: 65' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>Introduzione: Il piano del nostro Padre Celeste</title>
@@ -1223,6 +1223,16 @@
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-12-chapter-11-jesus-is-tempted.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-12-chapter-11-jesus-is-tempted-360p-ita.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-12-chapter-11-jesus-is-tempted-720p-ita.mp4' height='720p'/>
+</item>
+<item>
+        <id>2010-11-13-chapter-12-the-wedding-in-cana</id>
+        <title>Capitolo 12: Le nozze di Cana</title>
+        <description>A Cana, Gesù compie un miracolo a un matrimonio trasformando l’acqua in vino.</description>
+        <duration>84</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-stories/2010-11-13-chapter-12-the-wedding-in-cana-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-13-chapter-12-the-wedding-in-cana.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-13-chapter-12-the-wedding-in-cana-360p-ita.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-13-chapter-12-the-wedding-in-cana-720p-ita.mp4' height='720p'/>
 </item>
 <item>
         <id>2010-11-14-chapter-13-jesus-and-his-heavenly-fathers-house</id>
@@ -1740,7 +1750,7 @@
 <content url='' height='360p'/>
 </item>
 </channel></rss></category>
-<category title='Video sulla Bibbia – La vita di Gesù Cristo' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Video sulla Bibbia – La vita di Gesù Cristo' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
         <title>Giuseppe e Maria si recano a Betlemme</title>
@@ -1780,17 +1790,6 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-ita.mp4' height='1080p'/>
 </item>
 <item>
-        <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
-        <title>Il Salvatore soffre nel Getsemani</title>
-        <description>Gesù, Pietro, Giacomo e Giovanni si recano nel Giardino del Getsemani. Gesù si sottomette alla volontà del Padre e inizia a soffrire per i peccati e le afflizioni del genere umano. Poi, viene tradito e arrestato.</description>
-        <duration>511</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-360p-ita.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-720p-ita.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-1080p-ita.mp4' height='1080p'/>
-</item>
-<item>
         <id>2011-10-017-the-lords-triumphal-entry-into-jerusalem</id>
         <title>L’entrata trionfale del Signore a Gerusalemme</title>
         <description>Gesù entra trionfante a Gerusalemme. La folla Lo saluta gridando Osanna al Figlio di Davide.</description>
@@ -1798,6 +1797,15 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-360p-ita.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-10-019-jesus-is-scourged-and-crucified</id>
+        <title>Il Salvatore viene flagellato e crocifisso</title>
+        <description>Un gruppo di soldati spoglia Gesù dei Suoi abiti, Lo flagella e Lo deride. Egli porta la croce fino al Golgota e viene crocifisso dai soldati romani.</description>
+        <duration>288</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-360p-ita.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-021-jesus-is-resurrected</id>
@@ -1816,6 +1824,15 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-360p-ita.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others</id>
+        <title>Gesù chiama dodici Apostoli per predicare e per benedire il prossimo</title>
+        <description>Gesù istruisce e ordina i Dodici Apostoli originari.</description>
+        <duration>86</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-216x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-ita.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-10-048-render-unto-caesar-and-unto-god</id>
@@ -2310,6 +2327,29 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='Lungometraggio' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-01-1000-meet-the-mormons</id>
+        <title>Conosci i mormoni</title>
+        <description>Il film Meet the Mormons esamina le vite completamente diverse di sei membri devoti della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni (i mormoni). Questo video è per USO STRETTAMENTE PERSONALE O NELLA CHIESA e non deve essere caricato o pubblicato su siti web personali. Tuttavia, ti incoraggiamo a condividerlo da questa pagina o a incorporarlo da YouTube.</description>
+        <duration>4669</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-ita.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-ita.mp4' height='720p'/>
+</item>
+<item>
+        <id>2008-06-01-the-restoration</id>
+        <title>La Restaurazione</title>
+        <description>La ricerca della verità da parte di Joseph Smith che portò alla Prima Visione e alla restaurazione del vangelo di Gesù Cristo.</description>
+        <duration>1178</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/feature-films/the-restoration/2008-06-01-the-restoration.xml'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-360p-ita.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-720p-ita.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-ita.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
 <category title='Messaggi mormoni' subtitle='Videos: 42' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Messaggi mormoni 2009' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
@@ -2841,7 +2881,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-ita.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Pasqua' subtitle='Videos: 17' img='http://media.ldscdn.org/thumbnails/topics/easter-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Pasqua' subtitle='Videos: 16' img='http://media.ldscdn.org/thumbnails/topics/easter-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-02-1000-hallelujah-an-easter-message-about-jesus-christ</id>
         <title>#Alleluia – Un messaggio di Pasqua su Gesù Cristo</title>
@@ -2929,17 +2969,6 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-216x108-thumb.jpg'/>
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-360p-ita.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
-        <title>Il Salvatore soffre nel Getsemani</title>
-        <description>Gesù, Pietro, Giacomo e Giovanni si recano nel Giardino del Getsemani. Gesù si sottomette alla volontà del Padre e inizia a soffrire per i peccati e le afflizioni del genere umano. Poi, viene tradito e arrestato.</description>
-        <duration>511</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg'/>
-<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-360p-ita.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-720p-ita.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-1080p-ita.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-04-5060-elder-c-scott-grow</id>
