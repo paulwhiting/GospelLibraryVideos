@@ -1243,6 +1243,7 @@
         <description>예수 그리스도를 따른다면 새로운 삶을 찾을 것입니다. 우리가 그분을 신뢰하면 그분은 하나님께 돌아가는 길을 보여 주실 것입니다. 부활절을 맞아 FollowHim.mormon.org에서 그분의 생애와 가르침을 알아보며 그 여정에 나서십시오.</description>
         <duration>120</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-720p-kor.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-1080p-kor.mp4' height='1080p'/>
@@ -1418,7 +1419,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-1080p-kor.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='사업을 서두름' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/hasten-the-work-category-138x91.jpg'><category title='새로운 비전' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/hasten-the-work/a-new-vision-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='사업을 서두름' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/hasten-the-work-category-138x91.jpg'><category title='새로운 비전' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/hasten-the-work/a-new-vision-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-06-001-we-are-one</id>
         <title>우리는 하나입니다</title>
@@ -1431,7 +1432,17 @@
 <content url='http://media2.ldscdn.org/assets/leadership-training/hastening-the-work-of-salvation/2013-06-001-we-are-one-1080p-kor.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='회원과 선교사' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/members-and-missionaries-languages138x91-thumb.jpg'><rss><channel><title/><description/>
+<category title='회원과 선교사' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/members-and-missionaries-languages138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2013-06-1031-ill-go-where-you-want-me-to-go</id>
+        <title>주께서 날 보내시기 심히 원하시는</title>
+        <description>회원 선교 사업을 설명하는 동영상 발표.</description>
+        <duration>345</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go.xml'/>
+<content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go-720p-kor.mp4' height='720p'/>
+</item>
 <item>
         <id>2013-10-1111-equally-yoked-together</id>
         <title>Equally Yoked Together</title>
@@ -1511,7 +1522,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-kor.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='신약전서' subtitle='Videos: 111' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='신약전서 이야기' subtitle='Videos: 66' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='신약전서' subtitle='Videos: 112' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='신약전서 이야기' subtitle='Videos: 67' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>소개: 하나님 아버지의 계획</title>
@@ -1921,6 +1932,16 @@
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-42-chapter-38-the-pharisee-and-the-publican.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-42-chapter-38-the-pharisee-and-the-publican-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-42-chapter-38-the-pharisee-and-the-publican-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2010-11-43-chapter-39-jesus-heals-a-blind-man</id>
+        <title>제 3 9 장: 예수님이소경을 고치심</title>
+        <description>예수께서 맹인을 고치시며 육신의 시련은 죄의 결과로 오는 것이 아니라고 말씀하신다.</description>
+        <duration>97</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-stories/2010-11-43-chapter-39-jesus-heals-a-blind-man-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-43-chapter-39-jesus-heals-a-blind-man.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-43-chapter-39-jesus-heals-a-blind-man-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-43-chapter-39-jesus-heals-a-blind-man-720p-kor.mp4' height='720p'/>
 </item>
 <item>
         <id>2010-11-44-chapter-40-the-good-shepherd</id>

@@ -2258,7 +2258,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Новый Завет' subtitle='Videos: 105' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Истории Нового Завета' subtitle='Videos: 66' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Новый Завет' subtitle='Videos: 106' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='Истории Нового Завета' subtitle='Videos: 67' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>Введение. План нашего Небесного Отца</title>
@@ -2640,6 +2640,16 @@
 <subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-37-chapter-36-jesus-tells-three-parables.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-37-chapter-36-jesus-tells-three-parables-360p-rus.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-37-chapter-36-jesus-tells-three-parables-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2010-11-39-the-second-parable-the-lost-coin</id>
+        <title>Потерянная монета</title>
+        <description>Иисус учит о женщине, искавшей потерянную монету.</description>
+        <duration>68</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-stories/2010-11-39-the-second-parable-the-lost-coin-192x108-thumb.jpg'/>
+<subtitles url='https://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-39-the-second-parable-the-lost-coin.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-39-the-second-parable-the-lost-coin-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-39-the-second-parable-the-lost-coin-720p-rus.mp4' height='720p'/>
 </item>
 <item>
         <id>2010-11-40-the-third-parable-the-lost-son</id>
@@ -3339,6 +3349,7 @@
         <description>Если мы последуем за Иисусом Христом, то обретем новую жизнь. Если мы доверяем Ему, Он покажет нам путь возвращения к Богу. В эти Пасхальные дни начните открывать для себя Его жизнь и учения на сайте SledovatZaNim.mormon.org.</description>
         <duration>120</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-360p-rus.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-720p-rus.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-1080p-rus.mp4' height='1080p'/>

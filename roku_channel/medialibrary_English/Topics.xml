@@ -364,9 +364,9 @@
 <item>
         <id>2014-01-002-the-ten-virgins</id>
         <title>The Ten Virgins</title>
-        <description>Jesus declares the parable of the ten virgins.</description>
+        <description>Jesus declares the parable of the ten virgins. Matthew 25:1-13</description>
         <duration>100</duration>
-        <thumbnail url="http://www.lds.org/bc/content/ldsorg/media-library/video/images/2014-01-002-the-ten-virgins-216x108-thumb.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-720p-eng.mp4" height="720p"/>
@@ -600,7 +600,7 @@
 </channel>
   </rss>
 </category>
-<category title="Atonement" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
+<category title="Atonement" subtitle="Videos: 30" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -624,6 +624,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-05-1150-jesus-christ-suffered-for-us-eng</id>
+        <title>Jesus Christ Suffered for us</title>
+        <description>Followers of Jesus Christ describe how He has touched their lives.</description>
+        <duration>141</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-faith/2010-05-1150-jesus-christ-suffered-for-us-192x108-thumb.jpg"/>
+<subtitles url="https://media.ldscdn.org/dfxp/missionary/our-faith/2010-05-1150-jesus-christ-suffered-for-us.xml"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-faith/2010-05-1150-jesus-christ-suffered-for-us-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-faith/2010-05-1150-jesus-christ-suffered-for-us-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-faith/2010-05-1150-jesus-christ-suffered-for-us-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2015-06-028-it-will-all-work-out</id>
@@ -925,7 +936,7 @@
 <item>
         <id>2011-10-024-the-baptism-of-jesus</id>
         <title>The Baptism of Jesus</title>
-        <description>Jesus seeks out John the Baptist and is baptized in order to fulfill all righteousness.</description>
+        <description>Jesus seeks out John the Baptist and is baptized in order to fulfill all righteousness. Matthew 3:13-17</description>
         <duration>174</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus.xml"/>
@@ -1090,7 +1101,7 @@
         <title>Neonatal Resuscitation Training &#x2013; Africa</title>
         <description>Neonatal training is provided to local community nurses and doctors to improve infant mortality rates.</description>
         <duration>352</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-05-23-neonatal-resuscitation-training-africa-768x432-still.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/humanitarian-media-library/2011-05-23-neonatal-resuscitation-training-africa-192x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/welfare/humanitarian-media-library/2011-05-23-neonatal-resuscitation-training-africa.xml"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-23-neonatal-resuscitation-training-africa-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-23-neonatal-resuscitation-training-africa-720p-eng.mp4" height="720p"/>
@@ -1464,7 +1475,7 @@
 </channel>
   </rss>
 </category>
-<category title="Commandments" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/topics/commandments-category-138x91.jpg">
+<category title="Commandments" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/commandments-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -1519,18 +1530,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1010-arise-and-shine-forth-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1010-arise-and-shine-forth-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1010-arise-and-shine-forth-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-010-parable-of-the-good-samaritan-eng</id>
-        <title>Parable of the Good Samaritan</title>
-        <description>A depiction of the Saviors parable of the good Samaritan, in which a man is robbed and beaten by thieves, and a Samaritan shows mercy on him.</description>
-        <duration>311</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-eng.mp4" height="1080p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-audio-description-256k-eng.mp3" height="360p"/>
 </item>
 <item>
         <id>2010-05-1180-word-of-wisdom-eng</id>
@@ -1721,6 +1720,7 @@
         <description>If we follow Jesus Christ, we will find new life. If we trust Him, He will show us the way back to God. This Easter, start by discovering His life and teachings at FollowHim.mormon.org.</description>
         <duration>120</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ.xml"/>
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-1080p-eng.mp4" height="1080p"/>
@@ -1890,7 +1890,7 @@
 <item>
         <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
         <title>The Savior Suffers in Gethsemane</title>
-        <description>Jesus, Peter, James, and John retire to the Garden of Gethsemane. Jesus submits to the Fathers will and begins to suffer for the sins and afflictions of mankind. He is then betrayed and arrested.</description>
+        <description>Jesus, Peter, James, and John retire to the Garden of Gethsemane. Jesus submits to the Fathers will and begins to suffer for the sins and afflictions of mankind. He is then betrayed and arrested. Matthew 26:36-57</description>
         <duration>510</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml"/>
@@ -1901,7 +1901,7 @@
 <item>
         <id>2011-10-020-jesus-is-laid-in-a-tomb</id>
         <title>Jesus Is Laid in a Tomb</title>
-        <description>The Saviors body is taken by Joseph of Arimathea to a garden tomb. Angels appear and remove the stone from the front of the tomb. Mary and other women visit the empty tomb.</description>
+        <description>The Saviors body is taken by Joseph of Arimathea to a garden tomb. Angels appear and remove the stone from the front of the tomb. Mary and other women visit the empty tomb. Matthew 27:57-60</description>
         <duration>209</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb.xml"/>
@@ -1912,7 +1912,7 @@
 <item>
         <id>2011-10-021-jesus-is-resurrected</id>
         <title>Jesus Is Resurrected</title>
-        <description>Peter and John find the empty tomb. Jesus, now resurrected, appears to Mary.</description>
+        <description>Peter and John find the empty tomb. Jesus, now resurrected, appears to Mary. John 20:3-18</description>
         <duration>245</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected.xml"/>
@@ -1923,7 +1923,7 @@
 <item>
         <id>2011-10-025-he-is-risen</id>
         <title>He is Risen</title>
-        <description>Ponder what the Savior means to all humanity&#x2014;and to you personally. And then share the good news.</description>
+        <description>Ponder what the Savior means to all humanity&#x2014;and to you personally. And then share the good news. John 20:11-17</description>
         <duration>455</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen.xml"/>
@@ -1934,7 +1934,7 @@
 <item>
         <id>2011-10-042-for-god-so-loved-the-world</id>
         <title>For God So Loved the World</title>
-        <description>Give thanks for the Lord Jesus Christ: His life, His atoning sacrifice, and His resurrection.</description>
+        <description>Give thanks for the Lord Jesus Christ: His life, His atoning sacrifice, and His resurrection. John 3:16</description>
         <duration>288</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world.xml"/>
@@ -2076,31 +2076,9 @@
 </channel>
   </rss>
 </category>
-<category title="Faith" subtitle="Videos: 26" img="http://media.ldscdn.org/thumbnails/topics/faith-category-138x91.jpg">
+<category title="Faith" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/topics/faith-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
-<item>
-        <id>2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-eng</id>
-        <title>Follow Me, and I Will Make You Fishers of Men</title>
-        <description>Jesus calls Peter, Andrew, James and John to follow Him.</description>
-        <duration>111</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-eng</id>
-        <title>Peter and John Heal a Man Crippled Since Birth</title>
-        <description>With authority from Jesus Christ, Peter and John heal a man crippled since birth.</description>
-        <duration>201</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-1080p-eng.mp4" height="1080p"/>
-</item>
 <item>
         <id>2012-10-5040-elder-marcus-b-nash-eng</id>
         <title>By Faith All Things Are Fulfilled</title>
@@ -2182,17 +2160,6 @@
         <duration>513</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-visual-resource/2012-06-1240-a-test-of-faith-144x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-visual-resource/2012-06-1240-a-test-of-faith-360p-eng.mp4" height="360p"/>
-</item>
-<item>
-        <id>2011-10-031-jesus-heals-a-woman-of-faith-eng</id>
-        <title>Jesus Heals a Woman of Faith</title>
-        <description>Jesus heals a womans illness when she, in faith, touches His clothing.</description>
-        <duration>99</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-04-1070-president-henry-b-eyring-eng</id>
@@ -3338,7 +3305,7 @@
 <item>
         <id>2011-10-061-seek-ye-the-kingdom-of-god</id>
         <title>Seek Ye the Kingdom of God</title>
-        <description>Jesus teaches not to lay up for yourselves treasures on earth, but rather to lay up treasures in heaven.</description>
+        <description>Jesus teaches not to lay up for yourselves treasures on earth, but rather to lay up treasures in heaven. Luke 12:13-34</description>
         <duration>235</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-first-the-kingdom-of-god-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god.xml"/>
@@ -3391,7 +3358,7 @@
 <item>
         <id>2014-01-001-the-parable-of-the-talents</id>
         <title>The Parable of the Talents</title>
-        <description>Jesus declares the parable of the talents.</description>
+        <description>Jesus declares the parable of the talents. Matthew 25:14-30</description>
         <duration>183</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents.xml"/>
@@ -4038,7 +4005,7 @@
 <item>
         <id>2011-10-065-jesus-teaches-that-we-must-become-as-little-children</id>
         <title>Jesus Teaches that We Must Become as Little Children</title>
-        <description>Those who humble themselves as little children are the greatest in the kingdom of heaven.</description>
+        <description>Those who humble themselves as little children are the greatest in the kingdom of heaven. Matthew 18:1-11; Mark 9:38-42</description>
         <duration>186</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children.xml"/>
@@ -4192,7 +4159,7 @@
 <item>
         <id>2011-10-064-suffer-the-little-children-to-come-unto-me</id>
         <title>Suffer the Little Children to Come unto Me</title>
-        <description>Jesus invites little children to come unto him, and teaches how to gain eternal life.</description>
+        <description>Jesus invites little children to come unto Him, and teaches how to gain eternal life. Luke 18:15-17</description>
         <duration>160</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me.xml"/>
@@ -4203,7 +4170,7 @@
 <item>
         <id>2011-10-027-mary-the-mother-of-jesus</id>
         <title>Mary, the Mother of Jesus</title>
-        <description>Mary was highly favored of God and chosen to be the mother of Jesus Christ. Her humility, devotion, and strength stand as a model for all Christian disciples.</description>
+        <description>Mary was highly favored of God and chosen to be the mother of Jesus Christ. Her humility, devotion, and strength stand as a model for all Christian disciples. Luke 1:26-35</description>
         <duration>146</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus.xml"/>
@@ -4214,7 +4181,7 @@
 <item>
         <id>2011-10-007-the-wise-men-seek-jesus</id>
         <title>The Wise Men Seek Jesus</title>
-        <description>The Wise Men present Jesus with gifts&#x2014;gold, frankincense, and myrrh. After their visit, Mary and Joseph flee to Egypt to protect Jesus from the wicked King Herod, who wishes to kill the child.</description>
+        <description>The Wise Men present Jesus with gifts&#x2014;gold, frankincense, and myrrh. After their visit, Mary and Joseph flee to Egypt to protect Jesus from the wicked King Herod, who wishes to kill the child. Matthew 2:1-2, 11-15</description>
         <duration>341</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus.xml"/>
@@ -4225,7 +4192,7 @@
 <item>
         <id>2011-10-006-the-christ-child-is-presented-at-the-temple</id>
         <title>The Christ Child Is Presented at the Temple</title>
-        <description>Mary and Joseph take Jesus to the temple, where the righteous Simeon blesses the baby and rejoices that the Lord let him live to see this day.</description>
+        <description>Mary and Joseph take Jesus to the temple, where the righteous Simeon blesses the baby and rejoices that the Lord let him live to see this day. Luke 2:22-38</description>
         <duration>113</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple.xml"/>
@@ -4236,7 +4203,7 @@
 <item>
         <id>2011-10-005-shepherds-learn-of-the-birth-of-christ</id>
         <title>Shepherds Learn of the Birth of Christ</title>
-        <description>The angel Gabriel announces the birth of Jesus to the shepherds. The shepherds then visit Mary, Joseph, and the newborn Jesus.</description>
+        <description>The angel Gabriel announces the birth of Jesus to the shepherds. The shepherds then visit Mary, Joseph, and the newborn Jesus. Luke 2:8-18</description>
         <duration>170</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ.xml"/>
@@ -4280,7 +4247,7 @@
 <item>
         <id>2014-01-003-young-jesus-teaches-in-the-temple</id>
         <title>Young Jesus Teaches in the Temple</title>
-        <description>Mary and Joseph find Jesus about His fathers business, teaching in the temple.</description>
+        <description>Mary and Joseph find Jesus about His fathers business, teaching in the temple. Luke 2:40-52</description>
         <duration>149</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaching-in-the-temple-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple.xml"/>
@@ -4631,9 +4598,9 @@
   <rss>
     <channel><title/><description/>
 <item>
-        <id>2011-10-054-the-kingdom-of-heaven-eng</id>
+        <id>2011-10-054-the-kingdom-of-heaven</id>
         <title>The Kingdom of Heaven</title>
-        <description>The parable of the kingdom of heaven teaches about how the just will be separated from the wicked.</description>
+        <description>The kingdom of heaven consists of the just separated out from the wicked. Matt 13:44-51</description>
         <duration>109</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml"/>
@@ -5178,7 +5145,7 @@
 <item>
         <id>2011-10-052-the-greatest-commandment</id>
         <title>The Greatest Commandment</title>
-        <description>Jesus declares the first and great commandment is to love God with all your heart.</description>
+        <description>Jesus declares the first and great commandment is to love God with all your heart. Mark 12:28-34</description>
         <duration>111</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment.xml"/>
@@ -5348,7 +5315,7 @@
 </channel>
   </rss>
 </category>
-<category title="Missionary Work" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/topics/missionary-work-category-138x91.jpg">
+<category title="Missionary Work" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/topics/missionary-work-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -5436,17 +5403,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2198-im-a-mormon-professional-rugby-player-and-missionary-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2198-im-a-mormon-professional-rugby-player-and-missionary-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2198-im-a-mormon-professional-rugby-player-and-missionary-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-047-peter-and-john-continue-preaching-the-gospel-eng</id>
-        <title>Peter and John Continue Preaching the Gospel</title>
-        <description>Peter and John continue preaching and healing in the name of Jesus Christ, despite the attempts of the Jewish leaders to stop them.</description>
-        <duration>338</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-04-1060-from-rugby-pitch-to-mission-field-eng</id>
@@ -5612,6 +5568,16 @@
   <rss>
     <channel><title/><description/>
 <item>
+        <id>2016-05-01-help-make-a-mothers-day-beautiful</id>
+        <title>Help Make a Mother&#x2019;s Day Beautiful</title>
+        <description>Many mothers around the world face challenges they cannot solve themselves. LDS Charities helps mothers overcome those challenges so they can focus on what matters most&#x2014;being a mom.</description>
+        <duration>150</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-mothers-day/2016-05-01-help-make-a-mothers-day-beautiful-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-mothers-day/2016-05-01-help-make-a-mothers-day-beautiful-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-mothers-day/2016-05-01-help-make-a-mothers-day-beautiful-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-mothers-day/2016-05-01-help-make-a-mothers-day-beautiful-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2015-04-001-make-a-mothers-day-happy</id>
         <title>Make a Mothers Day Happy</title>
         <description>Join us to see how much time we can give back to mom&#x2019;s within 48 hours. Share your moments using the #TimeForMom and we will count the hours you are giving to make a mother&#x2019;s day happy. &#xA0; Visit Mormon Channel for more info on how to make a Mothers Day Happy</description>
@@ -5664,7 +5630,7 @@
 <item>
         <id>2011-10-027-mary-the-mother-of-jesus</id>
         <title>Mary, the Mother of Jesus</title>
-        <description>Mary was highly favored of God and chosen to be the mother of Jesus Christ. Her humility, devotion, and strength stand as a model for all Christian disciples.</description>
+        <description>Mary was highly favored of God and chosen to be the mother of Jesus Christ. Her humility, devotion, and strength stand as a model for all Christian disciples. Luke 1:26-35</description>
         <duration>146</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus.xml"/>
@@ -5686,7 +5652,7 @@
 <item>
         <id>2011-10-002-an-angel-foretells-christs-birth-to-mary</id>
         <title>An Angel Foretells Christ&#x2019;s Birth to Mary</title>
-        <description>The angel Gabriel, sent from the presence of God, announces to the young Mary her future role as the mother of the child Jesus.</description>
+        <description>The angel Gabriel, sent from the presence of God, announces to the young Mary her future role as the mother of the child Jesus. Luke 1:26-38</description>
         <duration>247</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary.xml"/>
@@ -5726,17 +5692,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2054-im-a-mormon-devoted-mother-and-avid-photographer-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2054-im-a-mormon-devoted-mother-and-avid-photographer-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2054-im-a-mormon-devoted-mother-and-avid-photographer-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer</id>
-        <title>Im a Mormon, a Mother, and Finnish Born Photographer</title>
-        <description>For Beatta Bosworth, home is where you make memories with the people you love. This Mormon mother is doing just that, and uses photography to stay in touch with her own Finnish home. See more at www.mormon.org/beatta</description>
-        <duration>95</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-192x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer.xml"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer</id>
@@ -6765,31 +6720,9 @@
 </channel>
   </rss>
 </category>
-<category title="Plan of Salvation" subtitle="Videos: 26" img="http://media.ldscdn.org/thumbnails/topics/plan-of-salvation-category-138x91.jpg">
+<category title="Plan of Salvation" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/topics/plan-of-salvation-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
-<item>
-        <id>2011-10-054-the-kingdom-of-heaven-eng</id>
-        <title>The Kingdom of Heaven</title>
-        <description>The parable of the kingdom of heaven teaches about how the just will be separated from the wicked.</description>
-        <duration>109</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-eng</id>
-        <title>Jesus Declares the Parable of the Wheat and the Tares</title>
-        <description>Jesus declares the parable of the wheat and the tares to the disciples.</description>
-        <duration>77</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-1080p-eng.mp4" height="1080p"/>
-</item>
 <item>
         <id>2013-02-1020-what-mormons-believe-eng</id>
         <title>What Mormons Believe</title>
@@ -6836,17 +6769,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-heavenly-fathers-plan/2011-06-06-our-eternal-life-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-10-028-jesus-teaches-of-being-born-again-eng</id>
-        <title>Jesus Teaches of Being Born Again</title>
-        <description>In the darkness of night, Jesus teaches Nicodemus about the necessity of every person being born again.</description>
-        <duration>348</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-864x432-still.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2012-04-0170-the-race-of-life-eng</id>
         <title>The Race of Life</title>
         <description>Where did we come from? Why are we here? Where do we go after this life? No longer need these universal questions remain unanswered.</description>
@@ -6856,39 +6778,6 @@
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2012-general-conference-highlights/2012-04-0170-the-race-of-life-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2012-general-conference-highlights/2012-04-0170-the-race-of-life-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2012-general-conference-highlights/2012-04-0170-the-race-of-life-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-019-jesus-is-scourged-and-crucified-eng</id>
-        <title>Jesus Is Scourged and Crucified</title>
-        <description>A band of soldiers strips Jesus of His clothes, scourges Him, and mocks Him. He then carries His cross to Golgotha and is crucified by Roman soldiers.</description>
-        <duration>289</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-019-jesus-is-scourged-and-crucified-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-018-jesus-is-condemned-before-pilate-eng</id>
-        <title>Jesus Is Condemned Before Pilate</title>
-        <description>Jesus is arraigned and questioned before Pilate, who finds no fault in Him. Yielding to the multitude, Pilate allows Barabbas to be released and Jesus to be crucified.</description>
-        <duration>199</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-018-jesus-is-condemned-before-pilate-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-eng</id>
-        <title>Jesus Is Tried by Caiaphas, Peter Denies Knowing Him</title>
-        <description>Jesus is tried before Caiaphas and the chief priests. Peter denies knowing Him and weeps bitterly.</description>
-        <duration>265</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-01-005-eternal-truth-eng</id>
@@ -7162,7 +7051,7 @@
 </channel>
   </rss>
 </category>
-<category title="Prayer" subtitle="Videos: 14" img="http://media.ldscdn.org/thumbnails/topics/prayer-category-138x91.jpg">
+<category title="Prayer" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/topics/prayer-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -7196,27 +7085,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-034-sermon-on-the-mount-the-lords-prayer-eng</id>
-        <title>Sermon on the Mount: The Lords Prayer</title>
-        <description>Jesus teaches his disciples the correct manner of prayer and offers the Lords prayer.</description>
-        <duration>137</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-192x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-eng</id>
-        <title>Jesus Warns Peter and Offers the Intercessory Prayer</title>
-        <description>Jesus admonishes Peter to remain faithful and strengthen his brethren. Peter professes his devotion to Jesus. Jesus foretells Peters denial and then gives the Intercessory Prayer.</description>
-        <duration>291</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2011-12-08-heavenly-father-knows-me-eng</id>
@@ -7318,7 +7186,7 @@
 </channel>
   </rss>
 </category>
-<category title="Pride" subtitle="Videos: 21" img="http://media.ldscdn.org/thumbnails/pride-category-138x91.jpg">
+<category title="Pride" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/pride-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -7449,7 +7317,7 @@
 <item>
         <id>2014-01-005-christ-and-the-rich-young-ruler</id>
         <title>Christ and the Rich Young Ruler</title>
-        <description>Jesus Christ, the Son of God, teaches a rich man how to gain eternal life.</description>
+        <description>Jesus Christ, the Son of God, teaches a rich man how to gain eternal life. Matthew 19:16-26</description>
         <duration>146</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler.xml"/>
@@ -7467,17 +7335,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-055-the-prodigal-son-eng</id>
-        <title>The Prodigal Son</title>
-        <description>Jesus tells the parable of the prodigal son.</description>
-        <duration>334</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-08-2030-a-mighty-change-of-heart</id>
@@ -7525,7 +7382,7 @@
 </channel>
   </rss>
 </category>
-<category title="Priesthood" subtitle="Videos: 33" img="http://media.ldscdn.org/thumbnails/topics/priesthood-category-138x91.jpg">
+<category title="Priesthood" subtitle="Videos: 27" img="http://media.ldscdn.org/thumbnails/topics/priesthood-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -7539,17 +7396,6 @@
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/intro-to-the-church/2013-02-1040-how-the-church-is-organized-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-eng</id>
-        <title>Peter and John Heal a Man Crippled Since Birth</title>
-        <description>With authority from Jesus Christ, Peter and John heal a man crippled since birth.</description>
-        <duration>201</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-eng</id>
         <title>Priesthood and Priesthood Keys - We Are Brothers</title>
         <description>A quorum comes to understand what it means to hold priesthood keys as they reach out to fellow quorum members.</description>
@@ -7559,50 +7405,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-037-jesus-raises-the-daughter-of-jairus-eng</id>
-        <title>Jesus Raises the Daughter of Jairus</title>
-        <description>Jesus demonstrates His divine power by raising a young girl from the dead.</description>
-        <duration>205</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-037-jesus-raises-the-daughter-of-jairus-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-eng</id>
-        <title>Jesus Calls Twelve Apostles to Preach and Bless Others</title>
-        <description>Jesus instructs and empowers His original Twelve Apostles.</description>
-        <duration>90</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-023-jesus-turns-water-into-wine-eng</id>
-        <title>Jesus Turns Water into Wine</title>
-        <description>Jesus performs a miraculous act of service in one of the first recorded events of His ministry.</description>
-        <duration>146</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-023-jesus-turns-water-into-wine-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-022-jesus-heals-a-possessed-man-eng</id>
-        <title>Jesus Heals a Possessed Man</title>
-        <description>Jesus demonstrates His divine power by healing a possessed man.</description>
-        <duration>107</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-022-jesus-heals-a-possessed-man-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-04-0130-willing-and-worthy-to-serve-eng</id>
@@ -7636,17 +7438,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1130-priesthood-authority-and-power-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1130-priesthood-authority-and-power-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1130-priesthood-authority-and-power-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-013-the-last-supper-eng</id>
-        <title>The Last Supper</title>
-        <description>Meeting in an upper room with His disciples, Jesus washes their feet, institutes the sacrament, and commands them to love one another.</description>
-        <duration>361</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-013-the-last-supper-138x81.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-12-16-priesthood-duty-eng</id>
@@ -8029,7 +7820,7 @@
 </channel>
   </rss>
 </category>
-<category title="Repentance and Forgiveness" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/topics/repentance-and-forgiveness-category-138x91.jpg">
+<category title="Repentance and Forgiveness" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/topics/repentance-and-forgiveness-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -8099,45 +7890,12 @@
 <content url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1100-coming-back-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-10-036-go-and-sin-no-more-eng</id>
-        <title>Go and Sin No More</title>
-        <description>Jesus teaches about compassion when confronted with a woman accused of adultery.</description>
-        <duration>201</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-eng</id>
-        <title>Jesus Forgives Sins and Heals a Man Stricken with Palsy</title>
-        <description>Jesus shows that He has power to both forgive sins and heal physical infirmities.</description>
-        <duration>177</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2012-06-1590-prodigal-son</id>
         <title>Prodigal Son</title>
         <description>(Luke 15:11-32) Elder Robert D. Hales talks about the Prodigal Son.</description>
         <duration>116</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-visual-resource/2012-06-1590-prodigal-son-144x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-visual-resource/2012-06-1590-prodigal-son-360p-eng.mp4" height="360p"/>
-</item>
-<item>
-        <id>2011-10-056-forgive-70-times-7-eng</id>
-        <title>Forgive 70 Times 7</title>
-        <description>Jesus explains how we are to treat our offending brethren.</description>
-        <duration>204</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2013-08-011-the-shiny-bicycle-eng</id>
@@ -8160,17 +7918,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-08-014-daily-bread-change-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-08-014-daily-bread-change-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-08-014-daily-bread-change-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-eng</id>
-        <title>Jesus Declares the Parable of the Lost Sheep</title>
-        <description>Jesus teaches there shall be joy in heaven over one repentant sinner.</description>
-        <duration>134</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2014-01-001-abide-with-me</id>
@@ -8281,7 +8028,7 @@
 <item>
         <id>2014-01-004-the-naming-of-john-the-baptist</id>
         <title>The Naming of John the Baptist</title>
-        <description>John the Baptist is born. Zacharias prophesies of John&#x2019;s mission to prepare the way for the Son of God.</description>
+        <description>John the Baptist is born. Zacharias prophesies of John&#x2019;s mission to prepare the way for the Son of God. Luke 1:57-80</description>
         <duration>222</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist.xml"/>
@@ -8468,7 +8215,7 @@
 <item>
         <id>2011-10-062-jesus-heals-a-lame-man-on-the-sabbath</id>
         <title>Jesus Heals a Lame Man on the Sabbath</title>
-        <description>Jesus performs a miracle by healing an invalid on the sabbath day.</description>
+        <description>Jesus performs a miracle by healing an invalid on the Sabbath day. John 5:2-12</description>
         <duration>143</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath.xml"/>
@@ -8479,7 +8226,7 @@
 <item>
         <id>2011-10-066-jesus-heals-a-man-born-blind</id>
         <title>Jesus Heals a Man Born Blind</title>
-        <description>On the sabbath day, Jesus heals a man born blind.</description>
+        <description>On the Sabbath day, Jesus heals a man born blind. John 9:1-41</description>
         <duration>467</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind.xml"/>
@@ -8896,7 +8643,7 @@
 <item>
         <id>2011-10-068-ye-have-done-it-unto-me</id>
         <title>Ye Have Done it Unto Me</title>
-        <description>Jesus declares the parable of the sheep and the goats.</description>
+        <description>Jesus declares the parable of the sheep and the goats. Matthew 25:31-46</description>
         <duration>194</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me.xml"/>
@@ -9005,11 +8752,11 @@
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3900-im-a-mormon-new-york-comedian-and-dreamer-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-10-032-sermon-on-the-mount-the-beatitudes-eng</id>
+        <id>2011-10-032-sermon-on-the-mount-the-beatitudes</id>
         <title>Sermon on the Mount: The Beatitudes</title>
-        <description>Jesus describes the characteristics of true Christians.</description>
+        <description>Jesus describes the characteristics of true Christians. Matthew 5:3-16</description>
         <duration>128</duration>
-        <thumbnail url="http://media.ldscdn.org/thumbnails/2011-10-032-sermon-on-the-mount-the-beatitudes-138x81.jpg"/>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-720p-eng.mp4" height="720p"/>
@@ -9154,8 +8901,8 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-01-no-cussing-club-192x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/youth/from-every-nation-2010/2010-11-01-no-cussing-club.xml"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2009-07-31-counsel-to-youth</id>
@@ -9237,9 +8984,9 @@
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/intro-to-the-church/2013-02-1090-temple-square-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2011-10-039-jesus-cleanses-the-temple-eng</id>
+        <id>2011-10-039-jesus-cleanses-the-temple</id>
         <title>Jesus Cleanses the Temple</title>
-        <description>Jesus clears worldly merchandise from the temple courts in order to keep the temple a holy place.</description>
+        <description>Jesus clears worldly merchandise from the temple courts in order to keep the temple a holy place. John 2:13-17</description>
         <duration>94</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple.xml"/>
@@ -9354,7 +9101,7 @@
 </channel>
   </rss>
 </category>
-<category title="Testimony" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/topics/testimony-category-138x91.jpg">
+<category title="Testimony" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/testimony-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -9386,17 +9133,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-023-light-switch-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-023-light-switch-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-023-light-switch-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-049-thou-art-the-christ-eng</id>
-        <title>Thou Art the Christ</title>
-        <description>Peter testifies that Jesus is the Son of God. Jesus declares that He will give the keys of the kingdom to Peter.</description>
-        <duration>90</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-216x108-thumb.jpg"/>
-<subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-05-004-how-the-book-of-mormon-changed-my-life</id>
@@ -9645,7 +9381,7 @@
 <item>
         <id>2011-10-009-jesus-teaches-about-the-widows-mites</id>
         <title>Jesus Teaches about the Widows Mites</title>
-        <description>A poor widow contributes her all into the temple treasury. Jesus teaches that her contribution is greater than that of the rich who gave of their abundance.</description>
+        <description>A poor widow contributes her all into the temple treasury. Jesus teaches that her contribution is greater than that of the rich who gave of their abundance. Mark 12:41-44</description>
         <duration>58</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-216x108-thumb.jpg"/>
 <subtitles url="https://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites.xml"/>
