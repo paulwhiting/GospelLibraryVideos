@@ -164,7 +164,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/international-day-of-the-bible/2015-11-000-that-they-might-know-thee-the-only-true-god-1080p-kor.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='교회 역사' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/church-history-category-138x91.jpg'><category title='회복의 선지자들' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/joseph-smith-category-138x91.jpg'><category title='에즈라 태프트 벤슨' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/ezra-taft-benson-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='교회 역사' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/church-history-category-138x91.jpg'><category title='회복의 선지자들' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/joseph-smith-category-138x91.jpg'><category title='에즈라 태프트 벤슨' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/ezra-taft-benson-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-05-1301-preparation-of-ezra-taft-benson-the-example-of-a-devoted-father</id>
         <title>에즈라 태프트 벤슨의 준비: 헌신적인 아버지의 모범</title>
@@ -245,10 +245,30 @@
 <content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1309-teachings-of-ezra-taft-benson-patriotism-and-love-of-country-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1309-teachings-of-ezra-taft-benson-patriotism-and-love-of-country-720p-kor.mp4' height='720p'/>
 </item>
+<item>
+        <id>2012-05-1307-teachings-of-ezra-taft-benson-pride</id>
+        <title>에즈라 태프트 벤슨의 가르침: 교만</title>
+        <description>에즈라 태프트 벤슨 회장은 교만 죄를 경고한다. 1989년 연차 대회에서 힝클리 회장이 전하는 이 유명한 말씀을 시청한다...</description>
+        <duration>127</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/church-history/church-history-presidents-of-the-church/2012-05-1307-ezra-taft-benson-teachings-pride-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/church-history/church-history-presidents-of-the-church/2012-05-1307-teachings-of-ezra-taft-benson-pride.xml'/>
+<content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1307-teachings-of-ezra-taft-benson-pride-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1307-teachings-of-ezra-taft-benson-pride-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2012-05-1310-testimony-of-ezra-taft-benson</id>
+        <title>에즈라 태프트 벤슨의 간증</title>
+        <description>벤슨 회장은 그리스도, 몰몬경, 조셉 스미스, 회복된 복음에 대해 간증하고 교회 회원들을 축복한다. (1:33)</description>
+        <duration>93</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/church-history/church-history-presidents-of-the-church/2012-05-1310-ezra-taft-benson-testimony-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/church-history/church-history-presidents-of-the-church/2012-05-1310-testimony-of-ezra-taft-benson.xml'/>
+<content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1310-testimony-of-ezra-taft-benson-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/church-history/church-history-presidents-of-the-church/2012-05-1310-testimony-of-ezra-taft-benson-720p-kor.mp4' height='720p'/>
+</item>
 </channel></rss></category>
 </category>
 </category>
-<category title='구약전서' subtitle='Videos: 27' img='http://media.ldscdn.org/thumbnails/old-testament-category-138x91.jpg'><category title='소개 - 신명기' subtitle='Videos: 27' img='http://media.ldscdn.org/thumbnails/old-testament/introduction-deuteronomy-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='구약전서' subtitle='Videos: 50' img='http://media.ldscdn.org/thumbnails/old-testament-category-138x91.jpg'><category title='소개 - 신명기' subtitle='Videos: 50' img='http://media.ldscdn.org/thumbnails/old-testament/introduction-deuteronomy-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-50-i-am-a-son-of-god</id>
         <title>나는 하나님의 아들</title>
@@ -259,6 +279,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-50-i-am-a-son-of-god-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-50-i-am-a-son-of-god-720p-kor.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-50-i-am-a-son-of-god-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-03-001-the-importance-of-the-old-testament</id>
+        <title>구약전서의 중요성</title>
+        <description>패커 회장이 구약전서에서 가르치는 교리 및 원리를 열거한다.</description>
+        <duration>67</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-001-the-importance-of-the-old-testament-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-001-the-importance-of-the-old-testament.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-001-the-importance-of-the-old-testament-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-002-time-capsule</id>
@@ -277,6 +306,33 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-003-many-plain-and-precious-things-144x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-003-many-plain-and-precious-things.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-003-many-plain-and-precious-things-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-004-children-of-israel</id>
+        <title>이스라엘의 자녀들</title>
+        <description>초등회 어린이들이 자신의 신앙과 복음에 관해 이야기한다.</description>
+        <duration>512</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-004-children-of-israel-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-004-children-of-israel.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-004-children-of-israel-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-005-god-has-held-you-in-reserve</id>
+        <title>하나님은 여러분을 예비해두셨음</title>
+        <description>(아브라함서 3:22~28) 마빈 제이 애쉬튼 장로가  마지막 세대의 의로운 교회 회원들에 관해 가르친다.  </description>
+        <duration>94</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-005-god-has-held-you-in-reserve-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-005-god-has-held-you-in-reserve.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-005-god-has-held-you-in-reserve-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-008-a-child-of-god</id>
+        <title>하나님의 자녀</title>
+        <description>(모세서 1:1~22) 옥스 장로가 우리는 모두 하나님의 자녀라고 가르친다.</description>
+        <duration>19</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-008-a-child-of-god-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-008-a-child-of-god.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-008-a-child-of-god-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-010-gods-work-and-glory</id>
@@ -304,6 +360,24 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-012-christ-the-creator-144x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-012-christ-the-creator.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-012-christ-the-creator-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-014-salvation-through-christ</id>
+        <title>그리스도를 통한 구원</title>
+        <description>(모세서 4:14~25) 벤슨 회장이 오직 그리스도를 통해서만 구원이 있다고 가르친다.</description>
+        <duration>44</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-014-salvation-through-christ-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-014-salvation-through-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-014-salvation-through-christ-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-016-are-we-our-brothers-keeper</id>
+        <title>우리가 우리의 형제를 지키는 자니이까?</title>
+        <description>(모세서 5:32~34) 댈린 에이치 옥스 장로가 우리는 왜 우리 형제를 지키는 자가 되어야 하는지 그 이유를 설명한다.</description>
+        <duration>49</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-016-are-we-our-brothers-keeper-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-016-are-we-our-brothers-keeper.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-016-are-we-our-brothers-keeper-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-017-books-of-remembrance</id>
@@ -360,6 +434,24 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-024-abraham-360p-kor.mp4' height='360p'/>
 </item>
 <item>
+        <id>2011-03-025-covenants-and-ordinances</id>
+        <title>성약과 의식</title>
+        <description>(창세기 17:1~9) 넬슨 장로가 성약의 중요성에 관해 가르친다.</description>
+        <duration>37</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-025-covenants-and-ordinances-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-025-covenants-and-ordinances.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-025-covenants-and-ordinances-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-026-gliding-naively-through-life</id>
+        <title>천진난만하게 인생을 즐기기</title>
+        <description>(창세기 22:1~14) 맥스웰 장로가 우리는 삶에서 시련을 경험해야 한다고 가르친다.</description>
+        <duration>38</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-026-gliding-naively-through-life-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-026-gliding-naively-through-life.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-026-gliding-naively-through-life-360p-kor.mp4' height='360p'/>
+</item>
+<item>
         <id>2011-03-027-akedah-the-binding</id>
         <title>아케다(결박)</title>
         <description>(창세기 22:1~18) 아브라함이 아들 이삭을 주님께 번제로 바치려는 영상</description>
@@ -376,6 +468,15 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-028-thousands-of-millions-144x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-028-thousands-of-millions.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-028-thousands-of-millions-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-029-many-esaus</id>
+        <title>많은 에서들</title>
+        <description>(창세기 25:24~34) 옥스 장로가 세상적인 것보다 영적인 것을 먼저 구하라고 가르친다.</description>
+        <duration>26</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-029-many-esaus-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-029-many-esaus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-029-many-esaus-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-054-skiing-expedition</id>
@@ -405,6 +506,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-039-a-seer-will-i-raise-up-360p-kor.mp4' height='360p'/>
 </item>
 <item>
+        <id>2011-03-035-priesthood-blessings</id>
+        <title>신권 축복</title>
+        <description>(창세기 48:14~20) 옥스 장로가 신권 축복의 중요성을 가르친다.</description>
+        <duration>94</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-035-priesthood-blessings-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-035-priesthood-blessings.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-035-priesthood-blessings-360p-kor.mp4' height='360p'/>
+</item>
+<item>
         <id>2011-03-034-sin-results-in-suffering</id>
         <title>고통을 가져오는 죄</title>
         <description>밸라드 장로가 죄가 우리 삶에 가져오는 고통에 대해 이야기한다.(창세기 42:3~24)</description>
@@ -414,6 +524,69 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-034-sin-results-in-suffering-360p-kor.mp4' height='360p'/>
 </item>
 <item>
+        <id>2011-03-033-temporal-preparation</id>
+        <title>현세적인 준비</title>
+        <description>(창세기 40장) 힝클리 회장이 교회 회원들에게 미래의 재난을 대비하라고 권고한다.</description>
+        <duration>66</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-033-temporal-preparation-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-033-temporal-preparation.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-033-temporal-preparation-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-032-joseph-in-egypt</id>
+        <title>애굽의 요셉</title>
+        <description>(창세기 39:1~20) 벤슨 회장이 교회 회원들에게 하나님을 첫째로 선택하라고 가르친다.</description>
+        <duration>112</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-032-joseph-in-egypt-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-032-joseph-in-egypt.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-032-joseph-in-egypt-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-031-shun-immorality</id>
+        <title>부도덕을 멀리함</title>
+        <description>(창세기 39:1~20) 힝클리 회장이 교회 회원들에게 오늘날 세상에 있는 부도덕을 피하라고 권고한다.</description>
+        <duration>45</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-031-shun-immorality-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-031-shun-immorality.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-031-shun-immorality-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-036-our-own-liahona</id>
+        <title>우리들의 리아호나</title>
+        <description>(창세기 49장) 몬슨 회장이 축복사의 축복이 어떻게 우리 각자의 리아호나가 될 수 있는지 설명한다.</description>
+        <duration>57</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-036-our-own-liahona-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-036-our-own-liahona.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-036-our-own-liahona-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-037-a-sacred-guideline</id>
+        <title>성스러운 지침</title>
+        <description>(창세기 49장) 파우스트 회장이 축복사의 축복이 어떻게 신성한 지침이 되는지 설명한다.</description>
+        <duration>82</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-037-a-sacred-guideline-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-037-a-sacred-guideline.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-037-a-sacred-guideline-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-038-declaration-of-lineage-in-patriarchal-blessings</id>
+        <title>축복사의 축복에 나와 있는 혈통 선언</title>
+        <description>(창세기 49장) 파우스트 회장이 혈통 선언과 또 이것이 축복사의 축복에 있는 이유를 설명한다.</description>
+        <duration>108</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-038-declaration-of-lineage-in-patriarchal-blessings-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-038-declaration-of-lineage-in-patriarchal-blessings.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-038-declaration-of-lineage-in-patriarchal-blessings-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-040-reverence-invites-revelation</id>
+        <title>계시를 불러오는 경건.</title>
+        <description>(출애굽기 3:1~10) 보이드 케이 패커 회장이 경건은 계시의 영을 불러온다고 가르친다.</description>
+        <duration>40</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-040-reverence-invites-revelation-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-040-reverence-invites-revelation.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-040-reverence-invites-revelation-360p-kor.mp4' height='360p'/>
+</item>
+<item>
         <id>2011-03-041-the-passover</id>
         <title>유월절</title>
         <description>(출애굽기 12장) 유월절의 의미와 그 중요성을 설명하는 짧은 영상</description>
@@ -421,6 +594,33 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-041-the-passover-144x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-041-the-passover.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-041-the-passover-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-042-sacrament-of-the-lords-supper</id>
+        <title>주님의 만찬인 성찬</title>
+        <description>(출애굽기 12:1~28) 엘 톰 페리 장로가 주님의 만찬의 중요성을 설명한다.</description>
+        <duration>70</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-042-sacrament-of-the-lords-supper-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-042-sacrament-of-the-lords-supper.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-042-sacrament-of-the-lords-supper-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-043-sin-of-murmuring</id>
+        <title>불평의 죄</title>
+        <description>(출애굽기 15:22~27) 맥스웰 장로가 불평하는 것은 육에 속한 사람이 저지르는 죄라고 설명한다.</description>
+        <duration>65</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-043-sin-of-murmuring-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-043-sin-of-murmuring.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-043-sin-of-murmuring-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-044-peculiar-people</id>
+        <title>선민</title>
+        <description>(출애굽기 19:3~8) 러셀 엠 넬슨 장로가 주님의 소유라는 의미를 설명한다.</description>
+        <duration>43</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-044-peculiar-people-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-044-peculiar-people.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-044-peculiar-people-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-046-the-power-and-authority-of-god</id>
@@ -450,6 +650,15 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-048-real-personal-sacrifice-360p-kor.mp4' height='360p'/>
 </item>
 <item>
+        <id>2011-03-050-sacrifice-and-sacrament</id>
+        <title>희생과 성찬</title>
+        <description>(레위기 1:1~4, 10~13) 엘 톰 페리 장로가 희생과 성찬의 연관 관계를 설명한다.</description>
+        <duration>762</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-050-sacrifice-and-sacrament-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-050-sacrifice-and-sacrament.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-050-sacrifice-and-sacrament-360p-kor.mp4' height='360p'/>
+</item>
+<item>
         <id>2011-03-051-windows-of-personal-revelation</id>
         <title>개인적인 계시의 창</title>
         <description>(레위기 11:1~45) 워스린 장로가 육신을 순결하게 유지하고 지혜의 말씀을 지킬 때 우리에게 계시의 창이 열린다고 가르친다.</description>
@@ -477,12 +686,29 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-053-separating-ourselves-from-the-world-360p-kor.mp4' height='360p'/>
 </item>
 <item>
+        <id>2011-03-122-nothing-accidental-or-spontaneous</id>
+        <title>우연이나 저절로 생긴 것은 아무 것도 없음</title>
+        <description>하나님의 피조물이 목적을 두고 창조되었음을 설명해주는 영상</description>
+        <duration>30</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-122-nothing-accidental-or-spontaneous-144x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/old-testament-visual-resource/2011-03-122-nothing-accidental-or-spontaneous.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-122-nothing-accidental-or-spontaneous-360p-kor.mp4' height='360p'/>
+</item>
+<item>
         <id>2011-03-015-the-atonement</id>
         <title>속죄</title>
         <description>(모세서 5:5~9) 속죄와 우리의 잠재력을 설명해주는 영상</description>
         <duration>342</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-015-the-atonement-144x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-015-the-atonement-360p-kor.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-03-018-first-principles-and-ordinances</id>
+        <title>첫째 되는 원리와 의식</title>
+        <description>(모세서 6:58~62) 아담과 이브의 타락으로 인해 우리 삶에서 속죄가 중요함을 설명해주는 영상</description>
+        <duration>293</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-018-first-principles-and-ordinances-144x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-018-first-principles-and-ordinances-360p-kor.mp4' height='360p'/>
 </item>
 <item>
         <id>2011-03-030-for-god-did-send-me</id>
@@ -494,29 +720,6 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='극영화' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2015-01-1000-meet-the-mormons</id>
-        <title>몰몬을 만나다</title>
-        <description>&apos;몰몬을 만나다&apos;는 예수 그리스도 후기 성도 교회(몰몬)에 다니는 독실한 회원 여섯 사람의 아주 다양한 삶을 조명합니다. 이 비디오는 교회 관련 일이나 개인적인 용도로만 사용되어야 하며 개인 웹사이트에 올리거나 게시해서는 안 됩니다. 그러나, 이 페이지에 있는 비디오를 공유하거나 유튜브에 게시된 비디오를 첨부할 것을 권장합니다.</description>
-        <duration>4669</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
-<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-kor.mp4' height='720p'/>
-</item>
-<item>
-        <id>2008-06-01-the-restoration</id>
-        <title>회복</title>
-        <description>진리를 찾기 위한 조셉 스미스의 탐구는 첫번째 시현과 예수 그리스도 복음의 회복으로 이어졌다.</description>
-        <duration>1183</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/feature-films/the-restoration/2008-06-01-the-restoration.xml'/>
-<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-kor.mp4' height='1080p'/>
-</item>
-</channel></rss></category>
 <category title='몰몬 메시지' subtitle='Videos: 47' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='2009년 몰몬 메시지' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
@@ -1131,34 +1334,38 @@
 <item>
         <id>2011-10-025-he-is-risen</id>
         <title>주님 부활하셨네</title>
-        <description>여러분과 모든 사람에게 구주가 어떤 의미이신지 깊이 생각한다. 그런 후에 좋은 소식을 나눈다.</description>
+        <description>여러분과 모든 사람에게 구주가 어떤 의미이신지 깊이 생각한다. 그런 후에 좋은 소식을 나눈다. 요한복음 20:11~17</description>
         <duration>445</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-720p-kor.mp4' height='720p'/>
 </item>
 <item>
         <id>2011-10-021-jesus-is-resurrected</id>
         <title>부활하신 예수님</title>
-        <description>베드로와 요한이 텅 빈 무덤을 발견하다. 예수님이 부활하신 몸으로 마리아에게 나타나시다.</description>
+        <description>베드로와 요한이 텅 빈 무덤을 발견하다. 예수님이 부활하신 몸으로 마리아에게 나타나시다. 요한복음 20:3~18</description>
         <duration>241</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-216x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-720p-kor.mp4' height='720p'/>
 </item>
 <item>
         <id>2011-10-020-jesus-is-laid-in-a-tomb</id>
         <title>무덤에 누이신 예수님</title>
-        <description>아리마대 사람 요셉이 구주의 시신을 무덤에 안치하다. 천사가 나타나 무덤 앞의 돌을 옮기다. 마리아와 다른 여자들이 빈 무덤을 방문하다.</description>
+        <description>아리마대 사람 요셉이 구주의 시신을 무덤에 안치하다. 천사가 나타나 무덤 앞의 돌을 옮기다. 마리아와 다른 여자들이 빈 무덤을 방문하다. 마태복음 27:57~60</description>
         <duration>213</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-216x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-1080p-kor.mp4' height='1080p'/>
 </item>
 <item>
         <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
         <title>겟세마네에서 고통 받으시는 구주</title>
-        <description>예수님, 베드로, 야고보와 요한이 겟세마네 동산으로 가다. 예수께서 하나님 아버지의 뜻에 순종하고 모든 인류의 죄와 고뇌로 고통 받기 시작하시다. 그 이후에 배반 당하여 체포되시다.</description>
+        <description>예수님, 베드로, 야고보와 요한이 겟세마네 동산으로 가다. 예수께서 하나님 아버지의 뜻에 순종하고 모든 인류의 죄와 고뇌로 고통 받기 시작하시다. 그 이후에 배반 당하여 체포되시다. 마태복음 26:36~57</description>
         <duration>511</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml'/>
@@ -1340,6 +1547,871 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='성경 비디오 - 예수 그리스도의 생애' subtitle='Videos: 83' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2014-01-023-the-feeding-of-the-5000</id>
+        <title>5,000명을 먹이시다</title>
+        <description>예수께서 오직 빵 다섯 덩어리와 두 마리의 생선으로 5,000명을 먹이신다. 마태복음 14:13~21</description>
+        <duration>171</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-023-the-feeding-of-the-5000-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-023-the-feeding-of-the-5000.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-023-the-feeding-of-the-5000-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-023-the-feeding-of-the-5000-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-023-the-feeding-of-the-5000-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-021-widow-of-nain</id>
+        <title>나인의 과부</title>
+        <description>나인 성 과부의 아들을 살리시는 그리스도. 누가복음 7:11~16</description>
+        <duration>142</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-021-widow-of-nain-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-021-widow-of-nain.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-021-widow-of-nain-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-021-widow-of-nain-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-01-020-i-have-kept-the-faith</id>
+        <title>나는 믿음을 지켰으니</title>
+        <description>바울이 끝까지 견디며 배도의 날에 복음을 전파하라는 엄숙한 사명을 준다.</description>
+        <duration>107</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-020-i-have-kept-the-faith-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-020-i-have-kept-the-faith.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-020-i-have-kept-the-faith-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-020-i-have-kept-the-faith-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-020-i-have-kept-the-faith-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-019-charity-never-faileth</id>
+        <title>사랑(자애)은 결코 시들지 않는다</title>
+        <description>그리스도의 순수한 사랑인 자애는 다른 모든 것을 뛰어넘는다. 고린도전서 13장</description>
+        <duration>212</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-019-charity-never-faileth-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-019-charity-never-faileth.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-019-charity-never-faileth-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-019-charity-never-faileth-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-019-charity-never-faileth-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-018-be-of-good-cheer</id>
+        <title>기운을 내라</title>
+        <description>주께서 바울을 위로하시며 로마에서도 주님에 대한 간증을 전해야 한다고 이르신다. 사도행전 23:11</description>
+        <duration>91</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-018-be-of-good-cheer-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-018-be-of-good-cheer.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-018-be-of-good-cheer-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-018-be-of-good-cheer-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-018-be-of-good-cheer-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-017-unity-of-the-faith</id>
+        <title>신앙의 단합</title>
+        <description>바울이 한 주님, 한 신앙, 한 침례, 한 아버지에 대해 기록한다. 그리스도께서 사도와 선지자, 교사들을 임명하시어 성도들이 단합하고 온전해지도록 돕게 하신다. 에베소서 4:1~15</description>
+        <duration>210</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-017-unity-of-the-faith-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-017-unity-of-the-faith.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-017-unity-of-the-faith-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-017-unity-of-the-faith-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-017-unity-of-the-faith-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-016-ye-are-no-more-strangers</id>
+        <title>너희는 나그네도 아니요</title>
+        <description>예수 그리스도의 속죄는 하나님의 모든 자녀에게 효력을 미친다는 것을 바울이 가르친다. 에베소서 2:10~22</description>
+        <duration>146</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-016-ye-are-no-more-strangers-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-016-ye-are-no-more-strangers.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-016-ye-are-no-more-strangers-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-016-ye-are-no-more-strangers-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-016-ye-are-no-more-strangers-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-015-we-are-the-offspring-of-god</id>
+        <title>우리가 하나님의 소생이 되었은즉</title>
+        <description>바울이 아레오바고에서 아덴인들에게 설교하고 그들이 말하는 &quot;알지 못하는 신&quot;이란 우리 모두의 아버지를 뜻한다고 알려 준다. 바울이 우리 모두가 하나님의 자녀임을 간증한다. 사도행전 17장</description>
+        <duration>265</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-015-we-are-the-offspring-of-god-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-015-we-are-the-offspring-of-god.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-015-we-are-the-offspring-of-god-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-015-we-are-the-offspring-of-god-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-015-we-are-the-offspring-of-god-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-014-the-jerusalem-conference</id>
+        <title>예루살렘 회의</title>
+        <description>베드로와 야고보가 예루살렘의 성도들에게 이방인 개종자들은 모세 율법의 요구 사항을 따를 필요가 없다고 말한다. 사도행전 15장</description>
+        <duration>211</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-014-the-jerusalem-conference-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-014-the-jerusalem-conference.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-014-the-jerusalem-conference-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-014-the-jerusalem-conference-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-014-the-jerusalem-conference-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-013-the-road-to-damascus</id>
+        <title>다메섹으로 가는 길</title>
+        <description>다메섹을 향해 길을 가던 사울에게 예수께서 나타나신다. 그 일로 사울은 눈이 멀게 되지만 아나니아를 통해 시력을 되찾고 침례를 받게 된다. 사도행전 22장</description>
+        <duration>320</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-013-the-road-to-damascus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-013-the-road-to-damascus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-013-the-road-to-damascus-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-013-the-road-to-damascus-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-013-the-road-to-damascus-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed</id>
+        <title>보지 아니하고 믿는 자들은 복이 있도다</title>
+        <description>십이사도 중 한 명인 도마는 주님이 부활하여 나타나셨다는 것을 의심한다. 그리스도는 도마에게 &quot;보지 아니하고 믿는 자들은 복이 있도다.&quot;라고 말씀하신다. 요한복음 20:24~29</description>
+        <duration>146</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-011-blessed-are-they-that-have-not-seen-and-yet-have-believed-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-010-the-risen-lord-appears-to-the-apostles</id>
+        <title>부활하신 주님께서 사도들에게 나타나시다</title>
+        <description>부활하신 그리스도께서 사도들에게 나타나 &quot;평강이 있을지어다.&quot;라고 말씀하신다. 사도들은 그분의 손과 발을 만져보고, 그리스도는 그들과 함께 음식을 드신다. 아버지가 자신을 보내셨듯이 자신도 사도들을 보낼 것이라고 그리스도께서 말씀하신다. 누가복음 24:36~41, 44~49, 요한복음 20:21</description>
+        <duration>138</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-010-the-risen-lord-appears-to-the-apostles-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-010-the-risen-lord-appears-to-the-apostles.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-010-the-risen-lord-appears-to-the-apostles-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-010-the-risen-lord-appears-to-the-apostles-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-010-the-risen-lord-appears-to-the-apostles-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-009-christ-appears-on-the-road-to-emmaus</id>
+        <title>엠마오로 가는 길에 나타나신 그리스도</title>
+        <description>부활하신 그리스도는 엠마오로 가던 두 사람과 함께 걸으신다. 그는 떡을 축복하시고 떼어서 그들에게 주신 후 사라지신다. 그들의 마음이 뜨거워졌다. 누가복음 24:13~33</description>
+        <duration>212</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-009-christ-appears-on-the-road-to-emmaus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-009-christ-appears-on-the-road-to-emmaus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-009-christ-appears-on-the-road-to-emmaus-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-009-christ-appears-on-the-road-to-emmaus-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-009-christ-appears-on-the-road-to-emmaus-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-008-my-kingdom-is-not-of-this-world</id>
+        <title>나의 왕국은 이 세상에 속한 것이 아니니라</title>
+        <description>예수께서 박해와 조롱을 받고 십자가에 못박히신다. 그분을 따르는 이들은 애통해 했으며, 셋째 날에 무덤이 텅 빈 것을 발견한다. 하나님의 아들이 사망의 사슬을 끊고 하나님 아버지께 돌아가신다. -부활절 제2부</description>
+        <duration>322</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-008-my-kingdom-is-not-of-this-world-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-008-my-kingdom-is-not-of-this-world.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-008-my-kingdom-is-not-of-this-world-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-008-my-kingdom-is-not-of-this-world-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-01-007-to-this-end-was-i-born</id>
+        <title>내가 이를 위하여 태어났으며</title>
+        <description>독생자요 유대인의 왕이신 예수 그리스도께서는 인류의 대속을 위해 자신을 희생물로 바치셨다. 부활절 1부</description>
+        <duration>275</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-007-to-this-end-was-i-born-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-007-to-this-end-was-i-born.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-007-to-this-end-was-i-born-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-007-to-this-end-was-i-born-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-01-006-a-house-divided</id>
+        <title>분쟁하는 집</title>
+        <description>하나님의 아들께서 성신을 모독하는 것은 사하심을 얻지 못하며 스스로 분쟁하는 집이 서지 못할 것을 선포하시다. 마태복음 12:31~42</description>
+        <duration>356</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-006-a-house-divided-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-006-a-house-divided.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-006-a-house-divided-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-006-a-house-divided-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-006-a-house-divided-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-005-christ-and-the-rich-young-ruler</id>
+        <title>그리스도와 부유한 젊은 관원</title>
+        <description>하나님의 아들이신 예수 그리스도께서 부자가 영생을 얻는 방법을 가르치시다. 마태복음 19:16~26</description>
+        <duration>145</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-004-the-naming-of-john-the-baptist</id>
+        <title>침례 요한의 명명</title>
+        <description>침례 요한이 태어나다. 사가랴가 하나님의 아들을 위한 길을 예비하는 요한의 사명에 관해 예언하다. 누가복음 1:57~80</description>
+        <duration>218</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-004-the-naming-of-john-the-baptist-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-01-003-young-jesus-teaches-in-the-temple</id>
+        <title>성전에서 가르치시는 어린 예수</title>
+        <description>마리아와 요셉이 성전 안에서 하나님 아버지의 사업에 관해 가르치시던 예수를 발견하다. 누가복음 2:40~52</description>
+        <duration>148</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaching-in-the-temple-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-002-the-ten-virgins</id>
+        <title>열 처녀</title>
+        <description>예수께서 열 처녀의 비유를 선포하시다. 마태복음 25:1~13</description>
+        <duration>99</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-002-the-ten-virgins-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-001-the-parable-of-the-talents</id>
+        <title>달란트의 비유</title>
+        <description>예수께서 달란트의 비유를 선포하시다. 마태복음 25:14~30</description>
+        <duration>183</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-001-the-parable-of-the-talents-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-068-ye-have-done-it-unto-me</id>
+        <title>곧 내게 한 것이니라</title>
+        <description>예수께서 양과 염소의 비유를 선포하시다. 마태복음 25:31~46</description>
+        <duration>193</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-068-ye-have-done-it-unto-me-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-067-the-nativity</id>
+        <title>예수의 탄생</title>
+        <description>마리아가 성신의 권능으로 잉태함 – 하늘의 사자가 베들레헴에서 예수께서 탄생할 것을 선포하다. 마태복음 1:20~21</description>
+        <duration>472</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-066-jesus-heals-a-man-born-blind</id>
+        <title>예수께서 맹인으로 난 자를 고치심</title>
+        <description>예수께서 안식일에 맹인으로 난 자의 눈을 뜨게 하시다. 요한복음 9:1~41</description>
+        <duration>466</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-065-jesus-teaches-that-we-must-become-as-little-children</id>
+        <title>예수께서 우리가 어린이들과 같이 되어야 한다고 가르치시다.</title>
+        <description>어린 아이와 같이 자기를 낮추는 사람이 천국에서 큰 자가 될 것이다. 마태복음 18:1~11; 마가복음 9:38~42</description>
+        <duration>185</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-064-suffer-the-little-children-to-come-unto-me</id>
+        <title>어린 아이들이 내게 오는 것을 용납하라</title>
+        <description>예수께서 어린 아이들을 그에게로 오도록 하시고 영생을 얻는 방법을 가르치시다. 누가복음 18:15~17</description>
+        <duration>159</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-063-jesus-declares-the-parable-of-the-lost-sheep</id>
+        <title>예수께서 잃어 버린 양의 비유를 선포하심</title>
+        <description>예수께서 죄인 한 사람이 회개하면 하늘에서 기뻐할 것이라고 가르치시다. 누가복음 15:2~7</description>
+        <duration>135</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-062-jesus-heals-a-lame-man-on-the-sabbath</id>
+        <title>안식일에 다리 저는 사람을 고치신 예수님</title>
+        <description>예수께서 안식일에 금지된 병 고침으로 기적을 보이시다. 요한복음 5:2~12</description>
+        <duration>140</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-061-seek-ye-the-kingdom-of-god</id>
+        <title>너희는 먼저 하나님의 왕국을 구하라</title>
+        <description>예수께서 보물을 땅에 쌓아 두지 말고 오직 보물을 하늘에 쌓아 두라고 가르치시다. 누가복음 12:13~34</description>
+        <duration>236</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-first-the-kingdom-of-god-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-060-follow-me-and-i-will-make-you-fishers-of-men</id>
+        <title>나를 따르라 내가 너희를 사람 낚는 어부가 되게 하리라</title>
+        <description>예수께서 베드로, 안드레, 요한을 불러 그를 따르도록 하시다. 마태복음 4:18~22</description>
+        <duration>112</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-059-the-good-shepherd-and-other-sheep-i-have</id>
+        <title>선한 목자요 내가 다른 양들이 내게 있어</title>
+        <description>예수는 선한 목자이심. 그분은 하늘 아버지께서 그의 목숨을 버리고 다시 취하라고 명하셨음을 선포하시다. 요한복음 10:1~18</description>
+        <duration>199</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me</id>
+        <title>침례 요한을 칭송하시는 예수님, 내게로 오라</title>
+        <description>예수께서 침례 요한을 세상에 알리시고 신실하지 아니한 자들을 꾸짖으시며 그의 짐이 가벼우심을 선포하시다. 마태복음 11:1~30</description>
+        <duration>350</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles</id>
+        <title>이방인에게 복음을 전하라는 베드로의 계시</title>
+        <description>베드로가 복음을 이방인에게 전하라는 주님의 계명을 따르다. 사도행전 10:1~48; 11:1~18</description>
+        <duration>546</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-056-forgive-70-times-7</id>
+        <title>일곱 번을 일흔 번까지라도 용서하라</title>
+        <description>예수께서 우리가 형제를 실족하게 하는 경우 어떻게 해야 하는지 설명하시다. 마태복음 18:21~35</description>
+        <duration>205</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-055-the-prodigal-son</id>
+        <title>탕자</title>
+        <description>탕자의 비유를 말씀하시는 예수님. 누가복음 15:11~32</description>
+        <duration>334</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-054-the-kingdom-of-heaven</id>
+        <title>천국</title>
+        <description>천국은 악인에게서 갈라 낸 의인들로 이루어져 있다. 마태 복음 13:44~51</description>
+        <duration>108</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares</id>
+        <title>밀과 가라지의 비유를 선포하시는 예수님</title>
+        <description>예수께서 밀과 가라지의 비유의 의미를 설명하시다. 마태복음 13:36~43</description>
+        <duration>76</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-052-the-greatest-commandment</id>
+        <title>가장 큰 계명</title>
+        <description>예수께서 크고 첫째 되는 계명이 네 마음을 다하여 하나님을 사랑하는 것임을 선포하시다. 마가복음 12:28~34</description>
+        <duration>110</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-051-i-am-the-bread-of-life</id>
+        <title>나는 생명의 떡이니</title>
+        <description>예수께서 자신이 생명의 떡이며 생명의 떡을 먹음으로써 어떻게 구원 받을 수 있는지 가르치시다. 요한복음 6:25~71</description>
+        <duration>408</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it</id>
+        <title>나를 위하여 자기 목숨을 잃는 자는 얻으리라</title>
+        <description>예수께서 자신의 죽음과 부활을 예언하시다. 그가 하나님의 영광으로 오신 이후에 모든 사람은 자신의 행실에 따라 보상 받게 될 것이다. 마태복음 16:21~28</description>
+        <duration>116</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-049-thou-art-the-christ</id>
+        <title>주는 그리스도시요</title>
+        <description>베드로가 예수님께서 하나님의 아들이심을 간증함. 예수께서 천국 열쇠를 베드로에게 주시겠다고 선언하시다. 마태복음 16:13~19</description>
+        <duration>90</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-048-render-unto-caesar-and-unto-god</id>
+        <title>가이사의 것은 가이사에게 하나님의 것은 하나님께 바침</title>
+        <description>음모를 꾸미는 자들이 예수님을 말의 올무에 걸리도록 하려 했지만 구주께서는 세상의 통치자를 존중하고 하나님께 영광을 돌리는 일이 가능함을 일부러 가르치시다. 마가복음 12:13~17</description>
+        <duration>56</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-047-peter-and-john-continue-preaching-the-gospel</id>
+        <title>끊임 없이 복음을 전파하는 베드로와 요한</title>
+        <description>유대인 지도자들의 방해에도 불구하고 베드로와 요한이 계속해서 복음을 전파하고 예수 그리스도의 이름으로 병을 고치다. 사도행전 5:12~42</description>
+        <duration>341</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-046-peter-and-john-are-judged</id>
+        <title>베드로와 요한이 심판 받음</title>
+        <description>베드로와 요한이 예수 그리스도의 이름으로 복음을 전파하다가 심문을 받으러 유대인 지도자들 앞으로 끌려가다. 사도행전 4:5~21</description>
+        <duration>171</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-045-peter-preaches-and-is-arrested</id>
+        <title>복음을 전하다가 체포된 베드로</title>
+        <description>베드로와 요한이 예루살렘에서 예수 그리스도의 복음을 전파하다가 체포되다. 사도행전 3:12~26. 4:1~3</description>
+        <duration>175</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-044-peter-and-john-heal-a-man-crippled-since-birth</id>
+        <title>태어났을 때부터 불구였던 사람을 고친 베드로와 요한</title>
+        <description>예수 그리스도의 권세로 베드로와 요한이 나면서 걷지 못하게 된 사람을 고치다. 사도행전 3:1~8</description>
+        <duration>205</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ</id>
+        <title>큰 기쁨의 좋은 소식: 예수 그리스도의 탄생</title>
+        <description>그분께서 살아계시다는 커다란 기쁨의 좋은 소식을 나누십시오!</description>
+        <duration>302</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-042-for-god-so-loved-the-world</id>
+        <title>하나님이 세상을 이처럼 사랑하사</title>
+        <description>주 예수 그리스도의 생애, 속죄 희생, 부활에 관해 감사를 드림. 요한복음 3:16</description>
+        <duration>295</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free</id>
+        <title>예수께서 나는 세상의 빛이니, 진리가 너희를 자유롭게 하리라고 선포하시다.</title>
+        <description>예수께서 자신이 세상의 빛이며 하나님의 아들이심을 선포하시다. 누구든지 그의 복음을 받아들이고 그를 따르면 죄에서 자유롭게 될 것이다. 요한복음 8:12~58</description>
+        <duration>265</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-039-jesus-cleanses-the-temple</id>
+        <title>성전을 정결하게 하신 예수</title>
+        <description>예수께서 성전을 성스러운 장소로 유지하기 위해 세속적인 물건들을 성전에서 깨끗하게 하시다. 요한복음 2:13~17</description>
+        <duration>96</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy</id>
+        <title>중풍병자의 죄를 사하시고 치유해 주시는 예수</title>
+        <description>예수께서 죄를 용서하실 권능과 육신의 질병을 치유하실 권능을 지니셨음을 보이시다. 마가복음 2:1~12</description>
+        <duration>178</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-037-jesus-raises-the-daughter-of-jairus</id>
+        <title>야이로의 딸을 일으키시는 예수</title>
+        <description>예수께서 어린 소녀를 죽음에서 일으키심으로 신성한 권능을 보이시다. 마가복음 5:22~24, 35~43</description>
+        <duration>205</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-036-go-and-sin-no-more</id>
+        <title>가서 다시는 죄를 범하지 말라</title>
+        <description>예수께서 간음으로 고발당한 여인을 마주하시고 불쌍히 여기심에 관해 가르치시다. 요한복음 8:2~11</description>
+        <duration>198</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-035-sermon-on-the-mount-treasures-in-heaven</id>
+        <title>산상수훈: 하늘의 보물</title>
+        <description>예수께서는 산상수훈에서 제자들에게 동정심을 지니고 그의 복음을 따르는 자의 의미를 가르치시다. 마태복음 6:19~21; 7:1~27</description>
+        <duration>271</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-035-sermon-on-the-mount-treasures-in-heaven-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-035-sermon-on-the-mount-treasures-in-heaven.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-035-sermon-on-the-mount-treasures-in-heaven-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-035-sermon-on-the-mount-treasures-in-heaven-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-034-sermon-on-the-mount-the-lords-prayer</id>
+        <title>산상수훈: 주기도문</title>
+        <description>예수께서 제자들에게 올바른 기도 방법을 가르치고 주기도문을 들려주신다. 마태복음 6:1~13</description>
+        <duration>139</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-033-sermon-on-the-mount-the-higher-law</id>
+        <title>산상수훈: 더 높은 율법</title>
+        <description>예수께서 그의 제자들에게 친절, 용서, 사랑과 같은 핵심적인 기독교인의 특성을 가르치시다. 마태복음 5:17~48</description>
+        <duration>141</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-032-sermon-on-the-mount-the-beatitudes</id>
+        <title>산상수훈: 진복팔단</title>
+        <description>예수께서 진정한 기독교인의 특성을 설명하시다. 마태복음 5:3~16</description>
+        <duration>124</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-031-jesus-heals-a-woman-of-faith</id>
+        <title>신앙이 깊은 여인을 치유하신 예수</title>
+        <description>예수께서 신앙으로 그의 옷을 만진 병을 앓는 여자를 고쳐주시다. 마가복음 5:22~43</description>
+        <duration>105</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others</id>
+        <title>복음을 전파하고 다른 사람에게 축복을 전하도록 십이사도를 부르시는 예수님</title>
+        <description>예수께서 그의 초기 십이사도들을 가르치시고 권능을 부여하시다. 마태복음 10:1~5</description>
+        <duration>86</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-029-jesus-declares-he-is-the-messiah</id>
+        <title>자신이 메시야임을 선언하시는 예수님</title>
+        <description>예수께서 자신이 이사야가 예언한 메시야임을 선포하셨으나 나사렛의 이웃들에게 배척당하시다. 누가복음 4:15~30</description>
+        <duration>202</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-028-jesus-teaches-of-being-born-again</id>
+        <title>다시 태어나는 것에 관해 가르치시는 예수님</title>
+        <description>예수께서 밤에 니고데모에게 모든 사람이 거듭나야 하는 필요성을 가르치시다. 요한복음 3:1~36</description>
+        <duration>349</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-025-he-is-risen</id>
+        <title>주님 부활하셨네</title>
+        <description>여러분과 모든 사람에게 구주가 어떤 의미이신지 깊이 생각한다. 그런 후에 좋은 소식을 나눈다. 요한복음 20:11~17</description>
+        <duration>445</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-024-the-baptism-of-jesus</id>
+        <title>예수님의 침례</title>
+        <description>예수께서 침례 요한을 찾으시고 모든 의를 이루시기 위해 침례 받으시다. 마태복음 3:13~17</description>
+        <duration>225</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-023-jesus-turns-water-into-wine</id>
+        <title>물을 포도주로 변화시킨 예수</title>
+        <description>예수께서 그분의 성역 중 첫 번째로 기록된 기적을 행하시다. 요한복음 2:1~12</description>
+        <duration>146</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-022-jesus-heals-a-possessed-man</id>
+        <title>귀신들린 남성을 치유하시는 예수님</title>
+        <description>예수께서 자신의 권능으로 귀신 들린 자를 고치셨음을 설명하시다. 누가복음 4:33~37</description>
+        <duration>109</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-021-jesus-is-resurrected</id>
+        <title>부활하신 예수님</title>
+        <description>베드로와 요한이 텅 빈 무덤을 발견하다. 예수님이 부활하신 몸으로 마리아에게 나타나시다. 요한복음 20:3~18</description>
+        <duration>241</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-020-jesus-is-laid-in-a-tomb</id>
+        <title>무덤에 누이신 예수님</title>
+        <description>아리마대 사람 요셉이 구주의 시신을 무덤에 안치하다. 천사가 나타나 무덤 앞의 돌을 옮기다. 마리아와 다른 여자들이 빈 무덤을 방문하다. 마태복음 27:57~60</description>
+        <duration>213</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-019-jesus-is-scourged-and-crucified</id>
+        <title>채찍질 당하시고 십자가에 못 박히시는 구주</title>
+        <description>군인들이 예수님의 옷을 벗기고, 채찍질하며, 모욕하다. 그 후에 그는 자신의 십자가를 짊어지고 골고다 언덕에 가서 로마 병사들에 의해 십자가에 못박히다. 마태복음 27:26~50</description>
+        <duration>288</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-018-jesus-is-condemned-before-pilate</id>
+        <title>빌라도 앞에서 정죄받는 예수님</title>
+        <description>예수께서 소환되시어 심문 받으셨으나 빌라도는 그에게서 아무 죄도 찾지 못하다. 백성의 뜻에 굴복하여 빌라도는 바라바를 풀어주고 예수님을 십자가에 못박도록 하다. 마태복음 27:1~2, 11~25</description>
+        <duration>197</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-017-the-lords-triumphal-entry-into-jerusalem</id>
+        <title>예루살렘으로 승리의 입성을 하신 구주</title>
+        <description>예수께서 예루살렘으로 승리의 입성을 하시다. 군중들이 다윗의 자손께 호산나라고 외치며 그를 맞이하다. 마태복음 21:1~11</description>
+        <duration>67</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him</id>
+        <title>가야바에게 심문을 받는 예수님, 예수님을 모른다며 부인하는 베드로</title>
+        <description>가야바와 제사장들 앞에서 재판 받으시는 예수님. 베드로가 그가 누구인지 모른다고 부인하고는 슬피 울다. 마태복음 26:57~75</description>
+        <duration>257</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
+        <title>겟세마네에서 고통 받으시는 구주</title>
+        <description>예수님, 베드로, 야고보와 요한이 겟세마네 동산으로 가다. 예수께서 하나님 아버지의 뜻에 순종하고 모든 인류의 죄와 고뇌로 고통 받기 시작하시다. 그 이후에 배반 당하여 체포되시다. 마태복음 26:36~57</description>
+        <duration>511</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer</id>
+        <title>베드로에게 경고하시고 중보 기도를 하시는 예수</title>
+        <description>예수께서 베드로에게 충실하게 남아 형제들을 굳건히 하라고 권고하시다. 베드로가 예수께 헌신할 것을 공언하다. 예수께서 베드로가 부인할 것을 예언하시고 중재 기도를 드리시다. 누가복음 22:31~34</description>
+        <duration>290</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-013-the-last-supper</id>
+        <title>최후의 만찬</title>
+        <description>예수께서 다락방에서 사도들과 함께 계시면서 그들의 발을 닦아주시고, 성찬을 가르치시고, 서로 사랑하라고 명하시다. 요한복음 13:1~35</description>
+        <duration>358</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-011-jesus-teaches-a-samaritan-woman</id>
+        <title>사마리아 여인을 가르치시는 예수</title>
+        <description>사마리아를 여행하시던 구주께서 야곱의 우물에서 한 여인에게 자신이 “생수”라고 가르치시다. 요한복음 4:5~29</description>
+        <duration>252</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-010-parable-of-the-good-samaritan</id>
+        <title>선한 사마리아인의 비유</title>
+        <description>강도들에게 강탈 당하고 매맞은 한 사람에게 자비를 보인 선한 사마리아인의 비유에 관한 구주의 설명. 누가복음 10:25~37</description>
+        <duration>312</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-kor.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-009-jesus-teaches-about-the-widows-mites</id>
+        <title>과부의 헌금에 대해 가르치시는 예수</title>
+        <description>한 가난한 과부가 그녀가 가진 전부를 성전 헌금함에 넣다. 예수께서 그녀의 기부가 풍족한 중에 헌금한 부유한 사람 보다 더 많은 것이라고 가르치시다. 마가복음 12:41~44</description>
+        <duration>65</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-007-the-wise-men-seek-jesus</id>
+        <title>동방 박사들이 아기 예수를 찾다</title>
+        <description>동방 박사들이 예수님께 금, 유향, 몰약을 선물로 드리다. 그들의 방문 이후에 마리아와 요셉이 아기 예수를 죽이려는 사악한 헤롯왕으로부터 아기 예수를 보호하려고 이집트로 떠나다. 마태복음 2:1~2,11~15</description>
+        <duration>341</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-006-the-christ-child-is-presented-at-the-temple</id>
+        <title>성전에 간 아기 그리스도</title>
+        <description>마리아와 요셉이 아기 예수를 성전으로 데려가다. 의인 시므온이 아기 예수를 축복하고 살아서 이날을 볼 수 있도록 해주신 주님께 기쁨을 돌리다. 누가복음 2:22~38</description>
+        <duration>113</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-005-shepherds-learn-of-the-birth-of-christ</id>
+        <title>그리스도의 탄생을 알게 된 목자들</title>
+        <description>가브리엘 천사가 목자들에게 예수 그리스도의 탄생을 알리다. 목자들이 마리아와 요셉, 갓 태어난 예수를 방문하다. 누가복음 2:8~18</description>
+        <duration>170</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
+        <title>베들레헴으로 여행하는 마리아와 요셉</title>
+        <description>마리아와 요셉 고향인 베들레헴으로 여행하던 중, 여관에 있을 곳을 찾지 못하다. 대신 동물들이 머무르는 곳에 쉴 곳을 마련하다. 누가복음 2:4~7</description>
+        <duration>125</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-003-mary-and-elisabeth-rejoice-together</id>
+        <title>함께 기뻐하는 마리아와 엘리사벳</title>
+        <description>마리아는 고령에도 기적적으로 곧 아이를 출산할 사촌 엘리사벳을 방문하다. 둘은 함께 기뻐하다. 누가복음 1:39~55</description>
+        <duration>306</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-002-an-angel-foretells-christs-birth-to-mary</id>
+        <title>마리아에게 그리스도의 탄생을 예견하는 천사</title>
+        <description>천사 가브리엘이 하나님의 면전으로부터 보내심을 받아 젊은 마리아에게 어린 예수의 어머니로서의 미래의 역할에 대해 알려주다. 누가복음 1:26~38</description>
+        <duration>247</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-720p-kor.mp4' height='720p'/>
+</item>
+</channel></rss></category>
 <category title='성탄절' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-12-1000-a-savior-is-born-christmas-video</id>
@@ -1352,7 +2424,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/christmas-2015/2015-12-1000-a-savior-is-born-christmas-video-1080p-kor.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='신약전서' subtitle='Videos: 100' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='신약전서 이야기' subtitle='Videos: 55' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='신약전서' subtitle='Videos: 55' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='신약전서 이야기' subtitle='Videos: 55' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-stories-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2010-11-01-introduction-our-heavenly-fathers-plan</id>
         <title>소개: 하나님 아버지의 계획</title>
@@ -1902,438 +2974,6 @@
 <subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-stories/2010-11-68-after-the-new-testament.xml'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-68-after-the-new-testament-360p-kor.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-stories/2010-11-68-after-the-new-testament-720p-kor.mp4' height='720p'/>
-</item>
-</channel></rss></category>
-<category title='성경 비디오 - 예수 그리스도의 생애' subtitle='Videos: 45' img='http://media.ldscdn.org/thumbnails/bible-videos-the-life-of-jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
-<item>
-        <id>2011-10-002-an-angel-foretells-christs-birth-to-mary</id>
-        <title>마리아에게 그리스도의 탄생을 예견하는 천사</title>
-        <description>천사 가브리엘이 하나님의 면전으로부터 보내심을 받아 젊은 마리아에게 어린 예수의 어머니로서의 미래의 역할에 대해 알려주다.</description>
-        <duration>247</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-004-mary-and-joseph-travel-to-bethlehem</id>
-        <title>베들레헴으로 여행하는 마리아와 요셉</title>
-        <description>마리아와 요셉이 고향인 베들레헴으로 여행하던 중, 여관에 있을 곳을 찾지 못하다. </description>
-        <duration>125</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-005-shepherds-learn-of-the-birth-of-christ</id>
-        <title>그리스도의 탄생을 알게 된 목자들</title>
-        <description>가브리엘 천사가 목자들에게 예수 그리스도의 탄생을 알리다. 목자들이 마리아와 요셉, 갓 태어난 예수를 방문하다.</description>
-        <duration>170</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-006-the-christ-child-is-presented-at-the-temple</id>
-        <title>성전에 간 아기 그리스도</title>
-        <description>마리아와 요셉이 아기 예수를 성전으로 데려가다. 의인 시므온이 아기 예수를 축복하고 살아서 이날을 볼 수 있도록 해주신 주님께 기쁨을 돌리다.</description>
-        <duration>113</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-007-the-wise-men-seek-jesus</id>
-        <title>동방 박사들이 아기 예수를 찾다</title>
-        <description>동방 박사들이 예수님께 금, 유향, 몰약을 선물로 드리다. 그들의 방문 이후에 마리아와 요셉이 아기 예수를 죽이려는 사악한 헤롯왕으로부터 아기 예수를 보호하려고 이집트로 떠나다.    </description>
-        <duration>341</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-009-jesus-teaches-about-the-widows-mites</id>
-        <title>과부의 헌금에 대해 가르치시는 예수님</title>
-        <description>한 가난한 과부가 그녀가 가진 전부를 성전 헌금함에 넣다. 예수께서 그녀의 기부가 풍족한 중에 헌금한 부유한 사람 보다 더 많은 것이라고 가르치시다.</description>
-        <duration>65</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-010-parable-of-the-good-samaritan</id>
-        <title>선한 사마리아인의 비유</title>
-        <description>강도들에게 강탈 당하고 매맞은 한 사람에게 자비를 보인 선한 사마리아인의 비유에 관한 구주의 설명.</description>
-        <duration>312</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-013-the-last-supper</id>
-        <title>최후의 만찬</title>
-        <description>예수께서 다락방에서 사도들과 함께 계시면서 그들의 발을 닦아주시고, 성찬을 가르치시고, 서로 사랑하라고 명하시다.</description>
-        <duration>358</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer</id>
-        <title>베드로에게 경고하시고 중보 기도를 하시는 예수님</title>
-        <description>예수께서 베드로에게 충실하게 남아 형제들을 굳건히 하라고 권고하시다. 베드로가 예수께 헌신할 것을 공언하다. 예수께서 베드로가 부인할 것을 예언하시고 중재 기도를 드리시다.</description>
-        <duration>290</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-015-the-savior-suffers-in-gethsemane</id>
-        <title>겟세마네에서 고통 받으시는 구주</title>
-        <description>예수님, 베드로, 야고보와 요한이 겟세마네 동산으로 가다. 예수께서 하나님 아버지의 뜻에 순종하고 모든 인류의 죄와 고뇌로 고통 받기 시작하시다. 그 이후에 배반 당하여 체포되시다.</description>
-        <duration>511</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him</id>
-        <title>가야바에게 심문을 받는 예수님, 예수님을 모른다며 부인하는 베드로</title>
-        <description>가야바와 제사장들 앞에서 재판 받으시는 예수님. 베드로가 그가 누구인지 모른다고 부인하고는 슬피 울다.</description>
-        <duration>257</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-017-the-lords-triumphal-entry-into-jerusalem</id>
-        <title>예루살렘으로 승리의 입성을 하신 구주</title>
-        <description>예수께서 예루살렘으로 승리의 입성을 하시다. 군중들이 다윗의 자손께 호산나라고 외치며 그를 맞이하다.</description>
-        <duration>67</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-018-jesus-is-condemned-before-pilate</id>
-        <title>빌라도 앞에서 정죄받는 예수님</title>
-        <description>예수께서 소환되시어 심문 받으셨으나 빌라도는 그에게서 아무 죄도 찾지 못하다. 백성의 뜻에 굴복하여 빌라도는 바라바를 풀어주고 예수님을 십자가에 못박도록 하다.</description>
-        <duration>197</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-019-jesus-is-scourged-and-crucified</id>
-        <title>채찍질 당하시고 십자가에 못 박히시는 구주</title>
-        <description>군인들이 예수님의 옷을 벗기고, 채찍질하며, 모욕하다. 그 후에 그는 자신의 십자가를 짊어지고 골고다 언덕에 가서 로마 병사들에 의해 십자가에 못박히다.</description>
-        <duration>288</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-020-jesus-is-laid-in-a-tomb</id>
-        <title>무덤에 누이신 예수님</title>
-        <description>아리마대 사람 요셉이 구주의 시신을 무덤에 안치하다. 천사가 나타나 무덤 앞의 돌을 옮기다. 마리아와 다른 여자들이 빈 무덤을 방문하다.</description>
-        <duration>213</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-021-jesus-is-resurrected</id>
-        <title>부활하신 예수님</title>
-        <description>베드로와 요한이 텅 빈 무덤을 발견하다. 예수님이 부활하신 몸으로 마리아에게 나타나시다.</description>
-        <duration>241</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-022-jesus-heals-a-possessed-man</id>
-        <title>귀신들린 남성을 치유하시는 예수님</title>
-        <description>예수께서 자신의 권능으로 귀신 들린 자를 고치셨음을 설명하시다.</description>
-        <duration>109</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-024-the-baptism-of-jesus</id>
-        <title>예수님의 침례</title>
-        <description>예수께서 침례 요한을 찾으시고 모든 의를 이루시기 위해 침례 받으시다.</description>
-        <duration>225</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-025-he-is-risen</id>
-        <title>주님 부활하셨네</title>
-        <description>여러분과 모든 사람에게 구주가 어떤 의미이신지 깊이 생각한다. 그런 후에 좋은 소식을 나눈다.</description>
-        <duration>445</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-028-jesus-teaches-of-being-born-again</id>
-        <title>다시 태어나는 것에 관해 가르치시는 예수님</title>
-        <description>예수께서 밤에 니고데모에게 모든 사람이 거듭나야 하는 필요성을 가르치시다.</description>
-        <duration>349</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-029-jesus-declares-he-is-the-messiah</id>
-        <title>자신이 메시야임을 선언하시는 예수님</title>
-        <description>예수께서 자신이 이사야가 예언한 메시야임을 선포하셨으나 나사렛의 이웃들에게 배척당하시다.</description>
-        <duration>202</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others</id>
-        <title>전파하고 다른 사람에게 축복을 전하도록 십이사도를 부르시는 예수님</title>
-        <description>예수께서 그의 초기 십이사도들을 가르치시고 권능을 부여하시다.</description>
-        <duration>86</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-032-sermon-on-the-mount-the-beatitudes</id>
-        <title>산상수훈: 진복팔단</title>
-        <description>예수께서 진정한 기독교인의 특성을 설명하시다.</description>
-        <duration>124</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-033-sermon-on-the-mount-the-higher-law</id>
-        <title>산상수훈: 더 높은 율법</title>
-        <description>예수께서 그의 제자들에게 친절, 용서, 사랑과 같은 핵심적인 기독교인의 특성을 가르치시다.</description>
-        <duration>141</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy</id>
-        <title>중풍병자의 죄를 사하시고 치유해 주시는 예수</title>
-        <description>예수께서 죄를 용서하실 권능과 육신의 질병을 치유하실 권능을 지니셨음을 보이시다.</description>
-        <duration>178</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-048-render-unto-caesar-and-unto-god</id>
-        <title>가이사의 것은 가이사에게 하나님의 것은 하나님께 바침</title>
-        <description>음모를 꾸미는 자들이 예수님을 말의 올무에 걸리도록 하려 했지만 구주께서는 세상의 통치자를 존중하고 하나님께 영광을 돌리는 일이 가능함을 일부러 가르치시다.</description>
-        <duration>56</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-049-thou-art-the-christ</id>
-        <title>주는 그리스도시요</title>
-        <description>베드로가 예수님께서 하나님의 아들이심을 간증함. 예수께서 천국 열쇠를 베드로에게 주시겠다고 선언하시다.</description>
-        <duration>90</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it</id>
-        <title>나를 위하여 자기 목숨을 잃는 자는 얻으리라</title>
-        <description>예수께서 자신의 죽음과 부활을 예언하시다. 그가 하나님의 영광으로 오신 이후에 모든 사람은 자신의 행실에 따라 보상 받게 될 것이다.</description>
-        <duration>116</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-051-i-am-the-bread-of-life</id>
-        <title>나는 생명의 떡이니</title>
-        <description>예수께서 자신이 생명의 떡이며 생명의 떡을 먹음으로써 어떻게 구원 받을 수 있는지 가르치시다.</description>
-        <duration>408</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-052-the-greatest-commandment</id>
-        <title>가장 큰 계명</title>
-        <description>예수께서 크고 첫째 되는 계명이 네 마음을 다하여 하나님을 사랑하는 것임을 선포하시다.</description>
-        <duration>110</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares</id>
-        <title>밀과 가라지의 비유를 선포하시는 예수님</title>
-        <description>예수께서 밀과 가라지의 비유의 의미를 설명하시다.</description>
-        <duration>76</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-054-the-kingdom-of-heaven</id>
-        <title>천국</title>
-        <description>천국은 악인에게서 갈라 낸 의인들로 이루어져 있다.</description>
-        <duration>108</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2011-10-055-the-prodigal-son</id>
-        <title>탕자</title>
-        <description>탕자의 비유를 말씀하시는 예수님.</description>
-        <duration>334</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-056-forgive-70-times-7</id>
-        <title>일곱 번을 일흔 번까지라도 용서하라</title>
-        <description>예수께서 우리가 형제를 실족하게 하는 경우 어떻게 해야 하는지 설명하시다.</description>
-        <duration>205</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles</id>
-        <title>이방인에게 복음을 전하라는 베드로의 계시</title>
-        <description>베드로가 복음을 이방인에게 전하라는 주님의 계명을 따르다.    </description>
-        <duration>546</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-360p-kor.mp4' height='360p'/>
-</item>
-<item>
-        <id>2014-01-003-young-jesus-teaches-in-the-temple</id>
-        <title>성전에서 가르치시는 어린 예수</title>
-        <description>마리아와 요셉이 성전 안에서 하나님 아버지의 사업에 관해 가르치시던 예수를 발견하다.</description>
-        <duration>10</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaching-in-the-temple-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-011-jesus-teaches-a-samaritan-woman</id>
-        <title>사마리아 여인을 가르치시는 예수</title>
-        <description>사마리아를 여행하시던 구주께서 야곱의 우물에서 한 여인에게 자신이 “생수”라고 가르치시다.</description>
-        <duration>252</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-023-jesus-turns-water-into-wine</id>
-        <title>물을 포도주로 변화시킨 예수</title>
-        <description>예수께서 그분의 성역 중 첫 번째로 기록된 기적을 행하시다.</description>
-        <duration>146</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-031-jesus-heals-a-woman-of-faith</id>
-        <title>신앙이 깊은 여인을 치유하신 예수</title>
-        <description>예수께서 신앙으로 그의 옷을 만진 병을 앓는 여자를 고쳐주시다.</description>
-        <duration>105</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-036-go-and-sin-no-more</id>
-        <title>가서 다시는 죄를 범하지 말라</title>
-        <description>예수께서 간음으로 고발당한 여인을 마주하시고 불쌍히 여기심에 관해 가르치시다.</description>
-        <duration>198</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-720p-kor.mp4' height='720p'/>
-</item>
-<item>
-        <id>2011-10-037-jesus-raises-the-daughter-of-jairus</id>
-        <title>야이로의 딸을 일으키시는 예수</title>
-        <description>예수께서 어린 소녀를 죽음에서 일으키심으로 신성한 권능을 보이시다.</description>
-        <duration>205</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-720p-kor.mp4' height='720p'/>
-</item>
-<item>
-        <id>2011-10-039-jesus-cleanses-the-temple</id>
-        <title>성전을 정결하게 하신 예수</title>
-        <description>예수께서 성전을 성스러운 장소로 유지하기 위해 세속적인 물건들을 성전에서 치우시다.</description>
-        <duration>96</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-720p-kor.mp4' height='720p'/>
-</item>
-<item>
-        <id>2011-10-042-for-god-so-loved-the-world</id>
-        <title>하나님이 세상을 이처럼 사랑하사</title>
-        <description>주 예수 그리스도의 생애, 속죄 희생, 부활에 관해 감사를 드림.    </description>
-        <duration>295</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-1080p-kor.mp4' height='1080p'/>
-</item>
-<item>
-        <id>2011-10-044-peter-and-john-heal-a-man-crippled-since-birth</id>
-        <title>태어났을 때부터 불구였던 사람을 고친 베드로와 요한</title>
-        <description>예수 그리스도의 권세로 베드로와 요한이 나면서 걷지 못하게 된 사람을 고치다.    </description>
-        <duration>205</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-720p-kor.mp4' height='720p'/>
-</item>
-<item>
-        <id>2011-10-045-peter-preaches-and-is-arrested</id>
-        <title>복음을 전하다가 체포된 베드로</title>
-        <description>베드로와 요한이 예루살렘에서 예수 그리스도의 복음을 전파하다가 체포되다.</description>
-        <duration>175</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-216x108-thumb.jpg'/>
-<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested.xml'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-720p-kor.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -2938,9 +3578,9 @@
         <description>2014년 9월 여성 총회에서 비디오 발표.</description>
         <duration>308</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-360p-kor.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-720p-kor.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-1080p-kor.mp4' height='1080p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/general-womens-session/september-2014-general-womens-session/2014-09-0030-video-presentation-the-holy-temple-1080p-kor.mp4' height='1080p'/>
 </item>
 <item>
         <id>2014-09-0040-neill-f-marriott</id>
@@ -3415,6 +4055,29 @@
 </channel></rss></category>
 </category>
 </category>
+<category title='장편영화' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/feature-films-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-01-1000-meet-the-mormons</id>
+        <title>몰몬을 만나다</title>
+        <description>&apos;몰몬을 만나다&apos;는 예수 그리스도 후기 성도 교회(몰몬)에 다니는 독실한 회원 여섯 사람의 아주 다양한 삶을 조명합니다. 이 비디오는 교회 관련 일이나 개인적인 용도로만 사용되어야 하며 개인 웹사이트에 올리거나 게시해서는 안 됩니다. 그러나, 이 페이지에 있는 비디오를 공유하거나 유튜브에 게시된 비디오를 첨부할 것을 권장합니다.</description>
+        <duration>4669</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons.xml'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/meet-the-mormons/2015-01-1000-meet-the-mormons-720p-kor.mp4' height='720p'/>
+</item>
+<item>
+        <id>2008-06-01-the-restoration</id>
+        <title>회복</title>
+        <description>진리를 찾기 위한 조셉 스미스의 탐구는 첫번째 시현과 예수 그리스도 복음의 회복으로 이어졌다.</description>
+        <duration>1183</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/feature-films/the-restoration/2008-06-01-the-restoration.xml'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-360p-kor.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-720p-kor.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-kor.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
 <category title='저는 몰몬입니다' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='2013년 저는 몰몬입니다' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-02-1000-im-a-mormon-an-enthusiastic-woman-and-a-loving-wife</id>
