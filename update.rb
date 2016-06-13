@@ -1367,7 +1367,7 @@ class MediaLibraryEntry
                 if size < 0
                   PrettyPrintNewline "ERROR: INVALID URL -- #{URLSizes.err_to_s(size)} -- #{link} on page #{@url}\n"
                 elsif size < 0.001
-                  PrettyPrintNewLine "ERROR: video download size (#{size} bytes) indicates a broken video.  #{link} on page #{@url}\n"
+                  PrettyPrintNewline "ERROR: video download size (#{size} bytes) indicates a broken video.  #{link} on page #{@url}\n"
                 end
                 quality = FixQuality(title,quality)
                 video.add(quality: quality, url: link, size: size)
@@ -1705,6 +1705,9 @@ elsif ARGV[0].downcase == 'export_gl'
     end
 
 elsif ARGV[0].downcase == 'update'
+    $stdout.reopen( OUTPUT_DIR_PREFIX + "output.txt", 'w')
+    $stderr.reopen( OUTPUT_DIR_PREFIX + "error.txt", 'w')
+
     #  This update option scrapes the web pages avoiding blacklisted links
     #  which are known bad... mostly from our guessing subtitle URLs.
 
