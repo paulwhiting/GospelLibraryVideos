@@ -3225,6 +3225,16 @@
   <rss>
     <channel><title/><description/>
 <item>
+        <id>39331744630801787750-eng</id>
+        <title>All the Reasons We Love Dad</title>
+        <description>Here are just a few of the countless reasons we&#x2019;re so glad you&#x2019;re ours. Thanks for being our teacher, our support, and our friend. Happy Father&#x2019;s Day.&#xA0;</description>
+        <duration>60</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/fathers-day-tribute/2016-06-1000-all-the-reasons-we-love-dad-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/fathers-day-tribute/2016-06-1000-all-the-reasons-we-love-dad-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/fathers-day-tribute/2016-06-1000-all-the-reasons-we-love-dad-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/fathers-day-tribute/2016-06-1000-all-the-reasons-we-love-dad-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2013-01-002-earthly-father-heavenly-father</id>
         <title>Earthly Father, Heavenly Father</title>
         <description>Men on earth have the opportunity to become fathers and experience some of the same joys that our Heavenly Father feels for us. Fatherhood is a divine responsibility to be cherished.</description>
@@ -3234,16 +3244,6 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-fatherslove</id>
-        <title>A Father&#x2019;s Love: A Father&#x2019;s Day Tribute to Fathers #fatherslove</title>
-        <description>This Father&#x2019;s Day, let us give thanks for the innumerable blessings we&#x2019;ve received from both our earthly fathers and our Heavenly Father.Celebrate Father&#x2019;s Day and visit fatherhood.mormon.org to see why fathers matter. #fatherslove</description>
-        <duration>122</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-fatherslove-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-fatherslove-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-fatherslove-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-fatherslove-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-01-007-love-her-mother</id>
@@ -9160,9 +9160,19 @@
 </channel>
   </rss>
 </category>
-<category title="Temples" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/topics/temples-category-138x91.jpg">
+<category title="Temples" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/topics/temples-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2015-06-1020-mormon-temples</id>
+        <title>Mormon Temples</title>
+        <description>Temples are the houses of God on earth, holy places where we seek guidance and peace and become closer to our Father in Heaven.</description>
+        <duration>98</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/mormonorg-animations/2015-06-1020-mormon-temples-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-06-1020-mormon-temples-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-06-1020-mormon-temples-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-06-1020-mormon-temples-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-1010-provo-city-center-temple-completed</id>
         <title>Provo City Center Temple Completed</title>

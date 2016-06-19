@@ -908,15 +908,37 @@
 </channel>
   </rss>
 </category>
-<category title="Acts of the Apostles" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/acts-of-the-apostles-subcategory-thumb-138x91.jpg">
+<category title="Acts of the Apostles" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/acts-of-the-apostles-subcategory-thumb-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-06-0008-the-last-days</id>
+        <title>The Last Days</title>
+        <description>In the last days, perilous times will come. Men will be disobedient and lovers of their own selves.</description>
+        <duration>136</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0008-the-last-days-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0008-the-last-days-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0008-the-last-days-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0008-the-last-days-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-01-0006-doers-of-the-word</id>
+        <title>Doers of the Word</title>
+        <description>Men should hear the word and do the work. For if men do work and keep themselves unspotted from the world, they will be blessed. James 1:19-27</description>
+        <duration>181</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-01-0006-doers-of-the-word-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-01-0006-doers-of-the-word.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-01-0006-doers-of-the-word-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-01-0006-doers-of-the-word-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-01-0006-doers-of-the-word-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-06-0007-the-tongue-is-a-fire</id>
         <title>The Tongue is a Fire</title>
         <description>In order to obtain perfection, the tongue of man should be governed. James 3:1-10;</description>
         <duration>148</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0007-the-tongue-is-a-fire-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0007-the-tongue-is-a-fire.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0007-the-tongue-is-a-fire-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0007-the-tongue-is-a-fire-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-06-0007-the-tongue-is-a-fire-1080p-eng.mp4" height="1080p"/>
@@ -1062,6 +1084,15 @@
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-03-0002-resurrection-of-the-dead-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-03-0002-resurrection-of-the-dead-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-03-0002-resurrection-of-the-dead-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-04-0003-reconciled-to-god</id>
+        <title>Reconciled to God</title>
+        <description>The gospel reconciles man to God. 2 Corinthians 5:17-21</description>
+        <duration>117</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-02-0003-reconciled-to-god-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-04-0003-reconciled-to-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2016/2016-04-0003-reconciled-to-god-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2016-04-0004-repentance</id>
