@@ -3221,7 +3221,7 @@
 </channel>
   </rss>
 </category>
-<category title="Fathers" subtitle="Videos: 19" img="http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg">
+<category title="Fathers" subtitle="Videos: 21" img="http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -3235,6 +3235,16 @@
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/fathers-day-tribute/2016-06-1000-all-the-reasons-we-love-dad-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
+        <id>2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers</id>
+        <title>A Father&#x2019;s Love: A Father&#x2019;s Day Tribute to Fathers</title>
+        <description>This Father&#x2019;s Day, let us give thanks for the innumerable blessings we&#x2019;ve received from both our earthly fathers and our Heavenly Father. Celebrate Father&#x2019;s Day and visit fatherhood.mormon.org to see why fathers matter.</description>
+        <duration>122</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2014/2014-00-1450-a-fathers-love-a-fathers-day-tribute-to-fathers-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
         <id>2013-01-002-earthly-father-heavenly-father</id>
         <title>Earthly Father, Heavenly Father</title>
         <description>Men on earth have the opportunity to become fathers and experience some of the same joys that our Heavenly Father feels for us. Fatherhood is a divine responsibility to be cherished.</description>
@@ -3244,6 +3254,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-06-3801-im-a-mormon-broadcaster-and-single-father</id>
+        <title>I&#x2019;m a Mormon, Broadcaster, and Single Father</title>
+        <description>Vicente Hernandez loves broadcasting the news in his strong, deep voice. His own strength comes from the knowledge that he is not alone, even during the greatest trial of his life. See photos at www.mormon.org/vicente</description>
+        <duration>162</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-3801-im-a-mormon-broadcaster-and-single-father-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father.xml"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-01-007-love-her-mother</id>
@@ -4933,9 +4954,19 @@
 </channel>
   </rss>
 </category>
-<category title="Life" subtitle="Videos: 25" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg">
+<category title="Life" subtitle="Videos: 26" img="http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-06-2001-like-a-broken-vessel</id>
+        <title>Like a Broken Vessel</title>
+        <description>Based on Elder Jeffrey R. Holland's talk from the 2013 October General Conference, this video features individuals discussing the emotional and mental challenges they face and how they are working to overcome them.</description>
+        <duration>696</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2016/2016-06-2001-like-a-broken-vessel-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-06-2001-like-a-broken-vessel-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-06-2001-like-a-broken-vessel-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-06-2001-like-a-broken-vessel-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-01-006-follow-the-prophet</id>
         <title>Follow the Prophet</title>
@@ -5551,9 +5582,19 @@
 </channel>
   </rss>
 </category>
-<category title="Missionary Work" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/topics/missionary-work-category-138x91.jpg">
+<category title="Missionary Work" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/topics/missionary-work-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-05-012-elder-hollands-counsel-for-early-returned-missionaries</id>
+        <title>Elder Holland&#x2019;s Counsel for Early Returned Missionaries</title>
+        <description>Elder Jeffrey R. Holland addresses concerns from early returned missionaries prior to the March 2016 Face to Face event.</description>
+        <duration>460</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/2016-social-media-videos/2016-05-012-elder-hollands-counsel-for-early-returned-missionaries-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/2016-social-media-videos/2016-05-012-elder-hollands-counsel-for-early-returned-missionaries-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/2016-social-media-videos/2016-05-012-elder-hollands-counsel-for-early-returned-missionaries-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/2016-social-media-videos/2016-05-012-elder-hollands-counsel-for-early-returned-missionaries-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2011-04-25-special-witness-elder-cook</id>
         <title>Special Witness - Elder Cook</title>

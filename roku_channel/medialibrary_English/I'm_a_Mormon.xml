@@ -398,7 +398,7 @@
 </channel>
   </rss>
 </category>
-<category title="I'm a Mormon 2012" subtitle="Videos: 57" img="http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg">
+<category title="I'm a Mormon 2012" subtitle="Videos: 58" img="http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2012-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -761,6 +761,17 @@
 <subtitles url="http://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola.xml"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2012-06-3801-im-a-mormon-broadcaster-and-single-father</id>
+        <title>I&#x2019;m a Mormon, Broadcaster, and Single Father</title>
+        <description>Vicente Hernandez loves broadcasting the news in his strong, deep voice. His own strength comes from the knowledge that he is not alone, even during the greatest trial of his life. See photos at www.mormon.org/vicente</description>
+        <duration>162</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-00-3801-im-a-mormon-broadcaster-and-single-father-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father.xml"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3801-im-a-mormon-broadcaster-and-single-father-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-06-3900-im-a-mormon-new-york-comedian-and-dreamer</id>
