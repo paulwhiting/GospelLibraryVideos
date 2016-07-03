@@ -17,45 +17,36 @@ def do_roku_diff
     data = File.open(XML_OLD).read
     xml_old = Nokogiri::XML(data) 
 
-    old = xml_old.css("content")
-    old_urls = Hash.new(0)
-    old.each do |old_content|
-      old_urls[old_content['url']] += 1
+    old = xml_old.css("item")
+    old_ids = Hash.new(0)
+    old.each do |old_item|
+      old_ids[old_item.at_css(:id).content] += 1
     end
       
 
-    # phase 1 - remove all video content that is the same
-    contents = xml.css("content")
+    ##### phase 1 - Remove all items that are the same (by id).  For better or worse
+    # this also avoids showing old videos that get moved/copied to a new location
+    # in the hierarchy
+    items = xml.css("item")
 
-    print "Detecting #{contents.count} video links..."
+    print "Detecting #{items.count} items..."
     count = 0
-    contents.each do |content|
+    items.each do |item|
         count += 1
         PrettyPrint '.' if count % 100 == 0
-        url = content['url']
-        if old_urls[url] > 0
+        id = item.at_css(:id).content
+        if old_ids[id] > 0
           #puts "Duplicate!"
-          content.remove
+          item.remove
         else
           #puts "Unique!"
         end
     end
 
-    contents = xml.css("content")
-    puts "found #{contents.count}."
-
-    # phase 2 - remove all empty items
-    puts "Removing empty items"
     items = xml.css("item")
-    items.each do |item|
-        if item.css("content").count > 0
-        else
-            item.remove
-        end
-    end
+    puts "found #{items.count} new items."
 
-
-    # phase 3 - remove all empty categories and update Video counts
+    # phase 2 - remove all empty categories and update Video counts
     filename = "medialibrary_diff.xml"
     puts "\n\nUpdating #{filename}"
     categories = xml.css("category")
@@ -68,7 +59,7 @@ def do_roku_diff
         end
     end
 
-    # phase 4 - save file
+    # phase 3 - save file
     WriteToFile(filename,xml.to_s)
 
     print_and_save_download_stats
