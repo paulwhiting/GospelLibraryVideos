@@ -2559,6 +2559,15 @@
 </category>
 <category title='L’indexation' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
+        <id>2014-03-01-the-chorley-experience</id>
+        <title>L’expérience de Chorley</title>
+        <description>Le pieu de Chorley (Angleterre) a reçu de nombreuses bénédictions en participant à l’indexation. Regardez cette vidéo pour apprendre comment l’indexation peut accroître les bénédictions du temple et de la prêtrise dans votre région.</description>
+        <duration>335</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-720p-fra.mp4' height='720p'/>
+</item>
+<item>
         <id>2016-01-01-fuel-the-find</id>
         <title>Alimenter la recherche</title>
         <description>L’indexation a permis ces découvertes familiales précieuses. Elle est le carburant qui permet au site FamilySearch.org de relier des personnes à leurs ancêtres.</description>
@@ -2624,15 +2633,6 @@
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-01-i-love-indexing-mackenzie-hughes-720p-fra.mp4' height='720p'/>
 </item>
 <item>
-        <id>2014-03-01-the-chorley-experience</id>
-        <title>L’expérience de Chorley</title>
-        <description>Le pieu de Chorley (Angleterre) a reçu de nombreuses bénédictions en participant à l’indexation. Regardez cette vidéo pour apprendre comment l’indexation peut accroître les bénédictions du temple et de la prêtrise dans votre région.</description>
-        <duration>335</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-360p-fra.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/family-history/the-chorley-experience/2014-03-01-the-chorley-experience-720p-fra.mp4' height='720p'/>
-</item>
-<item>
         <id>2013-06-01-i-love-indexing-kaylie-sorensen</id>
         <title>J’aime l’indexation : Kaylie Sorensen</title>
         <description>Kaylie Sorensen parle de sa famille, de ses centres d’intérêt et rend son témoignage du temple et de l’histoire familiale. Elle explique comment l’indexation lui a permis de ressentir l’Esprit dans sa vie.</description>
@@ -2672,7 +2672,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Je suis mormon' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Je suis mormon 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Je suis mormon' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/im-a-mormon-category-138x91.jpg'><category title='Je suis mormon 2013' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/im-a-mormon/im-a-mormon-2013-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2013-04-1120-im-a-mormon-i-clean-carpets-and-cook-curry</id>
         <title>Je suis mormon, je nettoie tapis et moquettes, et je cuisine le curry</title>
@@ -2705,7 +2705,7 @@
 <item>
         <id>2013-04-1090-im-jason-smyth-and-im-a-mormon</id>
         <title>Je m&apos;appelle Jason Smith et je suis mormon</title>
-        <description>Jason Smyth, qui a été quatre fois médaillé d&apos;or olympique, a une vision limitée, mais cela ne limite pas dans ses accomplissements. Il sait que ses talents sont une bénédiction de dieu www.mormon.org/fra/jasons</description>
+        <description>Jason Smyth, qui a été quatre fois médaillé d&apos;or olympique, a une vision limitée, mais cela ne limite pas ses accomplissements. Il sait que ses talents sont une bénédiction de dieu www.mormon.org/fra/jasons</description>
         <duration>255</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1090-im-jason-smyth-and-im-a-mormon-192x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/missionary/our-people-2013/2013-04-1090-im-jason-smyth-and-im-a-mormon.xml'/>
@@ -2722,6 +2722,16 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1080-im-a-mormon-a-pilot-volunteer-constable-and-father-720p-fra.mp4' height='720p'/>
 </item>
 <item>
+        <id>2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials</id>
+        <title>Je suis mormone, avocate et je suis reconnaissante pour les épreuves</title>
+        <description>Après qu&apos;une scoliose ait modifié les rêves de Lola Ogunbote, une mormone, elle a dû apprendre à se concentrer sur le positif. Elle dit maintenant que l&apos;adversité est au cœur de sa réussite. www.mormon.org/fra/lola</description>
+        <duration>222</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials.xml'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials-720p-fra.mp4' height='720p'/>
+</item>
+<item>
         <id>2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor</id>
         <title>Je suis mormone, actrice et conseillère juridique</title>
         <description>Jacqui travaille dur pour aider les personnes qui l&apos;entourent à être honnêtes avec elles-mêmes. Elle sait qu&apos;en raison de sa foi en Jésus-Christ, elle restera honnête avec elle-même. Davantage à l&apos;adresse www.mormon.org/fra/jacqui</description>
@@ -2730,6 +2740,15 @@
 <subtitles url='http://media.ldscdn.org/dfxp/missionary/our-people-2013/2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor.xml'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor-360p-fra.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor-720p-fra.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-1051-im-a-mormon-and-mother-to-79-orphaned-children</id>
+        <title>Je suis mormone et mère de 79 enfants orphelins</title>
+        <description>La lettre avais une seule phrase: &quot;Venez, il faut tout le monde.&quot; Donc, Cécile a vendu sa maison à Paris, est allée au Nepal, et a bâti un orphelinat. Plus à www.mormon.org/Cecile</description>
+        <duration>273</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-people-series/2013-02-1051-im-a-mormon-and-mother-to-154-orphaned-children-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1051-im-a-mormon-and-mother-to-79-orphaned-children-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1051-im-a-mormon-and-mother-to-79-orphaned-children-720p-fra.mp4' height='720p'/>
 </item>
 <item>
         <id>2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother</id>
@@ -2772,6 +2791,91 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='Jésus-Christ' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/topics/jesus-christ-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-00-1000-who-is-jesus-christ-a-60-second-overview</id>
+        <title>Qui est Jésus-Christ ? Une présentation de soixante secondes</title>
+        <description>Cette animation fait un portrait court mais poignant de Jésus-Christ et de son importance pour chacun de nous.</description>
+        <duration>83</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/missionary/mormonorg-animations/2015-00-1000-who-is-jesus-christ-a-60-second-overview-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-00-1000-who-is-jesus-christ-a-60-second-overview-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-00-1000-who-is-jesus-christ-a-60-second-overview-720p-fra.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-064-suffer-the-little-children-to-come-unto-me</id>
+        <title>Laissez venir à moi les petits enfants</title>
+        <description>Jésus demande aux petits enfants de venir à lui et enseigne comment obtenir la vie éternelle. Luc 18:15-17</description>
+        <duration>159</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-720p-fra.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-1080p-fra.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-10-007-the-wise-men-seek-jesus</id>
+        <title>Les mages cherchent Jésus</title>
+        <description>Les rois mages offrent à Jésus des présents : de l’or, de l’encens et de la myrrhe. Après leur visite, Marie et Joseph fuient en Égypte pour protéger Jésus du méchant roi Hérode qui veut tuer l’enfant. Matthieu 2:1-2, 11-15</description>
+        <duration>341</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-720p-fra.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-006-the-christ-child-is-presented-at-the-temple</id>
+        <title>Présentation du Christ enfant au temple.</title>
+        <description>Marie et Joseph amènent Jésus au temple, où Siméon, homme juste, bénit le bébé et se réjouit que le Seigneur lui ait permis de vivre pour voir ce jour. Luc 2:22-38</description>
+        <duration>113</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-720p-fra.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-10-005-shepherds-learn-of-the-birth-of-christ</id>
+        <title>Des bergers apprennent la naissance du Christ</title>
+        <description>L’ange Gabriel annonce la naissance de Jésus aux bergers. Ils vont ensuite rendre visite à Marie, à Joseph et à Jésus, qui vient de naître. Luc 2:8-18</description>
+        <duration>170</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-720p-fra.mp4' height='720p'/>
+</item>
+<item>
+        <id>2010-03-07-he-lives-testimonies-of-jesus-christ</id>
+        <title>Il vit</title>
+        <description>Voyez et écoutez des apôtres d’aujourd’hui témoigner que Jésus-Christ est le Sauveur et qu’il vit actuellement.</description>
+        <duration>128</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-720p-fra.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-1080p-fra.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent</id>
+        <title>Le seul vrai Dieu et celui qu’il a envoyé, Jésus-Christ</title>
+        <description>Jeffrey R. Holland témoigne du Sauveur et de ce que signifie être chrétien.</description>
+        <duration>146</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-720p-fra.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-1080p-fra.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-01-003-young-jesus-teaches-in-the-temple</id>
+        <title>Jésus, âgé de douze ans, enseigne dans le temple</title>
+        <description>Marie et Joseph trouvent Jésus en train de s’occuper des affaires de son Père en enseignant dans le temple. Luc 2:40-52</description>
+        <duration>148</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaching-in-the-temple-216x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-720p-fra.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-003-young-jesus-teaches-in-the-temple-1080p-fra.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
 <category title='Jeunes' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/youth-category-138x91.jpg'><category title='Face-à-face' subtitle='Videos: 2' img='http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-03-1000-face-to-face-for-ysa-with-elder-jeffrey-r-holland-sister-carole-m-stephens-and-elder-donald-l-hallstrom-fra</id>
