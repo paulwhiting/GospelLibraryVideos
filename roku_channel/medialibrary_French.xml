@@ -2406,7 +2406,7 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Histoire Familiale' subtitle='Videos: 27' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Commencez avec votre famille' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='Histoire Familiale' subtitle='Videos: 28' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Commencez avec votre famille' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>À l’aide du livret  Ma famille : des histoires qui nous unissent </title>
@@ -2557,7 +2557,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='L’indexation' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='L’indexation' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-03-01-the-chorley-experience</id>
         <title>L’expérience de Chorley</title>
@@ -2570,7 +2570,7 @@
 <item>
         <id>2016-01-01-fuel-the-find</id>
         <title>Alimenter la recherche</title>
-        <description>L’indexation a permis ces découvertes familiales précieuses. Elle est le carburant qui permet au site FamilySearch.org de relier des personnes à leurs ancêtres.</description>
+        <description>L’indexation a permis ces précieuses découvertes d’ancêtres. Elle est le carburant qui permet au site FamilySearch.org de relier des personnes à leurs ancêtres.</description>
         <duration>66</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-fuel-the-find/2016-01-01-fuel-the-find-360p-fra.mp4' height='360p'/>
@@ -2579,7 +2579,7 @@
 <item>
         <id>2014-06-01-redeeming-the-dead-redeemed-me</id>
         <title>La redemption des morts m’a apporté la redemption</title>
-        <description>Stephen Jezek a pu ressentir de nouveau l’Esprit, surmonter ses dépendances et se faire baptiser grâce à sa participation à l’indexation. Apprenez comment l’histoire familiale peut augmenter la justice personnelle dans votre paroisse et votre pieu.</description>
+        <description>Stephen Jezek a pu ressentir de nouveau l’Esprit, surmonter ses dépendances et se faire baptiser grâce à sa participation à l’indexation. Apprenez comment l’œuvre de l’histoire familiale peut augmenter la droiture personnelle dans votre paroisse et votre pieu.</description>
         <duration>295</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/stephen-jezek-indexing/2014-06-01-the-stephen-jezek-story-192x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/family-history/stephen-jezek-indexing/2014-06-01-redeeming-the-dead-redeemed-me.xml'/>
@@ -2599,7 +2599,7 @@
 <item>
         <id>2014-03-03-i-love-indexing-markus-bolte</id>
         <title>J’aime l’indexation : Markus Bolte</title>
-        <description>Markus Bolte a six enfants et il aime passer du temps avec eux chaque fois qu’il le peut. Markus aime l’indexation.</description>
+        <description>Markus Bolte a six enfants et aime passer du temps avec eux chaque fois qu’il le peut, il aime également faire de l’indexation.</description>
         <duration>135</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-03-i-love-indexing-markus-bolte-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-03-i-love-indexing-markus-bolte-360p-fra.mp4' height='360p'/>
@@ -2617,7 +2617,7 @@
 <item>
         <id>2014-03-02-i-love-indexing-zhanna-bilchuck</id>
         <title>Zhanna Bilchuck, j&apos;adore faire de l&apos;indexation</title>
-        <description>Zhanna Bilchuck exerce le métier d&apos;ingénieur à Kiev. Elle aime être occupée et aider les autres. Zhanna aime faire de l&apos;indexation.</description>
+        <description>Zhanna Bilchuck exerce le métier d’ingénieur à Kiev. Elle aime être occupée, aider d’autres personnes et faire de l’indexation.</description>
         <duration>139</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-02-i-love-indexing-zhanna-bilchuck-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-02-i-love-indexing-zhanna-bilchuck-360p-fra.mp4' height='360p'/>
@@ -2626,16 +2626,25 @@
 <item>
         <id>2014-03-01-i-love-indexing-mackenzie-hughes</id>
         <title>J’aime l’indexation : Mackenzie Hughes</title>
-        <description>Mackenzie Hughes est un jeune étudiant occupé de Chorley (Angleterre). Mackenzie aime l’indexation.</description>
+        <description>Mackenzie Hughes est une jeune étudiante de Chorley (Angleterre) à l’emploi du temps très chargé qui aime faire de l’indexation.</description>
         <duration>84</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-01-i-love-indexing-mackenzie-hughes-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-01-i-love-indexing-mackenzie-hughes-360p-fra.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-mackenzie-zhanna-and-markus/2014-03-01-i-love-indexing-mackenzie-hughes-720p-fra.mp4' height='720p'/>
 </item>
 <item>
+        <id>2013-01-01-familysearch-indexing-how-it-works</id>
+        <title>L’Indexation FamilySearch : Comment ça marche</title>
+        <description>Cette animation vidéo donne une explication enjouée, que tout le monde peut comprendre, de la manière dont l’indexation fonctionne et de l’importance de cette œuvre.</description>
+        <duration>110</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-indexing-how-it-works/2013-01-01-familysearch-indexing-how-it-works-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-indexing-how-it-works/2013-01-01-familysearch-indexing-how-it-works-360p-fra.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-indexing-how-it-works/2013-01-01-familysearch-indexing-how-it-works-720p-fra.mp4' height='720p'/>
+</item>
+<item>
         <id>2013-06-01-i-love-indexing-kaylie-sorensen</id>
         <title>J’aime l’indexation : Kaylie Sorensen</title>
-        <description>Kaylie Sorensen parle de sa famille, de ses centres d’intérêt et rend son témoignage du temple et de l’histoire familiale. Elle explique comment l’indexation lui a permis de ressentir l’Esprit dans sa vie.</description>
+        <description>Kaylie Sorensen parle de sa famille, de ses centres d’intérêt et rend son témoignage de l’œuvre du temple et de l’histoire familiale. Elle explique comment l’indexation lui a permis de ressentir l’Esprit.</description>
         <duration>120</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-kaylie-sorensen/2013-06-01-i-love-indexing-kaylie-sorensen-192x108-thumb.jpg'/>
 <subtitles url='http://media.ldscdn.org/dfxp/family-history/i-love-indexing-kaylie-sorensen/2013-06-01-i-love-indexing-kaylie-sorensen.xml'/>
@@ -2645,7 +2654,7 @@
 <item>
         <id>2013-06-01-i-love-indexing-fernando-motta</id>
         <title>J’aime l’indexation : Fernando Motta</title>
-        <description>Fernando Motta parle de sa famille et du temps qu’ils aiment passer ensemble. Il rend son témoignage de l’œuvre du temple et de l’histoire familiale et explique comment l’indexation a fortifié sa famille.</description>
+        <description>Fernando Motta parle de sa famille et du temps qu’il aime passer avec elle. Il rend son témoignage de l’œuvre du temple et de l’histoire familiale et explique comment l’indexation a fortifié sa famille.</description>
         <duration>117</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-fernando-motta/2013-06-01-i-love-indexing-fernando-motta-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-fernando-motta/2013-06-01-i-love-indexing-fernando-motta-360p-fra.mp4' height='360p'/>
@@ -2654,7 +2663,7 @@
 <item>
         <id>2013-06-01-i-love-indexing-davi-de-silva</id>
         <title>J’aime l’indexation : Davi de Silva</title>
-        <description>Davi da Silva parle de son intérêt pour le basket-ball et raconte comment il s’est joint à l’Église. Il explique comment l’histoire familiale et l’indexation sont une bénédiction dans sa vie.</description>
+        <description>Davi da Silva parle de son intérêt pour le basket-ball et raconte comment il s’est joint à l’Église. Il explique également comment l’œuvre de l’histoire familiale et l’indexation sont une bénédiction dans sa vie.</description>
         <duration>126</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/family-history/i-love-indexing-davi-de-silva/2013-06-01-i-love-indexing-davi-de-silva-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/family-history/i-love-indexing-davi-de-silva/2013-06-01-i-love-indexing-davi-de-silva-360p-fra.mp4' height='360p'/>

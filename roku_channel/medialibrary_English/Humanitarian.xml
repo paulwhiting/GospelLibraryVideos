@@ -576,9 +576,18 @@
 </channel>
   </rss>
 </category>
-<category title="Give Back Series" subtitle="Videos: 26" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
+<category title="Give Back Series" subtitle="Videos: 27" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>34445689986423220000-eng</id>
+        <title>Welcome to America: Giving Refugees New Hope with Household Goods</title>
+        <description>The Welcome to America project is a nonprofit in Phoenix that brings donated goods to refugees&#x2019; homes and helps them start their new lives.&#xA0;</description>
+        <duration>231</duration>
+        <thumbnail url="http://media.ldscdn.org/thumbnails/2016-01-021-welcome-to-america-giving-refugees-new-hope-with-household-goods-138x91.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-021-welcome-to-america-giving-refugees-new-hope-with-household-goods-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-021-welcome-to-america-giving-refugees-new-hope-with-household-goods-720p-eng.mp4" height="720p"/>
+</item>
 <item>
         <id>2016-01-019-scout-troop-learns-that-helping-refugees-is-as-easy-as-riding-a-bike-give-back-by-mormon-channel</id>
         <title>Scout Troop Learns that Helping Refugees is as Easy as Riding a Bike - Give Back By Mormon Channel</title>
