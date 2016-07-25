@@ -2534,7 +2534,7 @@
 <item>
         <id>2012-05-1606-ministry-of-thomas-s-monson-rebuilding-lives</id>
         <title>Ministry of Thomas S. Monson: Rebuilding Lives</title>
-        <description>An invitation to write an article for the Washington Post, ten years after the atrocities of 9/11, allows President Thomas S. Monson to speak to the world of foregiveness and hope.</description>
+        <description>An invitation to write an article for the Washington Post, ten years after the atrocities of 9/11, allows President Thomas S. Monson to speak to the world of forgiveness and hope.</description>
         <duration>94</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/church-history/church-history-presidents-of-the-church/2012-05-1606-thomas-s-monson-building-the-kingdom-rebuilding-lives-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/church-history/church-history-presidents-of-the-church/2012-05-1606-ministry-of-thomas-s-monson-rebuilding-lives.xml"/>
@@ -5366,9 +5366,20 @@
 </channel>
   </rss>
 </category>
-<category title="Youth Media" subtitle="Videos: 21" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-006-staying-spiritually-fit</id>
+        <title>Staying Spiritually Fit</title>
+        <description>Now is the time to prepare to meet God. Just as an athlete prepares daily for game day; when we work on our spirituality daily and give our all to the Lord, we strengthen our testimonies of Him and of His gospel.</description>
+        <duration>211</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2016-youth-media/2016-01-006-staying-spiritually-fit-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/2016-youth-media/2016-01-006-staying-spiritually-fit.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-006-staying-spiritually-fit-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-006-staying-spiritually-fit-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2016-youth-media/2016-01-006-staying-spiritually-fit-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-008-mitch-mobile</id>
         <title>Mitch Mobile</title>
