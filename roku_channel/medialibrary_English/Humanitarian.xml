@@ -576,9 +576,19 @@
 </channel>
   </rss>
 </category>
-<category title="Give Back Series" subtitle="Videos: 28" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
+<category title="Give Back Series" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-022-teaching-english-to-refugees</id>
+        <title>Teaching English to Refugees</title>
+        <description>When looking for service opportunities, Kerry Porter discovered that she could use her few spare hours during the week to teach English at a local refugee center.</description>
+        <duration>195</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-022-teaching-english-to-refugees-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-022-teaching-english-to-refugees-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-022-teaching-english-to-refugees-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-022-teaching-english-to-refugees-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-020-i-call-her-my-church-mommy-how-mentors-benefit-refugees-give-back-by-the-mormon-channel</id>
         <title>&#x201C;I Call Her My Church Mommy.&#x201D; How mentors benefit refugees&#x2014;Give Back by the Mormon Channel</title>
