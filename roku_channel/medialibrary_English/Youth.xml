@@ -5209,7 +5209,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Face to Face" subtitle="Videos: 15" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
+<category title="Face to Face" subtitle="Videos: 16" img="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -5262,6 +5262,16 @@
 <content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-11-1000-face-to-face-with-lindsey-stirling</id>
+        <title>Face to Face with Lindsey Stirling</title>
+        <description>Participate in a live event featuring Lindsey Stirling, a returned missionary and world-famous entertainer. For more information on the Lindsey Stirling event, click here.</description>
+        <duration>3793</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling.xml"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2015-05-2001-elder-and-sister-bednar-testimony</id>
