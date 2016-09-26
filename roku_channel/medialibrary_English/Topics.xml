@@ -607,7 +607,7 @@
 </channel>
   </rss>
 </category>
-<category title="Atonement" subtitle="Videos: 30" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
+<category title="Atonement" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -652,16 +652,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-028-it-will-all-work-out-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-028-it-will-all-work-out-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-028-it-will-all-work-out-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2015-06-029-he-is-there-for-us</id>
-        <title>He is there for us</title>
-        <description>For many, the infirmity of depression is painful or permanently disabling... Those who suffer this circumstance should remember that our Savior experienced this kind of pain also and that, through His Atonement, He offers the strength to bear it.</description>
-        <duration>35</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2015-social-videos/2015-06-029-he-is-there-for-us-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-029-he-is-there-for-us-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-029-he-is-there-for-us-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/youth/2015-social-videos/2015-06-029-he-is-there-for-us-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-04-1050-elder-kent-f-richards</id>
@@ -8342,9 +8332,29 @@
 </channel>
   </rss>
 </category>
-<category title="Religious Freedom" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/topics/religious-freedom-category-138x91.jpg">
+<category title="Religious Freedom" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/topics/religious-freedom-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-0040-everyday-example-religion-in-the-workplace</id>
+        <title>Everyday Example: Religion in the Workplace</title>
+        <description>A new series of dramatized videos produced by The Church of Jesus Christ of Latter-day Saints shows members how to navigate the landmine-laced terrain of the sensitive social and religious issues of the day.</description>
+        <duration>371</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/religious-freedom-2016/2016-01-0040-everyday-example-religion-in-the-workplace-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0040-everyday-example-religion-in-the-workplace-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0040-everyday-example-religion-in-the-workplace-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0040-everyday-example-religion-in-the-workplace-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-01-0060-everyday-example-prayer-in-school</id>
+        <title>Everyday Example: Prayer in School</title>
+        <description>A new series of dramatized videos produced by The Church of Jesus Christ of Latter-day Saints shows members how to navigate the landmine-laced terrain of the sensitive social and religious issues of the day.</description>
+        <duration>289</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/religious-freedom-2016/2016-01-0060-everyday-example-prayer-in-school-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0060-everyday-example-prayer-in-school-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0060-everyday-example-prayer-in-school-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/religious-freedom-2016/2016-01-0060-everyday-example-prayer-in-school-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-0020-everyday-example-when-beliefs-are-questioned</id>
         <title>Everyday Example: When Beliefs Are Questioned</title>

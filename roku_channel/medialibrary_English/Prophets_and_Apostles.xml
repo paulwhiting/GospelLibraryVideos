@@ -915,9 +915,19 @@
 </channel>
   </rss>
 </category>
-<category title="Speeches and Addresses (PAAST)" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/speeches-and-addresses-paast-category-138x91.jpg">
+<category title="Speeches and Addresses (PAAST)" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/prophets-and-apostles/speeches-and-addresses-paast-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-08-1020-elections-hope-and-freedom</id>
+        <title>Elections Hope and Freedom</title>
+        <description>Elder Oaks speaks on elections hope and freedom during a BYU devotional on September 13, 2016</description>
+        <duration>2001</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/area-broadcasts/2016-education-week-devotional/2016-08-1020-elections-hope-and-freedom-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/area-broadcasts/2016-education-week-devotional/2016-08-1020-elections-hope-and-freedom-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/area-broadcasts/2016-education-week-devotional/2016-08-1020-elections-hope-and-freedom-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/area-broadcasts/2016-education-week-devotional/2016-08-1020-elections-hope-and-freedom-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-08-1010-elder-holland-education-week-2016</id>
         <title>Elder Holland Education Week 2016</title>

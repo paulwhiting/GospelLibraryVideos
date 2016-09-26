@@ -4299,7 +4299,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Молодежь' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/youth-category-138x91.jpg'><category title='&quot;Лицом к лицу&quot;' subtitle='Videos: 2' img='http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg'><rss><channel><title/><description/>
+<category title='Молодежь' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/youth-category-138x91.jpg'><category title='&quot;Лицом к лицу&quot;' subtitle='Videos: 3' img='http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-lindsey-stirling/2014-11-1000-face-to-face-with-lindsey-stirling-138x91-thumb.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-03-1000-face-to-face-for-ysa-with-elder-jeffrey-r-holland-sister-carole-m-stephens-and-elder-donald-l-hallstrom-rus</id>
         <title>Мероприятие &quot;Лицом к лицу&quot; для не состоящих в браке молодых взрослых со старейшиной Джеффри Р. Холландом</title>
@@ -4315,10 +4315,20 @@
         <title>&quot;Лицом к лицу&quot; со старейшиной Расбандом, сестрой Оскарсон и братом Оуэном.</title>
         <description>&quot;Лицом к лицу&quot; со старейшиной Расбандом, сестрой Оскарсон и братом Оуэном.    </description>
         <duration>4841</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-192x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-360p-rus.mp4' height='360p'/>
-<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-720p-rus.mp4' height='720p'/>
-<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owens-1080p-rus.mp4' height='1080p'/>
+        <thumbnail url='http://media.ldscdn.org/images/videos/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1000-face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-05-1000-face-to-face-with-elder-and-sister-bednar</id>
+        <title>&quot;Лицом к лицу&quot; со старейшиной и сестрой Беднар</title>
+        <description>&quot;Лицом к лицу&quot; со старейшиной и сестрой Беднар</description>
+        <duration>4823</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-bednar/2015-05-1000-face-to-face-with-elder-and-sister-bednar-1080p-rus.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -7457,7 +7467,7 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/international-day-of-the-bible/2015-11-000-that-they-might-know-thee-the-only-true-god-1080p-rus.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Семейная история' subtitle='Videos: 23' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Начните со своей семьи' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='Семейная история' subtitle='Videos: 89' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Начните со своей семьи' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>Использование буклета Моя семья: Истории, которые нас объединяют</title>
@@ -7579,6 +7589,490 @@
 </item>
 </channel></rss></category>
 </category>
+<category title='Священство и призвания по семейной истории' subtitle='Videos: 28' img='http://media.ldscdn.org/thumbnails/family-history/priesthood-family-history-callings138x91-thumb.jpg'><category title='Призвания по семейной истории' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/family-history/05-family-history-callings-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2013-12-03-family-history-center-director-supporting-priesthood-goals</id>
+        <title>Директор центра семейной истории: Поддержка целей  священства</title>
+        <description>Директора центра семейной истории и руководители священства обсуждают тему совместной работы по достижению целей кола</description>
+        <duration>279</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-center-director-training/2013-12-03-family-history-center-director-supporting-priesthood-goals-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-03-family-history-center-director-supporting-priesthood-goals-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-03-family-history-center-director-supporting-priesthood-goals-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-12-04-family-history-center-director-working-with-youth-and-young-adults</id>
+        <title>Директор центра семейной истории: Работа с молодежью и молодыми взрослыми</title>
+        <description>Советы и рекомендации от директоров центра семейной истории и руководителей священства о том, как вовлекать молодежь и молодых взрослых в семейно-историческую работу.</description>
+        <duration>359</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-center-director-training/2013-12-04-family-history-center-director-working-with-youth-and-young-adults-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-04-family-history-center-director-working-with-youth-and-young-adults-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-04-family-history-center-director-working-with-youth-and-young-adults-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-12-02-family-history-center-director-promoting-the-center</id>
+        <title>Директор центра семейной истории: Реклама центра</title>
+        <description>Директора центра семейной истории делятся идеями о том, как рекламировать центр и вовлекать членов Церкви в семейно-историческую работу.</description>
+        <duration>316</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-center-director-training/2013-12-02-family-history-center-director-promoting-the-center-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-center-director-training/2013-12-02-family-history-center-director-promoting-the-center.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-02-family-history-center-director-promoting-the-center-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-center-director-training/2013-12-02-family-history-center-director-promoting-the-center-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-03-01-first-hearts-then-charts</id>
+        <title>Сначала сердца, потом диаграммы</title>
+        <description>Семья Агилер использует документы для поиска своих предков и консультанта по семейной истории.</description>
+        <duration>87</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-ambassador-kit-2013/2013-03-01-first-hearts-then-charts-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-ambassador-kit-2013/2013-03-01-first-hearts-then-charts-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-ambassador-kit-2013/2013-03-01-first-hearts-then-charts-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-03-05-family-history-consultants-working-with-leaders</id>
+        <title>Консультанты по семейной истории – работа с руководителями священства</title>
+        <description>Этот видеосюжет рассказывает о том, как консультанты по семейной истории могут эффективно работать с руководителями прихода.</description>
+        <duration>261</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/high-priest-group-leader-family-history-consultants/2013-03-05-family-history-consultants-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/high-priest-group-leader-family-history-consultants/2013-03-05-family-history-consultants-working-with-leaders-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/high-priest-group-leader-family-history-consultants/2013-03-05-family-history-consultants-working-with-leaders-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-01-01-rise-to-your-call</id>
+        <title>Возвеличивайте свое призвание</title>
+        <description>Президент Айринг описывает значение, благословения и влияние вашего призвания.</description>
+        <duration>122</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/consultant-lead-in-videos/2013-01-01-rise-to-your-call-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/consultant-lead-in-videos/2013-01-01-rise-to-your-call.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/consultant-lead-in-videos/2013-01-01-rise-to-your-call-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/consultant-lead-in-videos/2013-01-01-rise-to-your-call-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-03-04-assist-the-ward-council-working-with-youth</id>
+        <title>Оказание помощи совету прихода. Работа с молодежью</title>
+        <description>Данный видеосюжет рассказывает о том, как руководители прихода, а также все те, кто имеют призвания в области семейной истории, могут помогать молодежи активно принимать участие в семейно-исторической работе.</description>
+        <duration>240</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/high-priest-group-leader-family-history-consultants/2013-03-04-assist-the-ward-council-working-with-youth-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/high-priest-group-leader-family-history-consultants/2013-03-04-assist-the-ward-council-working-with-youth-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/high-priest-group-leader-family-history-consultants/2013-03-04-assist-the-ward-council-working-with-youth-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-01-family-history-consultants-tip-1-start-with-stories</id>
+        <title>Совет №1 консультантам по семейной истории. Помните, что это - духовная работа</title>
+        <description>Данный видеосюжет рассказывает о том, как консультанты по семейной истории помогают членам Церкви через обретение вдохновения, сосредоточение на историях и через принесение свидетельства о благословениях храмовой и семейно-исторической работы.</description>
+        <duration>209</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-consultant-tips/2013-02-01-family-history-consultants-tip-1-start-with-stories-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-consultant-tips/2013-02-01-family-history-consultants-tip-1-start-with-stories.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-01-family-history-consultants-tip-1-start-with-stories-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-01-family-history-consultants-tip-1-start-with-stories-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-04-family-history-consultants-tip-4-help-them-act-in-faith</id>
+        <title>Совет консультанту по семейно-исторической работе №4. Помогайте им действовать с верой</title>
+        <description>Данный видеосюжет рассказывает о том, как консультанты по семейно-исторической работе помогают членам Церкви обретать веру и самостоятельно совершать открытия в области семейной истории.</description>
+        <duration>118</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-consultant-tips/2013-02-04-family-history-consultants-tip-4-help-them-act-in-faith-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-consultant-tips/2013-02-04-family-history-consultants-tip-4-help-them-act-in-faith.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-04-family-history-consultants-tip-4-help-them-act-in-faith-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-04-family-history-consultants-tip-4-help-them-act-in-faith-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-05-family-history-consultants-tip-5-help-them-to-progress</id>
+        <title>Совет №5 консультантам по семейной истории. Помогайте им продвигаться вперед.</title>
+        <description>Данный видеосюжет рассказывает о том, как консультанты по семейной истории помогают членам Церкви продвигаться вперед посредством контроля выполнения заданий, благодаря терпению и сосредоточенности на позитивных моментах.</description>
+        <duration>123</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-consultant-tips/2013-02-05-family-history-consultants-tip-5-help-them-to-progress-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-consultant-tips/2013-02-05-family-history-consultants-tip-5-help-them-to-progress.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-05-family-history-consultants-tip-5-help-them-to-progress-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-05-family-history-consultants-tip-5-help-them-to-progress-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-03-family-history-consultants-tip-3-teach-people-not-lessons</id>
+        <title>Совет №3 консультантам по семейной истории: «Обучайте людей, а не просто проводите уроки».</title>
+        <description>Данный видеосюжет рассказывает о том, как консультанты по семейной истории помогают членам Церкви, учитывая их потребности, спрашивая о том, что им хотелось бы осуществить и фокусируясь на их историях.</description>
+        <duration>179</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-consultant-tips/2013-02-03-family-history-consultants-tip-3-teach-people-not-lessons-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-consultant-tips/2013-02-03-family-history-consultants-tip-3-teach-people-not-lessons.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-03-family-history-consultants-tip-3-teach-people-not-lessons-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-03-family-history-consultants-tip-3-teach-people-not-lessons-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-02-family-history-consultants-tip-2-help-them-have-a-positive-experience</id>
+        <title>Совет №2 консультантам по семейной истории: «Помогайте им  в обретении положительного опыта».</title>
+        <description>Данный видеосюжет рассказывает о том, как консультанты по семейной истории могут помогать членам Церкви в обретении положительного опыта в семейно-исторической работе.</description>
+        <duration>158</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-consultant-tips/2013-02-02-family-history-consultants-tip-2-help-them-have-a-positive-experience-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-consultant-tips/2013-02-02-family-history-consultants-tip-2-help-them-have-a-positive-experience.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-02-family-history-consultants-tip-2-help-them-have-a-positive-experience-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-consultant-tips/2013-02-02-family-history-consultants-tip-2-help-them-have-a-positive-experience-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2012-09-02-family-history-not-a-program-of-the-church-but-a-principle-of-the-gospel</id>
+        <title>Семейная история: Не программа Церкви, а принцип Евангелия</title>
+        <description>Семейная история: Не программа Церкви, а принцип Евангелия</description>
+        <duration>2608</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-indexing-conference-2012/2012-09-02-family-history-not-a-program-of-the-church-but-a-principle-of-the-gospel-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-indexing-conference-2012/2012-09-02-family-history-not-a-program-of-the-church-but-a-principle-of-the-gospel-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-indexing-conference-2012/2012-09-02-family-history-not-a-program-of-the-church-but-a-principle-of-the-gospel-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-indexing-conference-2012/2012-09-02-family-history-not-a-program-of-the-church-but-a-principle-of-the-gospel-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-09-11-training-for-my-calling-area-family-history-adviser</id>
+        <title>Обучение для моего призвания Региональный консультант по семейно-исторической работе</title>
+        <description>В этом видеосюжете показано, какую роль играет региональный советник по семейной истории, и как с помощью храмовой и семейно-исторической работы он может способствовать укреплению семей и отдельных людей в кольях и приходах.</description>
+        <duration>79</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-11-training-for-my-calling-area-family-history-adviser-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-11-training-for-my-calling-area-family-history-adviser-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-11-training-for-my-calling-area-family-history-adviser-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-11-training-for-my-calling-area-family-history-adviser-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-10-training-for-my-calling-family-history-consultant</id>
+        <title>Обучение для моего призвания Консультант по семейно-исторической работе</title>
+        <description>В этом видеосюжете подчеркивается роль консультанта по семейной истории в укреплении семей и отдельных людей в приходе с помощью храмовой и семейно-исторической работы.</description>
+        <duration>94</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-10-training-for-my-calling-family-history-consultant-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/to-turn-the-hearts/2011-09-10-training-for-my-calling-family-history-consultant.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-10-training-for-my-calling-family-history-consultant-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-10-training-for-my-calling-family-history-consultant-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-10-training-for-my-calling-family-history-consultant-720p-rus.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='руководство священства' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/family-history/06-priesthood-leadership-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2012-03-02-one-million-names-indexed</id>
+        <title>Один миллион проиндексированных имен</title>
+        <description>Кол в Сакраменто, Калифорния (США) поставил цель проиндексировать за месяц миллион имен. Они не подозревали, какое сильное влияние это окажет на кол. Просмотрите этот видеосюжет и узнайте о благословениях индексирования и семейной истории.</description>
+        <duration>552</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/sacramento-stake-indexing-omni-project/2012-03-02-sacramento-stake-indexing-the-omni-project-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/sacramento-stake-indexing-omni-project/2012-03-02-one-million-names-indexed-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/sacramento-stake-indexing-omni-project/2012-03-02-one-million-names-indexed-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-16-new-members-and-retention-dauphinee-family</id>
+        <title>Новые члены Церкви и поддержание интереса к Церкви Семья Дафни</title>
+        <description>Заключив брак и заведя семью, Майкл Дафни и его жена Джессика ощутили потребность ходить в церковь. Смотрите, как семейно-историческая работа помогает им возрастать в Евангелии.</description>
+        <duration>414</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-14-activation-paul-felix</id>
+        <title>Активизация Пола Феликса</title>
+        <description>Пол Феликс стал старейшиной до поступления в ВВС. Женившись, он все время думал, что его жена присоединится к Церкви. Теперь, после нескольких лет неактивности и кончины его жены, он снова приходит в церковь и посещает храм.</description>
+        <duration>301</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-09-training-for-my-calling-ward-council</id>
+        <title>Обучение для моего призвания Совет прихода</title>
+        <description>В этом видеосюжете показана роль совета прихода в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в приходе.</description>
+        <duration>129</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-09-training-for-my-calling-ward-council-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-09-training-for-my-calling-ward-council-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-09-training-for-my-calling-ward-council-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-15-missionary-work-and-retention-georgia-elias</id>
+        <title>Миссионерская работа и поддержание интереса к Церкви: Джорджия Элиас</title>
+        <description>Джорджия Элиас обращена в Евангелие через семейную историю и готовится к посещению храма.</description>
+        <duration>284</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-09-17-strengthen-youth</id>
+        <title>Укреплять молодежь</title>
+        <description>Использование храмовой и семейно-исторической работы для укрепления молодежи</description>
+        <duration>366</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-17-strengthen-youth-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/to-turn-the-hearts/2011-09-17-strengthen-youth.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-17-strengthen-youth-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-17-strengthen-youth-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-17-strengthen-youth-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-09-02-to-turn-the-hearts-condensed</id>
+        <title>Обратить сердца В сжатом виде</title>
+        <description>В этом видеофильме приведены примеры из реальной жизни. Руководители кола используют храмовую и семейно-историческую работу для укрепления отдельных лиц и семей.</description>
+        <duration>1614</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-02-to-turn-the-hearts-condensed-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/to-turn-the-hearts/2011-09-02-to-turn-the-hearts-condensed.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-02-to-turn-the-hearts-condensed-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-02-to-turn-the-hearts-condensed-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-04-training-for-my-calling-stake-president</id>
+        <title>Обучение для моего призвания Президент кола</title>
+        <description>В этом видеосюжете показана роль президента кола в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в коле.</description>
+        <duration>190</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-04-training-for-my-calling-stake-president-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-04-training-for-my-calling-stake-president-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-04-training-for-my-calling-stake-president-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-04-training-for-my-calling-stake-president-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-06-training-for-my-calling-stake-council</id>
+        <title>Обучение для моего призвания Совет кола</title>
+        <description>В этом видеосюжете подчеркивается роль совета кола в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в коле</description>
+        <duration>102</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-06-training-for-my-calling-stake-council-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-06-training-for-my-calling-stake-council-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-06-training-for-my-calling-stake-council-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-06-training-for-my-calling-stake-council-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-07-training-for-my-calling-bishop</id>
+        <title>Обучение для моего призвания Епископ</title>
+        <description>В этом видеосюжете подчеркивается роль епископа в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в приходе.</description>
+        <duration>136</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-07-training-for-my-calling-bishop-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-07-training-for-my-calling-bishop-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-07-training-for-my-calling-bishop-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-07-training-for-my-calling-bishop-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-18-focus-on-the-temple</id>
+        <title>Фокусироваться на храме</title>
+        <description>Примеры того, как фокусироваться на храме</description>
+        <duration>178</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-18-focus-on-the-temple-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-18-focus-on-the-temple-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-18-focus-on-the-temple-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-18-focus-on-the-temple-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-08-training-for-my-calling-high-priests-group-leader</id>
+        <title>Обучение для моего призвания Руководитель группы первосвященников</title>
+        <description>Этот видеосюжет отражает роль руководителя группы первосвященников в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в приходе.</description>
+        <duration>97</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-08-training-for-my-calling-high-priests-group-leader-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-08-training-for-my-calling-high-priests-group-leader-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-08-training-for-my-calling-high-priests-group-leader-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-08-training-for-my-calling-high-priests-group-leader-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-05-training-for-my-calling-high-councilor</id>
+        <title>Обучение для моего призвания Член высшего совета</title>
+        <description>В этом видеосюжете подчеркивается роль члена высшего совета в использовании храмовой и семейно-исторической работы для укрепления семей и отдельных людей в коле.</description>
+        <duration>117</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-05-training-for-my-calling-high-councilor-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-05-training-for-my-calling-high-councilor-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-05-training-for-my-calling-high-councilor-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-05-training-for-my-calling-high-councilor-720p-rus.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+</category>
+<category title='Mолодежь' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/family-history/04-youth-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2012-03-02-one-million-names-indexed</id>
+        <title>Один миллион проиндексированных имен</title>
+        <description>Кол в Сакраменто, Калифорния (США) поставил цель проиндексировать за месяц миллион имен. Они не подозревали, какое сильное влияние это окажет на кол. Просмотрите этот видеосюжет и узнайте о благословениях индексирования и семейной истории.</description>
+        <duration>552</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/sacramento-stake-indexing-omni-project/2012-03-02-sacramento-stake-indexing-the-omni-project-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/sacramento-stake-indexing-omni-project/2012-03-02-one-million-names-indexed-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/sacramento-stake-indexing-omni-project/2012-03-02-one-million-names-indexed-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-08-101-now-im-converted</id>
+        <title>Теперь я обращен</title>
+        <description>В этом видеосюжете говорится о том, какие благословения получила молодежь одного из кольев, откликнувшись на приглашение старейшины Беднара участвовать в семейной истории.</description>
+        <duration>267</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-5th-sunday-lesson-2013/2013-08-101-now-im-converted-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-5th-sunday-lesson-2013/2013-08-101-now-im-converted.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-101-now-im-converted-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-101-now-im-converted-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-02-i-love-my-red-hair</id>
+        <title>Мне нравятся мои рыжие волосы</title>
+        <description>Алана рассказывает о том, как удалось найти предка с помощью Библиотеки по семейной истории.</description>
+        <duration>103</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/ongoing-youth-success-stories/2011-09-02-i-love-my-red-hair-1080p-rus.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Практические советы' subtitle='Videos: 17' img='http://media.ldscdn.org/thumbnails/family-history/10-beginning-research-category-138x91.jpg'><category title='Начало работы' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/family-history/01-getting-started-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2014-02-01-discover-your-family-history-discover-your-story</id>
+        <title>Откройте для себя свою семейную историю. Откройте для себя свою историю.</title>
+        <description>У каждой семьи есть история. А какая история у вас? Узнайте больше об истории своей семьи и почерпните силы в событиях и примерах из жизни ваших предков, посмотрев Конференцию RootsTech 2014.</description>
+        <duration>162</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2014-animated-kick-off/2014-02-01-discover-your-family-history-discover-your-story-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2014-animated-kick-off/2014-02-01-discover-your-family-history-discover-your-story-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2014-animated-kick-off/2014-02-01-discover-your-family-history-discover-your-story-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-11-01-familysearch-indexing-get-started</id>
+        <title>Индексирование FamilySearch: За дело!</title>
+        <description>Хотите научиться индексировать? Посмотрите этот видеосюжет о том, как просто можно скачать и зарегистрироваться в программе индексирования FamilySearch.</description>
+        <duration>75</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-indexing-get-started/2013-11-01-familysearch-indexing-get-started-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/familysearch-indexing-get-started/2013-11-01-familysearch-indexing-get-started.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-indexing-get-started/2013-11-01-familysearch-indexing-get-started-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-indexing-get-started/2013-11-01-familysearch-indexing-get-started-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-08-108-its-about-the-dash</id>
+        <title>Всё дело в «тире»</title>
+        <description>Старейшина Брэдли Д. Фостер демонстрирует, что заниматься семейной историей совсем не сложно, и рассказывает об обновлениях на Familysearch.org</description>
+        <duration>180</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-5th-sunday-lesson-2013/2013-08-108-its-about-the-dash-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-5th-sunday-lesson-2013/2013-08-108-its-about-the-dash.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-108-its-about-the-dash-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-108-its-about-the-dash-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-08-104-watching-my-grandson-play-ball</id>
+        <title>Наблюдая, как мой внук играет в бейсбол</title>
+        <description>Наблюдая, как мой внук играет в софтбол. В этом видеосюжете Старейшина Тэд Р. Каллистер рассказывает о том, как его дедушка пропустил важную встречу ради того, чтобы посмотреть как его внук играет в бейсбол. Когда мы записываем семейные истории, это придает особое значение нашей жизни и обогащает наши семейные отношения. (2:36)</description>
+        <duration>156</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/family-history-5th-sunday-lesson-2013/2013-08-104-watching-my-grandson-play-ball-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/family-history-5th-sunday-lesson-2013/2013-08-104-watching-my-grandson-play-ball.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-104-watching-my-grandson-play-ball-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/family-history-5th-sunday-lesson-2013/2013-08-104-watching-my-grandson-play-ball-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-01-step-1-discover-your-story</id>
+        <title>Шаг 1: откройте для себя вашу историю</title>
+        <description>Узнайте, как как открыть для себя, кто вы такой, узнавая истории о ваших предках.</description>
+        <duration>140</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-getting-started-animated/2013-02-01-step-1-discover-your-story-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/familysearch-getting-started-animated/2013-02-01-step-1-discover-your-story.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-01-step-1-discover-your-story-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-01-step-1-discover-your-story-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-02-step-2-explore-your-family-tree</id>
+        <title>Шаг 2: изучите ваше Семейное древо</title>
+        <description>Узнайте, как изучать Семейное древо и начать поиск ваших предков.</description>
+        <duration>172</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-getting-started-animated/2013-02-02-step-2-explore-your-family-tree-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/familysearch-getting-started-animated/2013-02-02-step-2-explore-your-family-tree.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-02-step-2-explore-your-family-tree-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-02-step-2-explore-your-family-tree-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-02-03-step-3-find-and-serve-your-ancestors</id>
+        <title>Шаг 3: найдите ваших предков и служите им</title>
+        <description>Узнайте, как найти ваших предков в исторических документах, а затем служите им, выполняя храмовые таинства от их имени.</description>
+        <duration>170</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-getting-started-animated/2013-02-03-step-3-find-and-serve-your-ancestors-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/familysearch-getting-started-animated/2013-02-03-step-3-find-and-serve-your-ancestors.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-03-step-3-find-and-serve-your-ancestors-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-getting-started-animated/2013-02-03-step-3-find-and-serve-your-ancestors-720p-rus.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='Начало поиска' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/family-history/10-beginning-research-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2013-03-02-familysearch-when-your-family-tree-is-empty</id>
+        <title>Незаполненное Семейное древо</title>
+        <description>Если ваше семейное древо не заполнено, этот видеосюжет послужит руководством, как быстро получить доступ к записям о ваших предках, находящимся в системе FamilySearch.</description>
+        <duration>188</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-tree-training-empty-tree/2013-03-02-familysearch-when-your-family-tree-is-empty-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/familysearch-tree-training-empty-tree/2013-03-02-familysearch-when-your-family-tree-is-empty.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-tree-training-empty-tree/2013-03-02-familysearch-when-your-family-tree-is-empty-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-tree-training-empty-tree/2013-03-02-familysearch-when-your-family-tree-is-empty-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2013-05-02-how-to-print-your-pedigree-chart</id>
+        <title>Как распечатать свою «Родословную»</title>
+        <description>Краткая демонстрация того, как просмотреть и распечатать свою «Родословную».</description>
+        <duration>39</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-02-how-to-print-your-pedigree-chart-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-02-how-to-print-your-pedigree-chart.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-02-how-to-print-your-pedigree-chart-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-02-how-to-print-your-pedigree-chart-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-12-03-familysearch-search-tips</id>
+        <title>FamilySearch: Подсказки для поиска</title>
+        <description>Воспользуйтесь этими простыми подсказками, чтобы приступить к изучению семейной истории на FamilySearch.</description>
+        <duration>204</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-animated-videos-training/2011-12-03-familysearch-search-tips-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-animated-videos-training/2011-12-03-familysearch-search-tips-360p-rus.mp4' height='360p'/>
+</item>
+<item>
+        <id>2012-09-01-introduction-to-the-familysearch-family-tree</id>
+        <title>Введение в Семейное древо FamilySearch</title>
+        <description>Ниже приводятся семь шагов, которые помогут вам ознакомиться с новым Семейным древом на сайте familysearch.org.</description>
+        <duration>138</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-introduction-to-family-tree/2012-09-01-introduction-to-the-familysearch-family-tree-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-01-introduction-to-the-familysearch-family-tree-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-01-introduction-to-the-familysearch-family-tree-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2012-09-03-working-together-in-family-tree-lds</id>
+        <title>Работать вместе в Семейном древе-СПД</title>
+        <description>Вот несколько советов, которые помогут вам в работе с другими людьми в Семейном древе. Следуя им, вы сможете продвинуться в своих семейно-исторических изысканиях и помочь в том же другим людям.</description>
+        <duration>200</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-720p-rus.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+<category title='5 минут генеалогии' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/family-history/5-minute-genealogy-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2012-09-03-working-together-in-family-tree-lds</id>
+        <title>Работать вместе в Семейном древе-СПД</title>
+        <description>Вот несколько советов, которые помогут вам в работе с другими людьми в Семейном древе. Следуя им, вы сможете продвинуться в своих семейно-исторических изысканиях и помочь в том же другим людям.</description>
+        <duration>200</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/familysearch-introduction-to-family-tree/2012-09-03-working-together-in-family-tree-lds-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-05-04-episode-4-learn-from-family</id>
+        <title>Генеалогия за 5 минут; эпизод 4: Обратитесь к родственникам</title>
+        <description>В этом эпизоде вы узнаете, как начать работу над своей генеалогией, расспросив членов семьи. Посмотрите, как Джесси Дэвис призывает двоих друзей узнать подробности о своих семьях, связавшись с родственниками по телефону и электронной почте.</description>
+        <duration>366</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/fh-5-minute-genealogy/2011-05-04-episode-4-learn-from-family-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/fh-5-minute-genealogy/2011-05-04-episode-4-learn-from-family.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-05-04-episode-4-learn-from-family-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-05-04-episode-4-learn-from-family-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-06-05-episode-5-choose-an-ancestor-and-question</id>
+        <title>Генеалогия за 5 минут; эпизод 5: Выбор предка.</title>
+        <description>В этом эпизоде вы узнаете, как выбирать наиболее подходящих предков, по которым вам удастся найти записи, и почему это важно.</description>
+        <duration>281</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/fh-5-minute-genealogy/2011-06-05-episode-5-choose-an-ancestor-and-question-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/fh-5-minute-genealogy/2011-06-05-episode-5-choose-an-ancestor-and-question.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-06-05-episode-5-choose-an-ancestor-and-question-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-06-05-episode-5-choose-an-ancestor-and-question-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-06-08-episode-8-find-a-record</id>
+        <title>Генеалогия за 5 минут; эпизод 8: Поиск записи</title>
+        <description>В этом эпизоде вы узнаете, как найти записи предка, используя Интернет-ресурсы и центры FamilySearch.</description>
+        <duration>282</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/fh-5-minute-genealogy/2011-06-08-episode-8-find-a-record-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/fh-5-minute-genealogy/2011-06-08-episode-8-find-a-record.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-06-08-episode-8-find-a-record-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-06-08-episode-8-find-a-record-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-05-03-episode-3-record-what-you-know</id>
+        <title>Генеалогия за 5 минут; эпизод 3: Запись полученных сведений</title>
+        <description>В этом эпизоде вы узнаете, как начать работу над своей генеалогией, записывая то, что вам уже известно о своей семье. </description>
+        <duration>329</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/fh-5-minute-genealogy/2011-05-03-episode-3-record-what-you-know-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/fh-5-minute-genealogy/2011-05-03-episode-3-record-what-you-know.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-05-03-episode-3-record-what-you-know-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-05-03-episode-3-record-what-you-know-720p-rus.mp4' height='720p'/>
+</item>
+</channel></rss></category>
+</category>
 <category title='Индексирование' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-01-01-fuel-the-find</id>
@@ -7682,6 +8176,185 @@
 <content url='http://media2.ldscdn.org/assets/family-history/familysearch-stake-indexing-training/2011-10-04-indexing-training-leadership-360p-rus.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/family-history/familysearch-stake-indexing-training/2011-10-04-indexing-training-leadership-720p-rus.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/family-history/familysearch-stake-indexing-training/2011-10-04-indexing-training-leadership-1080p-rus.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Миссионеры церковной службы' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/family-history/11-church-service-missionaries-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2012-09-03-record-preservation-missionary-in-peru</id>
+        <title>Миссионер по сохранению документов в Перу</title>
+        <description>Вы можете заниматься в своем коле тем же, что и брат и сестра Валентас, миссионеры по сохранению документов.</description>
+        <duration>192</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-03-record-preservation-missionary-in-peru-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-03-record-preservation-missionary-in-peru-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-03-record-preservation-missionary-in-peru-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-03-record-preservation-missionary-in-peru-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-09-02-international-service-opportunities-for-records-preservation-senior-missionaries</id>
+        <title>Пожилые миссионеры по сохранению документов: возможности для служения за рубежом</title>
+        <description>Хотели бы вы служить на миссии за рубежом? Посмотрите, как миссионеры оцифровывают генеалогические документы в перуанских архивах. Учитесь на их опыте миссионерской работы.</description>
+        <duration>399</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-02-international-service-opportunities-for-records-preservation-senior-missionaries-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-02-international-service-opportunities-for-records-preservation-senior-missionaries-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-02-international-service-opportunities-for-records-preservation-senior-missionaries-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/a-day-in-the-life-of-a-family-history-preservation-missionary/2012-09-02-international-service-opportunities-for-records-preservation-senior-missionaries-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-09-01-im-a-familysearch-missionary-elder-david-redd</id>
+        <title>Я – миссионер FamilySearch, старейшина Дэвид Редд</title>
+        <description>Старейшина Дэвид Редд из Кардстона, провинция Альберта, Канада, объясняет, что значит быть миссионером FamilySearch, служащим на дому.</description>
+        <duration>306</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/religious-freedom-familysearch-missionary-elder-redd/2012-09-01-im-a-familysearch-missionary-elder-david-redd-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/religious-freedom-familysearch-missionary-elder-redd/2012-09-01-im-a-familysearch-missionary-elder-david-redd-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/religious-freedom-familysearch-missionary-elder-redd/2012-09-01-im-a-familysearch-missionary-elder-david-redd-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/religious-freedom-familysearch-missionary-elder-redd/2012-09-01-im-a-familysearch-missionary-elder-david-redd-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker</id>
+        <title>Я – миссионер FamilySearch, старейшина и сестра Баскер</title>
+        <description>Старейшина Дэвид Баскер и сестра Леора Баскер рассказывают о том, как служение в качестве миссионеров FamilySearch укрепило их супружество и обновило жизнь.</description>
+        <duration>252</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/im-a-familysearch-missionary-elder-and-sister-busker/2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-elder-and-sister-busker/2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-elder-and-sister-busker/2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-elder-and-sister-busker/2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2012-02-03-im-a-familysearch-missionary-sister-horning-rus</id>
+        <title>Я – миссионерка FamilySearch: сестра Хорнинг</title>
+        <description>Сестра Хорнинг рассказывает о своем служении в качестве миссионерки FamilySearch.</description>
+        <duration>297</duration>
+        <thumbnail url='http://www.lds.org/bc/content/ldsorg/topics/service/family-history/featured-needs/church-service-missionary-SIster-Horning.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-360p-eng.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-720p-eng.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-1080p-eng.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Миссионерская работа' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2014-10-05-missionaries-more-fully-converted</id>
+        <title>Более глубокое обращение миссионеров</title>
+        <description>Президент миссии описывает кардинальную перемену в своих миссионерах, которая произошла, когда они начали использовать семейную историю как инструмент поиска интересующихся.</description>
+        <duration>51</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-05-missionaries-more-fully-converted-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-05-missionaries-more-fully-converted-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-05-missionaries-more-fully-converted-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-05-missionaries-more-fully-converted-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-06-they-wanted-to-go-back</id>
+        <title>Они хотели вернуться</title>
+        <description>Когда новые члены Церкви посещают храм и совершают крещения за своих умерших родственников, они чувствуют влияние Духа, их свидетельства укрепляются, и они становятся истинно обращенными.</description>
+        <duration>118</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-06-they-wanted-to-go-back-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-06-they-wanted-to-go-back-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-06-they-wanted-to-go-back-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-06-they-wanted-to-go-back-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-09-we-lost-my-mother</id>
+        <title>Наша мама погибла</title>
+        <description>Новообращенный, чья мать погибла в автомобильной катастрофе, рассказывает, как учение о вечных семьях привело его к крещению, чтобы он смог сделать храмовую работу за свою маму.</description>
+        <duration>90</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-09-we-lost-my-mother-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-09-we-lost-my-mother-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-09-we-lost-my-mother-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-10-11-and-theres-temples-on-it</id>
+        <title>Да здесь же храмы!</title>
+        <description>Муж и жена, недавно вернувшиеся к активности в Церкви, описывают радость, которую они ощущают в связи с тем, что Евангелие проповедуется по обе стороны завесы; а также счастье от того, что они стали вечной семьей.</description>
+        <duration>130</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-11-and-theres-temples-on-it-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-11-and-theres-temples-on-it-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-11-and-theres-temples-on-it-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-10-02-it-helped-me-go-on-a-mission</id>
+        <title>Это помогло мне поехать на миссию</title>
+        <description>Молодежь рассказывает, как их участие в семейно-исторической и храмовой работе укрепило их свидетельство о Евангелии и подготовило к служению на миссии полного дня.</description>
+        <duration>194</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-02-it-helped-me-go-on-a-mission-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-02-it-helped-me-go-on-a-mission-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-02-it-helped-me-go-on-a-mission-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-02-it-helped-me-go-on-a-mission-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-07-i-want-to-enter-the-temple</id>
+        <title>Я хочу войти в храм</title>
+        <description>Слушательница впервые посещает Причастное собрание. Дух так сильно касается ее сердца, что она хочет как можно скорее войти в храм.</description>
+        <duration>71</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-07-i-want-to-enter-the-temple-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-07-i-want-to-enter-the-temple-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-07-i-want-to-enter-the-temple-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-10-08-and-now-im-going-to-be-baptized</id>
+        <title>А теперь я собираюсь креститься</title>
+        <description>Вдова описывает, как учение о семейно-исторической и храмовой работе дало ей надежду. Это подготовило ее к крещению, а позднее - к таинству запечатывания в храме.</description>
+        <duration>124</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-08-and-now-im-going-to-be-baptized-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-08-and-now-im-going-to-be-baptized-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-08-and-now-im-going-to-be-baptized-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2014-10-01-i-couldnt-explain-the-feeling</id>
+        <title>Я не могла объяснить это чувство</title>
+        <description>Новообращенная рассказывает, как занятия семейно-историческими исследованиями помогли ей почувствовать влияние Духа.</description>
+        <duration>92</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/magazines/october-liahona-2014-elder-bednar-videos/2014-10-01-i-couldnt-explain-the-feeling-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-01-i-couldnt-explain-the-feeling-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-01-i-couldnt-explain-the-feeling-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/magazines/october-liahona-2014-elder-bednar-videos/2014-10-01-i-couldnt-explain-the-feeling-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2013-05-01-using-family-history-to-further-missionary-efforts</id>
+        <title>Использование семейной истории в миссионерском служении</title>
+        <description>Миссионеры описывают, как они используют семейную историю в миссионерской работе.</description>
+        <duration>135</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-01-using-family-history-to-further-missionary-efforts-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-01-using-family-history-to-further-missionary-efforts.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/pre-mtc-family-history-training-michael-melendez/2013-05-01-using-family-history-to-further-missionary-efforts-360p-rus.mp4' height='360p'/>
+</item>
+<item>
+        <id>2011-09-13-strengthen-families-jess-family-condensed</id>
+        <title>Укрепление семей Семья Джесс В сжатом виде</title>
+        <description>История о семье Джессов и о том, как семейно-историческая и храмовая работа сплотила членов этой семьи. - В сжатом виде</description>
+        <duration>353</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-13-strengthen-families-jess-family-condensed-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-13-strengthen-families-jess-family-condensed-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-13-strengthen-families-jess-family-condensed-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-14-activation-paul-felix</id>
+        <title>Активизация Пола Феликса</title>
+        <description>Пол Феликс стал старейшиной до поступления в ВВС. Женившись, он все время думал, что его жена присоединится к Церкви. Теперь, после нескольких лет неактивности и кончины его жены, он снова приходит в церковь и посещает храм.</description>
+        <duration>301</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-14-activation-paul-felix-720p-rus.mp4' height='720p'/>
+</item>
+<item>
+        <id>2011-09-15-missionary-work-and-retention-georgia-elias</id>
+        <title>Миссионерская работа и поддержание интереса к Церкви: Джорджия Элиас</title>
+        <description>Джорджия Элиас обращена в Евангелие через семейную историю и готовится к посещению храма.</description>
+        <duration>284</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-480p-rus.mp4' height='480p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-720p-rus.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-1080p-rus.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2011-09-16-new-members-and-retention-dauphinee-family</id>
+        <title>Новые члены Церкви и поддержание интереса к Церкви Семья Дафни</title>
+        <description>Заключив брак и заведя семью, Майкл Дафни и его жена Джессика ощутили потребность ходить в церковь. Смотрите, как семейно-историческая работа помогает им возрастать в Евангелии.</description>
+        <duration>414</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-360p-rus.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-16-new-members-and-retention-dauphinee-family-720p-rus.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 </category>

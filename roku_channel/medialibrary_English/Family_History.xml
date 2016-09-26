@@ -2480,7 +2480,7 @@
 </channel>
   </rss>
 </category>
-<category title="Church-Service Missionaries" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/family-history/11-church-service-missionaries-category-138x91.jpg">
+<category title="Church-Service Missionaries" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/family-history/11-church-service-missionaries-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -2578,32 +2578,12 @@
 <content url="http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-queen/2012-09-01-a-day-in-the-life-of-a-familysearch-missionary-in-training-sister-queen-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-queen/2012-09-01-a-day-in-the-life-of-a-familysearch-missionary-in-training-sister-queen-1080p-eng.mp4" height="1080p"/>
 </item>
-<item>
-        <id>2012-02-01-im-a-familysearch-missionary-sister-horning</id>
-        <title>I'm A FamilySearch Missionary: Sister Horning</title>
-        <description>Sister Horning shares her experience as a FamilySearch service missionary.</description>
-        <duration>292</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/im-a-familysearch-missionary-sister-horning/2012-02-01-im-a-familysearch-missionary-sister-horning-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-1080p-eng.mp4" height="1080p"/>
-</item>
 </channel>
   </rss>
 </category>
 <category title="Missionary Work" subtitle="Videos: 23" img="http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
-<item>
-        <id>2016-03-05-one-work-of-salvation-part-5</id>
-        <title>One Work of Salvation, Part 5</title>
-        <description>Tempe, Arizona Mission President advises returning missionaries to overcome challenges and keep covenants by being involved with temple and family history service.</description>
-        <duration>52</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5.xml"/>
-<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-720p-eng.mp4" height="720p"/>
-</item>
 <item>
         <id>2016-03-01-one-work-of-salvation-part-1</id>
         <title>One Work of Salvation, Part 1</title>
@@ -2643,6 +2623,16 @@
 <subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-04-one-work-of-salvation-part-4.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-04-one-work-of-salvation-part-4-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-04-one-work-of-salvation-part-4-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2016-03-05-one-work-of-salvation-part-5</id>
+        <title>One Work of Salvation, Part 5</title>
+        <description>Tempe, Arizona Mission President advises returning missionaries to overcome challenges and keep covenants by being involved with temple and family history service.</description>
+        <duration>52</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-05-one-work-of-salvation-part-5-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2014-10-05-missionaries-more-fully-converted</id>
