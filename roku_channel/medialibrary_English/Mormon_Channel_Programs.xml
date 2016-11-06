@@ -404,9 +404,19 @@
 </channel>
   </rss>
 </category>
-<category title="Mormon Channel Videos" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/mormon-channel-programs-category-138x91.jpg">
+<category title="Mormon Channel Videos" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/mormon-channel-programs-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-02-005-bullied-let-us-be-kind</id>
+        <title>Bullied - Let Us Be Kind</title>
+        <description>This simple story illustrates the power of love and forgiveness in the face of bullying.</description>
+        <duration>117</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-channel-videos-2014/2014-02-005-bullied-let-us-be-kind-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-02-005-bullied-let-us-be-kind-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-02-005-bullied-let-us-be-kind-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-02-005-bullied-let-us-be-kind-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-02-004-from-gang-member-to-good-man</id>
         <title>From Gang Member to "Good Man"</title>
