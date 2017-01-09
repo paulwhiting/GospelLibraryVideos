@@ -1,4 +1,4 @@
-<categories><category title="About the Scriptures" subtitle="Videos: 43" img="http://media.ldscdn.org/thumbnails/topics/scripture-study-category-138x91.jpg">
+<categories><category title="About the Scriptures" subtitle="Videos: 40" img="http://media.ldscdn.org/thumbnails/topics/scripture-study-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -7,6 +7,7 @@
         <description>This animation gives a short but poignant view of The Book of Mormon and it's relevance to each of us.</description>
         <duration>73</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview.xml"/>
 <content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview-720p-eng.mp4" height="720p"/>
 </item>
@@ -16,6 +17,7 @@
         <description>The Holy Bible is a sacred book that contains the word of God. It foretells the coming of Jesus Christ and describes His life, mission, and sacred role as the Son of God and Savior of the world.</description>
         <duration>100</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/missionary/mormonorg-animations/2015-01-1100-the-holy-bible-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/missionary/mormonorg-animations/2015-01-1100-the-holy-bible.xml"/>
 <content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-01-1100-the-holy-bible-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-01-1100-the-holy-bible-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/mormonorg-animations/2015-01-1100-the-holy-bible-1080p-eng.mp4" height="1080p"/>
@@ -320,17 +322,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-009-book-of-mormon-samantha-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2009-04-010-book-of-mormon-sue-eng</id>
-        <title>Book of Mormon&#x2014;Sue</title>
-        <description>Sue expresses the excitement she felt when she first heard about the Book of Mormon and how she came to know it is true.</description>
-        <duration>61</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/missionary/truth-restored/2009-04-010-book-of-mormon-sue-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/missionary/truth-restored/2009-04-010-book-of-mormon-sue.xml"/>
-<content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-010-book-of-mormon-sue-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-010-book-of-mormon-sue-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-010-book-of-mormon-sue-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2011-11-012-book-of-mormon-messages-from-heaven</id>
         <title>Book of Mormon: Messages from Heaven</title>
         <description>President Monson and President Erying encouraged youth to read the Book of Mormon. Youth from Eastern Europe share what they have learned from reading the Book of Mormon and writing down their impressions.</description>
@@ -340,17 +331,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-11-012-book-of-mormon-messages-from-heaven-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-11-012-book-of-mormon-messages-from-heaven-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-11-012-book-of-mormon-messages-from-heaven-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2015-09-050-feasting-on-the-word</id>
-        <title>Feasting on the Word</title>
-        <description>Elder Jos&#xE9; A. Teixeira, of the Seventy, describes the impact the revision of the Holy Bible in Portuguese will have on his life and on the lives of Portuguese-speaking Church members.</description>
-        <duration>71</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/portuguese-bible-awareness/2015-09-050-feasting-on-the-word-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/portuguese-bible-awareness/2015-09-050-feasting-on-the-word.xml"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/portuguese-bible-awareness/2015-09-050-feasting-on-the-word-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/portuguese-bible-awareness/2015-09-050-feasting-on-the-word-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/portuguese-bible-awareness/2015-09-050-feasting-on-the-word-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2009-07-29-gods-words-never-cease</id>
@@ -393,17 +373,6 @@
 <content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-066-nature-of-god-richard-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-066-nature-of-god-richard-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/missionary/truth-restored/2009-04-066-nature-of-god-richard-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2011-10-64-president-eyring-on-the-book-of-mormon</id>
-        <title>President Eyring on the Book of Mormon</title>
-        <description>President Eyring speaks of the importance of studying the Book of Mormon daily.</description>
-        <duration>189</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-10-64-president-eyring-on-the-book-of-mormon-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/general-authority-features/prophets-and-apostles-speak-today/2011-10-64-president-eyring-on-the-book-of-mormon.xml"/>
-<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-10-64-president-eyring-on-the-book-of-mormon-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-10-64-president-eyring-on-the-book-of-mormon-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-10-64-president-eyring-on-the-book-of-mormon-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-10-1098-study-the-book-of-mormon-eng</id>
@@ -696,7 +665,7 @@
 </item>
 <item>
         <id>2012-08-1280-opposition-in-all-things</id>
-        <title>opposition in all things</title>
+        <title>Opposition in All Things</title>
         <description>(2 Nephi 2:1&#x2013;11) President Howard W. Hunter illustrates opposition by using a story about a Samoan boat race.</description>
         <duration>172</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1280-opposition-in-all-things-144x108-thumb.jpg"/>
@@ -3088,7 +3057,6 @@
         <description>Visual and music highlight this portrayal of the Savior's visit to the inhabitants of ancient America, providing a unique view of His caring, compassion, and love for His children.</description>
         <duration>244</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0008-my-joy-is-full-144x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/book-of-mormon-video-presentations-ces/2007-01-0008-my-joy-is-full.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-ces/2010-06-08-my-joy-is-full-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-ces/2010-06-08-my-joy-is-full-480p-eng.mp4" height="480p"/>
 </item>
@@ -6760,6 +6728,7 @@
         <description>A young woman learns the difference between worldly sorrow and godly sorrow. 2 Corinthians 7</description>
         <duration>554</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-visual-resource/2012-06-2350-godly-sorrow-leads-to-repentance-144x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-visual-resource/2012-06-2350-godly-sorrow-leads-to-repentance.xml"/>
 <content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-visual-resource/2012-06-2350-godly-sorrow-leads-to-repentance-360p-eng.mp4" height="360p"/>
 </item>
 </channel></rss></category>

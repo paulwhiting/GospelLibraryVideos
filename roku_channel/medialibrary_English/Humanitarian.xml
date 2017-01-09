@@ -587,9 +587,19 @@
 </channel>
   </rss>
 </category>
-<category title="Give Back Series" subtitle="Videos: 32" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
+<category title="Give Back Series" subtitle="Videos: 33" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations</id>
+        <title>&#x201C;A Tree Is Life&#x201D;: Planting Trees in Haiti for Future Generations</title>
+        <description>One Haitian man wanted to plant more trees, so he connected with the local congregation of The Church of Jesus Christ of Latter-day Saints.</description>
+        <duration>213</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-case-studies-videos/2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-023-a-haven-from-gang-violence-the-compton-junior-posse-equestrians</id>
         <title>A Haven from Gang Violence: The Compton Junior Posse Equestrians</title>
@@ -836,6 +846,7 @@
         <description>Her life changed at 15 years of age when&#x2014;in front of her home in Santa Domingo&#x2014;a car lost control and accidentally ran her over. This tragic car accident left Mayerlinth Reyes with a completely different state of life.</description>
         <duration>138</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back/2014-01-004-30-million-people-need-prosthetic-limbs-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/give-back/2014-12-004-30-million-people-need-prosthetic-limbs.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/give-back/2014-12-004-30-million-people-need-prosthetic-limbs-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/give-back/2014-12-004-30-million-people-need-prosthetic-limbs-720p-eng.mp4" height="720p"/>
 </item>
