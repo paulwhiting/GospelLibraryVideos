@@ -882,6 +882,7 @@ def FixURL( params )
     # warn if encoded whitespace is present
     if params[:url].include?(' ')
         PrettyPrintNewline "WARNING: URL contains a space character - #{params[:url]}\n"
+        params[:url].gsub(' ','%20')
     end
     #if params[:url].include?('%20')
         #PrettyPrintNewline "WARNING: URL contains '%20' - #{params[:url]}\n"
