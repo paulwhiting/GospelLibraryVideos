@@ -1326,6 +1326,7 @@
 <subtitles url="http://media.ldscdn.org/dfxp/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision.xml"/>
 <content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-05-0105-preparation-of-joseph-smith-the-first-vision</id>
@@ -9863,6 +9864,7 @@
 <subtitles url="http://media.ldscdn.org/dfxp/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision.xml"/>
 <content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/church-history/vision-theater-2017/2017-01-0100-ask-of-god-joseph-smiths-first-vision-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2014-06-01-joseph-smiths-first-vision</id>
@@ -10217,7 +10219,7 @@
 <item>
         <id>2012-01-004-looking-through-windows</id>
         <title>Looking through Windows</title>
-        <description>We should be careful how we judge others, as we may be looking at them through our own "unclean windows." Read President Monson's full address, "Charity Never Faileth" here: http://bit.ly/d8J2Lh</description>
+        <description>We should be careful how we judge others, as we may be looking at them through our own "unclean windows." Read President Monson's full address, "Charity Never Faileth".</description>
         <duration>139</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-004-looking-through-windows-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2012/2012-01-004-looking-through-windows.xml"/>
@@ -10962,7 +10964,7 @@
 </channel>
   </rss>
 </category>
-<category title="Mental Health" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/2016-06-2001-like-a-broken-vessel-138x91.jpg">
+<category title="Mental Health" subtitle="Videos: 17" img="http://media.ldscdn.org/thumbnails/2016-06-2001-like-a-broken-vessel-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -11141,17 +11143,6 @@
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2016-06-0007-alans-story</id>
-        <title>Alan's Story</title>
-        <description>As a young bishop Alan had to deal with the challenge of understanding the dark power of depression. After going through depression himself he learns how to bring back the light in his life and receive strength from the lord.</description>
-        <duration>542</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/mental-illness-profiles/2016-06-0007-alans-story-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/welfare/mental-illness-profiles/2016-06-0007-alans-story.xml"/>
-<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0007-alans-story-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0007-alans-story-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0007-alans-story-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
