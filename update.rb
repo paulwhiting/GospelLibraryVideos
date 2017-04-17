@@ -6,6 +6,8 @@ require 'json'          # for JSON
 require 'htmlentities'  # for HtmlEntities
 require 'time'          # for Time
 
+require_relative 'languages'
+
 # the subdirectory we want to store our results in
 time = Time.now
 OUTPUT_DIR_PREFIX = "medialibrary_#{time.year}_#{time.month}_#{time.day}/"
@@ -1051,6 +1053,10 @@ class Video
         return found_stream
     end
 
+    def self.url_to_ref_id( url )
+        return url.gsub(/[^A-Za-z0-9.-]/,'_')
+    end
+
     def to_rss_videoref( quality )
         return "" if @smallest_size == 0
         stream = get_rss_stream( quality )
@@ -1064,7 +1070,7 @@ class Video
                 end
             end
             $rss_videos[found_url] = [self,stream]
-            return "<videoref ref=\"#{found_url}\"/>\n" 
+            return "<videoref ref=\"#{Video.url_to_ref_id(found_url)}\"/>\n" 
         end
         return ""
     end
@@ -1072,7 +1078,7 @@ class Video
     def self.to_rss_video( video, stream )
         return "" if video.smallest_size == 0
         if stream != nil
-            return "<video id=\"#{stream.url}\" name=\"#{video.title}\" thumbnail=\"#{video.thumbnail}\" url=\"#{stream.url}\"/>\n"
+            return "<video id=\"#{url_to_ref_id(stream.url)}\" name=\"#{video.title}\" thumbnail=\"#{video.thumbnail}\" url=\"#{stream.url}\"/>\n"
         end
         return ""
     end
@@ -1736,20 +1742,7 @@ elsif ARGV[0].downcase == 'update'
     GENERIC_URL  = "https://www.lds.org/media-library/video/categories?lang="
 
     # for each filename/title/URL tag download all the web pages and scrape them
-    # TODO:  sync with export script
-    [
-      ["ASL", "American Sign Language (ASL)", "eng&clang=ase"],
-      ["Deutsch", "Deutsch", "deu"],
-      ["English", "English", "eng"],
-      ["French", "Français", "fra"],
-      ["Italiano", "Italiano", "ita"],
-      ["Japanese", "日本語", "jpn"],
-      ["Korean", "한국어", "kor"],
-      ["Portuguese", "Português", "por"],
-      ["Russian", "Русский", "rus"],
-      ["Spanish", "Español", "spa"],
-      ["Music", "Music", ""],
-    ].each do |threesome|
+    LIBRARY_LANGUAGES.each do |threesome|
         filename, title, tag = threesome
         if title != "Music"
             do_update(filename: filename, title: title, url: GENERIC_URL + tag)

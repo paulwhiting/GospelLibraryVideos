@@ -1,6 +1,7 @@
 # encoding: utf-8
 require_relative 'common'
 require 'net/http'
+require_relative 'languages'
 
 ROKU_USB_VIDEO_PREFIX = "ext1:/LDS Media"
 ROKU_USB_THUMBNAIL_PREFIX = "ext1:/LDS Media/thumbnails"
@@ -179,20 +180,8 @@ if not Dir.exists? DOWNLOADED_SUBTITLES_DIR
   Dir.mkdir DOWNLOADED_SUBTITLES_DIR
 end
 
-# TODO:  sync with update script
-[
-  ["ASL", "American Sign Language (ASL)", "eng&clang=ase"],
-  ["Deutsch", "Deutsch", "deu"],
-  ["English", "English", "eng"],
-  ["French", "Français", "fra"],
-  ["Italiano", "Italiano", "ita"],
-  ["Japanese", "日本語", "jpn"],
-  ["Korean", "한국어", "kor"],
-  ["Portuguese", "Português", "por"],
-  ["Russian", "Русский", "rus"],
-  ["Spanish", "Español", "spa"],
-  ["Music", "Music", ""],
-].each do |threesome|
+# language list is pulled from languages.rb
+LIBRARY_LANGUAGES.each do |threesome|
     filename, title, tag = threesome
     language = filename
     download_latest_XML( language )
