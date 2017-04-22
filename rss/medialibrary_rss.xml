@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <rss version="2.0">
       <channel>
-        <title>LDS Media Library as of 2017-04-15</title>
+        <title>LDS Media Library as of 2017-04-22</title>
         <link>http://www.lds.org/media-library</link>
         <description>Media Library for The Church of Jesus Christ of Latter-day Saints</description>
         <copyright>&#169; 2014 by Intellectual Reserve, Inc. All rights reserved.</copyright>
@@ -26,49 +26,129 @@
           <description>45.1 GB</description>
           </item>
 <item>
-          <title>Deutsch Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Deutsch_1080p.xml</link>
-          <description>217.2 GB</description>
+          <title>Bahasa Indonesia (Indonesian) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Indonesian_1080p.xml</link>
+          <description>27.0 GB</description>
           </item>
 <item>
-          <title>Deutsch Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Deutsch_720p.xml</link>
-          <description>93.5 GB</description>
+          <title>Bahasa Indonesia (Indonesian) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Indonesian_720p.xml</link>
+          <description>17.6 GB</description>
           </item>
 <item>
-          <title>Deutsch Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Deutsch_480p.xml</link>
+          <title>Bahasa Indonesia (Indonesian) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Indonesian_480p.xml</link>
+          <description>10.3 GB</description>
+          </item>
+<item>
+          <title>Bahasa Indonesia (Indonesian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Indonesian_360p.xml</link>
+          <description>10.3 GB</description>
+          </item>
+<item>
+          <title>Dansk (Danish) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Danish_1080p.xml</link>
+          <description>26.4 GB</description>
+          </item>
+<item>
+          <title>Dansk (Danish) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Danish_720p.xml</link>
+          <description>17.4 GB</description>
+          </item>
+<item>
+          <title>Dansk (Danish) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Danish_480p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Dansk (Danish) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Danish_360p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Deutsch (German) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_German_1080p.xml</link>
+          <description>218.1 GB</description>
+          </item>
+<item>
+          <title>Deutsch (German) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_German_720p.xml</link>
+          <description>93.7 GB</description>
+          </item>
+<item>
+          <title>Deutsch (German) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_German_480p.xml</link>
+          <description>45.2 GB</description>
+          </item>
+<item>
+          <title>Deutsch (German) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_German_360p.xml</link>
           <description>45.1 GB</description>
-          </item>
-<item>
-          <title>Deutsch Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Deutsch_360p.xml</link>
-          <description>45.0 GB</description>
           </item>
 <item>
           <title>English Media Library 1080p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_1080p.xml</link>
-          <description>1212.9 GB</description>
+          <description>1203.6 GB</description>
           </item>
 <item>
           <title>English Media Library 720p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_720p.xml</link>
-          <description>471.5 GB</description>
+          <description>465.5 GB</description>
           </item>
 <item>
           <title>English Media Library 480p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_480p.xml</link>
-          <description>239.2 GB</description>
+          <description>236.8 GB</description>
           </item>
 <item>
           <title>English Media Library 360p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_360p.xml</link>
-          <description>228.9 GB</description>
+          <description>226.5 GB</description>
           </item>
 <item>
           <title>English Media Library mp3</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_English_mp3.xml</link>
-          <description>227.4 GB</description>
+          <description>225.0 GB</description>
+          </item>
+<item>
+          <title>Español Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_1080p.xml</link>
+          <description>429.7 GB</description>
+          </item>
+<item>
+          <title>Español Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_720p.xml</link>
+          <description>186.8 GB</description>
+          </item>
+<item>
+          <title>Español Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_480p.xml</link>
+          <description>100.2 GB</description>
+          </item>
+<item>
+          <title>Español Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_360p.xml</link>
+          <description>100.9 GB</description>
+          </item>
+<item>
+          <title>Faka-tonga (Tongan) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Tongan_1080p.xml</link>
+          <description>26.1 GB</description>
+          </item>
+<item>
+          <title>Faka-tonga (Tongan) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Tongan_720p.xml</link>
+          <description>17.1 GB</description>
+          </item>
+<item>
+          <title>Faka-tonga (Tongan) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Tongan_480p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Faka-tonga (Tongan) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Tongan_360p.xml</link>
+          <description>10.2 GB</description>
           </item>
 <item>
           <title>Français Media Library 1080p</title>
@@ -91,74 +171,114 @@
           <description>44.1 GB</description>
           </item>
 <item>
-          <title>Italiano Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italiano_1080p.xml</link>
-          <description>209.5 GB</description>
+          <title>Gagana Samoa (Samoan) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Samoan_1080p.xml</link>
+          <description>26.4 GB</description>
           </item>
 <item>
-          <title>Italiano Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italiano_720p.xml</link>
-          <description>89.6 GB</description>
+          <title>Gagana Samoa (Samoan) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Samoan_720p.xml</link>
+          <description>17.4 GB</description>
           </item>
 <item>
-          <title>Italiano Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italiano_480p.xml</link>
-          <description>41.8 GB</description>
+          <title>Gagana Samoa (Samoan) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Samoan_480p.xml</link>
+          <description>10.2 GB</description>
           </item>
 <item>
-          <title>Italiano Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italiano_360p.xml</link>
-          <description>41.8 GB</description>
+          <title>Gagana Samoa (Samoan) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Samoan_360p.xml</link>
+          <description>10.2 GB</description>
           </item>
 <item>
-          <title>日本語 Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_1080p.xml</link>
-          <description>222.5 GB</description>
+          <title>Italiano (Italian) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italian_1080p.xml</link>
+          <description>210.3 GB</description>
           </item>
 <item>
-          <title>日本語 Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_720p.xml</link>
-          <description>94.4 GB</description>
+          <title>Italiano (Italian) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italian_720p.xml</link>
+          <description>89.8 GB</description>
           </item>
 <item>
-          <title>日本語 Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_480p.xml</link>
-          <description>44.1 GB</description>
+          <title>Italiano (Italian) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italian_480p.xml</link>
+          <description>41.9 GB</description>
           </item>
 <item>
-          <title>日本語 Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_360p.xml</link>
-          <description>44.1 GB</description>
+          <title>Italiano (Italian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Italian_360p.xml</link>
+          <description>41.9 GB</description>
           </item>
 <item>
-          <title>한국어 Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_1080p.xml</link>
-          <description>213.5 GB</description>
+          <title>Magyar (Hungarian) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Hungarian_1080p.xml</link>
+          <description>26.9 GB</description>
           </item>
 <item>
-          <title>한국어 Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_720p.xml</link>
-          <description>93.0 GB</description>
+          <title>Magyar (Hungarian) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Hungarian_720p.xml</link>
+          <description>17.5 GB</description>
           </item>
 <item>
-          <title>한국어 Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_480p.xml</link>
-          <description>42.6 GB</description>
+          <title>Magyar (Hungarian) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Hungarian_480p.xml</link>
+          <description>10.2 GB</description>
           </item>
 <item>
-          <title>한국어 Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_360p.xml</link>
-          <description>42.5 GB</description>
+          <title>Magyar (Hungarian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Hungarian_360p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Nederlands (Dutch) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Dutch_1080p.xml</link>
+          <description>26.7 GB</description>
+          </item>
+<item>
+          <title>Nederlands (Dutch) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Dutch_720p.xml</link>
+          <description>17.4 GB</description>
+          </item>
+<item>
+          <title>Nederlands (Dutch) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Dutch_480p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Nederlands (Dutch) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Dutch_360p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Norsk (Norwegian) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Norwegian_1080p.xml</link>
+          <description>27.0 GB</description>
+          </item>
+<item>
+          <title>Norsk (Norwegian) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Norwegian_720p.xml</link>
+          <description>17.5 GB</description>
+          </item>
+<item>
+          <title>Norsk (Norwegian) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Norwegian_480p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Norsk (Norwegian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Norwegian_360p.xml</link>
+          <description>10.2 GB</description>
           </item>
 <item>
           <title>Português Media Library 1080p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Portuguese_1080p.xml</link>
-          <description>391.2 GB</description>
+          <description>392.1 GB</description>
           </item>
 <item>
           <title>Português Media Library 720p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Portuguese_720p.xml</link>
-          <description>161.0 GB</description>
+          <description>161.2 GB</description>
           </item>
 <item>
           <title>Português Media Library 480p</title>
@@ -168,52 +288,172 @@
 <item>
           <title>Português Media Library 360p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Portuguese_360p.xml</link>
-          <description>83.7 GB</description>
+          <description>83.8 GB</description>
           </item>
 <item>
           <title>Português Media Library mp3</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Portuguese_mp3.xml</link>
-          <description>81.3 GB</description>
+          <description>81.4 GB</description>
           </item>
 <item>
-          <title>Русский Media Library 1080p</title>
+          <title>Suomi (Finnish) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Finnish_1080p.xml</link>
+          <description>25.7 GB</description>
+          </item>
+<item>
+          <title>Suomi (Finnish) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Finnish_720p.xml</link>
+          <description>16.0 GB</description>
+          </item>
+<item>
+          <title>Suomi (Finnish) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Finnish_480p.xml</link>
+          <description>9.4 GB</description>
+          </item>
+<item>
+          <title>Suomi (Finnish) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Finnish_360p.xml</link>
+          <description>9.4 GB</description>
+          </item>
+<item>
+          <title>Svenska (Swedish) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Swedish_1080p.xml</link>
+          <description>26.5 GB</description>
+          </item>
+<item>
+          <title>Svenska (Swedish) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Swedish_720p.xml</link>
+          <description>17.4 GB</description>
+          </item>
+<item>
+          <title>Svenska (Swedish) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Swedish_480p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Svenska (Swedish) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Swedish_360p.xml</link>
+          <description>10.2 GB</description>
+          </item>
+<item>
+          <title>Русский (Russian) Media Library 1080p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Russian_1080p.xml</link>
-          <description>228.7 GB</description>
+          <description>229.5 GB</description>
           </item>
 <item>
-          <title>Русский Media Library 720p</title>
+          <title>Русский (Russian) Media Library 720p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Russian_720p.xml</link>
-          <description>102.8 GB</description>
+          <description>103.0 GB</description>
           </item>
 <item>
-          <title>Русский Media Library 480p</title>
+          <title>Русский (Russian) Media Library 480p</title>
           <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Russian_480p.xml</link>
+          <description>52.1 GB</description>
+          </item>
+<item>
+          <title>Русский (Russian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Russian_360p.xml</link>
           <description>52.0 GB</description>
           </item>
 <item>
-          <title>Русский Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Russian_360p.xml</link>
-          <description>51.9 GB</description>
+          <title>Українська (Ukrainian) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Ukrainian_1080p.xml</link>
+          <description>25.2 GB</description>
           </item>
 <item>
-          <title>Español Media Library 1080p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_1080p.xml</link>
-          <description>429.7 GB</description>
+          <title>Українська (Ukrainian) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Ukrainian_720p.xml</link>
+          <description>17.2 GB</description>
           </item>
 <item>
-          <title>Español Media Library 720p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_720p.xml</link>
-          <description>186.8 GB</description>
+          <title>Українська (Ukrainian) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Ukrainian_480p.xml</link>
+          <description>10.4 GB</description>
           </item>
 <item>
-          <title>Español Media Library 480p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_480p.xml</link>
-          <description>100.2 GB</description>
+          <title>Українська (Ukrainian) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Ukrainian_360p.xml</link>
+          <description>10.4 GB</description>
           </item>
 <item>
-          <title>Español Media Library 360p</title>
-          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Spanish_360p.xml</link>
-          <description>100.9 GB</description>
+          <title>ภาษาไทย (Thai) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Thai_1080p.xml</link>
+          <description>25.3 GB</description>
+          </item>
+<item>
+          <title>ภาษาไทย (Thai) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Thai_720p.xml</link>
+          <description>15.9 GB</description>
+          </item>
+<item>
+          <title>ภาษาไทย (Thai) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Thai_480p.xml</link>
+          <description>8.9 GB</description>
+          </item>
+<item>
+          <title>ภาษาไทย (Thai) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Thai_360p.xml</link>
+          <description>8.9 GB</description>
+          </item>
+<item>
+          <title>한국어 (Korean) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_1080p.xml</link>
+          <description>214.3 GB</description>
+          </item>
+<item>
+          <title>한국어 (Korean) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_720p.xml</link>
+          <description>93.2 GB</description>
+          </item>
+<item>
+          <title>한국어 (Korean) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_480p.xml</link>
+          <description>42.7 GB</description>
+          </item>
+<item>
+          <title>한국어 (Korean) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Korean_360p.xml</link>
+          <description>42.6 GB</description>
+          </item>
+<item>
+          <title>中文 (Chinese) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Chinese_1080p.xml</link>
+          <description>198.0 GB</description>
+          </item>
+<item>
+          <title>中文 (Chinese) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Chinese_720p.xml</link>
+          <description>74.1 GB</description>
+          </item>
+<item>
+          <title>中文 (Chinese) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Chinese_480p.xml</link>
+          <description>35.8 GB</description>
+          </item>
+<item>
+          <title>中文 (Chinese) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Chinese_360p.xml</link>
+          <description>35.8 GB</description>
+          </item>
+<item>
+          <title>日本語 (Japanese) Media Library 1080p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_1080p.xml</link>
+          <description>222.5 GB</description>
+          </item>
+<item>
+          <title>日本語 (Japanese) Media Library 720p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_720p.xml</link>
+          <description>94.4 GB</description>
+          </item>
+<item>
+          <title>日本語 (Japanese) Media Library 480p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_480p.xml</link>
+          <description>44.1 GB</description>
+          </item>
+<item>
+          <title>日本語 (Japanese) Media Library 360p</title>
+          <link>http://paulwhiting.github.io/GospelLibraryVideos/rss/medialibrary_rss_Japanese_360p.xml</link>
+          <description>44.1 GB</description>
           </item>
 <item>
           <title>Music Media Library 1080p</title>
