@@ -24,9 +24,31 @@
 </channel>
   </rss>
 </category>
-<category title="Emergency Response" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
+<category title="Emergency Response" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-0008-europe-refugee-help-nina-kerrou</id>
+        <title>Europe Refugee Help&#x2014;Nina Kerrou</title>
+        <description>Nina is a member of the Church in Europe who wanted to find a way to respond to the First Presidency&#x2019;s call to help refugees. She volunteered in Calais, France, at a refugee camp.</description>
+        <duration>384</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-0008-europe-refugee-help-nina-kerrou-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/give-back-2016/2016-01-0008-europe-refugee-help-nina-kerrou.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-0008-europe-refugee-help-nina-kerrou-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-0008-europe-refugee-help-nina-kerrou-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-0008-europe-refugee-help-nina-kerrou-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0007-ill-stay-emergency-response-music-video</id>
+        <title>I&#x2019;ll Stay&#x2014;Emergency Response Music Video</title>
+        <description>A video showing disasters that LDS Charities has responded to and the amazing effort of members to give help where needed.</description>
+        <duration>174</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0007-ill-stay-emergency-response-music-video-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-lds-charities-videos/2017-01-0007-ill-stay-emergency-response-music-video.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0007-ill-stay-emergency-response-music-video-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0007-ill-stay-emergency-response-music-video-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0007-ill-stay-emergency-response-music-video-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-09-3000-refuge-from-the-storm</id>
         <title>Refuge from the Storm</title>
@@ -349,9 +371,19 @@
 </channel>
   </rss>
 </category>
-<category title="Maternal And Newborn Care" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/nrt-category-138x91.jpg">
+<category title="Maternal And Newborn Care" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/nrt-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0009-all-through-the-night</id>
+        <title>All through the Night</title>
+        <description>LDS Charities provides training and equipment for birth attendants worldwide in order to help save the lives of newborns and their mothers who may otherwise be at risk.&#xA0;</description>
+        <duration>122</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0009-all-through-the-night-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0009-all-through-the-night-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0009-all-through-the-night-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0009-all-through-the-night-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2011-03-29-a-childs-first-breath</id>
         <title>A Child's First Breath</title>
@@ -587,9 +619,45 @@
 </channel>
   </rss>
 </category>
-<category title="Give Back Series" subtitle="Videos: 33" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
+<category title="Give Back Series" subtitle="Videos: 37" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2014-11-1320-preserving-sight-for-the-homeless-running-a-free-clinic-in-romania</id>
+        <title>Running a Free Clinic in Romania</title>
+        <description>Dr. Grecu is an ophthalmologist who volunteers his expertise at a social clinic in Romania. The clinic provides health care free of charge to those without income or health insurance.</description>
+        <duration>212</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-partner-testimonial-videos/2014-11-1320-preserving-sight-for-the-homeless-running-a-free-clinic-in-romania-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1320-preserving-sight-for-the-homeless-running-a-free-clinic-in-romania-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1320-preserving-sight-for-the-homeless-running-a-free-clinic-in-romania-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2016-01-026-teens-christmas-service-project-for-a-nursing-home</id>
+        <title>Teens&#x2019; Christmas Service Project for a Nursing Home</title>
+        <description>Idaho Falls teens were able to make scarves for a nearby nursing home and bring a bit of the Christmas spirit by caroling to its residents.</description>
+        <duration>177</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-026-teens-christmas-service-project-for-a-nursing-home-138x91-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-026-teens-christmas-service-project-for-a-nursing-home-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-026-teens-christmas-service-project-for-a-nursing-home-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2017-01-1-escaping-poverty-community-chicken-project</id>
+        <title>Escaping Poverty&#x2014;Community Chicken Project</title>
+        <description>A Haitian community began a humanitarian project that offered chickens, supplies, and training to participants so that they could start their own business. Working has given Lucienne a new sense of hope and purpose.</description>
+        <duration>203</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-1-escaping-poverty-community-chicken-project-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0001-escaping-poverty-community-chicken-project-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0001-escaping-poverty-community-chicken-project-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2017-01-2-i-thank-god-that-our-paths-crossed-ending-blindness-in-premature-newborns</id>
+        <title>&#x201C;I Thank God That Our Paths Crossed&#x201D;&#x2014;Ending Blindness in Premature Newborns</title>
+        <description>LDS Charities donated equipment to Dr. Vatavu to assist her in preventing blindness in premature babies in Bucharest, Romania. She comes to love these families and cherishes her ability to help them.</description>
+        <duration>191</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-2-i-thank-god-that-our-paths-crossed-ending-blindness-in-premature-newborns-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0002-i-thank-god-that-our-paths-crossed-ending-blindness-in-premature-newborns-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0002-i-thank-god-that-our-paths-crossed-ending-blindness-in-premature-newborns-720p-eng.mp4" height="720p"/>
+</item>
 <item>
         <id>2014-11-1200-a-tree-is-life-planting-trees-in-haiti-for-future-generations</id>
         <title>&#x201C;A Tree Is Life&#x201D;: Planting Trees in Haiti for Future Generations</title>
@@ -1163,6 +1231,44 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-case-studies-videos/2014-11-1040-philippines-immunization-campaign-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1040-philippines-immunization-campaign-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/lds-charities-case-studies-videos/2014-11-1040-philippines-immunization-campaign-720p-eng.mp4" height="720p"/>
+</item>
+</channel>
+  </rss>
+</category>
+<category title="Behind the Scenes" subtitle="Videos: 3" img="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-3-interview-with-michelle-nunn-138x91-thumb.jpg">
+  <rss>
+    <channel><title/><description/>
+<item>
+        <id>2017-01-3-interview-with-michelle-nunn</id>
+        <title>Interview with Michelle Nunn</title>
+        <description>Michelle Nunn visits the Bishops&#x2019; Central Storehouse and talks about the long partnership between LDS Charities and CARE.</description>
+        <duration>284</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-3-interview-with-michelle-nunn-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0003-interview-with-michelle-nunn-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0003-interview-with-michelle-nunn-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0003-interview-with-michelle-nunn-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer</id>
+        <title>LDS Charities behind the Scenes&#x2014;Maternal Newborn Care Volunteer</title>
+        <description>Dr. Michael Draper talks about his experiences in volunteering as part of the Maternal and Newborn Care initiative.</description>
+        <duration>299</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0002-lds-charities-behind-the-scenes-maternal-newborn-care-volunteer-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy</id>
+        <title>LDS Charities behind the Scenes&#x2014;Emergency Response with Jeff Foy</title>
+        <description>An interview with emergency response manager Jeff Foy, who talks about the best ways to help and prepare in times of disaster.</description>
+        <duration>355</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0001-lds-charities-behind-the-scenes-emergency-response-with-jeff-foy-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
