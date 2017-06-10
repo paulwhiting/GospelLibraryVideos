@@ -6500,15 +6500,26 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Youth Media" subtitle="Videos: 30" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Media" subtitle="Videos: 31" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0004-where-are-the-keys</id>
+        <title>Where Are the Keys?</title>
+        <description>Priesthood authority and keys start the engine, open the gates of heaven, facilitate heavenly power, and pave the covenant pathway back to our Heavenly Father.</description>
+        <duration>172</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2017-youth-media/2017-01-0004-where-are-the-keys-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0004-where-are-the-keys-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0004-where-are-the-keys-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0004-where-are-the-keys-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2017-01-0003-that-he-may-become-strong</id>
         <title>That He May Become Strong</title>
         <description>As a youth, Jeremy had a strong mentor in one of his Young Men leaders. Now an adult, Jeremy reflects on the positive impact this mentor has had on his entire life.</description>
         <duration>244</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/youth/2017-youth-media/2017-01-0003-that-he-may-become-strong-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/2017-youth-media/2017-01-0003-that-he-may-become-strong.xml"/>
 <content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0003-that-he-may-become-strong-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0003-that-he-may-become-strong-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0003-that-he-may-become-strong-1080p-eng.mp4" height="1080p"/>

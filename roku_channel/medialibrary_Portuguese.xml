@@ -8665,7 +8665,7 @@
 <content url='http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='História da Família' subtitle='Videos: 109' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Comece com Sua Família' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='História da Família' subtitle='Videos: 110' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='Comece com Sua Família' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>Usando o Livreto Minha Família: Histórias Que Nos Unem </title>
@@ -9605,7 +9605,17 @@
 <content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-sister-horning/2012-02-03-im-a-familysearch-missionary-sister-horning-720p-por.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Obra Missionária' subtitle='Videos: 15' img='http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Obra Missionária' subtitle='Videos: 16' img='http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-03-06-increasing-convert-retention-with-temple-and-family-history-work</id>
+        <title>Aumentar a Retenção de Conversos com o Trabalho do Templo e da História da Família</title>
+        <description>Observe os missionários ensinarem Zayna Chubbs sobre o livreto “Famílias e Templos”, a ajudarem a encontrar nomes de familiares, adicioná-los ao site FamilySearch.org, imprimir os cartões de ordenança.</description>
+        <duration>326</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-720p-por.mp4' height='720p'/>
+</item>
 <item>
         <id>2014-10-01-i-couldnt-explain-the-feeling</id>
         <title>Eu não Conseguia Explicar o Sentimento</title>
@@ -13539,7 +13549,31 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Mensagens Mórmons' subtitle='Videos: 85' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensagens Mórmons 2015' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons' subtitle='Videos: 97' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensagens Mórmons 2016' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-spa.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-04-1000-lifes-drama</id>
+        <title>Desafios da Vida</title>
+        <description>Tanto em questão temporal quanto espiritual, a oportunidade de assumir a responsabilidade pessoal é um dom de Deus, sem o qual não podemos atingir nosso pleno potencial.</description>
+        <duration>382</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-1080p-por.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+<category title='Mensagens Mórmons 2015' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-03-009-a-shower-of-heavenly-blessings</id>
+        <title>Chuva de Bênçãos Celestes</title>
+        <description>Você já sentiu que o Pai Celestial retém as bênçãos ao invés de livremente compartilhá-las? Na verdade, ele derrama constantemente sobre nós uma chuva de bênçãos; cabe a nós decidirmos como elas estarão a nosso alcance.</description>
+        <duration>191</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-1080p-por.mp4' height='1080p'/>
+</item>
 <item>
         <id>2015-02-001-family-history-what-i-found</id>
         <title>História da Família: O Que Descobri</title>
@@ -13550,8 +13584,60 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-02-001-family-history-what-i-found-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-02-001-family-history-what-i-found-1080p-por.mp4' height='1080p'/>
 </item>
+<item>
+        <id>2015-12-007-the-first-christmas-spirit</id>
+        <title>O Primeiro Espírito de Natal</title>
+        <description>Qual teria sido a sensação de criar Jesus Cristo? José era um humilde carpinteiro quando Deus lhe deu a responsabilidade de ser o pai de Cristo.</description>
+        <duration>389</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-03-002-obedience-to-the-ten-commandments</id>
+        <title>Obediência aos Dez Mandamentos</title>
+        <description>Como filhos de Deus, recebemos o maravilhoso dom da escolha. A verdadeira felicidade e paz que podemos ter vem da decisão de obedecer a Suas leis.</description>
+        <duration>174</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-10-006-reflections</id>
+        <title>Reflexões</title>
+        <description>Quando provações e testes chegam, como você reage? Você se torna egoísta e temeroso ou enfrenta os desafios com paciência, fé e amor pelos outros? O modo como você reage pode mudar sua vida e a vida das pessoas à sua volta para melhor ou para pior.</description>
+        <duration>252</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-10-006-reflections-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-10-006-reflections.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-07-005-building-families</id>
+        <title>Edificar Famílias</title>
+        <description>Quer seus filhos sejam crescidos ou pequenos, as oportunidades de ensinar a verdade nunca se esgotam. Os pais têm sucesso quando não deixam que as distrações os impeçam de viver os princípios do evangelho e quando ensinam os filhos a fazer o mesmo.</description>
+        <duration>216</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-07-005-building-families-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-05-004-after-the-storm</id>
+        <title>após a tempestade</title>
+        <description>No dia do tornado, Maylene estava pronta para desistir de uma vida que a sufocava. Ela achava que ninguém podia ajudá-la. Mas após sobreviver ao tornado, Maylene sabia que ela e sua família podiam superar qualquer coisa com a ajuda de Deus.</description>
+        <duration>317</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-05-004-after-the-storm-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-05-004-after-the-storm-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-05-004-after-the-storm-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-05-004-after-the-storm-1080p-por.mp4' height='1080p'/>
+</item>
 </channel></rss></category>
-<category title='Mensagens Mórmons 2014' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons 2014' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-06-005-true-christianity</id>
         <title>O Verdadeiro Cristianismo</title>
@@ -13572,6 +13658,50 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-12-011-protect-our-nestlings-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-12-011-protect-our-nestlings-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-12-011-protect-our-nestlings-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-04-004-the-savior-wants-to-forgive</id>
+        <title>O Salvador Quer Perdoar</title>
+        <description>Um antigo dependente químico e réu reincidente compartilha suas experiências sobre a capacidade e a disposição do Salvador de perdoá-lo repetidas vezes mesmo quando sentia que não o merecia.</description>
+        <duration>342</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-00-004-the-savior-wants-to-forgive-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-10-009-sitting-on-the-bench-thoughts-on-suicide-prevention</id>
+        <title>Sentado no Banco: Pensamentos sobre Conscientização e Prevenção do Suicídio</title>
+        <description>Pensamentos suicidas são reais e muitas vezes começam quando uma pessoa sente que o mundo seria melhor sem ela. Às vezes, a mais poderosa ferramenta para ajudar alguém é simplesmente demonstrarmos amizade e usarmos palavras de amor e de incentivo.</description>
+        <duration>10</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-00-009-sitting-on-the-bench-thoughts-on-suicide-prevention-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-10-009-sitting-on-the-bench-thoughts-on-suicide-prevention.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-10-009-sitting-on-the-bench-thoughts-on-suicide-prevention-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-10-009-sitting-on-the-bench-thoughts-on-suicide-prevention-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-10-009-sitting-on-the-bench-thoughts-on-suicide-prevention-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ</id>
+        <title>Vencer a Dependência da Pornografia: O Poder de Cura de Jesus Cristo</title>
+        <description>O vício em pornografia é “uma praga como nunca vimos”, mas Deus sabe disso e providenciou um escape por meio do poder de cura de Jesus Cristo.</description>
+        <duration>344</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-07-006-the-hope-of-gods-light</id>
+        <title>A Esperança da Luz de Deus</title>
+        <description>Muitos se perguntam se Deus nos conhece ou, até mesmo, se Ele existe. Todd não ficava surpreso se sua oração não fosse respondida imediatamente. Mas será que Deus está nos dando respostas simples, porém claras? E até quando precisamos ser pacientes?</description>
+        <duration>403</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Mensagens Mórmons 2013' subtitle='Videos: 10' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
@@ -14323,7 +14453,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Mensagens Mórmons  2009' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensagens Mórmons  2009' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-11-39-in-the-spirit-of-thanksgiving</id>
         <title>No Espírito de Ação de Graças</title>
@@ -14389,6 +14519,17 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-27-the-freedom-to-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-27-the-freedom-to-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-27-the-freedom-to-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2009-02-04-the-message-of-the-restoration</id>
+        <title>A Mensagem da Restauração</title>
+        <description>Declare ao mundo que a plenitude do evangelho de Jesus Cristo foi restaurada na Terra.</description>
+        <duration>142</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -19327,7 +19468,7 @@
 <item>
         <id>2016-12-037-my-self-reliance-group</id>
         <title>Minhas Reuniões de Grupo de Autossuficiência</title>
-        <description>Um grupo de autossuficiência é diferente de um cenário de sala de aula tradicional. Esta dramatização mostra para os membros do grupo como eles podem tirar o máximo de proveito da experiência do grupo.</description>
+        <description>Um grupo de autossuficiência é diferente de um cenário de sala de aula tradicional. Esta dramatização mostra para os membros do grupo como eles podem tirar o máximo de proveito da experiência do grupo.    </description>
         <duration>251</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/department-training/srs-core-media-library/2016-12-037-my-self-reliance-group-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/department-training/srs-core-media-library/2016-12-037-my-self-reliance-group-360p-por.mp4' height='360p'/>
@@ -19419,7 +19560,7 @@
 <item>
         <id>2016-12-010-practice-makes-perfect</id>
         <title>A Prática Leva à Perfeição</title>
-        <description>A prática vai ajudá-lo a ter entrevistas bem-sucedidas. Retratando eventos reais, este vídeo mostra como a prática levou um candidato a emprego ao sucesso.</description>
+        <description>A prática vai ajudá-lo a ter entrevistas bem-sucedidas. Retratando eventos reais, este vídeo mostra como a prática ajudou um candidato a emprego a ter sucesso.</description>
         <duration>97</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/department-training/srs-core-media-library/2016-12-010-practice-makes-perfect-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/department-training/srs-core-media-library/2016-12-010-practice-makes-perfect-360p-por.mp4' height='360p'/>
@@ -19815,7 +19956,7 @@
 <item>
         <id>2016-12-037-my-self-reliance-group</id>
         <title>Minhas Reuniões de Grupo de Autossuficiência</title>
-        <description>Um grupo de autossuficiência é diferente de um cenário de sala de aula tradicional. Esta dramatização mostra para os membros do grupo como eles podem tirar o máximo de proveito da experiência do grupo.</description>
+        <description>Um grupo de autossuficiência é diferente de um cenário de sala de aula tradicional. Esta dramatização mostra para os membros do grupo como eles podem tirar o máximo de proveito da experiência do grupo.    </description>
         <duration>251</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/department-training/srs-core-media-library/2016-12-037-my-self-reliance-group-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/department-training/srs-core-media-library/2016-12-037-my-self-reliance-group-360p-por.mp4' height='360p'/>
@@ -21081,7 +21222,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Tópicos' subtitle='Videos: 262' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Tópicos' subtitle='Videos: 263' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidade' subtitle='Videos: 8' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2011-03-085-support-through-trials</id>
         <title>Apoio nas Provações</title>
@@ -22410,7 +22551,7 @@
 <content url='http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2056-im-a-mormon-parisian-and-mother-of-7-1080p-por.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='Natal' subtitle='Videos: 22' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Natal' subtitle='Videos: 23' img='http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-04-1010-he-lives-celebrate-easter-because-jesus-christ-lives</id>
         <title>Ele Vive - Comemore a Páscoa Porque Jesus Cristo Vive</title>
@@ -22495,6 +22636,17 @@
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-360p-por.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-720p-por.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/missionary/easter-2016/2016-02-2000-follow-him-an-easter-message-about-jesus-christ-1080p-por.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-12-007-the-first-christmas-spirit</id>
+        <title>O Primeiro Espírito de Natal</title>
+        <description>Qual teria sido a sensação de criar Jesus Cristo? José era um humilde carpinteiro quando Deus lhe deu a responsabilidade de ser o pai de Cristo.</description>
+        <duration>389</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-360p-por.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-720p-por.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-12-007-the-first-christmas-spirit-1080p-por.mp4' height='1080p'/>
 </item>
 <item>
         <id>2015-12-1000-a-savior-is-born-christmas-video</id>

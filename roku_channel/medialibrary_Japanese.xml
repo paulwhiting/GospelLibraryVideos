@@ -379,7 +379,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='モルモンメッセージ' subtitle='Videos: 97' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='2016年モルモンメッセージ' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-spa.jpg'><rss><channel><title/><description/>
+<category title='モルモンメッセージ' subtitle='Videos: 102' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='2016年モルモンメッセージ' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-spa.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-04-1000-lifes-drama</id>
         <title>人生のドラマ</title>
@@ -403,7 +403,18 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-09-3000-refuge-from-the-storm-1080p-jpn.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='2015年モルモンメッセージ' subtitle='Videos: 7' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='2015年モルモンメッセージ' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2015-03-009-a-shower-of-heavenly-blessings</id>
+        <title>天から注がれる祝福</title>
+        <description>天の御父はわたしたちに祝福を与えるのをとどめておられると感じたことはありますか。実際には，神は絶えず祝福を注いでくださっているのです。その祝福に手を伸ばすかどうかはわたしたちにかかっています。</description>
+        <duration>191</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-720p-jpn.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-1080p-jpn.mp4' height='1080p'/>
+</item>
 <item>
         <id>2015-12-007-the-first-christmas-spirit</id>
         <title>最初のクリスマスの精神</title>
@@ -475,8 +486,19 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-02-001-family-history-what-i-found-720p-jpn.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-02-001-family-history-what-i-found-1080p-jpn.mp4' height='1080p'/>
 </item>
+<item>
+        <id>2015-10-006-reflections</id>
+        <title>内省</title>
+        <description>試練や試しに遭うとき，どのように対処しますか。利己的になって怖気づきますか，それとも忍耐と信仰，人々への愛をもって試練に立ち向かいますか。どのように対処するかによって，良くも悪くも自分の人生や周りの人々の人生が変わり得るのです。</description>
+        <duration>253</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-10-006-reflections-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-10-006-reflections.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-720p-jpn.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-1080p-jpn.mp4' height='1080p'/>
+</item>
 </channel></rss></category>
-<category title='2014年モルモンメッセージ' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='2014年モルモンメッセージ' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ</id>
         <title>ポルノグラフィー依存症を克服する―イエス・キリストの癒しの力</title>
@@ -519,6 +541,27 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-360p-jpn.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-720p-jpn.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-1080p-jpn.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-06-005-true-christianity</id>
+        <title>真のクリスチャン</title>
+        <description>親友が亡くなったとき，二人の男たちは「真のクリスチャン」の意味を見いだすツーリングへと出発しました。</description>
+        <duration>190</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-06-005-true-christianity-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-06-005-true-christianity.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-06-005-true-christianity-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-06-005-true-christianity-720p-jpn.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-06-005-true-christianity-1080p-jpn.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-04-004-the-savior-wants-to-forgive</id>
+        <title>救い主は赦したいと望んでおられる</title>
+        <description>かつて依存症に陥り，繰り返し刑務所に入った人物が，自分がふさわしくないと感じるときでさえ，何度も何度も救い主が赦したいと望まれ，実際にそうしてくださった経験について分かち合っています。</description>
+        <duration>335</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-00-004-the-savior-wants-to-forgive-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive-720p-jpn.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-04-004-the-savior-wants-to-forgive-1080p-jpn.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='2013年モルモンメッセージ' subtitle='Videos: 9' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
@@ -1309,7 +1352,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-0150-within-bounds-1080p-jpn.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='2009年モルモンメッセージ' subtitle='Videos: 12' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='2009年モルモンメッセージ' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2009-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy</id>
         <title>ゴードン・ヒンクレー―少年時代の教訓</title>
@@ -1329,6 +1372,17 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-360p-jpn.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-720p-jpn.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-1080p-jpn.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2009-02-04-the-message-of-the-restoration</id>
+        <title>回復のメッセージ</title>
+        <description>地上にイエス・キリストの完全な福音が回復されたことを世界に宣言する。</description>
+        <duration>142</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-720p-jpn.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-1080p-jpn.mp4' height='1080p'/>
 </item>
 <item>
         <id>2009-04-14-none-were-with-him</id>
@@ -1522,7 +1576,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='家族歴史' subtitle='Videos: 89' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='家族と一緒に始めましょう' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
+<category title='家族歴史' subtitle='Videos: 90' img='http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg'><category title='家族と一緒に始めましょう' subtitle='Videos: 1' img='http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png'><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together</id>
         <title>小冊子『わたしの家族―わたしたちを一つにする思い出』を使って</title>
@@ -2273,7 +2327,17 @@
 <content url='http://media2.ldscdn.org/assets/family-history/im-a-familysearch-missionary-elder-and-sister-busker/2012-09-01-im-a-familysearch-missionary-elder-and-sister-busker-1080p-jpn.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
-<category title='伝道活動' subtitle='Videos: 13' img='http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='伝道活動' subtitle='Videos: 14' img='http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-03-06-increasing-convert-retention-with-temple-and-family-history-work</id>
+        <title>改宗者の定着率を高める―神殿と家族歴史の業</title>
+        <description>Watch missionaries teach Zayna Chubbs from the booklet Families and Temples, help her find family names, add them to FamilySearch.org, print out ordinance cards, and take the ancestors&apos; names to the temple for proxy baptisms and confirmations.</description>
+        <duration>326</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work.xml'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-360p-jpn.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-720p-jpn.mp4' height='720p'/>
+</item>
 <item>
         <id>2014-10-05-missionaries-more-fully-converted</id>
         <title>宣教師たちはより深く改心する</title>
