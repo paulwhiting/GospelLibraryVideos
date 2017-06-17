@@ -18818,7 +18818,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Mensajes Mormones' subtitle='Videos: 135' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensajes Mormones 2016' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-spa.jpg'><rss><channel><title/><description/>
+<category title='Mensajes Mormones' subtitle='Videos: 140' img='http://media.ldscdn.org/thumbnails/mormon-messages-category-138x91.jpg'><category title='Mensajes Mormones 2016' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-spa.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-12-008-the-sabbath-is-a-delight</id>
         <title>El día de reposo es una delicia</title>
@@ -18852,8 +18852,17 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-04-1000-lifes-drama-1080p-spa.mp4' height='1080p'/>
 </item>
-</channel></rss></category>
-<category title='Mensajes Mormones 2015' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-07-2000-like-a-broken-vessel</id>
+        <title>Como una vasija quebrada</title>
+        <description>Basado en el discurso del élder Jeffrey R. Holland de la Conferencia General de octubre de 2013, este video presenta a varias personas que hablan sobre los desafíos emocionales y mentales que afrontan y qué están haciendo para superarlos.</description>
+        <duration>688</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2016/2016-07-2000-like-a-broken-vessel-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2016/2016-07-2000-like-a-broken-vessel.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-07-2000-like-a-broken-vessel-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-07-2000-like-a-broken-vessel-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2016/2016-07-2000-like-a-broken-vessel-1080p-spa.mp4' height='1080p'/>
+</item>
 <item>
         <id>2015-03-009-a-shower-of-heavenly-blessings</id>
         <title>Lluvia de bendiciones celestiales</title>
@@ -18865,6 +18874,8 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-009-a-shower-of-heavenly-blessings-1080p-spa.mp4' height='1080p'/>
 </item>
+</channel></rss></category>
+<category title='Mensajes Mormones 2015' subtitle='Videos: 6' img='http://media.ldscdn.org/thumbnails/mormon-messages-2015-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-02-001-family-history-what-i-found</id>
         <title>Historia familiar: Lo que encontré</title>
@@ -18896,8 +18907,39 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-03-002-obedience-to-the-ten-commandments-1080p-spa.mp4' height='1080p'/>
 </item>
+<item>
+        <id>2015-10-006-reflections</id>
+        <title>Reflexiones</title>
+        <description>Cuando llegan las pruebas y los desafíos, ¿cómo reaccionas? ¿Te vuelves egoísta y tienes miedo o enfrentas los desafíos con paciencia, fe y amor por los demás? De qué manera tu reacción puede cambiar tu vida y la vida de los que te rodean, para mejor</description>
+        <duration>252</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-10-006-reflections-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2015/2015-10-006-reflections.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-10-006-reflections-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-04-001-bearing-our-burdens-with-hope</id>
+        <title>Soportar nuestras cargas con esperanza</title>
+        <description>Ser feliz no siempre significa no tener dificultades. A veces significa todo lo contrario. Ese principio se representa en la historia de un joven esposo que solo es capaz de llegar a casa con seguridad después de que su carga es mucho más pesada.</description>
+        <duration>519</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/bearing-our-burdens-with-hope/2015-04-001-bearing-our-burdens-with-hope-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/bearing-our-burdens-with-hope/2015-04-001-bearing-our-burdens-with-hope-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/bearing-our-burdens-with-hope/2015-04-001-bearing-our-burdens-with-hope-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/bearing-our-burdens-with-hope/2015-04-001-bearing-our-burdens-with-hope-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-07-005-building-families</id>
+        <title>Cómo fortalecer a las familias</title>
+        <description>Si sus hijos están creciendo o ya han crecido, las oportunidades de enseñarles la verdad nunca acabarán. El éxito verdadero va a los padres que no dejan que las distracciones interfieran con vivir el Evangelio y enseñan a los hijos a hacer lo mismo.</description>
+        <duration>216</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2015/2015-07-005-building-families-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2015/2015-07-005-building-families-1080p-spa.mp4' height='1080p'/>
+</item>
 </channel></rss></category>
-<category title='Mensajes Mormones 2014' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Mensajes Mormones 2014' subtitle='Videos: 5' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2014-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2014-06-005-true-christianity</id>
         <title>El cristianismo verdadero</title>
@@ -18940,6 +18982,16 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-08-007-overcoming-pornography-addiction-the-healing-power-of-jesus-christ-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2014-07-006-the-hope-of-gods-light</id>
+        <title>La esperanza de la luz de Dios</title>
+        <description>Muchos de nosotros nos hemos preguntado si Dios nos conoce o si aun existe. Todd era alguien que no se sorprendió al no recibir respuesta a su oración. Pero, ¿podría Dios darnos respuestas pequeñas, pero obvias? ¿Cuán pacientes debemos ser?</description>
+        <duration>399</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light.xml'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2014/2014-07-006-the-hope-of-gods-light-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
 <category title='Mensajes Mormones 2013' subtitle='Videos: 11' img='http://media.ldscdn.org/thumbnails/mormon-messages/mormon-messages-2013-category-138x91.jpg'><rss><channel><title/><description/>
@@ -22371,7 +22423,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Seminario e Instituto' subtitle='Videos: 34' img='http://media.ldscdn.org/thumbnails/seminary-and-institute-category-138x91.jpg'><category title='Instituto' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/institute-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Seminario e Instituto' subtitle='Videos: 35' img='http://media.ldscdn.org/thumbnails/seminary-and-institute-category-138x91.jpg'><category title='Instituto' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/institute-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-08-1010-how-to-use-the-elevate-learning-experience</id>
         <title>Cómo utilizar la experiencia con Elevar el aprendizaje</title>
@@ -22674,7 +22726,7 @@
 <content url='http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-001-help-us-discover-the-gospel-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Teacher Training - Gospel Teaching and Learning Handbook Video Resources' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/4-preparing-to-teach138x91.jpg'><category title='Nueva capacitación para maestros' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/new-teacher-training-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Teacher Training - Gospel Teaching and Learning Handbook Video Resources' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/4-preparing-to-teach138x91.jpg'><category title='Nueva capacitación para maestros' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/new-teacher-training-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-01-0430-a-sense-of-purpose</id>
         <title>Un sentido de propósito</title>
@@ -22685,6 +22737,17 @@
 <content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0430-a-sense-of-purpose-360p-spa.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0430-a-sense-of-purpose-720p-spa.mp4' height='720p'/>
 <content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0430-a-sense-of-purpose-1080p-spa.mp4' height='1080p'/>
+</item>
+<item>
+        <id>2015-01-0420-reaching-the-individual</id>
+        <title>Cómo llegar a la persona</title>
+        <description>El hermano Chad Webb relata la historia de un maestro que mostró amor e interés genuinos para ayudar a un alumno con dificultades.</description>
+        <duration>88</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/department-training/seminaries-and-institutes-teacher-training/2015-03-0420-reaching-the-individual-192x108-thumb.jpg'/>
+<subtitles url='http://media.ldscdn.org/dfxp/department-training/seminaries-and-institutes-teacher-training/2015-01-0420-reaching-the-individual.xml'/>
+<content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0420-reaching-the-individual-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0420-reaching-the-individual-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/department-training/seminaries-and-institutes-teacher-training/2015-01-0420-reaching-the-individual-1080p-spa.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 </category>
@@ -23485,7 +23548,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Buscar un Major Empleo' subtitle='Videos: 13' img='http://www.lds.org/bc/content/ldsorg/media-library/video/get-better-job138x91.jpg'><category title='Capítulo 1: Los Principios Fundamentales' subtitle='Videos: 2' img='http://www.lds.org/bc/content/ldsorg/media-library/category-images/001-it-was-a-miracle.jpg'><rss><channel><title/><description/>
+<category title='Buscar un Mejor Empleo' subtitle='Videos: 13' img='http://www.lds.org/bc/content/ldsorg/media-library/video/get-better-job138x91.jpg'><category title='Capítulo 1: Los Principios Fundamentales' subtitle='Videos: 2' img='http://www.lds.org/bc/content/ldsorg/media-library/category-images/001-it-was-a-miracle.jpg'><rss><channel><title/><description/>
 <item>
         <id>2016-12-001-it-was-a-miracle</id>
         <title>Fue un milagro</title>
@@ -25088,7 +25151,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='Temas' subtitle='Videos: 241' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Temas' subtitle='Videos: 242' img='http://media.ldscdn.org/thumbnails/topics-category-138x91.jpg'><category title='Adversidad' subtitle='Videos: 4' img='http://media.ldscdn.org/thumbnails/topics/adversity-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2009-08-33-youre-never-alone-spa</id>
         <title>Nunca estamos solos</title>
@@ -25123,7 +25186,7 @@
 <content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-04-09-seek-the-higher-ground-720p-spa.mp4' height='720p'/>
 </item>
 </channel></rss></category>
-<category title='Apostasía y Restauración' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/topics/apostasy-and-restoration-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Apostasía y Restauración' subtitle='Videos: 3' img='http://media.ldscdn.org/thumbnails/topics/apostasy-and-restoration-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2012-10-004-the-apostasy-and-the-restoration-what-the-restoration-means-for-me-spa</id>
         <title>Lo que significa para mí la Restauración - La Apostasía y la Restauración</title>
@@ -25139,6 +25202,16 @@
         <duration>120</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/missionary/our-faith/2010-05-1130-restoration-of-the-priesthood-192x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/missionary/our-faith/2010-05-1130-restoration-of-the-priesthood-360p-spa.mp4' height='360p'/>
+</item>
+<item>
+        <id>2009-02-04-the-message-of-the-restoration-spa</id>
+        <title>El mensaje de la Restauración</title>
+        <description>&quot;Declaramos al mundo que la plenitud del evangelio de Jesucristo ha sido restaurada a la tierra.&quot; —Élder L. Tom Perry: El mensaje de la Restauración</description>
+        <duration>142</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-192x108-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-360p-spa.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-720p-spa.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-1080p-spa.mp4' height='1080p'/>
 </item>
 </channel></rss></category>
 <category title='Arrepentimiento y perdón' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/topics/repentance-and-forgiveness-category-138x91.jpg'><rss><channel><title/><description/>
