@@ -4994,7 +4994,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title='New Testament' subtitle='Videos: 87' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='New Testament Presentations' subtitle='Videos: 19' img='http://media.ldscdn.org/thumbnails/new-testament/new-testament-presentations-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='New Testament' subtitle='Videos: 86' img='http://media.ldscdn.org/thumbnails/new-testament-category-138x91.jpg'><category title='New Testament Presentations' subtitle='Videos: 18' img='http://media.ldscdn.org/thumbnails/new-testament-presentations-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>1996-06-01-lesson-1-the-message-of-the-new-testament-ase</id>
         <title>Lesson 1: The Message of the New Testament</title>
@@ -5003,14 +5003,6 @@
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-01-lesson-1-the-message-of-the-new-testament-144x108-thumb.jpg'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-01-lesson-1-the-message-of-the-new-testament-360p-ase.mp4' height='360p'/>
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-01-lesson-1-the-message-of-the-new-testament-480p-ase.mp4' height='480p'/>
-</item>
-<item>
-        <id>1996-06-02-lesson-3-luke-ii-ase</id>
-        <title>Lesson 3: Luke II</title>
-        <description>This segment portrays the account of Jesus&apos;s birth.</description>
-        <duration>353</duration>
-        <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-02-lesson-3-luke-ii-144x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-02-lesson-3-luke-ii-480p-ase.mp4' height='360p'/>
 </item>
 <item>
         <id>1996-06-03-lesson-5-the-woman-at-the-well-ase</id>
@@ -5087,12 +5079,13 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-12-lesson-18-new-testament-customs-leprosy-480p-ase.mp4' height='480p'/>
 </item>
 <item>
-        <id>1996-06-13-lesson-18-new-testament-customs-time-ase</id>
+        <id>1996-06-13-lesson-18-new-testament-customs-time</id>
         <title>Lesson 18: New Testament Customs—Time</title>
         <description>In the ancient Middle East, time was divided differently than today&apos;s current measurements.</description>
-        <duration>75</duration>
+        <duration>81</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-13-lesson-18-new-testament-customs-time-144x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-13-lesson-18-new-testament-customs-time-480p-ase.mp4' height='480p'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-13-lesson-18-new-testament-customs-time.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-13-lesson-18-new-testament-customs-time-720p-ase.mp4' height='480p'/>
 </item>
 <item>
         <id>1996-06-14-lesson-20-new-testament-customs-phylacteries-ase</id>
@@ -5112,12 +5105,13 @@
 <content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-15-lesson-22-new-testament-customs-marriage-480p-ase.mp4' height='480p'/>
 </item>
 <item>
-        <id>1996-06-16-lesson-23-new-testament-customs-feasting-ase</id>
+        <id>1996-06-16-lesson-23-new-testament-customs-feasting</id>
         <title>Lesson 23: New Testament Customs—Feasting</title>
         <description>Feasting was done reclining on couches.</description>
-        <duration>61</duration>
+        <duration>67</duration>
         <thumbnail url='http://media.ldscdn.org/images/videos/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-16-lesson-23-new-testament-customs-feasting-144x108-thumb.jpg'/>
-<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-16-lesson-23-new-testament-customs-feasting-480p-ase.mp4' height='480p'/>
+<subtitles url='http://media.ldscdn.org/dfxp/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-16-lesson-23-new-testament-customs-feasting.xml'/>
+<content url='http://media2.ldscdn.org/assets/scripture-and-lesson-support/new-testament-presentations-cur/1996-06-16-lesson-23-new-testament-customs-feasting-720p-ase.mp4' height='480p'/>
 </item>
 <item>
         <id>1996-06-17-lesson-25-new-testament-customs-olive-press-ase</id>

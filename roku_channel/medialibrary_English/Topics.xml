@@ -1343,9 +1343,20 @@
 </channel>
   </rss>
 </category>
-<category title="Atonement" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
+<category title="Atonement" subtitle="Videos: 30" img="http://media.ldscdn.org/thumbnails/topics/atonement-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-04-0001-handels-messiah-debtors-prison</id>
+        <title>Handel's Messiah: Debtor's Prison</title>
+        <description>President Russell M. Nelson taught that the release of these prisoners from debtor&#x2019;s prison beautifully symbolizes our own redemption through the Savior Jesus Christ.</description>
+        <duration>215</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/ic-video-series-2/2017-04-0001-handels-messiah-debtors-prison-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/scripture-and-lesson-support/ic-video-series-2/2017-04-0001-handels-messiah-debtors-prison.xml"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/ic-video-series-2/2017-04-0001-handels-messiah-debtors-prison-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/ic-video-series-2/2017-04-0001-handels-messiah-debtors-prison-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/ic-video-series-2/2017-04-0001-handels-messiah-debtors-prison-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2009-10-38-lifting-burdens</id>
         <title>Lifting Burdens</title>
@@ -1734,7 +1745,7 @@
 <item>
         <id>2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview</id>
         <title>What is the Book of Mormon? A 60-Second Overview</title>
-        <description>This animation gives a short but poignant view of The Book of Mormon and it's relevance to each of us.</description>
+        <description>This animation gives a short but poignant view of The Book of Mormon and its relevance to each of us.</description>
         <duration>73</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/missionary/mormonorg-animations/2015-00-1010-what-is-the-book-of-mormon-a-60-second-overview.xml"/>
@@ -2286,7 +2297,7 @@
 </channel>
   </rss>
 </category>
-<category title="Chastity" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/topics/chastity-category-138x91.jpg">
+<category title="Chastity" subtitle="Videos: 16" img="http://media.ldscdn.org/thumbnails/topics/chastity-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -2299,6 +2310,16 @@
 <content url="http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-2080-elder-david-a-bednar-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2013-04-1130-we-believe-in-being-chaste-eng</id>
+        <title>We Believe in Being Chaste</title>
+        <description>Quote given by Elder David A. Bednar in the Saturday afternoon on April 6, 2013.</description>
+        <duration>77</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-conference-highlights/april-2013-general-conference-highlights/2013-03-1130-we-believe-in-being-chaste-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/general-conference-highlights/april-2013-general-conference-highlights/2013-04-1130-we-believe-in-being-chaste.xml"/>
+<content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2013-general-conference-highlights/2013-04-1130-we-believe-in-being-chaste-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2013-general-conference-highlights/2013-04-1130-we-believe-in-being-chaste-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2012-08-2350-unchastity-most-abominable</id>
@@ -2441,7 +2462,7 @@
 </channel>
   </rss>
 </category>
-<category title="Christmas" subtitle="Videos: 56" img="http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg"><category title="The Christmas Story" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/2011-10-067-the-nativity-138x91-still.jpg"><rss><channel><title/><description/>
+<category title="Christmas" subtitle="Videos: 57" img="http://media.ldscdn.org/thumbnails/topics/christmas-category-138x91.jpg"><category title="The Christmas Story" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/2011-10-067-the-nativity-138x91-still.jpg"><rss><channel><title/><description/>
 <item>
         <id>2011-10-067-the-nativity</id>
         <title>The Nativity</title>
@@ -2926,7 +2947,7 @@
 <content url="http://media2.ldscdn.org/assets/missionary/christmas-2016/2016-12-1024-dec-24-jesus-cared-for-his-loved-ones-and-so-can-you-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Christmas Songs" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/2012-00-0120-oh-come-emmanuel-138x91-thumb.jpg"><rss><channel><title/><description/>
+<category title="Christmas Songs" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/2012-00-0120-oh-come-emmanuel-138x91-thumb.jpg"><rss><channel><title/><description/>
 <item>
         <id>2016-12-0011-and-the-glory-of-the-lord-from-messiah</id>
         <title>And the Glory of the Lord, from Messiah</title>
@@ -2959,6 +2980,16 @@
 <content url="http://media2.ldscdn.org/assets/first-presidencys-christmas-devotional/2016-first-presidencys-christmas-devotional/2016-12-0041-silent-night-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/first-presidencys-christmas-devotional/2016-first-presidencys-christmas-devotional/2016-12-0041-silent-night-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/first-presidencys-christmas-devotional/2016-first-presidencys-christmas-devotional/2016-12-0041-silent-night-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-12-021-o-holy-night</id>
+        <title>O Holy Night</title>
+        <description>The video depicts iconic scenes of our sweet Savior&#x2019;s birth and the events that surrounded it, as well as touching moments in Jesus Christ&#x2019;s life when His love and power changed the lives of those He served.</description>
+        <duration>190</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-channel-videos-2014/2014-12-021-o-holy-night-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-021-o-holy-night-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-021-o-holy-night-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2014/2014-12-021-o-holy-night-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>90969176411536129200-eng</id>
@@ -4380,9 +4411,19 @@
 </channel>
   </rss>
 </category>
-<category title="Family" subtitle="Videos: 64" img="http://media.ldscdn.org/thumbnails/topics-family-138x91.jpg">
+<category title="Family" subtitle="Videos: 65" img="http://media.ldscdn.org/thumbnails/topics-family-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0006-what-family-means-to-me</id>
+        <title>What Family Means to Me</title>
+        <description>A music video for youth about the meaning and importance of family.</description>
+        <duration>190</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2017-youth-media/2017-01-0006-what-family-means-to-me-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0006-what-family-means-to-me-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0006-what-family-means-to-me-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-01-0006-what-family-means-to-me-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-06-019-stable-family</id>
         <title>Stable Family</title>
@@ -4987,7 +5028,7 @@
 </channel>
   </rss>
 </category>
-<category title="Family History" subtitle="Videos: 291" img="http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg"><category title="Freedmen&#x2019;s Bureau" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/freedmens-bureau-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Family History" subtitle="Videos: 303" img="http://media.ldscdn.org/thumbnails/family-history-category-138x91.jpg"><category title="Freedmen&#x2019;s Bureau" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/freedmens-bureau-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2015-06-01-research-the-records-of-african-american-ancestors-with-the-freedmens-bureau-kimberly-freeman</id>
         <title>Research the Records of African-American Ancestors with the Freedmen&#x2019;s Bureau - Kimberly Freeman</title>
@@ -5099,7 +5140,18 @@
 <content url="http://media2.ldscdn.org/assets/family-history/freedmens-bureau-project/2015-06-13-learn-more-about-the-african-american-experience-with-the-freedmens-bureau-records-alex-boye-720p-eng.mp4" height="720p"/>
 </item>
 </channel></rss></category>
-<category title="Start with Your Family" subtitle="Videos: 2" img="http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png"><rss><channel><title/><description/>
+<category title="Start with Your Family" subtitle="Videos: 3" img="http://www.lds.org/bc/content/ldsorg/media-library/images/Sub%20Feature%20Images/start-with-your-family-thumbnail-138x91.png"><rss><channel><title/><description/>
+<item>
+        <id>2017-06-0100-gathering-gods-family</id>
+        <title>Gathering God's Family</title>
+        <description>Highlights from President Henry B. Eyring's address "Gathering the Family of God" at the April 2017 General Conference.</description>
+        <duration>206</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/general-authorities-and-the-blessings-of-family-history/2017-06-0100-gathering-gods-family-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/general-authorities-and-the-blessings-of-family-history/2017-06-0100-gathering-gods-family.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/general-authorities-and-the-blessings-of-family-history/2017-06-0100-gathering-gods-family-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/general-authorities-and-the-blessings-of-family-history/2017-06-0100-gathering-gods-family-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/general-authorities-and-the-blessings-of-family-history/2017-06-0100-gathering-gods-family-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-05-02-you-can-tell-a-lot-about-a-person-from-their-headstone</id>
         <title>You Can Tell a Lot About a Person From Their Headstone</title>
@@ -5120,7 +5172,7 @@
 <content url="http://media2.ldscdn.org/assets/family-history/family-history-my-family-booklet-animation/2015-06-01-using-the-booklet-my-family-stories-that-bring-us-together-720p-eng.mp4" height="720p"/>
 </item>
 </channel></rss></category>
-<category title="RootsTech" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/rootstech-2015-category-138x91.jpg"><category title="RootsTech 2015" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/rootstech-2015-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="RootsTech" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/rootstech-2015-category-138x91.jpg"><category title="RootsTech 2015" subtitle="Videos: 15" img="http://media.ldscdn.org/thumbnails/rootstech-2015-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2015-03-21-my-bubble-of-protection</id>
         <title>My Bubble of Protection</title>
@@ -5266,7 +5318,18 @@
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2015-broadcast/2015-02-1004-from-tree-to-temple-preparing-family-names-for-the-temple-720p-eng.mp4" height="720p"/>
 </item>
 </channel></rss></category>
-<category title="RootsTech 2017" subtitle="Videos: 4" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/roots-tech-2017-collection-cover-image.jpg"><rss><channel><title/><description/>
+<category title="RootsTech 2017" subtitle="Videos: 5" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/roots-tech-2017-collection-cover-image.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2017-02-1080-whats-your-familys-story</id>
+        <title>What&#x2019;s Your Family&#x2019;s Story?</title>
+        <description>We learn great lessons from our family stories. Hank Smith shares the story of his in-law&#x2019;s courtship and explains why it&#x2019;s important to pass on these stories to our children.</description>
+        <duration>352</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1080-whats-your-familys-story-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1080-whats-your-familys-story.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1080-whats-your-familys-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1080-whats-your-familys-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1080-whats-your-familys-story-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2017-02-2130-leadership-session-at-rootstech-2017-elders-steven-e-snow-and-bradley-d-foster</id>
         <title>Leadership Session at RootsTech 2017: Elders Steven E. Snow and Bradley D. Foster</title>
@@ -5310,7 +5373,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Lesson Preparation" subtitle="Videos: 61" img="http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg"><category title="Joint Sunday Lesson" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Lesson Preparation" subtitle="Videos: 68" img="http://media.ldscdn.org/thumbnails/family-history/03-work-of-salvation-category-138x91.jpg"><category title="Joint Sunday Lesson" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/family-history/03-joint-sunday-school-lesson-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2013-08-108-its-about-the-dash</id>
         <title>It's About the Dash</title>
@@ -5916,8 +5979,87 @@
 <content url="http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-01-to-turn-the-hearts-featured-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
+<category title="Family History Training Presentations" subtitle="Videos: 7" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/Family-history-lesson-presentations-category.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2015-01-27-the-promised-blessings-of-family-history</id>
+        <title>The Promised Blessings of Family History</title>
+        <description>Modern apostles, including David A. Bednar, Quentin L. Cook, Neil L. Andersen and Dale G. Renlund have promised many powerful blessings to those who participate in Family History and Temple Service.</description>
+        <duration>191</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-presentation-support-2015/2015-01-27-rootstech-2015-the-promised-blessings-of-family-history-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-presentation-support-2015/2015-01-27-the-promised-blessings-of-family-history.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-presentation-support-2015/2015-01-27-the-promised-blessings-of-family-history-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-presentation-support-2015/2015-01-27-the-promised-blessings-of-family-history-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-presentation-support-2015/2015-01-27-the-promised-blessings-of-family-history-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1000-a-sacrifice-of-time</id>
+        <title>A Sacrifice of Time</title>
+        <description>President Russell M. Nelson and his wife Wendy challenge church members to make the sacrifice of time, that will bring great blessings.</description>
+        <duration>174</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1000-a-sacrifice-of-time-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1000-a-sacrifice-of-time.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1000-a-sacrifice-of-time-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1000-a-sacrifice-of-time-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1000-a-sacrifice-of-time-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1020-gatherers-in-the-kingdom</id>
+        <title>Gatherers in the Kingdom</title>
+        <description>Elder Bradley D. Foster explains each of our roles in gathering God's children on both sides of the veil.</description>
+        <duration>112</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1020-gatherers-in-the-kingdom-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1020-gatherers-in-the-kingdom.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1020-gatherers-in-the-kingdom-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1020-gatherers-in-the-kingdom-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1020-gatherers-in-the-kingdom-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1040-enabling-families-to-gather-families</id>
+        <title>Enabling Families to Gather Families</title>
+        <description>Temple and Family History Consultants are key to enabling the work of Salvation through assisting others in gathering their families on both sides of the veil.</description>
+        <duration>191</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1040-enabling-families-to-gather-families-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1040-enabling-families-to-gather-families.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1040-enabling-families-to-gather-families-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1040-enabling-families-to-gather-families-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1040-enabling-families-to-gather-families-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1050-we-are-the-lords-agents</id>
+        <title>We are the Lord&#x2019;s Agents</title>
+        <description>Elder Quentin L. Cook and Elder Dale G. Renlund teach leaders and councils their important role as agents in the work of salvation.</description>
+        <duration>140</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1050-we-are-the-lords-agents-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1050-we-are-the-lords-agents.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1050-we-are-the-lords-agents-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1050-we-are-the-lords-agents-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1050-we-are-the-lords-agents-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1060-families-gathering-families-on-both-sides-of-the-veil</id>
+        <title>Families Gathering Families on Both Sides of the Veil</title>
+        <description>Each of us has an important role to play in gathering our family on both sides of the veil.</description>
+        <duration>202</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1060-families-gathering-families-on-both-sides-of-the-veil-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1060-families-gathering-families-on-both-sides-of-the-veil.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1060-families-gathering-families-on-both-sides-of-the-veil-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1060-families-gathering-families-on-both-sides-of-the-veil-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1060-families-gathering-families-on-both-sides-of-the-veil-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-1030-a-visit-from-father</id>
+        <title>A Visit from Father</title>
+        <description>President Russell M. Nelson recounts a personal family history story that bears testimony of the importance of temple and family history work for all families.</description>
+        <duration>325</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2017-post-deliverables/2017-02-1030-a-visit-from-father-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2017-post-deliverables/2017-02-1030-a-visit-from-father.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1030-a-visit-from-father-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1030-a-visit-from-father-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2017-post-deliverables/2017-02-1030-a-visit-from-father-1080p-eng.mp4" height="1080p"/>
+</item>
+</channel></rss></category>
 </category>
-<category title="Priesthood &amp; Family History Callings" subtitle="Videos: 56" img="http://media.ldscdn.org/thumbnails/family-history/priesthood-family-history-callings138x91-thumb.jpg"><category title="Family History Callings" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/family-history/05-family-history-callings-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Priesthood &amp; Family History Callings" subtitle="Videos: 57" img="http://media.ldscdn.org/thumbnails/family-history/priesthood-family-history-callings138x91-thumb.jpg"><category title="Family History Callings" subtitle="Videos: 19" img="http://media.ldscdn.org/thumbnails/family-history/05-family-history-callings-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2013-12-03-family-history-center-director-supporting-priesthood-goals</id>
         <title>Family History Center Director: Supporting Priesthood Goals</title>
@@ -6298,7 +6440,7 @@
 <content url="http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-05-training-for-my-calling-high-councilor-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Family History Priesthood Leadership Session 2016" subtitle="Videos: 8" img="http://media.ldscdn.org/thumbnails/family-history-priesthood-leadership-session-138x91.jpg"><rss><channel><title/><description/>
+<category title="Family History Priesthood Leadership Session 2016" subtitle="Videos: 9" img="http://media.ldscdn.org/thumbnails/family-history-priesthood-leadership-session-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2016-02-300-rootstech-family-discovery-day-family-history-seminar-2016</id>
         <title>Family History Priesthood Leadership Session 2016</title>
@@ -6327,6 +6469,16 @@
 <subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-1/2016-03-01-it-only-took-five-minutes.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-01-it-only-took-five-minutes-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-01-it-only-took-five-minutes-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>2016-03-02-printing-family-ordinance-cards-from-home</id>
+        <title>Printing Family Ordinance Cards from Home</title>
+        <description>Learn how to print your family ordinance cards using your home computer.</description>
+        <duration>105</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-720p-eng.mp4" height="720p"/>
 </item>
 <item>
         <id>2016-03-01-one-work-of-salvation-part-1</id>
@@ -6811,7 +6963,7 @@
 <content url="http://media2.ldscdn.org/assets/family-history/the-time-is-now/2011-08-01-the-time-is-now-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="How To" subtitle="Videos: 42" img="http://media.ldscdn.org/thumbnails/family-history/10-beginning-research-category-138x91.jpg"><category title="Getting Started" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/family-history/01-getting-started-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="How To" subtitle="Videos: 43" img="http://media.ldscdn.org/thumbnails/family-history/10-beginning-research-category-138x91.jpg"><category title="Getting Started" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/family-history/01-getting-started-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2015-07-03-partial-tree-strategy-using-landscape-view</id>
         <title>Partial Tree Strategy: Using Landscape View</title>
@@ -7242,8 +7394,31 @@
 <content url="http://media2.ldscdn.org/assets/family-history/fh-5-minute-genealogy/2011-12-20-episode-20-i-want-to-learn-more-about-sourcing-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
+<category title="Printing Family Ordinance Cards" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/printing-family-ordinance-cards-from-home.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2016-03-02-printing-family-ordinance-cards-from-home</id>
+        <title>Printing Family Ordinance Cards from Home</title>
+        <description>Learn how to print your family ordinance cards using your home computer.</description>
+        <duration>105</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-1/2016-03-02-printing-family-ordinance-cards-from-home-720p-eng.mp4" height="720p"/>
+</item>
+</channel></rss></category>
 </category>
-<category title="Indexing" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Indexing" subtitle="Videos: 25" img="http://media.ldscdn.org/thumbnails/family-history/07-indexing-category-138x91.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2017-04-0120-indexing-guatemala-birth-records</id>
+        <title>Indexing Guatemala Birth Records</title>
+        <description>This video will help you as you index Guatemala Birth Records.</description>
+        <duration>563</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/family-history/family-history-indexing-videos-and-guides-2017/2017-04-0120-indexing-guatemala-birth-records-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/family-history/family-history-indexing-videos-and-guides-2017/2017-04-0120-indexing-guatemala-birth-records.xml"/>
+<content url="http://media2.ldscdn.org/assets/family-history/family-history-indexing-videos-and-guides-2017/2017-04-0120-indexing-guatemala-birth-records-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/family-history-indexing-videos-and-guides-2017/2017-04-0120-indexing-guatemala-birth-records-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/family-history-indexing-videos-and-guides-2017/2017-04-0120-indexing-guatemala-birth-records-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-05-01-what-gems-will-you-find-in-this-treasure-hunt</id>
         <title>What Gems Will You Find In This Treasure Hunt?</title>
@@ -7572,9 +7747,9 @@
 <category title="Missionary Work" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/family-history/08-missionary-work-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2016-03-06-increasing-convert-retention-with-temple-and-family-history-work</id>
-        <title>Increasing Convert Retention with Temple and Family History Work</title>
+        <title>Increasing Convert Retentiion with Temple and Family History Work</title>
         <description>Watch missionaries teach Zayna Chubbs from the booklet Families and Temples, help her find family names, add them to FamilySearch.org, print out ordinance cards, and take the ancestors' names to the temple for proxy baptisms and confirmations.</description>
-        <duration>0</duration>
+        <duration>327</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/rootstech-2016-speaker-support-vol-2/2016-03-06-increasing-convert-retention-with-temple-and-family-history-work-360p-eng.mp4" height="360p"/>
@@ -7819,8 +7994,8 @@
 <item>
         <id>2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors</id>
         <title>Make the Sabbath a Delight by Finding Your Ancestors</title>
-        <description>Family History is one of the many things we can do to observe and find delight on the Sabbath day.</description>
-        <duration>173</duration>
+        <description>Family history is one of the many things we can do to observe and find delight on the Sabbath day.</description>
+        <duration>176</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/delight-in-the-sabbath/2015-05-01-delight-in-the-sabbath-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/family-history/delight-in-the-sabbath/2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/delight-in-the-sabbath/2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors-360p-eng.mp4" height="360p"/>
@@ -7904,7 +8079,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Fathers" subtitle="Videos: 21" img="http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg">
+<category title="Fathers" subtitle="Videos: 22" img="http://www.lds.org/bc/content/ldsorg/media-library/video/images/2013-06-003-fathers-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -7959,6 +8134,17 @@
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-007-love-her-mother-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-007-love-her-mother-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-007-love-her-mother-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-08-51-todays-family-fathers</id>
+        <title>Today's Family: Fathers</title>
+        <description>Quotes from several members of the First Presidency and the Twelve about the role and importance of fathers.</description>
+        <duration>93</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-08-51-todays-family-fathers-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/general-authority-features/prophets-and-apostles-speak-today/2011-08-51-todays-family-fathers.xml"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-08-51-todays-family-fathers-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-08-51-todays-family-fathers-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-08-51-todays-family-fathers-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-06-0080-fathers-and-sons</id>
@@ -8381,7 +8567,7 @@
 </channel>
   </rss>
 </category>
-<category title="Heavenly Father" subtitle="Videos: 21" img="http://media.ldscdn.org/thumbnails/topics/heavenly-father-category-138x91.jpg">
+<category title="Heavenly Father" subtitle="Videos: 21" img="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-002-godhead-he-knows-me-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -13562,8 +13748,8 @@
 <item>
         <id>2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors</id>
         <title>Make the Sabbath a Delight by Finding Your Ancestors</title>
-        <description>Family History is one of the many things we can do to observe and find delight on the Sabbath day.</description>
-        <duration>173</duration>
+        <description>Family history is one of the many things we can do to observe and find delight on the Sabbath day.</description>
+        <duration>176</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/family-history/delight-in-the-sabbath/2015-05-01-delight-in-the-sabbath-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/family-history/delight-in-the-sabbath/2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors.xml"/>
 <content url="http://media2.ldscdn.org/assets/family-history/delight-in-the-sabbath/2015-05-01-make-the-sabbath-a-delight-by-finding-your-ancestors-360p-eng.mp4" height="360p"/>
@@ -14298,7 +14484,7 @@
 </channel>
   </rss>
 </category>
-<category title="Suicide" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/2014-00-009-sitting-on-the-bench-thoughts-on-suicide-prevention-138x91.jpg">
+<category title="Suicide" subtitle="Videos: 5" img="http://media.ldscdn.org/thumbnails/2014-00-009-sitting-on-the-bench-thoughts-on-suicide-prevention-138x91.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -14322,6 +14508,37 @@
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0004-craigs-story-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0004-craigs-story-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0004-craigs-story-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-06-0018-kitengies-story</id>
+        <title>Kitengie's Story</title>
+        <description>Kitengie was abused as a child and often felt rejected. When she began experiencing symptoms of bipolar disorder and depression, she found hope and strength in her relationship with Jesus Christ.</description>
+        <duration>804</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/mental-illness-profiles/2016-06-0018-kitengies-story-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/mental-illness-profiles/2016-06-0018-kitengies-story.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0018-kitengies-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0018-kitengies-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0018-kitengies-story-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-06-0014-melindas-story</id>
+        <title>Melinda's Story</title>
+        <description>Melinda shares her personal struggle with postpartum depression and how she managed her grief after losing her husband by suicide.</description>
+        <duration>833</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/mental-illness-profiles/2016-06-0014-melindas-story-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0014-melindas-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0014-melindas-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0014-melindas-story-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-06-0013-sheinas-story</id>
+        <title>Sheina's Story</title>
+        <description>Sheina felt trapped by her depression. She convinced herself that suicide was the only way to end her pain. Listen to Sheina&#x2019;s story of recovery and faith through ongoing challenges.</description>
+        <duration>447</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/mental-illness-profiles/2016-06-0013-sheinas-story-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>
@@ -14464,8 +14681,8 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund.xml"/>
 <content url="http://media2.ldscdn.org/assets/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-720p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-1080p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/special-witnesses-of-jesus-christ-elder-renlund/2016-11-0001-elder-dale-g-renlund-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2015-06-1020-mormon-temples</id>
@@ -15015,7 +15232,7 @@
 </channel>
   </rss>
 </category>
-<category title="Training" subtitle="Videos: 212" img="http://media.ldscdn.org/thumbnails/leadership-training-library-collection-thumbnail-138x91.jpg"><category title="Auxiliary Training Videos" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/auxiliary-training-videos-category-138x91.jpg"><category title="Young Men Auxiliary Training" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/Humberto%20Thumbnail-138x91.jpg"><rss><channel><title/><description/>
+<category title="Training" subtitle="Videos: 223" img="http://media.ldscdn.org/thumbnails/leadership-training-library-collection-thumbnail-138x91.jpg"><category title="Auxiliary Training Videos" subtitle="Videos: 29" img="http://media.ldscdn.org/thumbnails/auxiliary-training-videos-category-138x91.jpg"><category title="Young Men Auxiliary Training" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/Humberto%20Thumbnail-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>13568536072258311241-eng</id>
         <title>He Cared, He Listened</title>
@@ -15045,6 +15262,83 @@
 <content url="http://media2.ldscdn.org/assets/leadership-training/young-men-auxiliary-training-2016/2017-01-003-jeremy-lam-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/leadership-training/young-men-auxiliary-training-2016/2017-01-003-jeremy-lam-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/leadership-training/young-men-auxiliary-training-2016/2017-01-003-jeremy-lam-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-04-004-fulfilling-your-duty-to-god</id>
+        <title>Fulfilling Your Duty to God</title>
+        <description>&#x201C;When you make a goal in Duty to God, you&#x2019;re making a commitment to your Heavenly Father that you&#x2019;re going to do something. It&#x2019;s your duty to Him.&#x201D; (Marcus V., 17, Washington)</description>
+        <duration>295</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-03-004-daytons-legs</id>
+        <title>Dayton's Legs</title>
+        <description>A 13-year-old boy in Arizona fulfilled his Duty to God by pushing himself to the limit so that his friend, who has cerebral palsy, could participate with him in a triathlon.</description>
+        <duration>182</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-12-10-priesthood-men-young-men-song-eng</id>
+        <title>Priesthood Men:  Young Men Song</title>
+        <description>The &#x201C;Priesthood Men" song celebrates each young man&#x2019;s part in God&#x2019;s plan and encourages him to rise up as a son of God and follow His teachings.</description>
+        <duration>204</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-10-priesthood-men-young-men-song-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2011/2010-12-10-priesthood-men-young-men-song.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-10-priesthood-men-young-men-song-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-10-priesthood-men-young-men-song-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-10-priesthood-men-young-men-song-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-12-07-something-different-about-us-example-eng</id>
+        <title>Something Different About Us:  Example</title>
+        <description>Luis sets an example for his friend who is not a member of the Church. He said of fulfilling his duties of the Aaronic Priesthood, &#x201C;I&#x2019;m representing Jesus Christ, and that&#x2019;s amazing."</description>
+        <duration>171</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-07-something-different-about-us-example-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-03-005-same-jersey</id>
+        <title>Same Jersey</title>
+        <description>It&#x2019;s Friday night&#x2014;the big rivalry game between two Arizona high school football teams. The quarterbacks are opponents tonight, and tomorrow one of them will baptize the other into the Church of Jesus Christ.</description>
+        <duration>301</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-03-005-same-jersey-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/from-every-nation-2011/2011-03-005-same-jersey.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-03-005-same-jersey-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-03-005-same-jersey-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-03-005-same-jersey-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-eng</id>
+        <title>Let Every Man Learn His Duty:  Aaronic Priesthood</title>
+        <description>Young men share their feelings about what it means to be a worthy holder of the priesthood. As one young man said, &#x201C;Having the priesthood changes every decision I make."</description>
+        <duration>214</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2011/2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-06-let-every-man-learn-his-duty-aaronic-priesthood-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2010-12-22-message-from-brother-david-l-beck-eng</id>
+        <title>Message from Brother David L. Beck</title>
+        <description>As a faithful priesthood holder, you can bless the lives of those around you; this is the message Brother David L. Beck shares with his story of a boyhood friend from S&#xE3;o Paulo, Brazil.</description>
+        <duration>240</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-22-message-from-brother-david-l-beck-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2011/2010-12-22-message-from-brother-david-l-beck.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-22-message-from-brother-david-l-beck-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-22-message-from-brother-david-l-beck-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-22-message-from-brother-david-l-beck-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
 <category title="Young Women Auxiliary Training" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/young-women-auxiliary-training-138x91-thumb.jpg"><rss><channel><title/><description/>
@@ -15768,7 +16062,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Leadership Training Library" subtitle="Videos: 144" img="http://media.ldscdn.org/thumbnails/leadership-training-library-collection-thumbnail-138x91.jpg"><category title="Welcome" subtitle="Videos: 40" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><category title="About the Library" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><rss><channel><title/><description/>
+<category title="Leadership Training Library" subtitle="Videos: 148" img="http://media.ldscdn.org/thumbnails/leadership-training-library-collection-thumbnail-138x91.jpg"><category title="Welcome" subtitle="Videos: 44" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><category title="About the Library" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/ltl-welcome-thumbnail-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2011-07-069-leading-in-the-saviors-way</id>
         <title>Leading in the Savior&#x2019;s Way</title>
@@ -16116,7 +16410,47 @@
 <content url="http://media2.ldscdn.org/assets/leadership-training/leadership-training-resource-library/2011-07-068-ministering-to-spiritual-needs-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Featured Training: Learning and Teaching in the Home and Church" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/ltl-featured-training-138X91.jpg"><rss><channel><title/><description/>
+<category title="Featured Training: Learning and Teaching in the Home and Church" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/ltl-featured-training-138X91.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2011-09-011-we-are-all-learners-and-teachers</id>
+        <title>We Are All Learners and Teachers</title>
+        <description>In the Church and in our homes, we all have the responsibility to improve our ability to learn and teach&#x2014;and to help others do the same.</description>
+        <duration>131</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-videos-language-request/2011-09-011-we-are-all-learners-and-teachers-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-011-we-are-all-learners-and-teachers-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-011-we-are-all-learners-and-teachers-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-011-we-are-all-learners-and-teachers-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-09-010-improving-teaching</id>
+        <title>Improving Teaching</title>
+        <description>In their central role of helping improve gospel learning and teaching, Sunday School presidents can recommend and help provide the Teaching the Gospel course.</description>
+        <duration>87</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-videos-language-request/2011-09-010-improving-teaching-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-010-improving-teaching-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-010-improving-teaching-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-010-improving-teaching-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-09-013-using-councils-to-improve-learning-and-teaching</id>
+        <title>Using Councils to Improve Learning and Teaching</title>
+        <description>See examples of the many ways that Sunday School presidents can participate effectively in stake or ward councils to help improve gospel learning and teaching.</description>
+        <duration>187</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-videos-language-request/2011-09-013-using-councils-to-improve-learning-and-teaching-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-013-using-councils-to-improve-learning-and-teaching-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-013-using-councils-to-improve-learning-and-teaching-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-013-using-councils-to-improve-learning-and-teaching-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-09-012-supporting-those-who-are-called-to-teach</id>
+        <title>Supporting Those Who Are Called to Teach</title>
+        <description>Watch and learn how a Sunday School presidency can orient and support those who have been newly called to teach.</description>
+        <duration>170</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-videos-language-request/2011-09-012-supporting-those-who-are-called-to-teach-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-012-supporting-those-who-are-called-to-teach-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-012-supporting-those-who-are-called-to-teach-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-videos-language-request/2011-09-012-supporting-those-who-are-called-to-teach-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-06-001-learning-and-teaching-in-the-home-and-the-church-the-home</id>
         <title>Learning and Teaching in the Home and the Church - The Home</title>

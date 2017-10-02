@@ -1,6 +1,17 @@
-<categories><category title="Visitor Center Films" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/visitor-center-films-category-138x91.jpg">
+<categories><category title="Visitor Center Films" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/visitor-center-films-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0024-humanitarian-center-film-short</id>
+        <title>Humanitarian Center Film (short)</title>
+        <description>An overview of LDS Charities and the work they do all over the world.</description>
+        <duration>193</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0024-humanitarian-center-film-short-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-lds-charities-videos/2017-01-0024-humanitarian-center-film-short.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0024-humanitarian-center-film-short-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0024-humanitarian-center-film-short-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0024-humanitarian-center-film-short-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-02-1050-thank-you-from-lds-charities</id>
         <title>Thank you from LDS Charities</title>
@@ -24,9 +35,82 @@
 </channel>
   </rss>
 </category>
-<category title="Emergency Response" subtitle="Videos: 18" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
+<category title="Emergency Response" subtitle="Videos: 25" img="http://media.ldscdn.org/thumbnails/emergency-response-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-01-033-refugee-relief-in-europe-child-volunteer</id>
+        <title>Refugee Relief in Europe: Child Volunteer</title>
+        <description>A young boy talks about his desire to serve.</description>
+        <duration>42</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-030-a-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/give-back-2016/2016-01-033-refugee-relief-in-europe-child-volunteer.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-033-refugee-relief-in-europe-child-volunteer-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-033-refugee-relief-in-europe-child-volunteer-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-033-refugee-relief-in-europe-child-volunteer-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-01-032-refugee-relief-in-europe-gathering-supplies</id>
+        <title>Refugee Relief in Europe: Gathering Supplies</title>
+        <description>A woman talks about her community banding together to provide for the needs of refugees in their area.</description>
+        <duration>81</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-032-refugee-relief-in-europe-gathering-supplies-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/give-back-2016/2016-01-032-refugee-relief-in-europe-gathering-supplies.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-032-refugee-relief-in-europe-gathering-supplies-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-032-refugee-relief-in-europe-gathering-supplies-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-032-refugee-relief-in-europe-gathering-supplies-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-11-028-i-knew-we-were-probably-losing-everything-south-carolina-flooding-short</id>
+        <title>"I knew we were probably losing everything" South Carolina Flooding - Short</title>
+        <description>When a flood hit Columbia South Carolina, local members were quick to respond to the needs of the flood victims.</description>
+        <duration>145</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-11-028-i-knew-we-were-probably-losing-everything-south-carolina-flooding-short-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-11-028-i-knew-we-were-probably-losing-everything-south-carolina-flooding-short-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-11-028-i-knew-we-were-probably-losing-everything-south-carolina-flooding-short-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-11-028-i-knew-we-were-probably-losing-everything-south-carolina-flooding-short-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-11-1300-medu-partnership-rome</id>
+        <title>Mobile Medical Clinic for Refugees in Rome</title>
+        <description>In 2015, LDS Charities partnered with MEDU (Doctors for Human Rights&#x2013;Italy) to fund a mobile medical clinic for refugees in Rome, Italy. Many of these refugees are in transit and are afraid to go to a hospital, so their only option for healthcare is the mobile clinic.</description>
+        <duration>85</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-partner-testimonial-videos/2014-11-1300-medu-partnership-rome-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1300-medu-partnership-rome-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1300-medu-partnership-rome-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1300-medu-partnership-rome-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2014-11-1310-medu-partnership-sicily</id>
+        <title>MEDU Partnership: Sicily</title>
+        <description>In 2015, LDS Charities partnered with MEDU (Doctors for Human Rights &#x2013; Italy) to fund psychological aid as refugees arrived in Sicily, Italy.</description>
+        <duration>72</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-partner-testimonial-videos/2014-11-1310-medu-partnership-sicily-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1310-medu-partnership-sicily-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1310-medu-partnership-sicily-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-partner-testimonial-videos/2014-11-1310-medu-partnership-sicily-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2016-01-034-twin-brothers-helping-refugees</id>
+        <title>Twin Brothers Helping Refugees</title>
+        <description>A pair of young twins gather with members of their congregation to help put together needed items for the recent influx of refugees into the United Kingdom.</description>
+        <duration>75</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-01-034-twin-brothers-helping-refugees-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/give-back-2016/2016-01-034-twin-brothers-helping-refugees.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-034-twin-brothers-helping-refugees-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-034-twin-brothers-helping-refugees-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-01-034-twin-brothers-helping-refugees-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0008-trisha-leimer-refugee-relief</id>
+        <title>Trisha Leimer&#x2014;Refugee Relief</title>
+        <description>Trisha Leimer talks about her experience with providing relief to refugees in Germany and how she thinks everyone can benefit from giving such service.</description>
+        <duration>79</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0008-trisha-leimer-refugee-relief-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0008-trisha-leimer-refugee-relief-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0008-trisha-leimer-refugee-relief-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0008-trisha-leimer-refugee-relief-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-01-0008-europe-refugee-help-nina-kerrou</id>
         <title>Europe Refugee Help&#x2014;Nina Kerrou</title>
@@ -260,9 +344,19 @@
 </channel>
   </rss>
 </category>
-<category title="Community Projects" subtitle="Videos: 10" img="http://media.ldscdn.org/thumbnails/area-initiative-category-138x91.jpg">
+<category title="Community Projects" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/area-initiative-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0025-kirkuk-desk-project</id>
+        <title>Kirkuk Desk Project</title>
+        <description>A social video detailing a community project in Kirkuk.</description>
+        <duration>73</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0025-kirkuk-desk-project-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0025-kirkuk-desk-project-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0025-kirkuk-desk-project-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0025-kirkuk-desk-project-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1230-dominican-republic-boys-home</id>
         <title>Dominican Republic&#x2014;Boys&#x2019; Home</title>
@@ -371,9 +465,29 @@
 </channel>
   </rss>
 </category>
-<category title="Maternal And Newborn Care" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/nrt-category-138x91.jpg">
+<category title="Maternal And Newborn Care" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/nrt-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0015-robert-clark-hbb-conference-testimonial</id>
+        <title>Robert Clark&#x2014;HBB Conference Testimonial</title>
+        <description>Robert Clark, an LDS Charities technical specialist, talks about his love for the Helping Babies Breathe program.</description>
+        <duration>88</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0015-robert-clark-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0015-robert-clark-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0015-robert-clark-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0015-robert-clark-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0016-dean-walker-hbb-testimonial</id>
+        <title>Dean Walker&#x2014;HBB Testimonial</title>
+        <description>Dean Walker, LDS Charities Maternal and Newborn Care program manager, talks about the LDS Charities signature program.</description>
+        <duration>81</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0016-dean-walker-hbb-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0016-dean-walker-hbb-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0016-dean-walker-hbb-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0016-dean-walker-hbb-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2017-01-0009-all-through-the-night</id>
         <title>All through the Night</title>
@@ -417,9 +531,31 @@
 </channel>
   </rss>
 </category>
-<category title="Clean Water" subtitle="Videos: 4" img="http://media.ldscdn.org/thumbnails/clean-water-category-138x91.jpg">
+<category title="Clean Water" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/clean-water-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0021-annual-report-clean-water-animation</id>
+        <title>Annual Report Clean-Water Animation</title>
+        <description>A recap of some of the clean-water work that was done by LDS Charities in 2016.</description>
+        <duration>104</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0021-annual-report-clean-water-animation-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-lds-charities-videos/2017-01-0021-annual-report-clean-water-animation.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0021-annual-report-clean-water-animation-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0021-annual-report-clean-water-animation-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0021-annual-report-clean-water-animation-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0020-not-all-meetings-are-useless-water-committee</id>
+        <title>Not All Meetings Are Useless&#x2014;Water Committee</title>
+        <description>Women in Africa celebrating their involvement in a new water system in their community.</description>
+        <duration>20</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0020-not-all-meetings-are-useless-water-committee-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-lds-charities-videos/2017-01-0020-not-all-meetings-are-useless-water-committee.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0020-not-all-meetings-are-useless-water-committee-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0020-not-all-meetings-are-useless-water-committee-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0020-not-all-meetings-are-useless-water-committee-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1170-sierra-leone-clean-water</id>
         <title>Sierra Leone&#x2014;Clean Water</title>
@@ -619,9 +755,29 @@
 </channel>
   </rss>
 </category>
-<category title="Give Back Series" subtitle="Videos: 37" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
+<category title="Give Back Series" subtitle="Videos: 39" img="http://media.ldscdn.org/thumbnails/give-back-series-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2016-12-031-does-my-donation-make-a-difference</id>
+        <title>Does My Donation Make a Difference?</title>
+        <description>Ever wonder what happens when you donate an item to a thrift store? Follow the journey of this donated pair of shoes to see all the good giving can do.</description>
+        <duration>199</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2016/2016-12-031-does-my-donation-make-a-difference-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-12-031-does-my-donation-make-a-difference-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-12-031-does-my-donation-make-a-difference-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2016/2016-12-031-does-my-donation-make-a-difference-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2015-09-0013-idaho-falls-community-sees-miracles-as-they-serve</id>
+        <title>Idaho Falls Community Sees Miracles as They Serve</title>
+        <description>At the Idaho Falls Humanitarian Center, people like you dedicate their time and talents to helping others each week. While making quilts, toys, and crochet bereavement outfits for babies, the volunteers themselves feel loved and lifted.</description>
+        <duration>250</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/give-back-2015/2015-09-0013-people-do-care-idaho-falls-community-sees-miracles-as-they-serve-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2015/2015-09-0013-idaho-falls-community-sees-miracles-as-they-serve-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2015/2015-09-0013-idaho-falls-community-sees-miracles-as-they-serve-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/give-back-2015/2015-09-0013-idaho-falls-community-sees-miracles-as-they-serve-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1320-preserving-sight-for-the-homeless-running-a-free-clinic-in-romania</id>
         <title>Running a Free Clinic in Romania</title>
@@ -988,9 +1144,99 @@
 </channel>
   </rss>
 </category>
-<category title="Words From Our Partners" subtitle="Videos: 24" img="http://media.ldscdn.org/thumbnails/words-from-our-partners-category-138x91.jpg">
+<category title="Words From Our Partners" subtitle="Videos: 33" img="http://media.ldscdn.org/thumbnails/words-from-our-partners-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-01-0023-zemin-xiao-refugee-conference-testimonial</id>
+        <title>Zemin Xiao&#x2014;Refugee Conference Testimonial</title>
+        <description>Zemin Xiao, the refugee services liaison for Salt Lake County, talks about her experience working with LDS Charities.</description>
+        <duration>52</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0023-zemin-xiao-refugee-conference-testimonial-384x215-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0023-zemin-xiao-refugee-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0023-zemin-xiao-refugee-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0023-zemin-xiao-refugee-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0022-joseph-nahas-refugee-conference-testimonial</id>
+        <title>Joseph Nahas&#x2014;Refugee Conference Testimonial</title>
+        <description>Joseph Nahas, the refugee capacity building coordinator for the Department of Workforce Services, talks about his experience working with LDS Charities.</description>
+        <duration>65</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0022-joseph-nahas-refugee-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0022-joseph-nahas-refugee-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0022-joseph-nahas-refugee-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0022-joseph-nahas-refugee-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0010-susan-niermeyer-hbb-conference-testimonial</id>
+        <title>Susan Niermeyer&#x2014;HBB Conference Testimonial</title>
+        <description>Susan Niermeyer, Helping Babies Breathe curriculum editor, talks about the partnership with LDS Charities.</description>
+        <duration>131</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0010-susan-niermeyer-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0010-susan-niermeyer-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0010-susan-niermeyer-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0010-susan-niermeyer-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0014-eileen-schoen-hbb-conference-testimonial</id>
+        <title>Eileen Schoen&#x2014;HBB Conference Testimonial</title>
+        <description>Eileen Schoen, manager of the Helping Babies Survive program, talks about the partnership between LDS Charities and the American Academy of Pediatrics.</description>
+        <duration>50</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0014-eileen-schoen-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0014-eileen-schoen-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0014-eileen-schoen-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0014-eileen-schoen-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0011-alemnesh-reta-hbb-conference-testimonial</id>
+        <title>Alemnesh Reta&#x2014;HBB Conference Testimonial</title>
+        <description>Alemnesh Reta from Laerdal Global Health talks about the importance of the Helping Babies Breathe program.</description>
+        <duration>93</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0011-alemnesh-reta-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0011-alemnesh-reta-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0011-alemnesh-reta-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0011-alemnesh-reta-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0012-tony-ryan-hbb-conference-testimonial</id>
+        <title>Tony Ryan&#x2014;HBB Conference Testimonial</title>
+        <description>Tony Ryan, neonatologist for Cork University Maternity Hospital, talks about the Helping Babies Breathe program.</description>
+        <duration>75</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0012-tony-ryan-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0012-tony-ryan-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0012-tony-ryan-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0012-tony-ryan-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0013-beena-kamath-rayne-hbb-conference-testimonial</id>
+        <title>Beena Kamath-Rayne&#x2014;HBB Conference Testimonial</title>
+        <description>Beena Kamath-Rayne, a neonatologist at the Cincinnati Children&#x2019;s Hospital Medical Center, talks about her gratitude for HBB training.</description>
+        <duration>75</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0013-beena-kamath-rayne-hbb-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0013-beena-kamath-rayne-hbb-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0013-beena-kamath-rayne-hbb-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0013-beena-kamath-rayne-hbb-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0019-lina-smith-refugee-conference-testimonial</id>
+        <title>Lina Smith&#x2014;Refugee Conference Testimonial</title>
+        <description>Lina Smith, director of refugee services at the Refugee and Immigrant Center&#x2014;Asian Association of Utah, talks about her working relationship with LDS Charities.</description>
+        <duration>56</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0019-lina-smith-refugee-conference-testimonial-384x215-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0019-lina-smith-refugee-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0019-lina-smith-refugee-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0019-lina-smith-refugee-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0018-gerald-brown-refugee-conference-testimonial</id>
+        <title>Gerald Brown&#x2014;Refugee Conference Testimonial</title>
+        <description>Gerald Brown, director of refugee services for the Department of Workforce Services, talks about his working relationship with LDS Charities.</description>
+        <duration>64</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0018-gerald-brown-refugee-conference-testimonial-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0018-gerald-brown-refugee-conference-testimonial-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0018-gerald-brown-refugee-conference-testimonial-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0018-gerald-brown-refugee-conference-testimonial-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2014-11-1270-kingsley-mamabolo-south-africa-ambassador-to-the-united-nations</id>
         <title>Kingsley Mamabolo&#x2014;South Africa Ambassador to the United Nations</title>
@@ -1235,9 +1481,74 @@
 </channel>
   </rss>
 </category>
-<category title="Behind the Scenes" subtitle="Videos: 3" img="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-3-interview-with-michelle-nunn-138x91-thumb.jpg">
+<category title="Behind the Scenes" subtitle="Videos: 9" img="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-3-interview-with-michelle-nunn-138x91-thumb.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look</id>
+        <title>Behind the Scenes&#x2014;International Rescue Committee Inside Look</title>
+        <description>We went to the IRC to get a look at their downtown Salt Lake offices and find out about some of the volunteer opportunities they currently have available.</description>
+        <duration>402</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0007-behind-the-scenes-international-rescue-committee-inside-look-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two</id>
+        <title>LDS Charities behind the Scenes&#x2014;Maternal and Newborn Care Volunteer, Part Two</title>
+        <description>Dr. Michael Draper gives us a recap on his trip to Morocco.</description>
+        <duration>388</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0003-lds-charities-behind-the-scenes-maternal-and-newborn-care-volunteer-part-two-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager</id>
+        <title>LDS Charities behind the Scenes&#x2014;Maternal and Newborn Care Initiative Manager</title>
+        <description>Dean Walker steps us through some of the training they do in the Maternal and Newborn Care initiative.</description>
+        <duration>438</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0004-lds-charities-behind-the-scenes-maternal-and-newborn-care-initiative-manager-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0005-lds-charities-behind-the-scenes-clean-water</id>
+        <title>LDS Charities behind the Scenes&#x2014;Clean Water</title>
+        <description>Del Brady, who helps run the clean water initiative, talks to us about how and why we do what we do.</description>
+        <duration>414</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0005-lds-charities-behind-the-scenes-clean-water-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0005-lds-charities-behind-the-scenes-clean-water.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0005-lds-charities-behind-the-scenes-clean-water-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0005-lds-charities-behind-the-scenes-clean-water-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0005-lds-charities-behind-the-scenes-clean-water-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists</id>
+        <title>LDS Charities behind the Scenes&#x2014;Water Technical Specialists</title>
+        <description>Elder and Sister Reynolds explain what goes into a water project and how they train on proper water hygiene.</description>
+        <duration>414</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/lds-charities-behind-the-scenes/2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists-384x215-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/lds-charities-behind-the-scenes/2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/lds-charities-behind-the-scenes/2017-02-0006-lds-charities-behind-the-scenes-water-technical-specialists-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-01-0017-lds-charities-thanks-their-30000-followers</id>
+        <title>LDS Charities Thanks Their 30,000 Followers</title>
+        <description>On behalf of LDS Charities, Sharon Eubank thanks their 30,000 Facebook followers.</description>
+        <duration>43</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-lds-charities-videos/2017-01-0017-lds-charities-thanks-their-30000-followers-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0017-lds-charities-thanks-their-30000-followers-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0017-lds-charities-thanks-their-30000-followers-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-lds-charities-videos/2017-01-0017-lds-charities-thanks-their-30000-followers-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2017-01-3-interview-with-michelle-nunn</id>
         <title>Interview with Michelle Nunn</title>
