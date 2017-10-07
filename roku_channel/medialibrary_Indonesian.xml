@@ -428,7 +428,20 @@
 </channel></rss></category>
 </category>
 </category>
-<category title='Seminari dan Institut' subtitle='Videos: 1' img=''><category title='Institut' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/institute-category-138x91.jpg'><rss><channel><title/><description/>
+<category title='Seminari dan Institut' subtitle='Videos: 2' img='http://media.ldscdn.org/thumbnails/seminary-and-institute-category-138x91.jpg'><category title='Seminari' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/seminary-category-138x91.jpg'><category title='Penguasaan Ajaran' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/2011-07-295-home-teaching-encouraging-aaronic-priesthood-holders-138x91-thumb.jpg'><rss><channel><title/><description/>
+<item>
+        <id>2016-05-4000-acquiring-spiritual-knowledge-madisons-story</id>
+        <title>Memperoleh Pengetahuan Rohani: Kisah Madison</title>
+        <description>Seorang remaja putri bergumul dengan pertanyaan tentang pernikahan jamak di awal sejarah Gereja dan memahami saat dia menerapkan asas memperoleh pengetahuan rohani.</description>
+        <duration>515</duration>
+        <thumbnail url='http://media.ldscdn.org/images/videos/department-training/doctrinal-mastery/2016-05-4000-acquire-spiritual-knowledge-madisons-story-384x216-thumb.jpg'/>
+<content url='http://media2.ldscdn.org/assets/department-training/doctrinal-mastery/2016-05-4000-acquiring-spiritual-knowledge-madisons-story-360p-ind.mp4' height='360p'/>
+<content url='http://media2.ldscdn.org/assets/department-training/doctrinal-mastery/2016-05-4000-acquiring-spiritual-knowledge-madisons-story-720p-ind.mp4' height='720p'/>
+<content url='http://media2.ldscdn.org/assets/department-training/doctrinal-mastery/2016-05-4000-acquiring-spiritual-knowledge-madisons-story-1080p-ind.mp4' height='1080p'/>
+</item>
+</channel></rss></category>
+</category>
+<category title='Institut' subtitle='Videos: 1' img='http://media.ldscdn.org/thumbnails/seminary-and-institute/institute-category-138x91.jpg'><rss><channel><title/><description/>
 <item>
         <id>2015-08-1010-how-to-use-the-elevate-learning-experience</id>
         <title>Cara Menggunakan Pengalaman Tingkatkan Pembelajaran</title>
