@@ -1,4 +1,16 @@
-<categories><category title="Annual Mutual Theme" subtitle="Videos: 57" img="http://media.ldscdn.org/thumbnails/annual-mutual-theme-category-138x91.jpg"><category title="2017- Ask" subtitle="Videos: 1" img="http://media.ldscdn.org/images/videos/youth/2017-mutual-theme/2016-09-0001-ask-of-god-2017-youth-theme-video-138x91-thumb.jpg"><rss><channel><title/><description/>
+<categories><category title="Annual Mutual Theme" subtitle="Videos: 58" img="http://media.ldscdn.org/thumbnails/annual-mutual-theme-category-138x91.jpg"><category title="2018 - Peace in Christ" subtitle="Videos: 1" img="http://media.ldscdn.org/images/videos/youth/2018-youth-media/2018-01-0010-peace-in-christ-138x91-thumb.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2018-01-0010-peace-in-christ</id>
+        <title>Peace in Christ</title>
+        <description>When there&#x2019;s no peace on earth, there is peace in Christ.</description>
+        <duration>249</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2018-youth-media/2018-01-0010-peace-in-christ-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2018-youth-media/2018-01-0010-peace-in-christ-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2018-youth-media/2018-01-0010-peace-in-christ-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2018-youth-media/2018-01-0010-peace-in-christ-1080p-eng.mp4" height="1080p"/>
+</item>
+</channel></rss></category>
+<category title="2017- Ask" subtitle="Videos: 1" img="http://media.ldscdn.org/images/videos/youth/2017-mutual-theme/2016-09-0001-ask-of-god-2017-youth-theme-video-138x91-thumb.jpg"><rss><channel><title/><description/>
 <item>
         <id>2017-01-0010-ask-of-god-2017-mutual-theme</id>
         <title>Ask of God (2017 Mutual Theme)</title>
@@ -629,7 +641,7 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Standards" subtitle="Videos: 100" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Standards" subtitle="Videos: 99" img="http://media.ldscdn.org/thumbnails/standards-standards-category-138x91.jpg"><category title="Agency and Accountability" subtitle="Videos: 6" img="http://media.ldscdn.org/thumbnails/standards-standards/agency-and-accountability-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2010-07-0001-no-regrets-eng</id>
         <title>No Regrets</title>
@@ -816,7 +828,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-012-standards-education-the-glory-of-god-is-intelligence-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Entertainment and Media" subtitle="Videos: 1" img="http://media.ldscdn.org/thumbnails/standards-standards/entertainment-and-media-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Entertainment and Media" subtitle="Videos: 2" img="http://media.ldscdn.org/thumbnails/standards-standards/entertainment-and-media-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2011-10-006-things-as-they-really-are-eng</id>
         <title>Things as They Really Are</title>
@@ -827,6 +839,17 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2012-03-12-wholesome-recreation</id>
+        <title>Wholesome Recreation</title>
+        <description>&#x201C;Just as honest toil gives rest its sweetness, wholesome recreation is the friend and steadying companion of work,&#x201D; says Elder D. Todd Christofferson of the Quorum of the Twelve Apostles.</description>
+        <duration>107</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2012-03-12-wholesome-recreation-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/general-authority-features/prophets-and-apostles-speak-today/2012-03-12-wholesome-recreation.xml"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2012-03-12-wholesome-recreation-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2012-03-12-wholesome-recreation-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2012-03-12-wholesome-recreation-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
 <category title="Family" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/standards-standards/family-standards-category-138x91.jpg"><rss><channel><title/><description/>
@@ -1053,7 +1076,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/general-conference-youth-highlights-october-2011/2011-10-1025-finding-those-who-are-lost-720p-eng.mp4" height="720p"/>
 </item>
 </channel></rss></category>
-<category title="Go Forward with Faith" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/standards-standards/go-forward-with-faith-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Go Forward with Faith" subtitle="Videos: 21" img="http://media.ldscdn.org/thumbnails/standards-standards/go-forward-with-faith-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2016-04-001-the-blessings-of-personal-progress</id>
         <title>The Blessings of Personal Progress</title>
@@ -1260,17 +1283,6 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/general-conference-highlights/april-2013-general-conference-highlights/2013-03-1160-becoming-strong-in-the-lord-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2013-general-conference-highlights/2013-04-1160-becoming-strong-in-the-lord-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/general-conference-highlights/april-2013-general-conference-highlights/2013-04-1160-becoming-strong-in-the-lord-720p-eng.mp4" height="720p"/>
-</item>
-<item>
-        <id>2013-03-0002-in-that-holy-place-eng</id>
-        <title>In That Holy Place</title>
-        <description>A Young Women choir from stakes in Highland sings &#x201C;In That Holy Place.&#x201D;</description>
-        <duration>276</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0002-in-that-holy-place-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0002-in-that-holy-place.xml"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0002-in-that-holy-place-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0002-in-that-holy-place-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0002-in-that-holy-place-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2010-12-15-guardians-of-virtue-young-women-song-eng</id>
@@ -1490,7 +1502,7 @@
 <content url="http://media2.ldscdn.org/assets/youth/general-conference-youth-highlights-october-2011/2011-10-1090-stay-active-and-worthy-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="Service" subtitle="Videos: 12" img="http://media.ldscdn.org/thumbnails/standards-standards/service-standards-category-138x91.jpg"><rss><channel><title/><description/>
+<category title="Service" subtitle="Videos: 11" img="http://media.ldscdn.org/thumbnails/standards-standards/service-standards-category-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2010-09-0090-for-madison-eng</id>
         <title>For Madison</title>
@@ -1604,14 +1616,6 @@
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-720p-eng.mp4" height="720p"/>
 <content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2013-01-110-ministering-in-the-aaronic-priesthood-eng</id>
-        <title>Ministering in the Aaronic Priesthood</title>
-        <description>Ministering in the Aaronic Priesthood</description>
-        <duration>163</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/aaronic-priesthood-media/2013-01-110-ministering-in-the-aaronic-priesthood-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/leadership-training/aaronic-priesthood-media/2013-01-110-ministering-in-the-aaronic-priesthood-360p-eng.mp4" height="360p"/>
 </item>
 </channel></rss></category>
 <category title="Sexual Purity" subtitle="Videos: 3" img="http://media.ldscdn.org/thumbnails/standards-standards/sexual-purity-standards-category-138x91.jpg"><rss><channel><title/><description/>
@@ -3572,7 +3576,7 @@
         <description>President Thomas S. Monson speaks to young people about missionary service&#x2014;a duty for young men and a rewarding option for young women.</description>
         <duration>0</duration>
         <thumbnail url="http://www.lds.org/callings/aaronic-priesthood/video-gallery/images/priesthood-duty-138x82-video.jpg"/>
-<content url="http://broadcast.lds.org/mormon-messages-for-youth/2010-12-0130-a-priesthood-duty-1000k-eng.mp4" height="1080p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-0130-a-priesthood-duty-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2013-00-021-teach-each-other-from-the-scriptures-eng</id>
@@ -3708,7 +3712,7 @@
 </item>
 <item>
         <id>2013-02-0210-the-power-of-the-priesthood-in-the-family-priesthood-power-and-priesthood-authority</id>
-        <title>The Power of the Priesthood in the Family: Priesthood Power and  Priesthood Authority</title>
+        <title>The Power of the Priesthood in the Family: Priesthood Power and Priesthood Authority</title>
         <description>(5 of 6) Elder Oaks and Elder Golden explain the fundamental differences between priesthood power and authority. They teach how to have real power in the priesthood.</description>
         <duration>109</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/worldwide-leadership-training/2013-worldwide-leadership-training/2013-02-0210-priesthood-power-and-priesthood-authority-192x108-thumb.jpg"/>
@@ -6360,7 +6364,7 @@
 <item>
         <id>2013-01-080-aaronic-priesthood-quorum-presidency-meeting</id>
         <title>Aaronic Priesthood Quorum Presidency Meeting</title>
-        <description>A demonstration of an Aaronic Priesthood Quorum Presidency Meeting</description>
+        <description>An example of how quorum presidency meetings can teach quorum presidencies their responsibilities.</description>
         <duration>325</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/aaronic-priesthood-media/2013-01-080-aaronic-priesthood-quorum-presidency-meeting-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/leadership-training/aaronic-priesthood-media/2013-01-080-aaronic-priesthood-quorum-presidency-meeting-360p-eng.mp4" height="360p"/>
@@ -6369,7 +6373,7 @@
 <item>
         <id>2013-01-090-aaronic-priesthood-quorum-meeting</id>
         <title>Aaronic Priesthood Quorum Meeting</title>
-        <description>an example of an Aaronic Priesthood Quorum Meeting</description>
+        <description>An example of how quorum meetings can bless the lives of young men.</description>
         <duration>242</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/aaronic-priesthood-media/2013-01-090-aaronic-priesthood-quorum-meeting-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/leadership-training/aaronic-priesthood-media/2013-01-090-aaronic-priesthood-quorum-meeting-360p-eng.mp4" height="360p"/>
@@ -6577,9 +6581,30 @@
 </item>
 </channel></rss></category>
 </category>
-<category title="Youth Media" subtitle="Videos: 38" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
+<category title="Youth Videos" subtitle="Videos: 39" img="http://media.ldscdn.org/thumbnails/youth-media-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2018-01-0040-sharing-the-gospel</id>
+        <title>Sharing the Gospel</title>
+        <description>What we call &#x201C;member missionary work&#x201D; is not a program but an attitude of love and outreach to help those around us.</description>
+        <duration>229</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2018/2018-01-0040-sharing-the-gospel-384x216-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2018/2018-01-0040-sharing-the-gospel-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2018/2018-01-0040-sharing-the-gospel-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2018/2018-01-0040-sharing-the-gospel-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-11-0010-the-souls-sincere-desire</id>
+        <title>The Soul&#x2019;s Sincere Desire</title>
+        <description>As we put God as a priority and seek him through sincere prayer, we can find peace in our busy lives.</description>
+        <duration>208</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/2017-youth-media/2017-11-0010-the-souls-sincere-desire-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/2017-youth-media/2017-11-0010-the-souls-sincere-desire.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-11-0010-the-souls-sincere-desire-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-11-0010-the-souls-sincere-desire-720p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2017-youth-media/2017-11-0010-the-souls-sincere-desire-1080p-eng.mp4" height="360p"/>
+</item>
 <item>
         <id>2017-01-0008-repentance-a-joyful-choice</id>
         <title>Repentance: A Joyful Choice</title>
@@ -6646,7 +6671,7 @@
 <item>
         <id>2013-01-0020-reach-out-and-share</id>
         <title>Reach Out and Share</title>
-        <description>In April, KSL Television produced this general conference special called "Reach Out and Share." It tells the story of how a family in Arizona joined the Church after watching a Mormon Message for Youth on the Internet called "Dayton's Legs."</description>
+        <description>In April, KSL Television produced this general conference special called &#x201C;Reach Out and Share.&#x201D; It tells the story of how a family in Arizona joined the Church after watching a Mormon Message for Youth on the Internet called &#x201C;Dayton&#x2019;s Legs.&#x201D;</description>
         <duration>1363</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/leadership-training/aaronic-priesthood-media/2013-01-0020-reach-out-and-share-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/leadership-training/aaronic-priesthood-media/2013-01-0020-reach-out-and-share.xml"/>
@@ -6914,27 +6939,6 @@
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/general-womens-organization-social-media-videos/2014-03-002-a-work-of-love-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
-        <id>2012-03-0030-arise-to-the-mountain-eng</id>
-        <title>Arise to the Mountain</title>
-        <description>The purpose of the Young Women organization is to help each young woman be worthy to make and keep sacred covenants and receive the ordinances of the temple.</description>
-        <duration>217</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0030-arise-to-the-mountain-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0030-arise-to-the-mountain.xml"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0030-arise-to-the-mountain-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0030-arise-to-the-mountain-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2012-general-young-women-meeting/2012-03-0030-arise-to-the-mountain-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
-        <id>2013-03-0030-standing-in-holy-places</id>
-        <title>Standing in Holy Places</title>
-        <description>A young woman reflects on the blessings of walking the covenant path as she makes her journey to the temple.</description>
-        <duration>336</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0030-standing-in-holy-places-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0030-standing-in-holy-places-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0030-standing-in-holy-places-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2013-general-young-women-meeting/2013-03-0030-standing-in-holy-places-1080p-eng.mp4" height="1080p"/>
-</item>
-<item>
         <id>2009-05-18-virtue-for-such-a-time-as-this</id>
         <title>Virtue: For Such a Time as This</title>
         <description>Young women of The Church of Jesus Christ of Latter-day Saints call for a return to virtue and share their commitment to live virtuous and exemplary lives in order to influence the world for good.</description>
@@ -6942,6 +6946,16 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-18-virtue-for-such-a-time-as-this-192x108-thumb.jpg"/>
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-05-18-virtue-for-such-a-time-as-this.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-18-virtue-for-such-a-time-as-this-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2010-03-0030-be-strong-i-know-who-i-am</id>
+        <title>Be Strong: I Know Who I Am</title>
+        <description>A video presentation titled &#x201C;Be Strong: I know Who I Am&#x201D; shown as part of the general Young Women meeting. **OR Video Presentation: I Have a Purpose**</description>
+        <duration>334</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/general-young-women-meeting/2010-general-young-women-meeting/2010-03-0030-be-strong-i-know-who-i-am-192x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2010-general-young-women-meeting/2010-03-0030-be-strong-i-know-who-i-am-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2010-general-young-women-meeting/2010-03-0030-be-strong-i-know-who-i-am-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/general-young-women-meeting/2010-general-young-women-meeting/2010-03-0030-be-strong-i-know-who-i-am-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2011-03-0030-im-a-young-woman-and-i-believe</id>

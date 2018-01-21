@@ -64,7 +64,7 @@
 </channel>
   </rss>
 </category>
-<category title="World Report" subtitle="Videos: 104" img="http://media.ldscdn.org/thumbnails/news-and-events/world-report-category-138x91.jpg"><category title="World Report April 2017" subtitle="Videos: 17" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/april-2017-world-report.jpg"><rss><channel><title/><description/>
+<category title="World Report" subtitle="Videos: 102" img="http://media.ldscdn.org/thumbnails/news-and-events/world-report-category-138x91.jpg"><category title="World Report April 2017" subtitle="Videos: 17" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/april-2017-world-report.jpg"><rss><channel><title/><description/>
 <item>
         <id>2017-04-0001-world-report-april-2017</id>
         <title>World Report April 2017</title>
@@ -720,7 +720,7 @@
 <item>
         <id>2015-10-2050-12-step-program-stories</id>
         <title>12 Step Program Stories</title>
-        <description>mormon newsroom reports on 12 Step Program Stories</description>
+        <description>Mormon Newsroom reports on 12 Step Program stories.</description>
         <duration>63</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/world-report-october-2015/2015-10-2050-12-step-program-stories-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2015/2015-10-2050-12-step-program-stories-360p-eng.mp4" height="360p"/>
@@ -1002,7 +1002,7 @@
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-april-2015/2015-04-1240-vatican-summit-part-ii-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel></rss></category>
-<category title="World Report 2014-2010" subtitle="Videos: 9" img="http://www.lds.org/bc/content/World%20Report/2010-10-0000-world-report-october-2010-138x91.jpg"><rss><channel><title/><description/>
+<category title="World Report 2014-2010" subtitle="Videos: 7" img="http://www.lds.org/bc/content/World%20Report/2010-10-0000-world-report-october-2010-138x91.jpg"><rss><channel><title/><description/>
 <item>
         <id>2014-10-1000-world-report-october-2014</id>
         <title>World Report October 2014</title>
@@ -1031,26 +1031,6 @@
         <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/world-report-october-2013/2013-10-1010-world-report-october-2013-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2013/2013-10-1010-world-report-october-2013-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2013/2013-10-1010-world-report-october-2013-720p-eng.mp4" height="720p"/>
-</item>
-<item>
-        <id>2013-04-1010-world-report-april-2013</id>
-        <title>World Report April 2013</title>
-        <description>The World Report is produced semi-annually by The Church of Jesus Christ of Latter-day Saints.</description>
-        <duration>2682</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/world-report-april-2013/2013-04-1010-world-report-april-2013-192x108-thumb.jpg"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-april-2013/2013-04-1010-world-report-april-2013-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-april-2013/2013-04-1010-world-report-april-2013-720p-eng.mp4" height="720p"/>
-</item>
-<item>
-        <id>2012-10-1000-world-report-october-2012</id>
-        <title>World Report October 2012</title>
-        <description>The World Report produced semi-annually by The Church of Jesus Christ of Latter-day Saints for October 2012.</description>
-        <duration>2444</duration>
-        <thumbnail url="http://media.ldscdn.org/images/videos/news-and-public-affairs/world-report-april-2012/2012-04-1000-world-report-october-2012-192x108-thumb.jpg"/>
-<subtitles url="http://media.ldscdn.org/dfxp/news-and-public-affairs/world-report-october-2012/2012-10-1000-world-report-october-2012.xml"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2012/2012-10-1000-world-report-october-2012-360p-eng.mp4" height="360p"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2012/2012-10-1000-world-report-october-2012-720p-eng.mp4" height="720p"/>
-<content url="http://media2.ldscdn.org/assets/news-and-public-affairs/world-report-october-2012/2012-10-1000-world-report-october-2012-1080p-eng.mp4" height="1080p"/>
 </item>
 <item>
         <id>2012-04-1700-world-report-april-2012-full-program</id>

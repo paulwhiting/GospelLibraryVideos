@@ -2812,7 +2812,7 @@
 </channel>
   </rss>
 </category>
-<category title="Matt and Mandy" subtitle="Videos: 26" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/matt-and-mandy-thumb.jpg">
+<category title="Matt and Mandy" subtitle="Videos: 28" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/matt-and-mandy-thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -2881,12 +2881,28 @@
 <content url="http://media2.ldscdn.org/assets/magazines/matt-and-mandy/2012-01-008-matt-and-mandy-may-2009-360p-eng.mp4" height="360p"/>
 </item>
 <item>
+        <id>2012-01-009-matt-and-mandy-june-2009-eng</id>
+        <title>Matt and Mandy, June 2009</title>
+        <description>Mandy tells her mom what kind of husband she wants.</description>
+        <duration>81</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/matt-and-mandy/2012-01-009-matt-and-mandy-june-2009-144x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/matt-and-mandy/2012-01-009-matt-and-mandy-june-2009-360p-eng.mp4" height="360p"/>
+</item>
+<item>
         <id>2012-01-010-matt-and-mandy-july-2009-eng</id>
         <title>Matt and Mandy, July 2009</title>
         <description>Matt and Mandy enjoy a family picnic.</description>
         <duration>46</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/magazines/matt-and-mandy/2012-01-010-matt-and-mandy-july-2009-144x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/magazines/matt-and-mandy/2012-01-010-matt-and-mandy-july-2009-360p-eng.mp4" height="360p"/>
+</item>
+<item>
+        <id>2012-01-011-matt-and-mandy-august-2009-eng</id>
+        <title>Matt and Mandy, August 2009</title>
+        <description>Mandy tells Matt about the importance of temples.</description>
+        <duration>71</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/magazines/matt-and-mandy/2012-01-011-matt-and-mandy-august-2009-144x108-thumb.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/matt-and-mandy/2012-01-011-matt-and-mandy-august-2009-360p-eng.mp4" height="360p"/>
 </item>
 <item>
         <id>2012-01-012-matt-and-mandy-september-2009-eng</id>
@@ -3647,7 +3663,7 @@
 </channel>
   </rss>
 </category>
-<category title="Sing-Along Videos" subtitle="Videos: 65" img="http://media.ldscdn.org/thumbnails/children/music-videos-friend-category-138x91.jpg">
+<category title="Sing-Along Videos" subtitle="Videos: 65" img="http://www.lds.org/bc/content/ldsorg/media-library/category-images/sing-along-videos.thumb.jpg">
   <rss>
     <channel><title/><description/>
 <item>
@@ -4856,9 +4872,49 @@
 </channel>
   </rss>
 </category>
-<category title="Other Videos" subtitle="Videos: 22" img="http://media.ldscdn.org/thumbnails/children/other-videos-friend-category-138x91.jpg">
+<category title="Other Videos" subtitle="Videos: 52" img="http://media.ldscdn.org/thumbnails/children/other-videos-friend-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>28630415823376291370-eng</id>
+        <title>Standing Tall</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/standing-tall.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-018-standing-tall-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-018-standing-tall-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-018-standing-tall-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>12622172373391148451-eng</id>
+        <title>Faith Is Like a Little Seed</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/faith-is-like-a-little-seed.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-008-faith-is-like-a-little-seed-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-008-faith-is-like-a-little-seed-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-008-faith-is-like-a-little-seed-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>17309052670109358914-eng</id>
+        <title>A Year with the Book of Mormon</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/a-year-with-the-book-of-mormon.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-003-book-of-mormon-helps-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-003-book-of-mormon-helps-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-003-book-of-mormon-helps-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>85936548495547583820-eng</id>
+        <title>Family Night Fun</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/family-fun-night.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-001-friend-fhe-section-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-001-friend-fhe-section-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-001-friend-fhe-section-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2015-08-001-what-should-i-do-when-i-see-pornography</id>
         <title>What Should I Do When I See Pornography?</title>
@@ -5089,6 +5145,267 @@
 <subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2009/2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy.xml"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy-360p-eng.mp4" height="360p"/>
 <content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>18162316175184575370-eng</id>
+        <title>Wrong Roads</title>
+        <description>When making decisions, God expects us to pray, trust, and be believing and then not give up, panic, or "jump ship" when something doesn't seem to be going right. Elder Jeffrey R. Holland shares a personal experience that reminds us to always trust God and the direction He gives us.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/pages/mormon-messages/wrong-roads.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-09-016-wrong-roads-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>40221624186001450190-eng</id>
+        <title>We are His Hands Exhibit</title>
+        <description>Thousands of colorful paper handprints representing acts of service from children around the world are on display in the lobby of the Joseph Smith Memorial Building on Temple Square in Salt Lake City. The &#x201C;We Are His Hands&#x201D; exhibit, sponsored by the Friend and Liahona magazines of The Church of Jesus Christ of Latter-day Saints, runs through October 9, 2015, to coincide with general conference.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/we-are-his-hands.jpg"/>
+<content url="http://media2.ldscdn.org/assets/magazines/we-are-his-hands-video/2015-10-001-we-are-his-hands-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/we-are-his-hands-video/2015-10-001-we-are-his-hands-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/magazines/we-are-his-hands-video/2015-10-001-we-are-his-hands-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>10477606275393339924-eng</id>
+        <title>Thanksgiving Daily</title>
+        <description>The more often we see the things around us, the more they become invisible to us. Learn how you can live in thanksgiving daily by noticing the wonders and beauties of this world.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/2010-11-23-thanksgiving-daily-138x81.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-11-23-thanksgiving-daily-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-11-23-thanksgiving-daily-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-11-23-thanksgiving-daily-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>18329022247537380581-eng</id>
+        <title>Temples Are a Beacon</title>
+        <description>No sacrifice is too great to obtain the blessings available in Holy Temples.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/mormon_temples-are-a-beacon-182.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>48308069155176246720-eng</id>
+        <title>A Secure Anchor</title>
+        <description>Just like rock climbing alone can be dangerous, living your life without the help of the Savior can have disastrous consequences.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/pages/mormon-messages/a-secure-anchor-gallery.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2013/2013-08-003-a-secure-anchor-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2013/2013-08-003-a-secure-anchor-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2013/2013-08-003-a-secure-anchor-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2013-11-018-the-reason-behind-christmas</id>
+        <title>The Reason Behind Christmas</title>
+        <description>This Christmas season, give the gift Jesus Christ wants us to give; the gift of ourselves. Amid the shopping and commercialism, focus on the reason we're celebrating and remember to keep Christ in Christmas.</description>
+        <duration>223</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-11-018-the-reason-behind-christmas-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/mormon-channel/mormon-messages-2013/2013-11-018-the-reason-behind-christmas.xml"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-11-018-the-reason-behind-christmas-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-11-018-the-reason-behind-christmas-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-11-018-the-reason-behind-christmas-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2011-12-05-pure-and-simple-faith</id>
+        <title>Pure and Simple Faith</title>
+        <description>The testimony of a young woman is strengthened as she recognizes the Lord&#x2019;s hand in providing for her family.</description>
+        <duration>330</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith.xml"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>17145481835725839982-eng</id>
+        <title>Power of God</title>
+        <description>The Priesthood is the power of God on Earth used to bless our lives and the lives of others.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/power-of-god-138-82.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>57597618580514005720-eng</id>
+        <title>Our True Identity</title>
+        <description>President Dieter F. Uchtdorf retells the story of the ugly duckling and urges us to reflect on who we really are&#x2014;sons and daughters of a glorious Heavenly Father.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/2010-04-20-our-true-identity-138x81.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-04-20-our-true-identity-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-04-20-our-true-identity-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-04-20-our-true-identity-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>14891704413815011740-eng</id>
+        <title>No Cussing Club</title>
+        <description>One boy&#x2019;s crusade to encourage clean language has far-reaching effects.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/no-cussing-club.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>16434211815275863216-eng</id>
+        <title>My New Life</title>
+        <description>Stephanie Nielson, survivor of a near-fatal plane crash, shares her story of a beautiful life centered on faith in Jesus Christ and love of family.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/2010-05-10-my-new-life-138x81.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-05-10-my-new-life-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-05-10-my-new-life-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-05-10-my-new-life-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>72192264828909446650-eng</id>
+        <title>Mountains to Climb</title>
+        <description>Finding faith in the Lord Jesus Christ will help us have the power to overcome challenges in life.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/home/mountains-to-climb-still-132X82.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>74932650349074855000-eng</id>
+        <title>A Mother's Hope</title>
+        <description>Learn in this Mormon Message how a mother's faith is able to overcome fear.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/home/a-mothers-hope-sm.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-05-009-a-mothers-hope-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-05-009-a-mothers-hope-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-05-009-a-mothers-hope-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>14414347349830394528-eng</id>
+        <title>I Am a Child of God</title>
+        <description>Remember who you really are.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/friend/online-activities/videos/other/images/Screen-shot-2012-03-15-at-2.39-185.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>99727884199383307630-eng</id>
+        <title>How Will You Stand Tall?</title>
+        <description>Send us your footprint along with your pledge for standing tall in 2016.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/stand-tall.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-018-how-will-you-stand-tall-in-2016-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-018-how-will-you-stand-tall-in-2016-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-01-018-how-will-you-stand-tall-in-2016-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>18314600528829430070-eng</id>
+        <title>Having Children in Faith</title>
+        <description>Watch this&#xA0;Mormon Message&#xA0;to see why Elder Neil L. Andersen says parenthood is the crowning privilege of a husband and wife.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/home/children-in-faith-132x82.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-006-having-children-in-faith-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-006-having-children-in-faith-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-006-having-children-in-faith-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>17255013380221651829-eng</id>
+        <title>God's Greatest Creation</title>
+        <description>As children of God, we are His greatest creation. "Anyone who studies the workings of the human body has surely seen God moving in His majesty and power." -Elder Russell M. Nelson</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/pages/mormon-messages/gods-greatest-creation.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-10-017-gods-greatest-creation-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-10-017-gods-greatest-creation-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-10-017-gods-greatest-creation-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>42979715139728115260-eng</id>
+        <title>God Will Lift Us Up</title>
+        <description>Rather than focus on her medical condition, Brittany has found comfort in serving others and trusting in the Lord.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/lift-us-up-138.jpg"/>
+<content url="http://broadcast2.lds.org/mormon-messages-for-youth/2012-02-003-god-will-lift-us-up-500k-eng.mp4" height="360p"/>
+<content url="http://broadcast2.lds.org/mormon-messages-for-youth/2012-02-003-god-will-lift-us-up-1000k-eng.mp4" height="720p"/>
+<content url="http://broadcast2.lds.org/mormon-messages-for-youth/2012-02-003-god-will-lift-us-up-1300k-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>50547658616232976850-eng</id>
+        <title>Friend Junior</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/friend-junior.jpg"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-002-friend-jr-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-002-friend-jr-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/music/friend-videos-2016/2016-01-002-friend-jr-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>32842330476163903710-eng</id>
+        <title>Finding Our Cousins &#x2014; The Ebert's Experience</title>
+        <description/>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/videos/finding-our-cousins.jpg"/>
+<content url="http://media2.ldscdn.org/assets/family-history/elder-andersen-finding-our-cousins/2014-02-01-finding-our-cousins-the-eberts-experience-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/family-history/elder-andersen-finding-our-cousins/2014-02-01-finding-our-cousins-the-eberts-experience-720p-eng.mp4" height="720p"/>
+</item>
+<item>
+        <id>35938400242811012470-eng</id>
+        <title>A Father Indeed</title>
+        <description>The story of a committed husband and father who consistently and passionately demonstrates his love and devotion to his wife and kids.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/2009-06-25-a-father-indeed-138x81.jpg"/>
+<content url="http://broadcast2.lds.org/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-720p-eng.mp4" height="360p"/>
+<content url="http://broadcast2.lds.org/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-1080p-eng.mp4" height="720p"/>
+<content url="http://broadcast2.lds.org/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>15550928201806894746-eng</id>
+        <title>Enduring Love</title>
+        <description>Watch how this couple demonstrates pure love and service in their marriage&#x2014;even though they have to endure debilitating physical adversity.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/home/enduring-love-138x82.jpg"/>
+<content url="http://broadcast2.lds.org/mormon-messages/2013-06-010-enduring-love-300k-eng.mp4" height="360p"/>
+<content url="http://broadcast2.lds.org/mormon-messages/2013-06-010-enduring-love-500k-eng.mp4" height="720p"/>
+<content url="http://broadcast2.lds.org/mormon-messages/2013-06-010-enduring-love-1000k-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>31477128557650218330-eng</id>
+        <title>Earthly Father, Heavenly Father</title>
+        <description>Men on earth have the opportunity to become fathers and experience some of the same joys that our Heavenly Father feels for us. Fatherhood is a divine responsibility to be cherished.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/ldsorg/home/earthly-father-heavenly-father-132x82.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>21745201430955420370-eng</id>
+        <title>Christlike Attributes</title>
+        <description>Jesus Christ showed the characteristics we all should strive for.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/bc/content/ldsorg/children/homepage/videos/christlike-attributes.jpg"/>
+<content url="http://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-001-christlike-attributes-360p-eng.mp4" height="360p"/>
+<content url="http://broadcast2.lds.org/youth/mormon-messages-for-youth-2013/2013-10-004-christlike-attributes-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-001-christlike-attributes-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>14883717522480551312-eng</id>
+        <title>A Book of Mormon Story</title>
+        <description>A young bishop in England describes how the Book of Mormon came to life for him and changed his perspective forever.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/book-of-mormon-story-mormon-messages-138x81.jpg"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-018-a-book-of-mormon-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-018-a-book-of-mormon-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-018-a-book-of-mormon-story-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>10393592870442467339-eng</id>
+        <title>195 Dresses</title>
+        <description>Want a modest prom dress but can't find or afford one? One young woman in Arizona came up with a solution for her community.</description>
+        <duration>0</duration>
+        <thumbnail url="http://www.lds.org/pages/mormon-messages/images/2011-04-006-195-dresses-138x81.jpeg"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-1080p-eng.mp4" height="1080p"/>
 </item>
 </channel>
   </rss>

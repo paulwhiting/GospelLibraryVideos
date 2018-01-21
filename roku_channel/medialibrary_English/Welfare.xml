@@ -173,7 +173,7 @@
 </channel>
   </rss>
 </category>
-<category title="Deseret Industries" subtitle="Videos: 70" img="http://media.ldscdn.org/thumbnails/deseret-industries-category-138x91.jpg"><category title="About DI" subtitle="Videos: 8" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-03-di-donations-138x81-thumb.jpg"><rss><channel><title/><description/>
+<category title="Deseret Industries" subtitle="Videos: 71" img="http://media.ldscdn.org/thumbnails/deseret-industries-category-138x91.jpg"><category title="About DI" subtitle="Videos: 8" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-03-di-donations-138x81-thumb.jpg"><rss><channel><title/><description/>
 <item>
         <id>2016-08-0003-we-are-di-lds-humanitarian-center-manager</id>
         <title>We Are DI: LDS Humanitarian Center Manager</title>
@@ -254,7 +254,18 @@
 <content url="http://media2.ldscdn.org/assets/welfare/deseret-industries-success-stories/2011-08-02-community-partnership-programs-720p-eng.mp4" height="720p"/>
 </item>
 </channel></rss></category>
-<category title="Success Stories" subtitle="Videos: 16" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-07-valenzuela-family-138x81-thumb.jpg"><rss><channel><title/><description/>
+<category title="Success Stories" subtitle="Videos: 17" img="http://media.ldscdn.org/images/videos/welfare/deseret-industries-success-stories/2011-08-07-valenzuela-family-138x81-thumb.jpg"><rss><channel><title/><description/>
+<item>
+        <id>2016-11-0007-deseret-industries-badge-to-badge-john</id>
+        <title>Deseret Industries&#x2014;Badge to Badge: John</title>
+        <description>John Moon talks about his experience working at Deseret Industries.</description>
+        <duration>118</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/deserert-industries-badge-to-badge/2016-11-0007-deseret-industries-badge-to-badge-john-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/deserert-industries-badge-to-badge/2016-11-0007-deseret-industries-badge-to-badge-john.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deserert-industries-badge-to-badge/2016-11-0007-deseret-industries-badge-to-badge-john-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deserert-industries-badge-to-badge/2016-11-0007-deseret-industries-badge-to-badge-john-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/deserert-industries-badge-to-badge/2016-11-0007-deseret-industries-badge-to-badge-john-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2016-11-0006-deseret-industries-badge-to-badge-angel</id>
         <title>Deseret Industries&#x2014;Badge to Badge: Angel</title>
@@ -996,9 +1007,86 @@
 </channel>
   </rss>
 </category>
-<category title="From Crop to Shelf: Behind the Scenes of Welfare" subtitle="Videos: 13" img="http://media.ldscdn.org/thumbnails/from-crop-to-shelf-behind-the-scenes-of-welfare-category-138x91.jpg">
+<category title="From Crop to Shelf: Behind the Scenes of Welfare" subtitle="Videos: 20" img="http://media.ldscdn.org/thumbnails/from-crop-to-shelf-behind-the-scenes-of-welfare-category-138x91.jpg">
   <rss>
     <channel><title/><description/>
+<item>
+        <id>2017-08-0001-welfare-services-origin-story</id>
+        <title>Welfare Services Origin Story</title>
+        <description>This video shows how Welfare Services began and how it has changed over the years.</description>
+        <duration>230</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0001-welfare-services-origin-story-384x216-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0001-welfare-services-origin-story.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0001-welfare-services-origin-story-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0001-welfare-services-origin-story-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0001-welfare-services-origin-story-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0002-welfare-timeline-bedbugs</id>
+        <title>Welfare Timeline&#x2014;Bedbugs</title>
+        <description>A teacher tells a story about how the Church&#x2019;s welfare program helped one of his students.</description>
+        <duration>150</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0002-welfare-timeline-bedbugs-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0002-welfare-timeline-bedbugs.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0002-welfare-timeline-bedbugs-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0002-welfare-timeline-bedbugs-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0002-welfare-timeline-bedbugs-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0003-welfare-timeline-idleness</id>
+        <title>Welfare Timeline&#x2014;Idleness</title>
+        <description>A story recounted by Elder Glenn L. Rudd about the beginnings of the Church&#x2019;s welfare program.</description>
+        <duration>140</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0003-welfare-timeline-idleness-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0003-welfare-timeline-idleness.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0003-welfare-timeline-idleness-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0003-welfare-timeline-idleness-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0003-welfare-timeline-idleness-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0004-welfare-timeline-madera-vineyard</id>
+        <title>Welfare Timeline&#x2014;Madera Vineyard</title>
+        <description>A story submitted by Jamie Hansen about an event at the Church&#x2019;s vineyard in Madera, California.</description>
+        <duration>148</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0004-welfare-timeline-madera-vineyard-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0004-welfare-timeline-madera-vineyard.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0004-welfare-timeline-madera-vineyard-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0004-welfare-timeline-madera-vineyard-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0004-welfare-timeline-madera-vineyard-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0005-welfare-timeline-the-power-of-love</id>
+        <title>Welfare Timeline&#x2014;The Power of Love</title>
+        <description>Elizabeth Howell recounts an experience she had while giving aid after the 2010 earthquake in Haiti.</description>
+        <duration>224</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0005-welfare-timeline-the-power-of-love-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0005-welfare-timeline-the-power-of-love.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0005-welfare-timeline-the-power-of-love-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0005-welfare-timeline-the-power-of-love-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0005-welfare-timeline-the-power-of-love-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0006-welfare-timeline-president-monson</id>
+        <title>Welfare Timeline&#x2014;President Monson</title>
+        <description>An excerpt from a talk by President Thomas S. Monson in the October 1988 general conference.</description>
+        <duration>203</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0006-welfare-timeline-president-monson-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0006-welfare-timeline-president-monson.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0006-welfare-timeline-president-monson-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0006-welfare-timeline-president-monson-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0006-welfare-timeline-president-monson-1080p-eng.mp4" height="1080p"/>
+</item>
+<item>
+        <id>2017-08-0007-welfare-timeline-president-benson</id>
+        <title>Welfare Timeline&#x2014;President Benson</title>
+        <description>An excerpt from a talk by President Ezra Taft Benson in the April 1977 general conference.</description>
+        <duration>188</duration>
+        <thumbnail url="http://media.ldscdn.org/images/videos/welfare/2017-welfare-services-videos/2017-08-0007-welfare-timeline-president-benson-192x108-thumb.jpg"/>
+<subtitles url="http://media.ldscdn.org/dfxp/welfare/2017-welfare-services-videos/2017-08-0007-welfare-timeline-president-benson.xml"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0007-welfare-timeline-president-benson-360p-eng.mp4" height="360p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0007-welfare-timeline-president-benson-720p-eng.mp4" height="720p"/>
+<content url="http://media2.ldscdn.org/assets/welfare/2017-welfare-services-videos/2017-08-0007-welfare-timeline-president-benson-1080p-eng.mp4" height="1080p"/>
+</item>
 <item>
         <id>2017-01-0005-welfare-facilities-welfare-square</id>
         <title>Welfare Facilities&#x2014;Welfare Square</title>
@@ -1331,7 +1419,7 @@
 <item>
         <id>2015-10-100-emergency-response-volunteer-training</id>
         <title>Emergency Response Volunteer Training</title>
-        <description>Wards and stakes may organize volunteers to assist in the community following a disaster. All volunteers should adhere to Church safety guidelines for disaster cleanup.</description>
+        <description>Wards and stakes may organize volunteers to assist in the community following a disaster. All volunteers should adhere to Church safety guidelines for disaster cleanup. Visit the lds.org Emergency Response Volunteer Training page for more information.</description>
         <duration>271</duration>
         <thumbnail url="http://media.ldscdn.org/images/videos/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-192x108-thumb.jpg"/>
 <content url="http://media2.ldscdn.org/assets/welfare/emergency-response-volunteer-safety/2015-10-100-emergency-response-volunteer-training-360p-eng.mp4" height="360p"/>
